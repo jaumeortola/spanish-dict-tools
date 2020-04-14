@@ -1,3 +1,5 @@
 intermedi/
 tmp/
 resultats/lt/*
+target/
+*.dict
