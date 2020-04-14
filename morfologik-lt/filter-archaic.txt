@@ -1,0 +1,16 @@
+# list of words to be excluded
+# from the synthesis dictionary
+#
+#dialectal or old
+ésa	ese	PD0FS000
+ésas	ese	PD0FP000
+ése	ese	PD0MS000
+ésos	ese	PD0MP000
+ésta	este	PD0FS000
+éstas	este	PD0FP000
+éste	este	PD0MS000
+éstos	este	PD0MP000
+aquél	aquel	PD0MS000
+aquélla	aquel	PD0FS000
+aquéllas	aquel	PD0FP000
+aquéllos	aquel	PD0MP000
