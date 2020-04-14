@@ -5,7 +5,7 @@ cd diccionari-arrel
 cd ..
 
 dir_resultat="resultats/lt"
-rm $dir_resultat/*
+rm $dir_resultat/*.txt
 echo "Noms: de FDIC a LT..."
 perl fdic-to-lt/flexiona.pl diccionari-arrel/noms-fdic.txt $dir_resultat/noms-lt.txt
 echo "Adjectius: de FDIC a LT..."
@@ -26,6 +26,9 @@ export LC_ALL=C && sort -u $dir_resultat/diccionari.txt > $dir_resultat/dicciona
 rm $dir_resultat/diccionari.txt
 mv $dir_resultat/diccionari_sorted.txt $dir_resultat/diccionari.txt
 
-echo "Resultat en el directori $dir_resultat"
+diff $dir_resultat/diccionari.old $dir_resultat/diccionari.txt > $dir_resultat/diccionari.diff
+echo "Resultat en el directori $dir_resultat/diccionari.diff"
 echo "FET!"
+
+git --no-pager diff --no-index $dir_resultat/diccionari.old $dir_resultat/diccionari.txt
 
