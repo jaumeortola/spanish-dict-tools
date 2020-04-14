@@ -1467,6 +1467,7 @@ Bruzzano Bruzzano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bràfim Bràfim NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brígida Brígida NPFSSP0 # avl
 Bucarest Bucarest NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bucay Bucay NPCNSP0
 Buchenwald Buchenwald NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buda Buda NPMSSP0 # avl
 Budapest Budapest NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2538,6 +2539,7 @@ Erando Erando NPMSSP0 # avl
 Erasma Erasma NPFSSP0 # avl
 Erasmia Erasmia NPFSSP0 # avl
 Erasmo Erasmo NPMSSP0 # avl
+Erasmus Erasmus NPCNO00
 Erasto Erasto NPMSSP0 # avl
 Eratóstenes Eratóstenes NPMSSP0 # avl
 Erberto Erberto NPMSSP0 # avl
@@ -2936,6 +2938,7 @@ Francino Francino NPMSSP0 # avl
 Francis Francis NPCNSP0 # wiki
 Francisca Francisca NPFSSP0 # avl
 Francisco Francisco NPMSSP0 # avl
+Franck Franck NPCNSP0
 Franco Franco NPCNSP0 # avl
 Franco Franco NPCNSP0 # wiki common surnames
 Frank Frank NPCNSP0 # wiki
@@ -3254,6 +3257,7 @@ Grosseto  Grosseto  NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grotteria Grotteria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grozni Grozni NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalajara Guadalajara NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guadalaviar Guadalaviar NPCSG00
 Guadalest Guadalest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalope Guadalope NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalquivir Guadalquivir NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3481,6 +3485,7 @@ Hubble Hubble NPCNO00 # wiki
 Huberto Huberto NPMSSP0 # avl
 Hudson Hudson NPCNG00 # topònim-apertium-falta-gènere-nombre
 Huelva Huelva NPCNG00 # topònim-apertium-falta-gènere-nombre
+Huentitán Huentitán NPCSG00
 Huesca Huesca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Huga Huga NPFSSP0 # avl
 Hugo Hugo NPMSSP0 # avl
@@ -3576,6 +3581,7 @@ Irissa Irissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irlanda Irlanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irma Irma NPFSSP0 # avl
 Irmina Irmina NPFSSP0 # avl
+Irving Irving NPCNSP0
 Irán Irán NPCSG00 # topònim-apertium
 Irán Irán NPMSSP0 # avl
 Iría Iría NPFSSP0 # avl
@@ -3682,6 +3688,7 @@ Jersey Jersey NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jerusalén Jerusalén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jerónima Jerónima NPFSSP0 # avl
 Jerónimo Jerónimo NPMSSP0 # avl
+Jessy Jessy NPCNSP0
 Jesualda Jesualda NPFSSP0 # avl
 Jesualdo Jesualdo NPMSSP0 # avl
 Jesucristo Jesucristo NPMSSP0 # avl
@@ -4194,6 +4201,7 @@ Macerata Macerata NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maciana Maciana NPFSSP0 # avl
 Macián Macián NPMSSP0 # avl
 Macris Macris NPFSSP0 # avl
+Macrobús Macrobús NPMSO00
 Madagascar Madagascar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madeira Madeira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madison Madison NPCNSP0 # wiki
@@ -6303,6 +6311,7 @@ Taís Taís NPFSSP0 # avl
 Taús Taús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tbilisi Tbilisi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tchad Tchad NPCNG00 # topònim-apertium-falta-gènere-nombre
+Teaneck Teaneck NPCSG00
 Tebas Tebas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tecla Tecla NPFSSP0 # avl
 Tegucigalpa Tegucigalpa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6404,6 +6413,7 @@ Tirupur Tirupur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tisbe Tisbe NPFSSP0 # avl
 Titaguas Titaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Titanic Titanic NPCNG00 # topònim-apertium-falta-gènere-nombre
+Titicaca Titicaca NPCSG00
 Tito Tito NPMSSP0 # avl
 Tiurana Tiurana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivenys Tivenys NPCNG00 # topònim-apertium-falta-gènere-nombre
