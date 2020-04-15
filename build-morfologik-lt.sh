@@ -18,9 +18,7 @@ cp ../resultats/lt/diccionari.txt /tmp/es-ES.txt
 
 for targetdict in es-ES
 do
-    # exclude some words for LT dictionary
-    sed -i '/ aguar /d' /tmp/${targetdict}.txt
-
+    
     # replace whitespaces with tabs
     perl sptotabs.pl </tmp/${targetdict}.txt >${targetdict}_tabs.txt
 
@@ -33,7 +31,7 @@ do
     # create synthesis dictionary with morfologik tools
     java -cp $jarfile org.languagetool.tools.SynthDictionaryBuilder -i ${targetdict}_tabs.txt -info ${targetdict}_synth.info -o ${targetdict}_synth.dict
 
-    cp /tmp/SynthDictionaryBuilder*_tags.txt ./${targetdict}_tags.txt
+    cp /tmp/SynthDictionaryBuilder*_tags.txt ${targetdict}_tags.txt
     rm /tmp/SynthDictionaryBuilder*_tags.txt
 
     # dump synthesis dictionary
@@ -42,9 +40,9 @@ do
     rm ${targetdict}_tabs.txt
 
     #convert catalan_tags.txt to DOS file
-    sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
-    rm ${targetdict}_tags.txt
-    mv ${targetdict}_tags_dos.txt ${targetdict}_tags.txt
+    #sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
+    #rm ${targetdict}_tags.txt
+    #mv ${targetdict}_tags_dos.txt ${targetdict}_tags.txt
 
     cp ${targetdict}_tags.txt $target_dir
     cp ${targetdict}.dict $target_dir
