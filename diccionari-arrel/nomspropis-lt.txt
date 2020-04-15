@@ -1979,6 +1979,7 @@ Cleopatra Cleopatra NPFSSP0 # avl
 Clermont-Ferrand Clermont-Ferrand NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleto Cleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleveland Cleveland NPCNG00 # topònim-apertium-falta-gènere-nombre
+Clint Clint NPMSSP0
 Clinton Clinton NPCNSP0 # wiki
 Clitemnestra Clitemnestra NPFSSP0 # avl
 Clodoaldo Clodoaldo NPMSSP0 # avl
@@ -2395,6 +2396,7 @@ Dédalo Dédalo NPMSSP0 # avl
 Dénia Dénia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Díaz Díaz NPCNSP0 # wiki common surnames
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
+Eastwood Eastwood NPCNSP0
 Ebo Ebo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ebro Ebro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ecuador Ecuador NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7162,5 +7164,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Clint Clint NPMSSP0
-Eastwood Eastwood NPCNSP0
