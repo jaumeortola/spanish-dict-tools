@@ -1771,6 +1771,7 @@ charranear=categories: V;model:amar;fonts: LT;
 chascar=categories: V;model:abarcar;fonts: LT;
 chasquear=categories: V;model:amar;fonts: LT;
 chazar=categories: V;model:abalanzar;fonts: LT;
+chequear=categories: V;model:amar;fonts: LT;
 cherchar=categories: V;model:amar;fonts: LT;
 chicanear=categories: V;model:amar;fonts: LT;
 chichear=categories: V;model:amar;fonts: LT;

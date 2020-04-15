@@ -1263,6 +1263,7 @@ Berenguela Berenguela NPFSSP0 # avl
 Berenice Berenice NPFSSP0 # avl
 Beret Beret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berga Berga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bergman Bergman NPCNSP0
 Berguedà Berguedà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berlandina Berlandina NPFSSP0 # avl
 Berlandino Berlandino NPMSSP0 # avl
@@ -3563,6 +3564,7 @@ Indostán Indostán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indíbil Indíbil NPMSSP0 # avl
 Ingham Ingham NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inglaterra Inglaterra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ingrid Ingrid NPCNSP0
 Iniesta Iniesta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inma Inma NPFSSP0 # avl
 Inmaculada Inmaculada NPFSSP0 # avl
@@ -5315,6 +5317,7 @@ Personas Personas NPCNSP0 # wiki common surnames
 Perséfone Perséfone NPFSSP0 # avl
 Perugia Perugia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Perusa Perusa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Perón Perón NPCNSP0
 Perú Perú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peter Peter NPMSSP0
 Petersburgo Petersburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
