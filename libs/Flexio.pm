@@ -322,7 +322,17 @@ sub verb_pronouns {
         foreach my $key ("se", "me", "nos", "os", "te", "lo", "los" , "la", "las" , "le", "les") { 
             if ($stem =~ /l$/ && $key =~ /^l/) { next;}
             my $stemhere = $stem;
-            if ($stem =~ /^dé$/) {$stemhere = "de";} # Exception: dé -> deme, dele
+            # Exception: dé -> deme, dele
+            $stemhere =~ s/é$/e/;
+            $stemhere =~ s/én$/en/;
+            $stemhere =~ s/á$/a/;
+            $stemhere =~ s/án$/an/;
+            $stemhere =~ s/í$/i/;
+            $stemhere =~ s/ín$/in/;
+            $stemhere =~ s/ó$/o/;
+            $stemhere =~ s/ón$/on/;
+
+            
             $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
 
