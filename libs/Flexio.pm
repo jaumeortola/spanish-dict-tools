@@ -276,7 +276,19 @@ sub verb_pronouns {
 
         foreach my $key ("me", "nos", "te", "lo", "los" , "la", "las" , "le", "les") { 
             if ($stem =~ /l$/ && $key =~ /^l/) { next;}  #exception: salle
-            $result .= "$stem$key $lemma $postag+$pronouns{$key}\n"
+            my $stemhere = $stem;
+            # Exception: -> estame 
+            $stemhere =~ s/é$/e/;
+            $stemhere =~ s/én$/en/;
+            $stemhere =~ s/á$/a/;
+            $stemhere =~ s/án$/an/;
+            $stemhere =~ s/í$/i/;
+            $stemhere =~ s/ín$/in/;
+            $stemhere =~ s/ó$/o/;
+            $stemhere =~ s/ón$/on/;
+            $stemhere =~ s/ú$/u/;
+            $stemhere =~ s/ún$/un/;
+            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
         
         if ($stem !~ /[áéíóú]/) {
@@ -322,7 +334,7 @@ sub verb_pronouns {
         foreach my $key ("se", "me", "nos", "os", "te", "lo", "los" , "la", "las" , "le", "les") { 
             if ($stem =~ /l$/ && $key =~ /^l/) { next;}
             my $stemhere = $stem;
-            # Exception: dé -> deme, dele
+            # Exception: dé -> deme, dele, estelo, estenla
             $stemhere =~ s/é$/e/;
             $stemhere =~ s/én$/en/;
             $stemhere =~ s/á$/a/;
@@ -331,7 +343,8 @@ sub verb_pronouns {
             $stemhere =~ s/ín$/in/;
             $stemhere =~ s/ó$/o/;
             $stemhere =~ s/ón$/on/;
-
+            $stemhere =~ s/ú$/u/;
+            $stemhere =~ s/ún$/un/;
             
             $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
