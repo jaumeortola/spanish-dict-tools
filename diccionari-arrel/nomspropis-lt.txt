@@ -101,6 +101,7 @@
 #Santos Santos NPMSSP0 # avl
 #Sarratella Sarratella NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Shanghai Shanghai NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Son Son NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Sudan Sudan NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Suera Suera NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Taipei Taipei NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4345,6 +4346,7 @@ Marianas Marianas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marianela Marianela NPFSSP0
 Mariano Mariano NPMSSP0 # avl
 Maribel Maribel NPFSSP0 # avl
+Marilyn Marilyn NPFSSP0
 Mariló Mariló NPFSSP0 # avl
 Marina Marina NPFSSP0 # avl
 Marines Marines NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4649,6 +4651,7 @@ Monforte Monforte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongiana Mongiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongolia Mongolia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongrassano Mongrassano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Monroe Monroe NPCNSP0
 Monrovia Monrovia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mont-ral Mont-ral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mont-ras Mont-ras NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4755,6 +4758,7 @@ Muret Muret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Muriel Muriel NPFSSP0 # avl
 Murla Murla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Muro Muro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Murphy Murphy NPCNSP0
 Murta Murta NPFSSP0 # avl
 Museros Museros NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mussolini Mussolini NPCNSP0 # wiki
@@ -5567,6 +5571,7 @@ Quesa Quesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quevedo Quevedo NPCNSP0 # wiki
 Quica Quica NPFSSP0 # avl
 Quico Quico NPMSSP0 # avl
+Quijana Quijana NPCNSP0
 Quiles Quiles NPMSSP0 # avl
 Quiliana Quiliana NPFSSP0 # avl
 Quiliano Quiliano NPMSSP0 # avl
@@ -6104,6 +6109,7 @@ Sigfrida Sigfrida NPFSSP0 # avl
 Sigfrido Sigfrido NPMSSP0 # avl
 Sigmundo Sigmundo NPMSSP0 # avl
 Siguen Siguen NPMSSP0 # avl
+Sigüenza Sigüenza NPCSG00
 Sila Sila NPMSSP0 # avl
 Silas Silas NPMSSP0 # avl
 Silesia Silesia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6164,7 +6170,6 @@ Solsona Solsona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Solsonès Solsonès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Somalia Somalia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sommatino Sommatino NPCNG00 # topònim-apertium-falta-gènere-nombre
-Son Son NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sonadell Sonadell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soneja Soneja NPCNG00 # topònim-apertium-falta-gènere-nombre
 Song Song NPCNSP0 # wiki
@@ -7005,6 +7010,7 @@ Zaire Zaire NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zambia Zambia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zambrano Zambrano NPCNSP0 # wiki common surnames
 Zambrone Zambrone NPCNG00 # topònim-apertium-falta-gènere-nombre
+Zamenhof Zamenhof NPCNSP0
 Zamora Zamora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zanzíbar Zanzíbar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zaqueo Zaqueo NPMSSP0 # avl

@@ -28315,6 +28315,7 @@ fundíbulo=categories: M;fonts: dr;
 funene=categories: M;fonts: dr;
 funeral=categories: M;fonts: LT;
 funeraria=categories: F;fonts: LT;
+fungibilidad=categories: F;fonts: derivat;
 fungicida=categories: MF;fonts: LT;
 fungimiento=categories: M;fonts: LT;
 fungistato=categories: M;fonts: LT;

@@ -14697,6 +14697,7 @@ loganiáceo loganiácea=categories: A;fonts: dr;
 logarítmico logarítmica=categories: A;fonts: LT;
 logicista=categories: A;fonts: LT;
 logicosistemático logicosistemática=categories: A;fonts: LT;
+logográfico logográfica=categories: A;fonts: wiki;
 logogrífico logogrífica=categories: A;fonts: LT;
 logorreico logorreica=categories: A;fonts: dr;
 lograble=categories: A;fonts: dr;
