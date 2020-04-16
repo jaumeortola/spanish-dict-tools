@@ -8,6 +8,7 @@ ar o ar VMIP1S0 # atesto
 estar iesto ar VMIP1S0 # atiesto
 r s ar VMIP2S0 # atestas
 estar iestas ar VMIP2S0 # atiestas
+ar ás ar VMIP2V0 # atestás
 r 0 ar VMIP3S0 # atesta
 estar iesta ar VMIP3S0 # atiesta
 r mos ar VMIP1P0 # atestamos

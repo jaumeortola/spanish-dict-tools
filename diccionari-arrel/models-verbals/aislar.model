@@ -6,6 +6,7 @@ r dos ar VMP00PM # aislados
 r das ar VMP00PF # aisladas
 islar íslo ar VMIP1S0 # aíslo
 islar íslas ar VMIP2S0 # aíslas
+ar ás ar VMIP2V0 # aislás
 islar ísla ar VMIP3S0 # aísla
 r mos ar VMIP1P0 # aislamos
 ar áis ar VMIP2P0 # aisláis

@@ -6,6 +6,7 @@ r dos ir VMP00PM # asidos
 r das ir VMP00PF # asidas
 ir go ir VMIP1S0 # asgo
 ir es ir VMIP2S0 # ases
+ir ís ir VMIP2V0 # asís
 ir e ir VMIP3S0 # ase
 r mos ir VMIP1P0 # asimos
 ir ís ir VMIP2P0 # asís

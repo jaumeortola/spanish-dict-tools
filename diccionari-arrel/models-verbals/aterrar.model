@@ -8,6 +8,7 @@ ar o ar VMIP1S0 # aterro
 errar ierro ar VMIP1S0 # atierro
 r s ar VMIP2S0 # aterras
 errar ierras ar VMIP2S0 # atierras
+ar ás ar VMIP2V0 # aterrás
 r 0 ar VMIP3S0 # aterra
 errar ierra ar VMIP3S0 # atierra
 r mos ar VMIP1P0 # aterramos

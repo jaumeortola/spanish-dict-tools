@@ -6126,6 +6126,7 @@ Shakira Shakira NPFSSP0
 Shanghái Shanghái NPCNG00 # dpan
 Shanghái Shanghái NPCNSP0 # wiki
 Sheila Sheila NPFSSP0 # avl
+Sheraton Sheraton NPCNO00
 Siam Siam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siberia Siberia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sibila Sibila NPFSSP0 # avl
