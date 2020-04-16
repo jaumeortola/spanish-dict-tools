@@ -6,6 +6,7 @@ bir tos ir VMP00PM # escritos
 bir tas ir VMP00PF # escritas
 ir o ir VMIP1S0 # escribo
 ir es ir VMIP2S0 # escribes
+ir ís ir VMIP2V0 # escribís
 ir e ir VMIP3S0 # escribe
 r mos ir VMIP1P0 # escribimos
 ir ís ir VMIP2P0 # escribís

@@ -6,6 +6,7 @@ r dos ar VMP00PM # cargados
 r das ar VMP00PF # cargadas
 ar o ar VMIP1S0 # cargo
 r s ar VMIP2S0 # cargas
+ar ás ar VMIP2V0 # cargás
 r 0 ar VMIP3S0 # carga
 r mos ar VMIP1P0 # cargamos
 ar áis ar VMIP2P0 # cargáis

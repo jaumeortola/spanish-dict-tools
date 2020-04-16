@@ -6,6 +6,7 @@ r dos ir VMP00PM # salidos
 r das ir VMP00PF # salidas
 ir go ir VMIP1S0 # salgo
 ir es ir VMIP2S0 # sales
+ir ís ir VMIP2V0 # salís
 ir e ir VMIP3S0 # sale
 r mos ir VMIP1P0 # salimos
 ir ís ir VMIP2P0 # salís

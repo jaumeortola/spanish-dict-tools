@@ -6,6 +6,7 @@ r dos ir VMP00PM # pedidos
 r das ir VMP00PF # pedidas
 edir ido ir VMIP1S0 # pido
 edir ides ir VMIP2S0 # pides
+ir ís ir VMIP2V0 # pedís
 edir ide ir VMIP3S0 # pide
 r mos ir VMIP1P0 # pedimos
 ir ís ir VMIP2P0 # pedís

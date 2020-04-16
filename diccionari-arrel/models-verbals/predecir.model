@@ -6,6 +6,7 @@ ecir ichos ir VMP00PM # predichos
 ecir ichas ir VMP00PF # predichas
 ecir igo ir VMIP1S0 # predigo
 ecir ices ir VMIP2S0 # predices
+ir ís ir VMIP2V0 # predecís
 ecir ice ir VMIP3S0 # predice
 r mos ir VMIP1P0 # predecimos
 ir ís ir VMIP2P0 # predecís

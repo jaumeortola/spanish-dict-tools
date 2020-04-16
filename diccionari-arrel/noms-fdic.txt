@@ -28,6 +28,7 @@
 #archí [pl. archís o archíes]=categories: M;fonts: dr;
 #aron=categories: M;fonts: dr;
 #arricés=categories: M;fonts: LT;
+#arrompido=categories: M;fonts: LT;
 #arruí [pl. arruís o arruíes]=categories: M;fonts: dr;
 #arto=categories: M;fonts: dr;
 #azut=categories: M;fonts: dr;
@@ -5616,7 +5617,6 @@ arrogancia=categories: F;fonts: LT;
 arrojadera=categories: F;fonts: dr;
 arrojo=categories: M;fonts: LT;
 arrollamiento=categories: M;fonts: LT;
-arrompido=categories: M;fonts: LT;
 arropamiento=categories: M;fonts: LT;
 arrope=categories: M;fonts: LT;
 arropera=categories: F;fonts: LT;
