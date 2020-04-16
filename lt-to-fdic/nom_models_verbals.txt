@@ -47,7 +47,10 @@ saber
 salir
 sentir
 ser
+reír
 sonreír
+freír
+sofreír
 tañer
 tener
 traer
@@ -146,7 +149,6 @@ distinguir
 abrir
 aforar
 desosar
-freír
 mostrar
 entortar
 amoblar
