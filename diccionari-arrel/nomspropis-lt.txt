@@ -1695,6 +1695,7 @@ Carlo Carlo NPCNSP0 # wiki
 Carlomagno Carlomagno NPMSSP0 # avl
 Carlos Carlos NPMSSP0 # avl
 Carlota Carlota NPFSSP0 # avl
+Carlssen Carlssen NPCNSP0
 Carmela Carmela NPFSSP0 # avl
 Carmelo Carmelo NPMSSP0 # avl
 Carmen Carmen NPFSSP0 # avl
@@ -1711,6 +1712,7 @@ Carpanzano Carpanzano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Carpo Carpo NPMSSP0 # avl
 Carrasco Carrasco NPCNSP0 # wiki common surnames
 Carrizo Carrizo NPCNSP0 # wiki common surnames
+Carroll Carroll NPCNSP0
 Carroz Carroz NPMSSP0 # avl
 Carroza Carroza NPFSSP0 # avl
 Carrícola Carrícola NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1891,6 +1893,7 @@ Cherburgo Cherburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chernóbil Chernóbil NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chert Chert NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cherubini Cherubini NPCNSP0 # wiki
+Cheshire Cheshire NPCSG00
 Cheste Cheste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cheyenne Cheyenne NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chiapas Chiapas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2960,6 +2963,7 @@ Franco Franco NPCNSP0 # wiki common surnames
 Frank Frank NPCNSP0 # wiki
 Frankfurt Frankfurt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Franz Franz NPCNSP0 # wiki
+Franz Franz NPMSSP0
 François François NPCNSP0 # wiki
 Frascineto Frascineto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fraterna Fraterna NPFSSP0 # avl
@@ -3697,6 +3701,7 @@ Jazmín Jazmín NPFSSP0 # avl
 Jazperto Jazperto NPMSSP0 # avl
 Jaén Jaén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jefferson Jefferson NPCNSP0 # wiki
+Jehová Jehová NPMSSP0
 Jenara Jenara NPFSSP0 # avl
 Jenaro Jenaro NPMSSP0 # avl
 Jenofonte Jenofonte NPMSSP0 # avl
@@ -3990,6 +3995,7 @@ Leviatana Leviatana NPFSSP0 # avl
 Leviatán Leviatán NPMSSP0 # avl
 Levina Levina NPFSSP0 # avl
 Leví Leví NPMSSP0 # avl
+Lewis Lewis NPCNSP0
 Lewis Lewis NPCNSP0 # wiki
 Leyre Leyre NPFSSP0 # avl
 León León NPCNSP0 # wiki common surnames
@@ -4042,6 +4048,7 @@ Lima Lima NPCNG00 # topònim-apertium-falta-gènere-nombre
 Limoges Limoges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lina Lina NPFSSP0 # avl
 Linares Linares NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lincoln Lincoln NPCNSP0
 Linda Linda NPFSSP0 # avl
 Linguaglossa Linguaglossa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Linneo Linneo NPCNSP0 # wiki
@@ -4060,6 +4067,7 @@ Lisardo Lisardo NPMSSP0 # avl
 Lisboa Lisboa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lisias Lisias NPMSSP0 # avl
 Lisipo Lisipo NPMSSP0 # avl
+Liszt Liszt NPCNSP0
 Lisímaco Lisímaco NPMSSP0 # avl
 Little Little NPCNSP0 # wiki
 Lituania Lituania NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4245,6 +4253,7 @@ Magdeburgo Magdeburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Magina Magina NPFSSP0 # avl
 Magno Magno NPMSSP0 # avl
 Magnolia Magnolia NPFSSP0 # avl
+Magnus Magnus NPCNSP0
 Magreb Magreb NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maguncia Maguncia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Magín Magín NPMSSP0 # avl
