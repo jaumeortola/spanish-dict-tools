@@ -45,5 +45,8 @@ do
 done
 echo "** Altres errors **" >> $dir_resultat/diff.txt
 grep "#" $lt_per_a_comparar >> $dir_resultat/diff.txt
+grep "ERROR" $lt_per_a_comparar >> $dir_resultat/diff.txt
+
 #rm -rf $dir_intermedi
+
 echo "Fet! Resultats en $dir_resultat"

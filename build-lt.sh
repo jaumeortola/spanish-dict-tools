@@ -33,5 +33,7 @@ diff $dir_resultat/diccionari.old $dir_resultat/diccionari.txt > $dir_resultat/d
 echo "Resultat en el directori $dir_resultat/diccionari.diff"
 echo "FET!"
 
+grep "ERROR" resultats/lt/diccionari.txt
+
 git --no-pager diff --no-index $dir_resultat/diccionari.old $dir_resultat/diccionari.txt
 
