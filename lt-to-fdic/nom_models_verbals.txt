@@ -18,6 +18,7 @@ caer
 ceñir
 conducir
 construir
+fluir
 contar
 dar
 decir
