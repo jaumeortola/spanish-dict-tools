@@ -58,6 +58,7 @@ bien bien RG
 caput caput RG
 casi casi RG
 cerca cerca RG
+cerquita cerquita RG
 cerquísima cerquísima RG
 chano chano RG
 chiticallando chiticallando RG
@@ -74,7 +75,9 @@ delante delante RG
 demasiado demasiado RG
 dentro dentro RG
 deprisa deprisa RG
+derechito derechito RG
 despacio despacio RG
+despacito despacito RG
 después después RG
 detrás detrás RG
 dondequiera dondequiera RG
@@ -113,6 +116,7 @@ junto junto RG
 justo justo RG
 kaputt kaputt RG
 largo largo RG
+lejitos lejitos RG
 lejos lejos RG
 lejísimo lejísimo RG
 lejísimos lejísimos RG
@@ -176,6 +180,7 @@ tan tan RG
 tanto tanto RG
 tarde tarde RG
 tardísimo tardísimo RG
+tempranito tempranito RG
 temprano temprano RG
 tempranísimo tempranísimo RG
 ter ter RG

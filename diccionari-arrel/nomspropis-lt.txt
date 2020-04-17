@@ -1836,6 +1836,7 @@ Celio Celio NPMSSP0 # avl
 Cellara Cellara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Celrà Celrà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Celsa Celsa NPFSSP0 # avl
+Celsius Celsius NPCNSP0
 Celso Celso NPMSSP0 # avl
 Cenit Cenit NPMSSP0 # avl
 Cenobia Cenobia NPFSSP0 # avl
