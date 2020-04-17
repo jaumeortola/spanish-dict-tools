@@ -8,6 +8,7 @@
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
+#erar=categories: V;model:amar;fonts: LT;
 #extruir=categories: V;model:construir;fonts: ap;
 #fruir=categories: V;model:fluir;fonts: LT;
 #grafiar=categories: V;model:enviar;fonts: ap;
@@ -4399,7 +4400,6 @@ equiparar=categories: V;model:amar;fonts: LT;
 equiponderar=categories: V;model:amar;fonts: LT;
 equivaler=categories: V;model:valer;fonts: LT;
 equivocar=categories: V;model:abarcar;fonts: LT;
-erar=categories: V;model:amar;fonts: LT;
 ergotizar=categories: V;model:abalanzar;fonts: LT;
 erguir=categories: V;model:erguir;fonts: LT;
 erigir=categories: V;model:dirigir;fonts: LT;
