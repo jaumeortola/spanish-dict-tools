@@ -4149,6 +4149,7 @@ enlegamar=categories: V;model:amar;fonts: LT;
 enlejiar=categories: V;model:enviar;fonts: LT;
 enlentecer=categories: V;model:agradecer;fonts: ap;
 enligar=categories: V;model:cargar;fonts: LT;
+enlistar=categories: V;model:amar;fonts: LT;
 enlistonar=categories: V;model:amar;fonts: LT;
 enlizar=categories: V;model:abalanzar;fonts: dr;
 enllantar=categories: V;model:amar;fonts: LT;

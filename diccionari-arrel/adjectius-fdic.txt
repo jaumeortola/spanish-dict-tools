@@ -16526,6 +16526,7 @@ nacionalsocialista=categories: A;fonts: LT;
 naco naca=categories: A;fonts: dr;
 nacáreo nacárea=categories: A;fonts: dr;
 nadador nadadora=categories: A;fonts: LT;
+nadaísta=categories: A;fonts: wiki;
 naftalendisulfónico naftalendisulfónica=categories: A;fonts: LT;
 naftalensulfónico naftalensulfónica=categories: A;fonts: LT;
 naftero naftera=categories: A;fonts: dr;

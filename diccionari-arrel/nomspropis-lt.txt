@@ -2534,6 +2534,7 @@ Eneldina Eneldina NPFSSP0 # avl
 Engalantina Engalantina NPFSSP0 # avl
 Engelberto Engelberto NPMSSP0 # avl
 Engilberto Engilberto NPMSSP0 # avl
+Englewood Englewood NPCSG00
 Engordany Engordany NPCNG00 # topònim-apertium-falta-gènere-nombre
 Engracia Engracia NPFSSP0 # avl
 Engracio Engracio NPMSSP0 # avl
@@ -3121,6 +3122,7 @@ Genara Genara NPFSSP0 # avl
 Genaro Genaro NPMSSP0 # avl
 Genciana Genciana NPFSSP0 # avl
 Genciano Genciano NPMSSP0 # avl
+Generalife Generalife NPMSG00
 Generalitat Generalitat NPFSO00
 Generosa Generosa NPFSSP0 # avl
 Generoso Generoso NPMSSP0 # avl
