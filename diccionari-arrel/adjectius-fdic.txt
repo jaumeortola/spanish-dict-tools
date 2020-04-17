@@ -21,6 +21,7 @@
 #inmérito inmérita=categories: A;fonts: dr;
 #len [pl. lenes]=categories: A;fonts: LT;
 #len=categories: A;fonts: dr;
+#lene=categories: A;fonts: LT;
 #lenguaz=categories: A;fonts: LT;
 #líbero líbera=categories: A;fonts: dr, desus;
 #maleador maleadora=categories: A;fonts: LT, desus;
@@ -14398,7 +14399,6 @@ lempireño lempireña=categories: A;fonts: dr;
 lempo lempa=categories: A;fonts: dr;
 lenca=categories: A;fonts: dr;
 lendroso lendrosa=categories: A;fonts: LT;
-#lene=categories: A;fonts: LT;
 lenguaraz=categories: A;fonts: LT;
 lengüicorto lengüicorta=categories: A;fonts: LT;
 lengüilargo lengüilarga=categories: A;fonts: LT;
