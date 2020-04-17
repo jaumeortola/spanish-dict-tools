@@ -22542,6 +22542,7 @@ sugestionable=categories: A;fonts: LT;
 sugestionador sugestionadora=categories: A;fonts: LT;
 sugestivo sugestiva=categories: A;fonts: LT;
 suicida=categories: A;fonts: LT;
+suigéneris=categories: AI;fonts: dr;
 suizo suiza=categories: A;fonts: LT;
 sujetador sujetadora=categories: A;fonts: LT;
 sujeto sujeta=categories: A;fonts: LT;
