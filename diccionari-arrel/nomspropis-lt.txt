@@ -519,6 +519,7 @@ Altomonte Altomonte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Altron Altron NPCNG00 # topònim-apertium-falta-gènere-nombre
 Altura Altura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alvarado Alvarado NPCNSP0 # wiki common surnames
+Alzheimer Alzheimer NPCNSP0
 Alzira Alzira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alàs Alàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alá Alá NPMSSP0 # avl
