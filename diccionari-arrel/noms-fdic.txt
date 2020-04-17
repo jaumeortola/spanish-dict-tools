@@ -553,6 +553,7 @@ LCD=categories: MFI;fonts: termcat;
 LP=categories: MI;fonts: dr;
 MERS=categories: MS;fonts: LT;
 MP3=categories: MI;fonts: sigla;
+MP4=categories: MI;fonts: sigla;
 Mazagatos=categories: FI;fonts: dr;
 NIF=categories: MI;fonts: sigla;
 NN=categories: MFI;fonts: dr;
