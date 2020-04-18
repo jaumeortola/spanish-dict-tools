@@ -15217,6 +15217,7 @@ cocote=categories: M;fonts: dr;
 cocotera=categories: F;fonts: LT;
 cocotero=categories: M;fonts: LT;
 cocotte=categories: M;fonts: LT;
+cocreación=categories: F;fonts: derivat;
 coctelera=categories: F;fonts: LT;
 coctelería=categories: F;fonts: dr;
 cocuiza=categories: F;fonts: dr;

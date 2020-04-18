@@ -1542,6 +1542,7 @@ Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
 CDE CDE NPCNO00
 CEST CEST NPCNO00 # wiki
 CIA CIA NPFSO00 # wiki
+CIS CIS NPMSO00
 COI COI NPMSO00
 Cabacés Cabacés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cabanabona Cabanabona NPCNG00 # topònim-apertium-falta-gènere-nombre

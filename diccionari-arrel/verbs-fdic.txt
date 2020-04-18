@@ -1945,6 +1945,7 @@ cocear=categories: V;model:amar;fonts: LT;
 cocer=categories: V;model:cocer;fonts: LT;
 cochear=categories: V;model:amar;fonts: LT;
 cocinar=categories: V;model:amar;fonts: LT;
+cocrear=categories: V;model:amar;fonts: LT;
 codear=categories: V;model:amar;fonts: LT;
 codecidir=categories: V;model:partir;fonts: ap;
 codiciar=categories: V;model:amar;fonts: LT;
