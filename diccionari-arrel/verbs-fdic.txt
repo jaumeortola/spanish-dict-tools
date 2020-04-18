@@ -5079,6 +5079,7 @@ hacer=categories: V;model:hacer;fonts: LT;
 hachar=categories: V;model:amar;fonts: LT;
 hachear=categories: V;model:amar;fonts: LT;
 hacinar=categories: V;model:amar;fonts: LT;
+hackear=categories: V;model:amar;fonts: fundeu;
 halagar=categories: V;model:cargar;fonts: LT;
 halar=categories: V;model:amar;fonts: LT;
 hallar=categories: V;model:amar;fonts: LT;
