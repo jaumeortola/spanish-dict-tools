@@ -135,6 +135,8 @@
 #l'Atzúvia l'Atzúvia NPCNG00 # topònim-apertium-falta-gènere-nombre
 AI AI NPFSO00
 ANSES ANSES NPFSO00
+ANSI ANSI NPCNO00
+ASCII ASCII NPCNO00
 Aarón Aarón NPMSSP0 # avl
 Abacuc Abacuc NPMSSP0 # avl
 Abajas Abajas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1120,6 +1122,7 @@ Bastia Bastia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bastian Bastian NPMSSP0 # avl
 Bastiana Bastiana NPFSSP0 # avl
 Batea Batea NPCNG00 # topònim-apertium-falta-gènere-nombre
+Batman Batman NPMSSP0
 Battle Battle NPCSG00
 Baudilio Baudilio NPMSSP0 # avl
 Bausen Bausen NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4858,6 +4861,7 @@ Múnich Múnich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Músorgski Músorgski NPCNSP0 # wiki
 Münchhausen Münchhausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 N'Djanema N'Djanema NPCNG00 # topònim-apertium-falta-gènere-nombre
+NAFTA NAFTA NPMSO00
 Naamán Naamán NPMSSP0 # avl
 Nablús Nablús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nabucodonosor Nabucodonosor NPMSSP0 # avl
@@ -6986,6 +6990,7 @@ Vitelio Vitelio NPMSSP0 # avl
 Vito Vito NPMSSP0 # avl
 Vitoria Vitoria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vitoria-Gasteiz Vitoria-Gasteiz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vivaldi Vivaldi NPCNSP0
 Vivarés Vivarés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viver Viver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viviana Viviana NPFSSP0 # avl
