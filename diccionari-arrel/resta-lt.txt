@@ -206,8 +206,8 @@ demasiados demasiado DI0MP0
 demasiados demasiado PI0MP000
 demonio demonio I
 demontre demontre I
-demás demás DI0CP0
-demás demás PI0CP000
+demás demás DI0CN0
+demás demás PI0CN000
 desde desde SPS00
 despacio despacio I
 desque desde+que SP+CS
