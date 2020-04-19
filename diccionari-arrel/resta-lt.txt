@@ -691,7 +691,6 @@ zas zas I
 ánimo ánimo I
 ápud ápud SPS00
 él él PP3MS000
-érase ser VSII3S0+PP3CN000
 ésa ese PD0FS000
 ésas ese PD0FP000
 ése ese PD0MS000

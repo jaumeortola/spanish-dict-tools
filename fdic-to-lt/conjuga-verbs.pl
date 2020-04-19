@@ -37,10 +37,10 @@ while (my $line = <$fh>) {
                 if ($afegeix !~ /^0$/) {
                     $forma .= $afegeix;
                 }
-                if ($postag !~ /\+/) { # les formes amb pronoms són generades de nou
+                #if ($postag !~ /\+/) { # les formes amb pronoms són generades de nou
 	                print $ofh "$forma $infinitiu $postag\n";
 	                print $ofh Flexio::verb_pronouns( $forma, $infinitiu, $postag );	
-                }
+                #}
             }
         }
     close ($modelfh);
