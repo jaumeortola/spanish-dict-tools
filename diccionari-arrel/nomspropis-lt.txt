@@ -3522,6 +3522,7 @@ Hollywood Hollywood NPCNG00 # topònim-apertium-falta-gènere-nombre
 Holmes Holmes NPCNSP0 # wiki
 Holofernes Holofernes NPMSSP0 # avl
 Homero Homero NPMSSP0 # avl
+Honda Honda NPCNO00
 Hondones Hondones NPCNG00 # topònim-apertium-falta-gènere-nombre
 Honduras Honduras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Honesto Honesto NPMSSP0 # avl
@@ -4589,6 +4590,8 @@ Menàrguens Menàrguens NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menéndez Menéndez NPCNSP0 # wiki
 Mequinensa Mequinensa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Meranges Meranges NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mercedes Mercedes NPCNO00
+Mercedes Mercedes NPFSSP0
 Mercosur Mercosur NPMSO00
 Mercurio Mercurio NPMSG00 # topònim-apertium
 Mercurio Mercurio NPMSSP0 # avl

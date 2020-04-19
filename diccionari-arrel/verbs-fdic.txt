@@ -1265,6 +1265,7 @@ autodefinir=categories: V;model:partir;fonts: LT;
 autodenominar=categories: V;model:amar;fonts: LT;
 autodepurar=categories: V;model:amar;fonts: ap;
 autodestruir=categories: V;model:construir;fonts: ap;
+autodisciplinar=categories: V;model:amar;fonts: LT;
 autodiseñar=categories: V;model:amar;fonts: ap;
 autoeditar=categories: V;model:amar;fonts: LT;
 autoexcluir=categories: V;model:construir;fonts: ap;

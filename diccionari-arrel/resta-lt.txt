@@ -172,8 +172,8 @@ cuál cuál DT0CS0
 cuál cuál PT0CS000
 cuáles cuál DT0CP0
 cuáles cuál PT0CP000
+cuán cuán DE0CN0
 cuán cuán RG
-cuán cuánto DE0CN0
 cuándo cuándo PT000000
 cuánta cuánto DE0FS0
 cuánta cuánto DT0FS0
