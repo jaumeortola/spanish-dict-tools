@@ -2,12 +2,15 @@
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Abril Abril NPCSSP0 # avl
 #Agrícola Agrícola NPMSSP0 # avl
 #Ahín Ahín NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Alcanalí Alcanalí NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Alegrías Alegrías NPFSSP0 # avl
 #Alfahuir Alfahuir NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Algeria Algeria NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Amiga Amiga NPFSSP0 # avl
+#Amigo Amigo NPMSSP0 # avl
 #Amman Amman NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Amsterdam Amsterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Angustias Angustias NPFSSP0 # avl
@@ -43,11 +46,15 @@
 #Erivan Erivan NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Espoleto Espoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Estaràs Estaràs NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Febe Febe NPCSSP0 # avl
+#Febrero Febrero NPMSSP0 # avl
+#Fede Fede NPMSSP0 # avl
 #Fidji Fidji NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Fondeguilla Fondeguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Frutos Frutos NPMSSP0 # avl
 #Garcia Garcia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Garonne Garonne NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Gloria Gloria NPFSSP0 # avl
 #Grozny Grozny NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Gràcia Gràcia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Guadasequies Guadasequies NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -75,6 +82,7 @@
 #Marraquech Marraquech NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Marraqués Marraqués NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Masalfasar Masalfasar NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Mayor Mayor NPMSSP0 # avl
 #Mercedes Mercedes NPFSSP0 # avl
 #Mississippi Mississippi NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mississippí Mississippí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -156,7 +164,6 @@ Abraham Abraham NPMSSP0 # avl
 Abrahán Abrahán NPMSSP0 # avl
 Abram Abram NPMSSP0 # avl
 Abrera Abrera NPCNG00 # topònim-apertium-falta-gènere-nombre
-Abril Abril NPCSSP0 # avl
 Abruzos Abruzos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abrán Abrán NPMSSP0 # avl
 Absalón Absalón NPMSSP0 # avl
@@ -572,8 +579,7 @@ Amelia Amelia NPFSSP0 # avl
 Amendolara Amendolara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amer Amer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amiens Amiens NPCNG00 # topònim-apertium-falta-gènere-nombre
-Amiga Amiga NPFSSP0 # avl
-Amigo Amigo NPMSSP0 # avl
+Amiga Amiga NPCNO00 
 Amina Amina NPFSSP0 # avl
 Aminta Aminta NPMSSP0 # avl
 Amir Amir NPMSSP0 # avl
@@ -1712,6 +1718,7 @@ Carlota Carlota NPFSSP0 # avl
 Carlssen Carlssen NPCNSP0
 Carmela Carmela NPFSSP0 # avl
 Carmelo Carmelo NPMSSP0 # avl
+Carmen Carmen NPCSG00
 Carmen Carmen NPFSSP0 # avl
 Carmesina Carmesina NPFSSP0 # avl
 Carmina Carmina NPFSSP0 # avl
@@ -2464,6 +2471,7 @@ Eixample Eixample NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eladia Eladia NPFSSP0 # avl
 Eladio Eladio NPMSSP0 # avl
 Elba Elba NPFSSP0 # avl
+Elba Elba NPMSG00
 Elche Elche NPCNG00 # topònim-apertium-falta-gènere-nombre
 Elda Elda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eleazar Eleazar NPCSSP0 # avl
@@ -2824,10 +2832,7 @@ Faustino Faustino NPMSSP0 # avl
 Fausto Fausto NPMSSP0 # avl
 Favara Favara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fe Fe NPFSSP0 # avl
-Febe Febe NPCSSP0 # avl
-Febrero Febrero NPMSSP0 # avl
 Febronia Febronia NPFSSP0 # avl
-Fede Fede NPMSSP0 # avl
 Federica Federica NPFSSP0 # avl
 Federico Federico NPMSSP0 # avl
 Fedra Fedra NPFSSP0 # avl
@@ -3228,7 +3233,6 @@ Glauco Glauco NPMSSP0 # avl
 Glenda Glenda NPFSSP0 # avl
 Gliceria Gliceria NPFSSP0 # avl
 Glicerio Glicerio NPMSSP0 # avl
-Gloria Gloria NPFSSP0 # avl
 Gluck Gluck NPCNSP0 # wiki
 Go Go NPCNSP0 # wiki
 Godaldo Godaldo NPMSSP0 # avl
@@ -4506,7 +4510,6 @@ Maximiliano Maximiliano NPMSSP0 # avl
 Maximina Maximina NPFSSP0 # avl
 Maximino Maximino NPMSSP0 # avl
 Maya Maya NPFSSP0 # avl
-Mayor Mayor NPMSSP0 # avl
 Mayotte Mayotte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mazalquivir Mazalquivir NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mazario Mazario NPMSSP0 # avl
@@ -5884,6 +5887,7 @@ Rosalina Rosalina NPFSSP0 # avl
 Rosalinda Rosalinda NPFSSP0 # avl
 Rosalía Rosalía NPFSSP0 # avl
 Rosana Rosana NPFSSP0 # avl
+Rosario Rosario NPCSG00
 Rosario Rosario NPFSSP0 # avl
 Rosarno Rosarno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosaura Rosaura NPFSSP0 # avl
@@ -6012,7 +6016,7 @@ Salzburgo Salzburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Salàs Salàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Salén Salén NPMSSP0 # avl
 Salónica Salónica NPCNG00 # topònim-apertium-falta-gènere-nombre
-Sam Sam NPMSSP0 # avl
+Sam Sam NPCNSP0
 Samalús Samalús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Samanta Samanta NPFSSP0 # avl
 Sami Sami NPCNSP0 # wiki
