@@ -4700,6 +4700,7 @@ Mohedas Mohedas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moisés Moisés NPMSSP0 # avl
 Moixent Moixent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moià Moià NPCNG00 # topònim-apertium-falta-gènere-nombre
+Moldava Moldava NPCSG00
 Moldavia Moldavia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moldova Moldova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moleskine Moleskine NPCNO00
@@ -7248,6 +7249,7 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Òrrius Òrrius NPCNG00 # topònim-apertium-falta-gènere-nombre
 Óptima Óptima NPFSSP0 # avl
 Óptimo Óptimo NPMSSP0 # avl
+Óscar Óscar NPMNO00
 Óscar Óscar NPMSSP0 # avl
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl

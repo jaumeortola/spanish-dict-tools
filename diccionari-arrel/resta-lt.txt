@@ -1,3 +1,4 @@
+#alguno alguno DI0MS0
 GB GB NCMN000
 GHz GHz NCMN000
 Gbit Gbit NCMN000
@@ -34,7 +35,6 @@ alguna alguno DI0FS0
 alguna alguno PI0FS000
 algunas alguno DI0FP0
 algunas alguno PI0FP000
-alguno alguno DI0MS0
 alguno alguno PI0MS000
 algunos alguno DI0MP0
 algunos alguno PI0MP000
