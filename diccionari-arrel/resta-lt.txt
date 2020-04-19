@@ -1,4 +1,5 @@
 #alguno alguno DI0MS0
+#ninguno ninguno DI0MS0
 GB GB NCMN000
 GHz GHz NCMN000
 Gbit Gbit NCMN000
@@ -424,7 +425,6 @@ ninguna ninguno DI0FS0
 ninguna ninguno PI0FS000
 ningunas ninguno DI0FP0
 ningunas ninguno PI0FP000
-ninguno ninguno DI0MS0
 ninguno ninguno PI0MS000
 ningunos ninguno DI0MP0
 ningunos ninguno PI0MP000
