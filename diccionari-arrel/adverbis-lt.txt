@@ -1,5 +1,6 @@
 #alderredor alrededor RG
 #avanti avante RG
+#largo largo RG
 #siquier siquiera RG
 abajo abajo RG
 acaso acaso RG
@@ -115,7 +116,6 @@ jamás jamás RG
 junto junto RG
 justo justo RG
 kaputt kaputt RG
-largo largo RG
 lejitos lejitos RG
 lejos lejos RG
 lejísimo lejísimo RG

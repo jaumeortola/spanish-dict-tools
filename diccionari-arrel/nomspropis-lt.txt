@@ -3334,6 +3334,7 @@ Guernica Guernica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guernsey Guernsey NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guerrero Guerrero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guerrero Guerrero NPCNSP0 # wiki common surnames
+Guevara Guevara NPCNSP0
 Guida Guida NPFSSP0 # avl
 Guido Guido NPMSSP0 # avl
 Guilar Guilar NPCNG00 # topònim-apertium-falta-gènere-nombre

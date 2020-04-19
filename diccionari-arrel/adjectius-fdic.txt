@@ -10493,6 +10493,7 @@ franciscano franciscana=categories: A;fonts: LT;
 francmasónico francmasónica=categories: A;fonts: LT;
 franco franca=categories: A;fonts: LT;
 franco-alemán franco-alemana=categories: A;fonts: LT;
+francoalemán francoalemana=categories: A;fonts: derivat;
 francocanadiense=categories: A;fonts: dr;
 francolino francolina=categories: A;fonts: dr;
 francomacorisano francomacorisana=categories: A;fonts: dr;
