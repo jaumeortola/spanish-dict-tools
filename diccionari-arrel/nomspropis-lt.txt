@@ -2913,6 +2913,7 @@ Fina Fina NPFSSP0 # avl
 Finestrat Finestrat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Finlandia Finlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiona Fiona NPFSSP0 # avl
+Firefox Firefox NPCNO00
 Fischer Fischer NPCNSP0 # wiki
 Fiumefreddo Fiumefreddo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiyi Fiyi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6101,6 +6102,7 @@ Scandale Scandale NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schengen Schengen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schubert Schubert NPCNSP0 # wiki
+Schwarzenegger Schwarzenegger NPCNSP0
 Scido Scido NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scigliano Scigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scott Scott NPCNSP0 # wiki
@@ -6251,6 +6253,7 @@ Siurana Siurana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sixta Sixta NPFSSP0 # avl
 Sixto Sixto NPMSSP0 # avl
 Skopje Skopje NPCNG00 # topònim-apertium-falta-gènere-nombre
+Skype Skype NPCNO00
 Smith Smith NPCNSP0 # wiki
 Snoopy Snoopy NPMSSP0
 Sobremunt Sobremunt NPCNG00 # topònim-apertium-falta-gènere-nombre
