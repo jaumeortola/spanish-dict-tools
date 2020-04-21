@@ -348,6 +348,14 @@ while ( my $line = <$fh> ) {
                 }
             }
         }
+        elsif ( $categoria =~ /MFS/ ) {
+            print $ofh "$singular $singular$numAccepcio $tagbefore" . "CS"
+              . "$tagafter\n";
+            if ( $singular2 =~ /.+/ ) {
+                print $ofh "$singular2 $singular$numAccepcio $tagbefore" . "CS"
+                  . "$tagafter\n";
+            }
+        }
         elsif ( $categoria =~ /MS/ ) {
             print $ofh "$singular $singular$numAccepcio $tagbefore" . "MS"
               . "$tagafter\n";
