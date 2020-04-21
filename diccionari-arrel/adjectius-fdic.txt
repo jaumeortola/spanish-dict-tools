@@ -14164,6 +14164,7 @@ kiribatiano kiribatiana=categories: A;fonts: dr;
 kosovar=categories: A;fonts: dr;
 krausista=categories: A;fonts: LT;
 kroneckeriano kroneckeriana=categories: A;fonts: LT;
+kuna=categories: A;fonts: dr;
 kundi=categories: A;fonts: LT;
 kurdo kurda=categories: A;fonts: LT;
 kuwaití [pl. kuwaitíes o kuwaitís]=categories: A;fonts: LT;

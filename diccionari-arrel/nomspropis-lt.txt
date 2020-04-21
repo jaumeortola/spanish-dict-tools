@@ -3691,6 +3691,7 @@ Iván Iván NPMSSP0 # avl
 Ivón Ivón NPMSSP0 # avl
 Ixena Ixena NPFSSP0 # avl
 Iàtova Iàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
+JIRA JIRA NPCSO00
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jacarilla Jacarilla NPCNG00 # topònim-apertium-falta-gènere-nombre
