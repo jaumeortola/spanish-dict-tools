@@ -260,6 +260,39 @@ sub verb_pronouns {
             $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"  
         }  
 
+    } elsif ($postag =~ /V.M.2V./){ 
+        $stem =~ s/ad$/ád/;
+        $stem =~ s/ed$/éd/;
+        $stem =~ s/id$/íd/;
+
+        foreach my $key ("me", "nos", "os", "lo", "los" , "la", "las" , "le", "les") { #"se"    apertium sí: "te",
+            my $stemhere = $form;
+            $stemhere =~ s/á$/a/;
+            $stemhere =~ s/é$/e/;
+            $stemhere =~ s/í$/e/;
+            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+        }
+=pod        
+        foreach my $key1 ("me",  "se", "nos", "os") {  # apertium sí: "te",
+            foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
+                if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
+                my $stemhere = $stem;
+                if ($key1 =~ /^os$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
+                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+            }   
+        }
+        foreach my $key1 ("os") {  
+            foreach my $key2 ("me", "nos") {
+                my $stemhere = $stem;
+                if ($key1 =~ /^(os)$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
+                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+            }   
+        }
+        #te+
+        foreach my $key3 ("me", "nos") {
+            $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"  
+        }  
+=cut
     } elsif ($postag =~ /V.M.2S./) { #canta, teme, parte, peina, renueva, pinta, piensa, actúa # més: haz, pon, sal, di ...
         if    ($stem !~ /[áéíóú]/) { $stem =~ s/a([^aeiouáéíóú]*([qg][uü])?i?[ae]n?)$/á$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/e([^aeiouáéíóú]*([qg][uü])?i?[ae]n?)$/é$1/; }
