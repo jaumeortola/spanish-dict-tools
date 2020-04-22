@@ -60,7 +60,6 @@ venir
 ver
 yacer
 abalanzar
-modelizar
 abarcar
 cargar
 pensar
