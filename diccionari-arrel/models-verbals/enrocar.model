@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # enrocareis
 r ren ar VMSF3P0 # enrocaren
 r 0 ar VMM02S0 # enroca
 ocar ueca ar VMM02S0 # enrueca
+ar á ar VMM02V0 # enrocá
 car que ar VMM03S0 # enroque
 ocar ueque ar VMM03S0 # enrueque
 car quemos ar VMM01P0 # enroquemos

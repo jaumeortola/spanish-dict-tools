@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # emparentareis
 r ren ar VMSF3P0 # emparentaren
 r 0 ar VMM02S0 # emparenta
 entar ienta ar VMM02S0 # emparienta
+ar á ar VMM02V0 # emparentá
 ar e ar VMM03S0 # emparente
 entar iente ar VMM03S0 # empariente
 ar emos ar VMM01P0 # emparentemos

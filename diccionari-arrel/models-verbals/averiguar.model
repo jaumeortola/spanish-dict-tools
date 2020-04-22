@@ -60,6 +60,7 @@ ar áremos ar VMSF1P0 # averiguáremos
 r reis ar VMSF2P0 # averiguareis
 r ren ar VMSF3P0 # averiguaren
 r 0 ar VMM02S0 # averigua
+ar á ar VMM02V0 # averiguá
 uar üe ar VMM03S0 # averigüe
 uar üemos ar VMM01P0 # averigüemos
 r d ar VMM02P0 # averiguad

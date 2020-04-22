@@ -60,6 +60,7 @@ ar áremos ar VMSF1P0 # abarcáremos
 r reis ar VMSF2P0 # abarcareis
 r ren ar VMSF3P0 # abarcaren
 r 0 ar VMM02S0 # abarca
+ar á ar VMM02V0 # abarcá
 car que ar VMM03S0 # abarque
 car quemos ar VMM01P0 # abarquemos
 r d ar VMM02P0 # abarcad

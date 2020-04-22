@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # atestareis
 r ren ar VMSF3P0 # atestaren
 r 0 ar VMM02S0 # atesta
 estar iesta ar VMM02S0 # atiesta
+ar á ar VMM02V0 # atestá
 ar e ar VMM03S0 # ateste
 estar ieste ar VMM03S0 # atieste
 ar emos ar VMM01P0 # atestemos

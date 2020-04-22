@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # follareis
 r ren ar VMSF3P0 # follaren
 r 0 ar VMM02S0 # folla
 ollar uella ar VMM02S0 # fuella
+ar á ar VMM02V0 # follá
 ar e ar VMM03S0 # folle
 ollar uelle ar VMM03S0 # fuelle
 ar emos ar VMM01P0 # follemos

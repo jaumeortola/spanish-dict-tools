@@ -60,6 +60,7 @@ ar áremos ar VMSF1P0 # rehusáremos
 r reis ar VMSF2P0 # rehusareis
 r ren ar VMSF3P0 # rehusaren
 usar úsa ar VMM02S0 # rehúsa
+ar á ar VMM02V0 # rehusá
 usar úse ar VMM03S0 # rehúse
 ar emos ar VMM01P0 # rehusemos
 r d ar VMM02P0 # rehusad

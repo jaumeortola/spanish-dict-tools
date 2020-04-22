@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # aterrareis
 r ren ar VMSF3P0 # aterraren
 r 0 ar VMM02S0 # aterra
 errar ierra ar VMM02S0 # atierra
+ar á ar VMM02V0 # aterrá
 ar e ar VMM03S0 # aterre
 errar ierre ar VMM03S0 # atierre
 ar emos ar VMM01P0 # aterremos

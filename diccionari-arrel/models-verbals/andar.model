@@ -60,7 +60,7 @@ ar uviéremos ar VMSF1P0 # anduviéremos
 ar uviereis ar VMSF2P0 # anduviereis
 ar uvieren ar VMSF3P0 # anduvieren
 r 0 ar VMM02S0 # anda
-#ar á ar VMM02V0 # andá
+ar á ar VMM02V0 # andá
 ar e ar VMM03S0 # ande
 ar emos ar VMM01P0 # andemos
 r d ar VMM02P0 # andad

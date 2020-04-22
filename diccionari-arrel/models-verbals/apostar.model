@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # apostareis
 r ren ar VMSF3P0 # apostaren
 r 0 ar VMM02S0 # aposta
 ostar uesta ar VMM02S0 # apuesta
+ar á ar VMM02V0 # apostá
 ar e ar VMM03S0 # aposte
 ostar ueste ar VMM03S0 # apueste
 ar emos ar VMM01P0 # apostemos

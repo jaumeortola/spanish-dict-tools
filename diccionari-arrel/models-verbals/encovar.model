@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # encovareis
 r ren ar VMSF3P0 # encovaren
 ovar ueva ar VMM02S0 # encueva
 r 0 ar VMM02S0 # encova
+ar á ar VMM02V0 # encová
 ovar ueve ar VMM03S0 # encueve
 ar e ar VMM03S0 # encove
 ar emos ar VMM01P0 # encovemos

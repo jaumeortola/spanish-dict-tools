@@ -69,6 +69,7 @@ r reis ar VMSF2P0 # engrosareis
 r ren ar VMSF3P0 # engrosaren
 r 0 ar VMM02S0 # engrosa
 osar uesa ar VMM02S0 # engruesa
+ar á ar VMM02V0 # engrosá
 ar e ar VMM03S0 # engrose
 osar uese ar VMM03S0 # engruese
 ar emos ar VMM01P0 # engrosemos

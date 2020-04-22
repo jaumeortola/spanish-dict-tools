@@ -60,6 +60,7 @@ ar áremos ar VMSF1P0 # abalanzáremos
 r reis ar VMSF2P0 # abalanzareis
 r ren ar VMSF3P0 # abalanzaren
 r 0 ar VMM02S0 # abalanza
+ar á ar VMM02V0 # abalanzá
 zar ce ar VMM03S0 # abalance
 zar cemos ar VMM01P0 # abalancemos
 r d ar VMM02P0 # abalanzad

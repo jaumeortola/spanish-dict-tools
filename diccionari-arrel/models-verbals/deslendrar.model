@@ -60,6 +60,7 @@ ar áremos ar VMSF1P0 # deslendráremos
 r reis ar VMSF2P0 # deslendrareis
 r ren ar VMSF3P0 # deslendraren
 endrar iendra ar VMM02S0 # desliendra
+ar á ar VMM02V0 # deslendrá
 endrar iendre ar VMM03S0 # desliendre
 ar emos ar VMM01P0 # deslendremos
 r d ar VMM02P0 # deslendrad

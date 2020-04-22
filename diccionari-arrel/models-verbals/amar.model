@@ -60,6 +60,7 @@ ar áremos ar VMSF1P0 # amáremos
 r reis ar VMSF2P0 # amareis
 r ren ar VMSF3P0 # amaren
 r 0 ar VMM02S0 # ama
+ar á ar VMM02V0 # amá
 ar e ar VMM03S0 # ame
 ar emos ar VMM01P0 # amemos
 r d ar VMM02P0 # amad

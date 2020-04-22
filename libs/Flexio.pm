@@ -261,9 +261,9 @@ sub verb_pronouns {
         }  
 
     } elsif ($postag =~ /V.M.2V./){ 
-        $stem =~ s/ad$/ád/;
-        $stem =~ s/ed$/éd/;
-        $stem =~ s/id$/íd/;
+       # $stem =~ s/a$/á/;
+       # $stem =~ s/e$/é/;
+       # $stem =~ s/i$/í/;
 
         foreach my $key ("me", "nos", "os", "lo", "los" , "la", "las" , "le", "les") { #"se"    apertium sí: "te",
             my $stemhere = $form;
@@ -272,7 +272,7 @@ sub verb_pronouns {
             $stemhere =~ s/í$/e/;
             $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
-=pod        
+       
         foreach my $key1 ("me",  "se", "nos", "os") {  # apertium sí: "te",
             foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
                 if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
@@ -281,6 +281,7 @@ sub verb_pronouns {
                 $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
             }   
         }
+=pod         
         foreach my $key1 ("os") {  
             foreach my $key2 ("me", "nos") {
                 my $stemhere = $stem;
