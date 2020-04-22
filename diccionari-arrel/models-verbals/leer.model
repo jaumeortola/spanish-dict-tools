@@ -60,6 +60,7 @@ er yéremos er VMSF1P0 # leyéremos
 er yereis er VMSF2P0 # leyereis
 er yeren er VMSF3P0 # leyeren
 r 0 er VMM02S0 # lee
+er é er VMM02V0 # leé
 er a er VMM03S0 # lea
 er amos er VMM01P0 # leamos
 r d er VMM02P0 # leed

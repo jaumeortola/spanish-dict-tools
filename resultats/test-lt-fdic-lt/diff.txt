@@ -2,6 +2,6 @@
 ** Compara noms **
 ** Compara adjectius **
 ** Compara verbs **
-2973829d2973828
+3205221d3205220
 < érase ser VSII3S0+PP3CN000
 ** Altres errors **
