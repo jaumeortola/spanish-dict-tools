@@ -54,6 +54,7 @@
 2D=categories: AI;fonts: user;
 3D=categories: AI;fonts: user;
 AAA=categories: AI;fonts: LT;
+QR=categories: AI;fonts: dr;
 abacalero abacalera=categories: A;fonts: dr;
 abacial=categories: A;fonts: LT;
 abadengo abadenga=categories: A;fonts: LT;
@@ -11206,6 +11207,7 @@ gorciense=categories: A;fonts: dr;
 gordezuelo gordezuela=categories: A;fonts: dr;
 gordiano gordiana=categories: A;fonts: LT;
 gordinflón gordinflona=categories: A;fonts: LT;
+gordito gordita=categories: A;fonts: diminutiu;
 gordo gorda=categories: A;fonts: LT;
 gore=categories: A;fonts: dr;
 gorgojoso gorgojosa=categories: A;fonts: dr;
