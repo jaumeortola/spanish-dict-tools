@@ -3602,6 +3602,7 @@ Hérault Hérault NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hércules Hércules NPMSSP0 # avl
 IBM IBM NPCNO00 # wiki
 INSS INSS NPMSO00
+ISIS ISIS NPCNO00
 ISO ISO NPCNO00 # wiki
 Ian Ian NPCNSP0 # wiki
 Ibarra Ibarra NPCNSP0
@@ -3767,7 +3768,7 @@ Javier Javier NPMSSP0 # avl
 Javiera Javiera NPFSSP0 # avl
 Jazberta Jazberta NPFSSP0 # avl
 Jazberto Jazberto NPMSSP0 # avl
-Jazmín Jazmín NPFSSP0 # avl
+Jazmín Jazmín NPCSSP0 # avl
 Jazperto Jazperto NPMSSP0 # avl
 Jaén Jaén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jefferson Jefferson NPCNSP0 # wiki

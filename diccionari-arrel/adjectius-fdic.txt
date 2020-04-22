@@ -3724,6 +3724,7 @@ bucodental=categories: A;fonts: dr;
 bucofaríngeo bucofaríngea=categories: A;fonts: LT;
 bucolabial=categories: A;fonts: LT;
 bucolingual=categories: A;fonts: LT;
+buconasal=categories: A;fonts: user;
 bucólico bucólica=categories: A;fonts: LT;
 budista=categories: A;fonts: LT;
 buen=categories: AMS;fonts: LT;
