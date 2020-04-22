@@ -270,6 +270,7 @@ sub verb_pronouns {
             $stemhere =~ s/á$/a/;
             $stemhere =~ s/é$/e/;
             $stemhere =~ s/í$/i/;
+            if ($key =~ /^(os)$/ && $lemma !~ /^ir$/)  {$stemhere =~ s/i$/í/;}  #partíos
             $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
        

@@ -7771,6 +7771,7 @@ tejer=categories: V;model:temer;fonts: LT;
 teledirigir=categories: V;model:dirigir;fonts: LT;
 telefonear=categories: V;model:amar;fonts: LT;
 telegrafiar=categories: V;model:enviar;fonts: LT;
+teletrabajar=categories: V;model:amar;fonts: derivat;
 televisar=categories: V;model:amar;fonts: LT;
 tematizar=categories: V;model:abalanzar;fonts: dr;
 temblar=categories: V;model:temblar;fonts: LT;
