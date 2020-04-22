@@ -60,6 +60,7 @@ ecir ijéremos ir VMSF1P0 # dijéremos
 ecir ijereis ir VMSF2P0 # dijereis
 ecir ijeren ir VMSF3P0 # dijeren
 ecir i ir VMM02S0 # di
+ir í ir VMM02V0 # decí
 ecir iga ir VMM03S0 # diga
 ecir igamos ir VMM01P0 # digamos
 r d ir VMM02P0 # decid

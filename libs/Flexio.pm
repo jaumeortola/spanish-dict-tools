@@ -269,7 +269,7 @@ sub verb_pronouns {
             my $stemhere = $form;
             $stemhere =~ s/á$/a/;
             $stemhere =~ s/é$/e/;
-            $stemhere =~ s/í$/e/;
+            $stemhere =~ s/í$/i/;
             $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
        

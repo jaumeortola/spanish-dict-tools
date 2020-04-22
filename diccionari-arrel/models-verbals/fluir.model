@@ -60,6 +60,7 @@ ir yéremos ir VMSF1P0 # fluyéremos
 ir yereis ir VMSF2P0 # fluyereis
 ir yeren ir VMSF3P0 # fluyeren
 ir ye ir VMM02S0 # fluye
+r 0 ir VMM02V0 # flui
 ir ya ir VMM03S0 # fluya
 ir yamos ir VMM01P0 # fluyamos
 r d ir VMM02P0 # fluid

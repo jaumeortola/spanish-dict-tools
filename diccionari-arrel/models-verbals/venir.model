@@ -60,6 +60,7 @@ enir iniéremos ir VMSF1P0 # viniéremos
 enir iniereis ir VMSF2P0 # viniereis
 enir inieren ir VMSF3P0 # vinieren
 ir 0 ir VMM02S0 # ven
+ir í ir VMM02V0 # vení
 ir ga ir VMM03S0 # venga
 ir gamos ir VMM01P0 # vengamos
 r d ir VMM02P0 # venid

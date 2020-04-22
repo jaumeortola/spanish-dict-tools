@@ -64,6 +64,7 @@ ecir ijéremos ir VMSF1P0 # bendijéremos
 ecir ijereis ir VMSF2P0 # bendijereis
 ecir ijeren ir VMSF3P0 # bendijeren
 ecir ice ir VMM02S0 # bendice
+ir í ir VMM02V0 # bendecí
 ecir iga ir VMM03S0 # bendiga
 ecir igamos ir VMM01P0 # bendigamos
 r d ir VMM02P0 # bendecid

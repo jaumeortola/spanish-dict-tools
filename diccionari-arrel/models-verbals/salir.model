@@ -60,6 +60,7 @@ r éremos ir VMSF1P0 # saliéremos
 r ereis ir VMSF2P0 # saliereis
 r eren ir VMSF3P0 # salieren
 ir 0 ir VMM02S0 # sal
+ir í ir VMM02V0 # salí
 ir ga ir VMM03S0 # salga
 ir gamos ir VMM01P0 # salgamos
 r d ir VMM02P0 # salid
