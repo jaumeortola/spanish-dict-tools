@@ -261,9 +261,9 @@ sub verb_pronouns {
         }  
 
     } elsif ($postag =~ /V.M.2V./){ 
-       # $stem =~ s/a$/á/;
-       # $stem =~ s/e$/é/;
-       # $stem =~ s/i$/í/;
+        $stem =~ s/a$/á/;
+        $stem =~ s/e$/é/;
+        $stem =~ s/i$/í/;
 
         foreach my $key ("me", "nos", "os", "lo", "los" , "la", "las" , "le", "les") { #"se"    apertium sí: "te",
             my $stemhere = $form;
