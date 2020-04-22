@@ -316,6 +316,28 @@ sub escriuFormatDiccionari {
             }
 
         }
+        #nom masculí/femení singular
+        elsif ($modeltag !~ /(NC|AQ0|AQA|AO0)[FM]/
+            && $modeltag =~ /(NC|AQ0|AQA|AO0)CS/
+            && $modeltag !~ /(NC|AQ0|AQA|AO0)C[NP]/ )
+        {
+
+            if ( $forma[4] =~ /^$/ ) {
+                print $ofh "$forma[0]$numAccepcio";
+            }
+            else {
+                print $ofh "$forma[0]$numAccepcio ($forma[4]) ???";
+            }
+
+            print $ofh "=categories: ";
+            switch ($originTag) {
+                case "NC"  { print $ofh "MFS"; }
+                case "AQ0" { print $ofh "ACS"; }
+                case "AO0" { print $ofh "AOCS"; }    #???
+                case "AQA" { print $ofh "AACS"; }    #???
+            }
+
+        }
 
         #nom masculí i femení
         elsif (
@@ -434,6 +456,8 @@ sub escriuFormatDiccionari {
             }
 
         }
+        
+
 
         #nom masculí plural
         elsif ($modeltag !~ /(NC|AQ0|AQA|AO0)[FC]/
