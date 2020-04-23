@@ -499,6 +499,7 @@ poquito poquito PI0MS000
 poquitos poquito DI0MP0
 poquitos poquito PI0MP000
 por por SPS00
+porfa porfa RG # colloquial
 porque porque CS
 ppm ppm NCMN000
 presente presente I

@@ -2093,6 +2093,7 @@ Comoras Comoras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comores Comores NPCNG00 # topònim-apertium-falta-gènere-nombre
 Complutense Complutense NPCNG00 # topònim-apertium-falta-gènere-nombre
 Compostela Compostela NPCSG00
+Comte Comte NPCNSP0
 Conakri Conakri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Conakry Conakry NPCNG00 # topònim-apertium-falta-gènere-nombre
 Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2834,6 +2835,7 @@ Ezequiel Ezequiel NPMSSP0 # avl
 Ezequías Ezequías NPMSSP0 # avl
 FAO FAO NPFSO00 # wiki
 FARC FARC NPFPO00
+FAS FAS NPCNO00
 FBI FBI NPMSO00 # wiki
 FIFA FIFA NPFSO00 # wiki
 FMI FMI NPMSO00
@@ -5392,6 +5394,7 @@ Pasteur Pasteur NPCNSP0 # wiki
 Pastor Pastor NPMSSP0 # avl
 Pastora Pastora NPFSSP0 # avl
 Pasífae Pasífae NPFSSP0 # avl
+Pat Pat NPCNSP0
 Patagonia Patagonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paterna Paterna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Patmos Patmos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5775,6 +5778,8 @@ Quiríaco Quiríaco NPMSSP0 # avl
 Quiteria Quiteria NPFSSP0 # avl
 Quiterio Quiterio NPMSSP0 # avl
 Quito Quito NPCNG00 # topònim-apertium-falta-gènere-nombre
+RDA RDA NPFSG00
+RFA RFA NPFSG00
 RFC RFC NPCNO00
 Ra Ra NPMSSP0 # avl
 Rabat Rabat NPCNG00 # topònim-apertium-falta-gènere-nombre
