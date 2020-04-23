@@ -13,6 +13,7 @@
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
 #implotar=categories: V;model:amar;fonts: ap;
+#luir=categories: V;model:fluir;fonts: LT;
 #malcreer=categories: V;model:leer;fonts: ap;
 #mayorar=categories: V;model:amar;fonts: ap;
 #miar=categories: V;model:piar;fonts: LT;
@@ -5640,7 +5641,6 @@ lucrar=categories: V;model:amar;fonts: LT;
 lucubrar=categories: V;model:amar;fonts: LT;
 ludificar=categories: V;model:abarcar;fonts: ap;
 ludir=categories: V;model:partir;fonts: LT;
-luir=categories: V;model:fluir;fonts: LT;
 lujuriar=categories: V;model:amar;fonts: LT;
 lustrar=categories: V;model:amar;fonts: LT;
 luxar=categories: V;model:amar;fonts: LT;
