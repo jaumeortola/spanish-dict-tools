@@ -5020,6 +5020,7 @@ Nestoria Nestoria NPFSSP0 # avl
 Neumann Neumann NPCNSP0 # wiki
 Nevaldo Nevaldo NPMSSP0 # avl
 Newcastle Newcastle NPCNG00 # topònim-apertium-falta-gènere-nombre
+Newfoundland Newfoundland NPCSG00
 Nguane Nguane NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niamey Niamey NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nicandra Nicandra NPFSSP0 # avl
