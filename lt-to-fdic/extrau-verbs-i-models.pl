@@ -69,7 +69,7 @@ while(my $line = <$fh>){
 
 	#if ($postag !~ /^VMM02S0\+/) { #ignorem de moment les formes amb canvi d'accent: ámalo
 	#if ($postag !~ /^.*\+/) { #ignorem de moment les formes amb canvi d'accent: ámalo
-	if ($postag !~ /\+/) {
+	if ($postag !~ /\+/ || $word =~ /^érase$/) {
 
 		#afegeix forma     encode($enc, $word);
 		$words[$i]=$word;
