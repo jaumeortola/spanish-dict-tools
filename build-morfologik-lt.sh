@@ -12,9 +12,6 @@ target_dir=../resultats/java-lt/src/main/resources/org/languagetool/resource/es
 #source dictionaries
 # spanish
 cp ../resultats/lt/diccionari.txt /tmp/es-ES.txt
-#other
-#cat ../resultats/lt/diccionari.txt > /tmp/es-ES-valencia.txt
-#sort -u /tmp/ca-ES-valencia.txt -o /tmp/ca-ES-valencia.txt
 
 for targetdict in es-ES
 do
@@ -30,9 +27,8 @@ do
 
     # create synthesis dictionary with morfologik tools
     java -cp $jarfile org.languagetool.tools.SynthDictionaryBuilder -i ${targetdict}_tabs.txt -info ${targetdict}_synth.info -o ${targetdict}_synth.dict
-
-    cp /tmp/SynthDictionaryBuilder*_tags.txt ${targetdict}_tags.txt
-    rm /tmp/SynthDictionaryBuilder*_tags.txt
+    
+    mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt
 
     # dump synthesis dictionary
     java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_synth.dict -o ${targetdict}_synth_lt.txt -info ${targetdict}_synth.info

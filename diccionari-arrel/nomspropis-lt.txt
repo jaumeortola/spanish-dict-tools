@@ -144,7 +144,7 @@ Abacuc Abacuc NPMSSP0 # avl
 Abajas Abajas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abanilla Abanilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abarán Abarán NPCNG00 # topònim-apertium-falta-gènere-nombre
-Abascal Abascal NPCNSO0
+Abascal Abascal NPCNSP0
 Abdalá Abdalá NPMSSP0 # avl
 Abdelazís Abdelazís NPMSSP0 # avl
 Abderramán Abderramán NPMSSP0 # avl
@@ -677,7 +677,7 @@ Angélica Angélica NPFSSP0 # avl
 Angélico Angélico NPMSSP0 # avl
 Aniceta Aniceta NPFSSP0 # avl
 Aniceto Aniceto NPMSSP0 # avl
-Anita Anita NPFSSO0
+Anita Anita NPFSSP0
 Anjou Anjou NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ankara Ankara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ann Ann NPCNSP0 # wiki
@@ -1581,7 +1581,7 @@ Bòssost Bòssost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bósforo Bósforo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
 CDE CDE NPCNO00
-CDMX CDMX NPFSG0
+CDMX CDMX NPFSG00
 CES CES NPCNO00
 CEST CEST NPCNO00 # wiki
 CIA CIA NPFSO00 # wiki
