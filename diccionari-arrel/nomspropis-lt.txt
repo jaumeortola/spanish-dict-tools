@@ -3334,7 +3334,7 @@ Goreti Goreti NPFSSP0 # avl
 Gorga Gorga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Goro Goro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gotemburgo Gotemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
-Goya Goya NPFSSP0 # avl
+Goya Goya NPCNSP0
 Goyo Goyo NPMSSP0 # avl
 Gozos Gozos NPFSSP0 # avl
 Grace Grace NPCNSP0 # wiki
@@ -5060,7 +5060,7 @@ Nicaragua Nicaragua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nicasia Nicasia NPFSSP0 # avl
 Nicasio Nicasio NPMSSP0 # avl
 Nicea Nicea NPCNG00 # topònim-apertium-falta-gènere-nombre
-Nico Nico NPMSSP0 # avl
+Nico Nico NPCSSP0 # avl
 Nicodema Nicodema NPFSSP0 # avl
 Nicodemo Nicodemo NPMSSP0 # avl
 Nicolasa Nicolasa NPFSSP0 # avl
