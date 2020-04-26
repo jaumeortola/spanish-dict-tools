@@ -3768,7 +3768,6 @@ Iván Iván NPMSSP0 # avl
 Ivón Ivón NPMSSP0 # avl
 Ixena Ixena NPFSSP0 # avl
 Iàtova Iàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
-JIRA JIRA NPCSO00
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jacarilla Jacarilla NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3853,6 +3852,7 @@ Jimena Jimena NPFSSP0 # avl
 Jimeno Jimeno NPMSSP0 # avl
 Jimmy Jimmy NPCNSP0 # wiki
 Jiménez Jiménez NPCNSP0 # wiki common surnames
+Jira Jira NPCSO00
 Jirán Jirán NPMSSP0 # avl
 Joanetes Joanetes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Joaquina Joaquina NPFSSP0 # avl
