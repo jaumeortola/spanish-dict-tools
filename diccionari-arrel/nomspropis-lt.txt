@@ -5558,7 +5558,7 @@ Piera Piera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pierola Pierola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pietrafitta Pietrafitta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pietro Pietro NPCNSP0 # wiki
-Pilar Pilar NPFSSP0 # avl
+Pilar Pilar NPCSSP0 # avl
 Pilato Pilato NPMSSP0 # avl
 Pilatos Pilatos NPMSSP0 # avl
 Piles Piles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7154,6 +7154,7 @@ Voivodina Voivodina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Volga Volga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Volkswagen Volkswagen NPCNSP0 # wiki
 Voltaire Voltaire NPCNSP0 # wiki
+Volvo Volvo NPCNSP0
 Vosgos Vosgos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Voyager Voyager NPCNSP0 # wiki
 Vulcano Vulcano NPMSSP0 # avl
