@@ -2381,6 +2381,7 @@ Denver Denver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
 Desamparados Desamparados NPFSSP0 # avl
+Desamparados Desamparados NPMPSP0 # Virgen de
 Desdémona Desdémona NPFSSP0 # avl
 Desideria Desideria NPFSSP0 # avl
 Desiderio Desiderio NPMSSP0 # avl

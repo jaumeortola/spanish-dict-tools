@@ -1,6 +1,4 @@
-# A POS tag dictionary that's used as an addition (or as a fix) to spanish.dict
-# These words are candidates to be added (or fixed) in spanish.dict in the future
+# A part-of-speech dictionary that's used additionally to the binary dictionary (*.dict).
+# This does not add words to the spell checker, see hunspell/spelling.txt for that.
 # File Encoding: UTF-8
-# Format: fullform baseform postags (tab separated)
-########## Dictionary fixes ##########
-########## Additions ##########
+# Format: three tab-separated fields: fullform baseform postags
