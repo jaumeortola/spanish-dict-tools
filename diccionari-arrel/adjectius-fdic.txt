@@ -23055,6 +23055,7 @@ telemático telemática=categories: A;fonts: LT;
 telemétrico telemétrica=categories: A;fonts: LT;
 telendo telenda=categories: A;fonts: LT;
 teleológico teleológica=categories: A;fonts: LT;
+telepresencial=categories: A;fonts: derivat;
 telepático telepática=categories: A;fonts: LT;
 telequélico telequélica=categories: A;fonts: LT;
 telescópico telescópica=categories: A;fonts: LT;
