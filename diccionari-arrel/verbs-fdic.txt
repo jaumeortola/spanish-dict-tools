@@ -6,6 +6,8 @@
 #asosegar=categories: V;model:negar;fonts: LT;
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
+#copipegar=categories: V;model:cargar;fonts: fundeu; NOU!!!
+#cortapegar=categories: V;model:cargar;fonts: fundeu; NOU!!!
 #desnegar=categories: V;model:negar;fonts: ap;
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;

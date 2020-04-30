@@ -3338,6 +3338,7 @@ Gotemburgo Gotemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Goya Goya NPCNSP0
 Goyo Goyo NPMSSP0 # avl
 Gozos Gozos NPFSSP0 # avl
+Gozos Gozos NPMPSP0 # common noun
 Grace Grace NPCNSP0 # wiki
 Gracia Gracia NPFSG00 # topònim-apertium
 Gracia Gracia NPFSSP0 # avl
