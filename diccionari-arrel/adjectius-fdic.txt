@@ -12374,6 +12374,7 @@ iliturgitano iliturgitana=categories: A;fonts: LT;
 illapelino illapelina=categories: A;fonts: dr;
 ilocalizable=categories: A;fonts: dr;
 ilocutivo ilocutiva=categories: A;fonts: LT;
+ilota=categories: A;fonts: dr;
 iluminador iluminadora=categories: A;fonts: LT;
 iluminante=categories: A;fonts: LT;
 iluminativo iluminativa=categories: A;fonts: LT;

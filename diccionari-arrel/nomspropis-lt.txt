@@ -1538,8 +1538,8 @@ Buenamiga Buenamiga NPFSSP0 # avl
 Buenamigo Buenamigo NPMSSP0 # avl
 Buenanueva Buenanueva NPFSSP0 # avl
 Buenaventura Buenaventura NPCSSP0 # avl
+Buendía Buendía NPCNSP0
 Buendía Buendía NPCSG00
-Buendía Buendía NPMSSP0 # avl
 Bufali Bufali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bugarra Bugarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bujumbura Bujumbura NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5314,6 +5314,7 @@ Oviedo Oviedo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oxford Oxford NPCNG00 # topònim-apertium-falta-gènere-nombre
 PAC PAC NPCNO00
 PC PC NPCNSP0 # wiki
+PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00 # wiki
 PNG PNG NPCNO00 # wiki
 PP PP NPCNO00 # wiki
@@ -5813,6 +5814,7 @@ Quito Quito NPCNG00 # topònim-apertium-falta-gènere-nombre
 RDA RDA NPFSG00
 RFA RFA NPFSG00
 RFC RFC NPCNO00
+RUT RUT NPMSO00
 Ra Ra NPMSSP0 # avl
 Rabat Rabat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rabós Rabós NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6084,6 +6086,7 @@ Rómulo Rómulo NPMSSP0 # avl
 Róterdam Róterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rótova Rótova NPCNG00 # topònim-apertium-falta-gènere-nombre
 SEAT SEAT NPCNO00 # wiki
+SENA SENA NPMSO00 # topònim-apertium-falta-gènere-nombre
 SEP SEP NPCNO00
 SEPE SEPE NPMSO00
 Saavedra Saavedra NPCNSP0
@@ -6264,7 +6267,7 @@ Seminara Seminara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sempronia Sempronia NPFSSP0 # avl
 Sempronio Sempronio NPMSSP0 # avl
 Semíramis Semíramis NPFSSP0 # avl
-Sena Sena NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sena Sena NPMSG00 # topònim-apertium-falta-gènere-nombre
 Senado Senado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senan Senan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sencelles Sencelles NPCNG00 # topònim-apertium-falta-gènere-nombre
