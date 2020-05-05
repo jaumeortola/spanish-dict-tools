@@ -2413,6 +2413,7 @@ Desirée Desirée NPFSSP0 # avl
 Detroit Detroit NPCNG00 # topònim-apertium-falta-gènere-nombre
 Deusto Deusto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Devesa Devesa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dewey Dewey NPCNSP0
 Deyanira Deyanira NPFSSP0 # avl
 Deyá Deyá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Deífile Deífile NPFSSP0 # avl
@@ -2929,6 +2930,7 @@ Fausto Fausto NPMSSP0 # avl
 Favara Favara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fe Fe NPFSSP0 # avl
 Febronia Febronia NPFSSP0 # avl
+Federer Federer NPCNSP0
 Federica Federica NPFSSP0 # avl
 Federico Federico NPMSSP0 # avl
 Fedra Fedra NPFSSP0 # avl
@@ -4903,6 +4905,7 @@ Monterde Monterde NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monterosso Monterosso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montesa Montesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montesinos Montesinos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Montesquieu Montesquieu NPCNSP0
 Montesquiu Montesquiu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montevideo Montevideo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montferrer Montferrer NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5017,6 +5020,7 @@ Nablús Nablús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nabucodonosor Nabucodonosor NPMSSP0 # avl
 Nacha Nacha NPFSSP0 # avl
 Nacho Nacho NPMSSP0 # avl
+Nadal Nadal NPCNSP0
 Nadia Nadia NPFSSP0 # avl
 Nadina Nadina NPFSSP0 # avl
 Nagasaki Nagasaki NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5073,6 +5077,7 @@ Naím Naím NPMSSP0 # avl
 Naín Naín NPMSSP0 # avl
 Nebraska Nebraska NPCNG00 # topònim-apertium-falta-gènere-nombre
 Neera Neera NPFSSP0 # avl
+Nefertiti Nefertiti NPFSSP0
 Neftalí Neftalí NPMSSP0 # avl
 Negrals Negrals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nehemías Nehemías NPMSSP0 # avl
@@ -6114,6 +6119,7 @@ Ruiz Ruiz NPCNSP0 # wiki common surnames
 Ruiz Ruiz NPMSSP0 # avl
 Rumania Rumania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rumanía Rumanía NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rummikub Rummikub NPMSO00
 Ruperta Ruperta NPFSSP0 # avl
 Ruperto Ruperto NPMSSP0 # avl
 Rupit Rupit NPCNG00 # topònim-apertium-falta-gènere-nombre
