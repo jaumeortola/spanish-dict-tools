@@ -1183,6 +1183,7 @@ Beatriz Beatriz NPFSSP0 # avl
 Beaucaire Beaucaire NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bechí Bechí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beck Beck NPCNSP0 # wiki
+Beckham Beckham NPCNSP0
 Beda Beda NPCSSP0 # avl
 Bedoya Bedoya NPCNSP0
 Bedón Bedón NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3400,6 +3401,7 @@ Gregorio Gregorio NPMSSP0 # avl
 Grenoble Grenoble NPCNG00 # topònim-apertium-falta-gènere-nombre
 Greta Greta NPFSSP0 # avl
 Grieg Grieg NPCNSP0 # wiki
+Grifols Grifols NPCNO00
 Grimalda Grimalda NPFSSP0 # avl
 Grimaldo Grimaldo NPMSSP0 # avl
 Griselda Griselda NPFSSP0 # avl
