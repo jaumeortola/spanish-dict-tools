@@ -1,9 +1,11 @@
+# prerregistrar=categories: V;model:amar;fonts: derivat; NOU !!
 #acachar=categories: V;model:amar;fonts: LT;
 #advocar=categories: V;model:abarcar;fonts: ap;
 #amarizar=categories: V;model:abalanzar;fonts: dr;
 #arcar=categories: V;model:abarcar;fonts: ap;
 #arromper=categories: V;model:romper;fonts: LT;
 #asosegar=categories: V;model:negar;fonts: LT;
+#checar=categories: V;model:abarcar;fonts: LT; NOU !!
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
 #copipegar=categories: V;model:cargar;fonts: fundeu; NOU!!!
