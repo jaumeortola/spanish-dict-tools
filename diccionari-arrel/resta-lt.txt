@@ -72,7 +72,7 @@ atatay atatay I
 atención atención I
 atrás atrás I
 aun aun CS
-aunque aunque CC
+aunque aunque CS
 ave ave I
 ax ax I
 ay ay I

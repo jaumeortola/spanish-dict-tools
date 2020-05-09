@@ -11802,6 +11802,7 @@ hidnocárpico hidnocárpica=categories: A;fonts: LT;
 hidratador hidratadora=categories: A;fonts: LT;
 hidratante=categories: A;fonts: LT;
 hidroacústico hidroacústica=categories: A;fonts: LT;
+hidroalcohólico hidroalcohólica=categories: A;fonts: termcat;
 hidrobiológico hidrobiológica=categories: A;fonts: dr;
 hidrocefálico hidrocefálica=categories: A;fonts: LT;
 hidrocinámico hidrocinámica=categories: A;fonts: LT;

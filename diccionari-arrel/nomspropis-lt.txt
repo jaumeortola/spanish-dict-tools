@@ -38,9 +38,11 @@
 #Cataluña Cataluña NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Ceras Ceras NPFSSP0 # avl
 #Cielo Cielo NPFSSP0 # avl
+#Colúmbia Colúmbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Djibuti Djibuti NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Dosaguas Dosaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Dulce Dulce NPFSSP0 # avl
+#Dénia Dénia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #EE.UU EE.UU NPCNG00 # topònim-apertium-falta-gènere-nombre
 #EE.UU. EE.UU. NPCNG00 # topònim-apertium-falta-gènere-nombre
 #EEUU EEUU NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -54,6 +56,7 @@
 #Fidji Fidji NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Fondeguilla Fondeguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Frutos Frutos NPMSSP0 # avl
+#Gandia Gandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Garcia Garcia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Garonne Garonne NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Gloria Gloria NPFSSP0 # avl
@@ -63,6 +66,7 @@
 #Guadasuar Guadasuar NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Guinea-Bisau Guinea-Bisau NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Guinea-Bissau Guinea-Bissau NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Guzman Guzman NPMSSP0 # avl
 #Göteborg Göteborg NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Hawai Hawai NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Hawaii Hawaii NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -75,6 +79,7 @@
 #Kalimantán Kalimantán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lesotho Lesotho NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Liège Liège NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Lombardia Lombardia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Louisiana Louisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lés Lés NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mar Mar NPFSSP0 # avl
@@ -93,7 +98,9 @@
 #Naplusa Naplusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Nieves Nieves NPFSSP0 # avl
 #Niger Niger NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Niobe Niobe NPFSSP0 # avl
 #Nuremberg Nuremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Núria Núria NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Olimpiades Olimpiades NPCSSP0 # avl
 #Orígenes Orígenes NPMSSP0 # avl
 #Palas Palas NPFSSP0 # avl
@@ -2123,7 +2130,6 @@ Colomèrs Colomèrs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colorado Colorado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Columbia Columbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Columbo Columbo NPMSSP0 # avl
-Colúmbia Colúmbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comacchio Comacchio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comenges Comenges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Commodore Commodore NPCNSP0 # wiki
@@ -2507,7 +2513,6 @@ Dávila Dávila NPCNSP0
 Débora Débora NPFSSP0 # avl
 Décimo Décimo NPMSSP0 # avl
 Dédalo Dédalo NPMSSP0 # avl
-Dénia Dénia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Díaz Díaz NPCNSP0 # wiki common surnames
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eastwood Eastwood NPCNSP0
@@ -3192,7 +3197,6 @@ Gamesa Gamesa NPCNO00
 Gamiro Gamiro NPMSSP0 # avl
 Gandesa Gandesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gandhi Gandhi NPCNSP0 # wiki
-Gandia Gandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gandulfa Gandulfa NPFSSP0 # avl
 Gandulfo Gandulfo NPMSSP0 # avl
 Gandía Gandía NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3476,7 +3480,6 @@ Gutenberg Gutenberg NPCNSP0
 Gutiérrez Gutiérrez NPCNSP0 # wiki common surnames
 Guyana Guyana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guyena Guyena NPCNG00 # topònim-apertium-falta-gènere-nombre
-Guzman Guzman NPMSSP0 # avl
 Guzmán Guzmán NPCNSP0 # wiki common surnames
 Guzmán Guzmán NPMSSP0 # avl
 Gàtova Gàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4297,7 +4300,6 @@ Loir Loir NPCNG00 # topònim-apertium-falta-gènere-nombre
 Loira Loira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Loiret Loiret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lola Lola NPFSSP0 # avl
-Lombardia Lombardia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lombardo Lombardo NPMSSP0 # avl
 Lombardía Lombardía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lomé Lomé NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5132,7 +5134,6 @@ Nimes Nimes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nina Nina NPFSSP0 # avl
 Ninfa Ninfa NPFSSP0 # avl
 Nintendo Nintendo NPCNO00 # wiki
-Niobe Niobe NPFSSP0 # avl
 Niscemi Niscemi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niue Niue NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nixon Nixon NPCNSP0 # wiki
@@ -5183,7 +5184,6 @@ Níjar Níjar NPCSG00
 Nínive Nínive NPCNG00 # topònim-apertium-falta-gènere-nombre
 Níobe Níobe NPFSSP0 # avl
 Núremberg Núremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
-Núria Núria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Núñez Núñez NPCNSP0 # wiki common surnames
 OCASA OCASA NPCNO00
 OMS OMS NPFSO00 # wiki
