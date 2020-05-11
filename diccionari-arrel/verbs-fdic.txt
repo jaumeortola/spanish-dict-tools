@@ -12,7 +12,6 @@
 #cortapegar=categories: V;model:cargar;fonts: fundeu; NOU!!!
 #cuarentenar=categories: V;model:amar;fonts: fundeu; NOU!!
 #desnegar=categories: V;model:negar;fonts: ap;
-#dolar=categories: V;model:volar;fonts: LT;
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
 #fruir=categories: V;model:fluir;fonts: LT;
@@ -3582,6 +3581,7 @@ doctorear=categories: V;model:amar;fonts: LT;
 doctrinar=categories: V;model:amar;fonts: LT;
 documentar=categories: V;model:amar;fonts: LT;
 dogmatizar=categories: V;model:abalanzar;fonts: LT;
+dolar=categories: V;model:volar;fonts: LT; ELIMINAR NOU!!!
 dolarizar=categories: V;model:abalanzar;fonts: dr;
 doler=categories: V;model:doler;fonts: LT;
 domar=categories: V;model:amar;fonts: LT;
