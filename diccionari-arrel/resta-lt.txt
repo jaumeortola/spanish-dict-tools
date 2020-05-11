@@ -1,4 +1,5 @@
 #alguno alguno DI0MS0
+#naide nadie PI0CS000
 #ninguno ninguno DI0MS0
 GB GB NCMN000
 GHz GHz NCMN000
@@ -417,7 +418,6 @@ mío mío PX1NS0S0
 míos mío PX1MP0S0
 nada nada PI0CS000
 nadie nadie PI0CS000
-naide nadie PI0CS000
 nanay nanay I
 narices narices I
 ni ni CC

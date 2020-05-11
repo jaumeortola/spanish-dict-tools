@@ -29737,6 +29737,7 @@ goetita=categories: F;fonts: LT;
 gofio=categories: M;fonts: LT;
 gofrado=categories: M;fonts: LT;
 gofrador=categories: M;fonts: LT;
+gofre=categories: M;fonts: dr;
 gogo-girl [pl. gogo-girls]=categories: F;fonts: LT;
 gol=categories: M;fonts: LT;
 gola=categories: F;fonts: LT;

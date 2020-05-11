@@ -1682,6 +1682,7 @@ Calpurnio Calpurnio NPMSSP0 # avl
 Caltagirone Caltagirone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calvià Calvià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calviño Calviño NPCNSP0
+Calvo-Sotelo Calvo-Sotelo NPCNSP0
 Calígula Calígula NPMSSP0 # avl
 Calímaco Calímaco NPMSSP0 # avl
 Calíope Calíope NPFSSP0 # avl

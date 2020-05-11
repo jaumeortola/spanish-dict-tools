@@ -18050,6 +18050,7 @@ parótido parótida=categories: A;fonts: LT;
 pasable=categories: A;fonts: LT;
 pasadero pasadera=categories: A;fonts: LT;
 pasadista=categories: A;fonts: dr;
+pasado pasada=categories: A;fonts: LT;
 pasador pasadora=categories: A;fonts: LT;
 pasajero pasajera=categories: A;fonts: LT;
 pasante=categories: A;fonts: LT;
