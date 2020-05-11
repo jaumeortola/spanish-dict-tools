@@ -20428,6 +20428,7 @@ deslustrador deslustradora=categories: MF;fonts: LT;
 deslustre=categories: M;fonts: LT;
 deslío=categories: M;fonts: LT;
 desmadejamiento=categories: M;fonts: LT;
+desmadre=categories: M;fonts: dr, colloquial;
 desmagnetización=categories: F;fonts: LT;
 desmagnetizador=categories: M;fonts: LT;
 desmalezadora=categories: F;fonts: dr;

@@ -4290,6 +4290,7 @@ caravelino caravelina=categories: A;fonts: dr;
 caraíta=categories: A;fonts: LT;
 carbalí [pl. carbalís o carbalíes]=categories: A;fonts: dr;
 carbocíclico carbocíclica=categories: A;fonts: LT;
+carbonara=categories: AI;fonts: dr;
 carbonario carbonaria=categories: A;fonts: LT;
 carbonero carbonera=categories: A;fonts: LT;
 carbonoideo carbonoidea=categories: A;fonts: LT;
