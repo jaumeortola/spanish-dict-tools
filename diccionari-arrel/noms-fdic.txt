@@ -11290,6 +11290,7 @@ capitón=categories: M;fonts: dr;
 capizana=categories: F;fonts: LT;
 capnomancia=categories: F;fonts: LT;
 capnomancía=categories: F;fonts: LT;
+capo=categories: M;fonts: dr;
 capoeira=categories: F;fonts: wiki;
 capona=categories: F;fonts: LT;
 caponera=categories: F;fonts: LT;
