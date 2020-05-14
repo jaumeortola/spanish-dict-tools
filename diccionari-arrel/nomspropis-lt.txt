@@ -1,4 +1,3 @@
-
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6717,6 +6716,7 @@ Ticiana Ticiana NPFSSP0 # avl
 Ticiano Ticiano NPMSSP0 # avl
 Tigris Tigris NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tijuana Tijuana NPCSG00
+TikTok TikTok NPCNO00
 Tikal Tikal NPCNSP0 # wiki
 Tim Tim NPCNSP0 # wiki
 Tim Tim NPMSSP0
@@ -7248,6 +7248,7 @@ Werner Werner NPCNSP0 # wiki
 West West NPCNSP0 # wiki
 Westfalia Westfalia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Westminster Westminster NPCNG00 # topònim-apertium-falta-gènere-nombre
+WhatsApp WhatsApp NPCNO00
 White White NPCNSP0 # wiki
 Whitney Whitney NPCNSP0
 Wifreda Wifreda NPFSSP0 # avl

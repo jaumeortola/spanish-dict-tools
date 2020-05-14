@@ -16949,6 +16949,7 @@ noreuropeo noreuropea=categories: A;fonts: dpd;
 norirlandés norirlandesa=categories: A;fonts: LT;
 normal [sup. normalísimo]=categories: A;fonts: LT;
 normalista=categories: A;fonts: LT;
+normalito normalita=categories: A;fonts:diminutiu;
 normalizador normalizadora=categories: A;fonts: LT;
 normando normanda=categories: A;fonts: LT;
 normativo normativa=categories: A;fonts: LT;
