@@ -793,6 +793,7 @@ Aranjuez Aranjuez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aransís Aransís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arantxa Arantxa NPFSSP0 # avl
 Aranyuel Aranyuel NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aras Aras NPCNG00
 Aravell Aravell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aravena Aravena NPCNSP0 # wiki common surnames
 Araya Araya NPCNSP0 # wiki common surnames
