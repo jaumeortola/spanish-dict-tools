@@ -46,7 +46,7 @@ sed -i '/^\s*$/d' removed-body.txt
 #cat spelling.head novetats_sense_tag.txt > spelling.txt
 cat removed-tagger.head removed-body.txt > removed.txt
 cp removed.txt /home/jaume/github/languagetool/languagetool-language-modules/es/src/main/resources/org/languagetool/resource/es/
-#cp spelling.txt /home/jaume/github/languagetool/languagetool-language-modules/es/src/main/resources/org/languagetool/resource/es/
+cp spelling.txt /home/jaume/github/languagetool/languagetool-language-modules/es/src/main/resources/org/languagetool/resource/es/hunspell
 
 echo "Resultats en spelling.txt added.txt removed.txt"
 
