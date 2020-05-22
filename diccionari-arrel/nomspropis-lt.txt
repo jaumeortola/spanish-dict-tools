@@ -1473,7 +1473,8 @@ Bono Bono NPMSSP0 # avl
 Bonosio Bonosio NPMSSP0 # avl
 Bonrepòs Bonrepòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonrepós Bonrepós NPCNG00 # topònim-apertium-falta-gènere-nombre
-Booking Booking NPCSO00
+Booking Booking NPCNO00
+Borbones Borbones NPCPSP0
 Borbonés Borbonés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Borbón Borbón NPCNSP0
 Bordeta Bordeta NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5384,6 +5385,7 @@ PAC PAC NPCNO00
 PC PC NPCNSP0 # wiki
 PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00 # wiki
+PE PE NPCNO00
 PNG PNG NPCNO00 # wiki
 PP PP NPCNO00 # wiki
 PSE PSE NPMSO00
