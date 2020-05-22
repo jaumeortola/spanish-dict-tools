@@ -45343,6 +45343,7 @@ pellejero pellejera=categories: MF;fonts: LT;
 pellejería=categories: F;fonts: LT;
 pellejina=categories: F;fonts: dr;
 pellejo pelleja=categories: MF;fonts: LT;
+pellet [pl. pellets]=categories: M;fonts: wiki;
 pelleta=categories: F;fonts: LT;
 pelletero pelletera=categories: MF;fonts: dr;
 pellica=categories: F;fonts: LT;
