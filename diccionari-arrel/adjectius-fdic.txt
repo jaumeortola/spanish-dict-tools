@@ -23118,6 +23118,7 @@ temperante=categories: A;fonts: LT;
 tempestivo tempestiva=categories: A;fonts: LT;
 tempestuoso tempestuosa=categories: A;fonts: LT;
 templable=categories: A;fonts: LT;
+templado templada=categories: A;fonts: dr;
 templador templadora=categories: A;fonts: LT;
 temporal=categories: A;fonts: LT;
 temporario temporaria=categories: A;fonts: LT;
