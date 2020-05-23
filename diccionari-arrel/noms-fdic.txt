@@ -228,6 +228,7 @@
 #horror vacui=categories: M;fonts: dr;
 #interposita persona=categories: F;fonts: dr;
 #intima=categories: F;fonts: LT;
+#iva=categories: M;fonts: LT;
 #ión=categories: MS;fonts: LT;
 #j=categories: FS;fonts: LT;
 #jacerino jacerina=categories: F;fonts: dr;
@@ -34423,7 +34424,6 @@ itrio=categories: M;fonts: LT;
 itzá=categories: MFI;fonts: LT;
 itálica=categories: F;fonts: LT;
 itálico=categories: M;fonts: LT;
-iva=categories: M;fonts: LT;
 ivermectina=categories: F;fonts: LT;
 iwan [pl. iwanes]=categories: M;fonts: LT;
 ixolita=categories: F;fonts: LT;
