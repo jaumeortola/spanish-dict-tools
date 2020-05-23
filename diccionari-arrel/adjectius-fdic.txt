@@ -2247,6 +2247,7 @@ arnaúte=categories: A;fonts: dr;
 aroideo aroidea=categories: A;fonts: dr;
 aromoso aromosa=categories: A;fonts: dr;
 aromático aromática=categories: A;fonts: LT;
+arqueano arqueana=categories: A;fonts: wiki;
 arquegoniado arquegoniada=categories: A;fonts: LT;
 arquegonial=categories: A;fonts: LT;
 arqueociático arqueociática=categories: A;fonts: LT;

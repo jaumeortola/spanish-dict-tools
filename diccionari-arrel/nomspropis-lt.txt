@@ -4084,6 +4084,7 @@ Laino Laino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lairisa Lairisa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lamberta Lamberta NPFSSP0 # avl
 Lamberto Lamberto NPMSSP0 # avl
+Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lancelino Lancelino NPMSSP0 # avl
