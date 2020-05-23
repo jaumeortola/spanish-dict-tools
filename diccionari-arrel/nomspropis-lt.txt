@@ -73,6 +73,7 @@
 #Helios Helios NPMSSP0 # avl
 #Imperio Imperio NPFSSP0 # avl
 #Indianapolis Indianapolis NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Iva Iva NPFSSP0 # avl
 #Jerusalem Jerusalem NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Johanesburgo Johanesburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Jordà Jordà NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3814,7 +3815,6 @@ Isócrates Isócrates NPMSSP0 # avl
 Itaca Itaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Italia Italia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Itzel Itzel NPCNSP0
-Iva Iva NPFSSP0 # avl
 Ivet Ivet NPFSSP0 # avl
 Ivo Ivo NPMSSP0 # avl
 Ivona Ivona NPFSSP0 # avl
