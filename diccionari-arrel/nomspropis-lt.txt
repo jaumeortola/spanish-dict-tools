@@ -2918,6 +2918,7 @@ Fadrica Fadrica NPFSSP0 # avl
 Fadrique Fadrique NPMSSP0 # avl
 Fageca Fageca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fagnano Fagnano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fahrenheit Fahrenheit NPCNSP0
 Faina Faina NPFSSP0 # avl
 Fajardo Fajardo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Falconara Falconara NPCNG00 # topònim-apertium-falta-gènere-nombre

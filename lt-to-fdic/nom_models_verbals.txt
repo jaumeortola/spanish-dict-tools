@@ -195,3 +195,5 @@ perder
 acaecer
 desvaír
 piar
+adecuar
+paliar
