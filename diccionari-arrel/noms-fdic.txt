@@ -20886,6 +20886,7 @@ desvieje=categories: M;fonts: LT;
 desvinculación=categories: F;fonts: LT;
 desvirgamiento=categories: M;fonts: LT;
 desvirtuación=categories: F;fonts: LT;
+desvirtualización=categories: F;fonts: derivat;
 desvitalización=categories: F;fonts: LT;
 desvitrificación=categories: F;fonts: LT;
 desvolvedor=categories: M;fonts: dr;
