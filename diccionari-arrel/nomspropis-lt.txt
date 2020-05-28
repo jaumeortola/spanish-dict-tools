@@ -5206,6 +5206,7 @@ Níobe Níobe NPFSSP0 # avl
 Núremberg Núremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Núñez Núñez NPCNSP0 # wiki common surnames
 OCASA OCASA NPCNO00
+OLAF OLAF NPFSO00
 OMS OMS NPFSO00 # wiki
 ONU ONU NPFSO00
 OTAN OTAN NPFSO00 # wiki

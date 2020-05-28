@@ -21,6 +21,7 @@
 #pasturar=categories: V;model:amar;fonts: ap;
 #pañear=categories: V;model:amar;fonts: ap;
 #pegilar=categories: V;model:amar;fonts: ap;
+#pretratar=categories: V;model:amar;fonts: derivat; NOU!
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #remugar=categories: V;model:cargar;fonts: ap;
 #retroferbular=categories: V;model:amar;fonts: ap;
