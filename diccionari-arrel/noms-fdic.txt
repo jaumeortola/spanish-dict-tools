@@ -48474,6 +48474,7 @@ previo=categories: M;fonts: LT;
 previsibilidad=categories: F;fonts: LT;
 previsión=categories: F;fonts: LT;
 previsor previsora=categories: MF;fonts: LT;
+previsualización=categories: F;fonts: derivat;
 prevulcanización=categories: F;fonts: LT;
 prez=categories: MF;fonts: LT;
 preámbulo=categories: M;fonts: LT;

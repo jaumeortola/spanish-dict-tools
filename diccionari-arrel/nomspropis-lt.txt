@@ -2522,6 +2522,7 @@ Décimo Décimo NPMSSP0 # avl
 Dédalo Dédalo NPMSSP0 # avl
 Díaz Díaz NPCNSP0 # wiki common surnames
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
+ECHO ECHO NPCNO00
 Eastwood Eastwood NPCNSP0
 Ebo Ebo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ebro Ebro NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3159,6 +3160,7 @@ Félix Félix NPMSSP0 # avl
 Fénix Fénix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fígols Fígols NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fórnols Fórnols NPCNG00 # topònim-apertium-falta-gènere-nombre
+GAL GAL NPMPO00
 GPL GPL NPCNO00 # wiki
 GSM GSM NPCNO00
 Gabarda Gabarda NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3705,6 +3707,7 @@ Hércules Hércules NPMSSP0 # avl
 IBM IBM NPCNO00 # wiki
 INE INE NPMSO00
 INSS INSS NPMSO00
+IRA IRA NPMSO00
 ISIS ISIS NPCNO00
 ISO ISO NPCNO00 # wiki
 Ian Ian NPCNSP0 # wiki
