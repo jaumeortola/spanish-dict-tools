@@ -3101,6 +3101,7 @@ Forès Forès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foyos Foyos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foz Foz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fraga Fraga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Framingham Framingham NPCNG00
 Fran Fran NPMSSP0 # avl
 France France NPCNSP0 # wiki
 Francesco Francesco NPCNSP0 # wiki
@@ -3532,6 +3533,7 @@ Hamburgo Hamburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hamilton Hamilton NPCNSP0 # wiki
 Hamlet Hamlet NPMSSP0 # avl
 Hampshire Hampshire NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hamás Hamás NPCSO00
 Hamílcar Hamílcar NPMSSP0 # avl
 Hangouts Hangouts NPCNO00
 Hannover Hannover NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3791,6 +3793,7 @@ Iraq Iraq NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irene Irene NPFSSP0 # avl
 Ireneo Ireneo NPMSSP0 # avl
 Iria Iria NPFSSP0 # avl
+Iriarte Iriarte NPCNSP0
 Iridio Iridio NPMSSP0 # avl
 Irina Irina NPFSSP0 # avl
 Iris Iris NPFSSP0 # avl
@@ -6919,6 +6922,7 @@ Tula Tula NPFSSP0 # avl
 Tulia Tulia NPFSSP0 # avl
 Tulio Tulio NPMSSP0 # avl
 Tunicia Tunicia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tunja Tunja NPCSG00 
 Turia Turia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turing Turing NPCNSP0 # wiki
 Turingia Turingia NPCNG00 # topònim-apertium-falta-gènere-nombre

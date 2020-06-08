@@ -4,6 +4,8 @@
 #arcar=categories: V;model:abarcar;fonts: ap;
 #arromper=categories: V;model:romper;fonts: LT;
 #asosegar=categories: V;model:negar;fonts: LT;
+#autorreparar=categories: V;model:amar;fonts: LT; NOU!!
+#chuzar=categories: V;model:abalanzar;fonts: LT; NOU!!
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
