@@ -1,3 +1,4 @@
+# resurtir=categories: V;model:partir;fonts: dr; NOU
 #acachar=categories: V;model:amar;fonts: LT;
 #advocar=categories: V;model:abarcar;fonts: ap;
 #amarizar=categories: V;model:abalanzar;fonts: dr;
@@ -7,6 +8,7 @@
 #autorreparar=categories: V;model:amar;fonts: LT; NOU!!
 #chuzar=categories: V;model:abalanzar;fonts: LT; NOU!!
 #ciar=categories: V;model:piar;fonts: LT;
+#coevaluar=categories: V;model:actuar;fonts: LT; NOU
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
