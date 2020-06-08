@@ -302,6 +302,7 @@ Agrigento Agrigento NPCNG00 # topònim-apertium-falta-gènere-nombre
 Agripa Agripa NPMSSP0 # avl
 Agripina Agripina NPFSSP0 # avl
 Agripino Agripino NPMSSP0 # avl
+Aguachica Aguachica NPCSG00
 Aguascalientes Aguascalientes NPCSG00
 Aguilar Aguilar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aguilar Aguilar NPCNSP0 # wiki common surnames
@@ -2289,6 +2290,7 @@ Cuenca Cuenca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuevas Cuevas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuevasanta Cuevasanta NPFSSP0 # avl
 Cuixà Cuixà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Culiacán Culiacán NPCSG00
 Culla Culla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cullera Cullera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cundinamarca Cundinamarca NPCSG00
@@ -2414,6 +2416,7 @@ Denis Denis NPMSSP0 # avl
 Denisa Denisa NPFSSP0 # avl
 Dennis Dennis NPCNSP0 # wiki
 Denver Denver NPCNG00 # topònim-apertium-falta-gènere-nombre
+Denysse Denysse NPCNSP00
 Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
 Desamparados Desamparados NPFSSP0 # avl
@@ -3961,7 +3964,7 @@ Juan Juan NPMSSP0 # avl
 Juana Juana NPFSSP0 # avl
 Juanita Juanita NPFSSP0
 Juanito Juanito NPMSSP0
-Judas Judas NPMSSP0 # avl
+Judas Judas NPMNSP0 # avl
 Judea Judea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Judit Judit NPFSSP0 # avl
 Judith Judith NPFSSP0 # avl
@@ -7022,6 +7025,7 @@ Vallclara Vallclara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valldemossa Valldemossa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valldigna Valldigna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallecas Vallecas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Valledupar Valledupar NPCSG00
 Vallefiorita Vallefiorita NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallehermoso Vallehermoso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallejos Vallejos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7037,6 +7041,7 @@ Valls Valls NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallès Vallès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallés Vallés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valonia Valonia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Valparaíso Valparaíso NPCSG00
 Valvanera Valvanera NPFSSP0 # avl
 Vancouver Vancouver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vandellòs Vandellòs NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7498,3 +7503,4 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
+Casellas Casellas NPCNSP0
