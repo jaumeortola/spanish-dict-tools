@@ -306,6 +306,7 @@ g g NCMN000
 gua gua I
 gualá gualá I
 guarte guarte I
+guau guau I
 guay guay I
 ha ha I
 hacia hacia SPS00
