@@ -5370,6 +5370,7 @@ clarificativo clarificativa=categories: A;fonts: LT;
 clarinado clarinada=categories: A;fonts: LT;
 clariniano clariniana=categories: A;fonts: dr;
 clarisa=categories: A;fonts: LT;
+clarito clarita=categories: A;fonts: diminutiu;
 clarividente=categories: A;fonts: LT;
 claro clara [sup. clarísimo]=categories: A;fonts: LT;
 clarucho clarucha=categories: A;fonts: LT;
