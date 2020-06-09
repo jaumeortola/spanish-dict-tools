@@ -51675,6 +51675,7 @@ renunciación=categories: F;fonts: LT;
 renunciamiento=categories: M;fonts: LT;
 renunciante=categories: MF;fonts: LT;
 renunciatario renunciataria=categories: MF;fonts: LT;
+renuncio=categories: M;fonts: dr;
 renvalso=categories: M;fonts: LT;
 reo rea=categories: MF;fonts: LT;
 reoctava=categories: F;fonts: dr;

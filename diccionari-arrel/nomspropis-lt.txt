@@ -1364,6 +1364,7 @@ Bernardo Bernardo NPMSSP0 # avl
 Bernhard Bernhard NPCNSP0
 Bernoulli Bernoulli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berta Berta NPFSSP0 # avl
+Berthold Berthold NPCNSP0
 Bertina Bertina NPFSSP0 # avl
 Bertino Bertino NPMSSP0 # avl
 Berto Berto NPMSSP0 # avl
@@ -1611,6 +1612,7 @@ Bérgamo Bérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bétera Bétera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bòssost Bòssost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bósforo Bósforo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Börngen Börngen NPCNSP0
 Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
 CDE CDE NPCNO00
 CDMX CDMX NPFSG00
