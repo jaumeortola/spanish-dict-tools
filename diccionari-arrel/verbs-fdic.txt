@@ -10,6 +10,7 @@
 #ciar=categories: V;model:piar;fonts: LT;
 #coevaluar=categories: V;model:actuar;fonts: LT; NOU
 #colidir=categories: V;model:partir;fonts: ap;
+#desconflictuar=categories: V;model:actuar;fonts: LT; NOU!!
 #desglobalizar=categories: V;model:abalanzar;fonts: LT; NOU
 #desnegar=categories: V;model:negar;fonts: ap;
 #enfatuar=categories: V;model:enfatuar;fonts: ??;

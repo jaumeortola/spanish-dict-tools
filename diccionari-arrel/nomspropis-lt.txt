@@ -3174,6 +3174,7 @@ Fulleda Fulleda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fulvia Fulvia NPFSSP0 # avl
 Fulvio Fulvio NPMSSP0 # avl
 Funchal Funchal NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fundéu Fundéu NPCNO00
 Futani Futani NPCNG00 # topònim-apertium-falta-gènere-nombre
 Futuna Futuna NPCSG00
 Fátima Fátima NPFSG00 # topònim-apertium
