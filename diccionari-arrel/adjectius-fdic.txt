@@ -19606,6 +19606,7 @@ primario primaria=categories: A;fonts: LT;
 primaveral=categories: A;fonts: LT;
 primer=categories: AOMS;fonts: LT;
 primerizo primeriza=categories: A;fonts: LT;
+primermundista=categories: A;fonts: fundeu;
 primero primera=categories: AO;fonts: LT;
 primerísimo primerísima=categories: A;fonts: LT;
 primevo primeva=categories: A;fonts: LT;
