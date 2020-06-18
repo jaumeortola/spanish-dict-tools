@@ -26197,6 +26197,7 @@ exclusiva=categories: F;fonts: LT;
 exclusividad=categories: F;fonts: LT;
 exclusivismo=categories: M;fonts: LT;
 exclusión=categories: F;fonts: LT;
+excolonia=categories: F;fonts: derivat;
 excombatiente=categories: MF;fonts: LT;
 excompañero excompañera=categories: MF;fonts: LT;
 excomulgación=categories: F;fonts: LT;
