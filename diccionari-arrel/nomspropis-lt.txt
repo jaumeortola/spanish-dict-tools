@@ -2253,6 +2253,7 @@ Cotronei Cotronei NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cottbus Cottbus NPCNG00 # topònim-apertium-falta-gènere-nombre
 Covadonga Covadonga NPFSSP0 # avl
 Cox Cox NPCNG00 # topònim-apertium-falta-gènere-nombre
+Coyoacán Coyoacán NPCSG00
 Cozumel Cozumel NPCSG00
 Cracovia Cracovia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Craig Craig NPCNSP0
@@ -3805,6 +3806,7 @@ Illescas Illescas NPCSG00
 Illinois Illinois NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iluminada Iluminada NPFSSP0 # avl
 Iluminado Iluminado NPMSSP0 # avl
+Ilíada Ilíada NPFSO00
 Imanol Imanol NPMSSP0 # avl
 Imelda Imelda NPFSSP0 # avl
 Inca Inca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4832,6 +4834,7 @@ Menàrguens Menàrguens NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menéndez Menéndez NPCNSP0 # wiki
 Mequinensa Mequinensa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Meranges Meranges NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mercadona Mercadona NPCNO00
 Mercedes Mercedes NPCNO00
 Mercedes Mercedes NPFSSP0
 Mercosur Mercosur NPMSO00
@@ -5276,6 +5279,7 @@ Norte Norte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Norteamérica Norteamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 North North NPCNSP0 # wiki
 Noruega Noruega NPCNG00 # topònim-apertium-falta-gènere-nombre
+Novalis Novalis NPMSSP0
 Novata Novata NPFSSP0 # avl
 Novelda Novelda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Novelé Novelé NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6099,6 +6103,7 @@ Rhodesia Rhodesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riace Riace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riad Riad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rialp Rialp NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ribadelago Ribadelago NPCSG00
 Ribadesella Ribadesella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ribagorza Ribagorza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ribagorça Ribagorça NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6845,6 +6850,7 @@ Teóforo Teóforo NPMSSP0 # avl
 Thais Thais NPFSSP0 # avl
 Thaís Thaís NPFSSP0 # avl
 Theodor Theodor NPCNSP0 # wiki
+Thiessen Thiessen NPCNSP0
 Thimbu Thimbu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Thomas Thomas NPCNSP0
 Thompson Thompson NPCNSP0 # wiki
