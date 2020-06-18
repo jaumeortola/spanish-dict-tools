@@ -6569,6 +6569,7 @@ Soverato Soverato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soyuz Soyuz NPCNSP0 # wiki
 Spa Spa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sport Sport NPMSO00
 Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Staiti Staiti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stalin Stalin NPCNSP0 # wiki
