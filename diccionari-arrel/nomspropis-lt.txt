@@ -3148,6 +3148,7 @@ Friné Friné NPFSSP0 # avl
 Frisia Frisia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Frisias Frisias NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fritz Fritz NPCNSP0 # wiki
+Friul Friul NPMSG00
 Froilán Froilán NPMSSP0 # avl
 Frontino Frontino NPMSSP0 # avl
 Frozen Frozen NPCNO00
@@ -6922,7 +6923,8 @@ Tredós Tredós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trello Trello NPCNO00
 Tremestieri Tremestieri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tremp Tremp NPCNG00 # topònim-apertium-falta-gènere-nombre
-Trento Trento NPCNG00 # topònim-apertium-falta-gènere-nombre
+Trentino Trentino NPMSG00
+Trento Trento NPCSG00 # topònim-apertium-falta-gènere-nombre
 Tresigallo Tresigallo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Treviso Treviso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trieste Trieste NPCNG00 # topònim-apertium-falta-gènere-nombre
