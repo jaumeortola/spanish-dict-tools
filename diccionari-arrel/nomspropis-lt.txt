@@ -2300,6 +2300,7 @@ Croacia Croacia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cropalati Cropalati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crosia Crosia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crucoli Crucoli NPCNG00 # topònim-apertium-falta-gènere-nombre
+Crusoe Crusoe NPCNSP0
 Cruz Cruz NPCNSP0 # wiki common surnames
 Cruïlles Cruïlles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Críspula Críspula NPFSSP0 # avl
@@ -2526,6 +2527,7 @@ Doroteo Doroteo NPMSSP0 # avl
 Dosaigües Dosaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dosquers Dosquers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dosrius Dosrius NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dostoyevski Dostoyevski NPCNSP0
 Dotesio Dotesio NPMSSP0 # avl
 Doubs Doubs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Douglas Douglas NPCNSP0 # wiki
@@ -3068,6 +3070,7 @@ Fischer Fischer NPCNSP0 # wiki
 Fisher Fisher NPCNSP0
 Fiumefreddo Fiumefreddo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiyi Fiyi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fiódor Fiódor NPMSSP0
 Flandes Flandes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Flavia Flavia NPFSSP0 # avl
 Flaviana Flaviana NPFSSP0 # avl
@@ -6164,7 +6167,7 @@ Roberta Roberta NPFSSP0 # avl
 Robertina Robertina NPFSSP0 # avl
 Robertino Robertino NPMSSP0 # avl
 Roberto Roberto NPMSSP0 # avl
-Robinson Robinson NPCNSP0  
+Robinson Robinson NPCNSP0
 Robustiana Robustiana NPFSSP0 # avl
 Robustiano Robustiano NPMSSP0 # avl
 Rocafort Rocafort NPCNG00 # topònim-apertium-falta-gènere-nombre
