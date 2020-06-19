@@ -3741,6 +3741,7 @@ Huamán Huamán NPCNSP0 # wiki common surnames
 Huancabamba Huancabamba NPCSG00
 Huarmaca Huarmaca NPCSG00
 Hubble Hubble NPCNO00 # wiki
+Hubei Hubei NPCSG00
 Huberto Huberto NPMSSP0 # avl
 Hudson Hudson NPCNG00 # topònim-apertium-falta-gènere-nombre
 Huelva Huelva NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4128,6 +4129,7 @@ Kiribati Kiribati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kishiniov Kishiniov NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kissinger Kissinger NPCNSP0 # wiki
 Klee Klee NPCNSP0
+Knéset Knéset NPFSO00
 Kobo Kobo NPCNO00
 Konrad Konrad NPCNSP0
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4308,6 +4310,7 @@ Ligeas Ligeas NPMSSP0 # avl
 Ligoria Ligoria NPFSSP0 # avl
 Ligorio Ligorio NPMSSP0 # avl
 Liguria Liguria NPCNG00 # topònim-apertium-falta-gènere-nombre
+Likud Likud NPMSO00
 Liliana Liliana NPFSSP0 # avl
 Liliano Liliano NPMSSP0 # avl
 Lilit Lilit NPFSSP0 # avl

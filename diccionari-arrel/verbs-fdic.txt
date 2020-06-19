@@ -13,6 +13,7 @@
 #desanonimizar=categories: V;model:abalanzar;fonts: fundeu; NOU
 #desconflictuar=categories: V;model:actuar;fonts: LT; NOU!!
 #desglobalizar=categories: V;model:abalanzar;fonts: LT; NOU
+#desintonizar=categories: V;model:abalanzar;fonts: LT; NOU
 #desnegar=categories: V;model:negar;fonts: ap;
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
