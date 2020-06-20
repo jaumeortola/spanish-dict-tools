@@ -61941,6 +61941,7 @@ videoblog [pl. videoblogs]=categories: M;fonts: dr;
 videocasete=categories: M;fonts: LT;
 videocasetera=categories: F;fonts: dr;
 videocharla=categories: F;fonts: LT;
+videochat [pl. videochats]=categories: M;fonts: dr;
 videocinta=categories: F;fonts: LT;
 videoclip [pl. videoclips]=categories: M;fonts: LT;
 videoclub [pl. videoclubes o videoclubs]=categories: M;fonts: LT;
