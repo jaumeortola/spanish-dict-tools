@@ -1496,6 +1496,7 @@ Borgoña Borgoña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Boris Boris NPMSSP0 # avl
 Borja Borja NPCNSP0
 Borja Borja NPMSSP0 # avl
+Bornemisza Bornemisza NPCNSP0
 Borneo Borneo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Borodín Borodín NPCNSP0 # wiki
 Borrassà Borrassà NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1773,6 +1774,7 @@ Capadocia Capadocia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capafonts Capafonts NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capdepera Capdepera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capellades Capellades NPCNG00 # topònim-apertium-falta-gènere-nombre
+Caperucita Caperucita NPFSSP0
 Capistrano Capistrano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capolat Capolat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caprasio Caprasio NPMSSP0 # avl
@@ -6249,6 +6251,7 @@ Roy Roy NPCNSP0 # wiki
 Ruan Ruan NPCSG00
 Ruanda Ruanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubicón Rubicón NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rubik Rubik NPCNSP0
 Rubió Rubió NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubén Rubén NPMSSP0 # avl
 Rubí Rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6289,6 +6292,7 @@ SEAT SEAT NPCNO00 # wiki
 SENA SENA NPMSO00 # topònim-apertium-falta-gènere-nombre
 SEP SEP NPCNO00
 SEPE SEPE NPMSO00
+SER SER NPCSO00
 SIGGRAPH SIGGRAPH NPCNO00
 Saavedra Saavedra NPCNSP0
 Saavedra Saavedra NPCNSP0 # wiki common surnames
@@ -6411,6 +6415,7 @@ Sara Sara NPFSSP0 # avl
 Saracena Saracena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sarah Sarah NPCNSP0 # wiki
 Sarajevo Sarajevo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Saramago Saramago NPCNSP0
 Saray Saray NPFSSP0 # avl
 Sarral Sarral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sarriá Sarriá NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6439,6 +6444,7 @@ Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-
 Schubert Schubert NPCNSP0 # wiki
 Schumacher Schumacher NPCNSP0
 Schwarzenegger Schwarzenegger NPCNSP0
+Schweppes Schweppes NPCNO00
 Scido Scido NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scigliano Scigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scott Scott NPCNSP0 # wiki
@@ -6662,6 +6668,7 @@ Stignano Stignano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stilo Stilo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stone Stone NPCNSP0 # wiki
 Stonehenge Stonehenge NPCNG00 # topònim-apertium-falta-gènere-nombre
+Strauss-Kahn Strauss-Kahn NPCNSP0
 Stuart Stuart NPCNSP0
 Stuttgart Stuttgart NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suazilandia Suazilandia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6861,6 +6868,8 @@ Thimbu Thimbu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Thomas Thomas NPCNSP0
 Thompson Thompson NPCNSP0 # wiki
 Thonon Thonon NPCNG00 # topònim-apertium-falta-gènere-nombre
+Thyssen Thyssen NPCNSP0
+Thyssen-Bornemisza Thyssen-Bornemisza NPCNSP0
 Tiana Tiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tiananmén Tiananmén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tiberia Tiberia NPFSSP0 # avl
@@ -7412,6 +7421,7 @@ Wamba Wamba NPMSSP0 # avl
 Wanda Wanda NPCSSP0 # avl
 Warren Warren NPCNSP0 # wiki
 Washington Washington NPCNG00 # topònim-apertium-falta-gènere-nombre
+Waterloo Waterloo NPCSG00
 Watson Watson NPCNSP0 # wiki
 Waziristán Waziristán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wellington Wellington NPCNG00 # topònim-apertium-falta-gènere-nombre

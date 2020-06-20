@@ -5,6 +5,7 @@
 #arcar=categories: V;model:abarcar;fonts: ap;
 #arromper=categories: V;model:romper;fonts: LT;
 #asosegar=categories: V;model:negar;fonts: LT;
+#autodiagnosticar=categories: V;model:abarcar;fonts: LT; NOU
 #autorreparar=categories: V;model:amar;fonts: LT; NOU!!
 #chuzar=categories: V;model:abalanzar;fonts: LT; NOU!!
 #ciar=categories: V;model:piar;fonts: LT;
