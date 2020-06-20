@@ -427,6 +427,7 @@
 #sobejo sobeja=categories: M;fonts: dr;
 #soldadero soldadera=categories: F;fonts: dr;
 #soltaní=categories: M;fonts: dr;
+#somo=categories: M;fonts: dr;
 #sorosí=categories: M;fonts: dr;
 #sotaní=categories: M;fonts: dr;
 #sotorrey=categories: M;fonts: dr;
@@ -55789,7 +55790,6 @@ somnolencia=categories: F;fonts: LT;
 somnámbulo somnámbula=categories: MF;fonts: LT;
 somnífero=categories: M;fonts: LT;
 somnílocuo somnílocua=categories: MF;fonts: LT;
-somo=categories: M;fonts: dr;
 somocismo=categories: M;fonts: dr;
 somontano=categories: M;fonts: LT;
 somonte=categories: M;fonts: LT;
