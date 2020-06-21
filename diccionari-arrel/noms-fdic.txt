@@ -56128,6 +56128,7 @@ subestación=categories: F;fonts: LT;
 subestimación=categories: F;fonts: LT;
 subetapa=categories: F;fonts: derivat;
 subexposición=categories: F;fonts: LT;
+subfacción=categories: F;fonts: derivat;
 subfacturación=categories: F;fonts: LT;
 subfamilia=categories: F;fonts: LT;
 subfiador subfiadora=categories: MF;fonts: LT;

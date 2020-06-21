@@ -3137,6 +3137,7 @@ Fortuna Fortuna NPFSSP0 # avl
 Fortunata Fortunata NPFSSP0 # avl
 Fortunato Fortunato NPMSSP0 # avl
 Forès Forès NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fox Fox NPFSO00
 Foyos Foyos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foz Foz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fraga Fraga NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6439,6 +6440,7 @@ Saíd Saíd NPMSSP0 # avl
 Saúl Saúl NPMSSP0 # avl
 Scalea Scalea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scandale Scandale NPCNG00 # topònim-apertium-falta-gènere-nombre
+Scarlett Scarlett NPFSSP0
 Schengen Schengen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schubert Schubert NPCNSP0 # wiki
