@@ -32307,6 +32307,7 @@ hombrada=categories: F;fonts: LT;
 hombradía=categories: F;fonts: LT;
 hombre=categories: M;fonts: LT;
 hombrecillo=categories: M;fonts: LT;
+hombrecito=categories: M;fonts: diminutiu;
 hombredad=categories: F;fonts: dr;
 hombrera=categories: F;fonts: LT;
 hombrillo=categories: M;fonts: LT;

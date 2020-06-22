@@ -32,6 +32,7 @@
 #mam [pl. mames]=categories: A;fonts: dr;
 #mareomotor mareomotora=categories: A;fonts: LT;
 #mejicano mejicana=categories: A;fonts: LT;
+#minuto minuta=categories: A;fonts: LT;
 #misero misera=categories: A;fonts: LT;
 #musco musca=categories: A;fonts: LT;
 #musgo musga=categories: A;fonts: LT;
@@ -15964,7 +15965,6 @@ minoritario minoritaria=categories: A;fonts: LT;
 minuano minuana=categories: A;fonts: dr;
 minucioso minuciosa=categories: A;fonts: LT;
 minusválido minusválida=categories: A;fonts: LT;
-minuto minuta=categories: A;fonts: LT;
 minúsculo minúscula=categories: A;fonts: LT;
 mioceno miocena=categories: A;fonts: LT;
 miocárdico miocárdica=categories: A;fonts: dr;
