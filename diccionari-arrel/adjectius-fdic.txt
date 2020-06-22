@@ -43,6 +43,7 @@
 #padrísimo=categories: AM;fonts: LT;
 #paquistanés paquistanesa=categories: A;fonts: LT;
 #poch=categories: A;fonts: dr;
+#poco poca=categories: A;fonts: LT; millor com a determinant
 #presago presaga=categories: A;fonts: LT;
 #quindécimo quindécima=categories: A;fonts: LT, desus;
 #recentín=categories: A;fonts: LT, desus;
@@ -19017,7 +19018,6 @@ pobretón pobretona=categories: A;fonts: LT;
 pocho pocha=categories: A;fonts: LT;
 pochotero pochotera=categories: A;fonts: dr;
 poché=categories: A;fonts: dr;
-poco poca=categories: A;fonts: LT;
 pocomam [pl. pocomames]=categories: A;fonts: dr;
 pocomchí [pl. pocomchís o pocomchíes]=categories: A;fonts: dr;
 podador podadora=categories: A;fonts: LT;
