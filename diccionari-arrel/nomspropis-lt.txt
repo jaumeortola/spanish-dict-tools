@@ -3589,8 +3589,8 @@ Hamás Hamás NPCSO00
 Hamílcar Hamílcar NPMSSP0 # avl
 Hangouts Hangouts NPCNO00
 Hannover Hannover NPCNG00 # topònim-apertium-falta-gènere-nombre
-Hanoi Hanoi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hans Hans NPCNSP0 # wiki
+Hanói Hanói NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harare Harare NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haro Haro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harold Harold NPCNSP0 # wiki
@@ -4111,6 +4111,7 @@ Kelly Kelly NPCNSP0 # wiki
 Ken Ken NPCNSP0 # wiki
 Kenia Kenia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kennedy Kennedy NPCNSP0
+Kent Kent NPCNSP0
 Kentucky Kentucky NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kenya Kenya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Keops Keops NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5440,6 +5441,7 @@ Oriol Oriol NPMSSP0 # avl
 Oriola Oriola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oriolo Oriolo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oristà Oristà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Orión Orión NPMSSP0
 Orlanda Orlanda NPFSSP0 # avl
 Orlando Orlando NPCSG00 # topònim-apertium
 Orlando Orlando NPMSSP0 # avl
@@ -5887,6 +5889,7 @@ Preixens Preixens NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prepirineo Prepirineo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prescott Prescott NPCNG00 # topònim-apertium-falta-gènere-nombre
 Presentación Presentación NPFSSP0 # avl
+Presley Presley NPCNSP0
 Prestige Prestige NPMSO00
 Pretoria Pretoria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prima Prima NPFSSP0 # avl
@@ -6693,6 +6696,7 @@ Sulpicio Sulpicio NPMSSP0 # avl
 Sumacàrcer Sumacàrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Supermán Supermán NPMSSP0
 Sur Sur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suramérica Suramérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suresnes Suresnes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7058,6 +7062,7 @@ Tuéjar Tuéjar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tàrbena Tàrbena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tàrrega Tàrrega NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tácito Tácito NPMSSP0 # avl
+Támesis Támesis NPMSG00
 Tánger Tánger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tántalo Tántalo NPMSSP0 # avl
 Tárbena Tárbena NPCNG00 # topònim-apertium-falta-gènere-nombre
