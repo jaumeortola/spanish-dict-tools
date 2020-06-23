@@ -56572,6 +56572,7 @@ supermercado=categories: M;fonts: LT;
 supermicroordenador=categories: M;fonts: LT;
 superminiordenador=categories: M;fonts: LT;
 supermodelo=categories: MF;fonts: dr;
+supermujer=categories: F;fonts: LT;
 supernova=categories: F;fonts: LT;
 supernumerario supernumeraria=categories: MF;fonts: LT;
 superorden [pl. superórdenes]=categories: M;fonts: LT;

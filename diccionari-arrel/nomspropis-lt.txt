@@ -1331,6 +1331,7 @@ Benjamín Benjamín NPMSSP0 # avl
 Benlloc Benlloc NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benlloch Benlloch NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bentham Bentham NPCNSP0
+Benz Benz NPCNO00
 Benín Benín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benítez Benítez NPCNSP0 # wiki common surnames
 Benós Benós NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6702,7 +6703,7 @@ Sulpicio Sulpicio NPMSSP0 # avl
 Sumacàrcer Sumacàrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
-Supermán Supermán NPMSSP0
+Superman Superman NPMSSP0
 Sur Sur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suramérica Suramérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suresnes Suresnes NPCNG00 # topònim-apertium-falta-gènere-nombre
