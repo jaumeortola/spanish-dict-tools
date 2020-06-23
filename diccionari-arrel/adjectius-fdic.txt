@@ -24885,6 +24885,7 @@ vidrioso vidriosa=categories: A;fonts: LT;
 vidual=categories: A;fonts: LT;
 viedmense=categories: A;fonts: dr;
 viejarrón viejarrona=categories: A;fonts: dr;
+viejito viejita=categories: A;fonts: diminutiu;
 viejo vieja [sup. viejísimo]=categories: A;fonts: LT;
 viejurgo viejurga=categories: A;fonts: dr;
 vienense=categories: A;fonts: dr;

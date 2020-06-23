@@ -119,6 +119,10 @@ chucho chucho I
 chus chus I
 cielos cielos I
 cien cien DN0CP0
+cierta cierto DI0FS0
+ciertas cierto DI0FP0
+cierto cierto DI0MS0
+ciertos cierto DI0MP0
 cinco cinco DN0CP0
 cincuenta cincuenta DN0CP0
 circa circa SPS00

@@ -622,7 +622,7 @@ Amita Amita NPFSSP0 # avl
 Amor Amor NPCSSP0 # avl
 Amorosa Amorosa NPFSSP0 # avl
 Amoroso Amoroso NPMSSP0 # avl
-Amparo Amparo NPFSSP0 # avl
+Amparo Amparo NPCSSP0 # avl
 Ampliada Ampliada NPFSSP0 # avl
 Ampliado Ampliado NPMSSP0 # avl
 Amposta Amposta NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1347,6 +1347,7 @@ Berguedà Berguedà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berkeley Berkeley NPCSG00
 Berlandina Berlandina NPFSSP0 # avl
 Berlandino Berlandino NPMSSP0 # avl
+Berlusconi Berlusconi NPCNSP0
 Berlín Berlín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bermeo Bermeo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bermudas Bermudas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2425,6 +2426,7 @@ Davis Davis NPCNSP0 # wiki
 Davos Davos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dayana Dayana NPFSSP0
 Deborah Deborah NPFSSP0
+Debussy Debussy NPCNSP0
 Decio Decio NPMSSP0 # avl
 Deià Deià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dekan Dekan NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4338,7 +4340,9 @@ Linyola Linyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Liria Liria NPFSG00 # topònim-apertium
 Liria Liria NPFSSP0 # avl
 Lirio Lirio NPFSSP0 # avl
+Lirio Lirio NPMSSP0
 Lirios Lirios NPFSSP0 # avl
+Lirios Lirios NPMPSP0
 Lis Lis NPFSSP0 # avl
 Lisandra Lisandra NPFSSP0 # avl
 Lisandro Lisandro NPMSSP0 # avl
@@ -5372,8 +5376,8 @@ Olimpia Olimpia NPFSSP0 # avl
 Olimpio Olimpio NPMSSP0 # avl
 Oliola Oliola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olius Olius NPCNG00 # topònim-apertium-falta-gènere-nombre
+Oliva Oliva NPCNSP0 # avl
 Oliva Oliva NPFSNG00 # topònim-apertium
-Oliva Oliva NPFSSP0 # avl
 Olivadi Olivadi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olivares Olivares NPCNSP0 # wiki common surnames
 Olivella Olivella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5948,6 +5952,7 @@ Pureza Pureza NPFSSP0 # avl
 Purificación Purificación NPFSSP0 # avl
 Purísima Purísima NPFSSP0 # avl
 Purísimo Purísimo NPMSSP0 # avl
+Putin Putin NPCNSP0
 Puzol Puzol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Puçol Puçol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pyongyang Pyongyang NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6325,6 +6330,7 @@ Sagàs Sagàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sahara Sahara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sahel Sahel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
+Saint-Exupéry Saint-Exupéry NPCNSP0
 Saint-Malo Saint-Malo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saix Saix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sajonia Sajonia NPCNG00 # topònim-apertium-falta-gènere-nombre
