@@ -57,6 +57,7 @@
 #trafalmejas=categories: AI;fonts: LT;
 #usurero usurera=categories: A;fonts: LT;
 #veintavo veintava=categories: AO;fonts: LT, desus;
+#verso versa=categories: A;fonts: LT;
 #zanquivano zanquivana=categories: A;fonts: LT, desus;
 #zaragocí=categories: A;fonts: dr;
 #éntico éntica=categories: A;fonts: LT;
@@ -24811,7 +24812,6 @@ versalilla=categories: A;fonts: LT;
 versalita=categories: A;fonts: LT;
 versallesco versallesca=categories: A;fonts: LT;
 versificador versificadora=categories: A;fonts: LT;
-verso versa=categories: A;fonts: LT;
 versátil=categories: A;fonts: LT;
 vertebrador vertebradora=categories: A;fonts: LT;
 vertebral=categories: A;fonts: LT;

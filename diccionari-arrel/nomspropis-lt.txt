@@ -4201,6 +4201,7 @@ Laquedivas Laquedivas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laquesis Laquesis NPFSSP0 # avl
 Lara Lara NPFSSP0 # avl
 Larache Larache NPCNG00 # topònim-apertium-falta-gènere-nombre
+Larios Larios NPCNSP0
 Larraun Larraun NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larraya Larraya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larry Larry NPCNSP0 # wiki
