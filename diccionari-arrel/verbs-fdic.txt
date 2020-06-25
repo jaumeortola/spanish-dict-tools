@@ -13,6 +13,7 @@
 #colidir=categories: V;model:partir;fonts: ap;
 #desanonimizar=categories: V;model:abalanzar;fonts: fundeu; NOU
 #desconflictuar=categories: V;model:actuar;fonts: LT; NOU!!
+#desconsolidar=categories: V;model:amar;fonts: LT; NOU!!
 #desglobalizar=categories: V;model:abalanzar;fonts: LT; NOU
 #desintonizar=categories: V;model:abalanzar;fonts: LT; NOU
 #desnegar=categories: V;model:negar;fonts: ap;
@@ -21,6 +22,7 @@
 #fruir=categories: V;model:fluir;fonts: LT;
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!
 #grafiar=categories: V;model:enviar;fonts: ap;
+#graficar=categories: V;model:abarcar;fonts: dr; NOU
 #gruir=categories: V;model:fluir;fonts: LT;
 #implotar=categories: V;model:amar;fonts: ap;
 #luir=categories: V;model:fluir;fonts: LT;
