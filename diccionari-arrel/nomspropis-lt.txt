@@ -141,6 +141,7 @@
 #Zimbabwe Zimbabwe NPCNG00 # topònim-apertium-falta-gènere-nombre
 #eSwatini eSwatini NPCNG00 # topònim-apertium-falta-gènere-nombre
 #l'Atzúvia l'Atzúvia NPCNG00 # topònim-apertium-falta-gènere-nombre
+ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
 AFP AFP NPCNO00
 AI AI NPFSO00
@@ -5145,6 +5146,7 @@ Músorgski Músorgski NPCNSP0 # wiki
 Münchhausen Münchhausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 N'Djanema N'Djanema NPCNG00 # topònim-apertium-falta-gènere-nombre
 NAFTA NAFTA NPMSO00
+NBA NBA NPFSO00
 Naamán Naamán NPMSSP0 # avl
 Nablús Nablús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nabucodonosor Nabucodonosor NPMSSP0 # avl
