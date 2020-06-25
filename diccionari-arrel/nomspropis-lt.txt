@@ -687,6 +687,7 @@ Angarita Angarita NPCNSP0
 Angelina Angelina NPFSSP0 # avl
 Angelines Angelines NPFSSP0 # avl
 Angelino Angelino NPMSSP0 # avl
+Angelópolis Angelópolis NPCSG00
 Angers Angers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anglesola Anglesola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anglès Anglès NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -874,6 +875,7 @@ Arminia Arminia NPFSSP0 # avl
 Arminio Arminio NPMSSP0 # avl
 Armogasto Armogasto NPMSSP0 # avl
 Armonía Armonía NPFSSP0 # avl
+Armstrong Armstrong NPCNSP0
 Arnalda Arnalda NPFSSP0 # avl
 Arnaldo Arnaldo NPMSSP0 # avl
 Arnedo Arnedo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1599,6 +1601,7 @@ Bujumbura Bujumbura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulgaria Bulgaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bullas Bullas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bundesland Bundesland NPMSO00
+Bundesliga Bundesliga NPFSO00
 Bundesrat Bundesrat NPMSO00
 Bundestag Bundestag NPMSO00
 Bunyol Bunyol NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1643,6 +1646,7 @@ CEST CEST NPCNO00 # wiki
 CIA CIA NPFSO00 # wiki
 CIS CIS NPMSO00
 CLP CLP NPCNO00
+CNT CNT NPFSO00
 COI COI NPMSO00
 COU COU NPMNO00
 Cabacés Cabacés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1955,6 +1959,8 @@ Ceferina Ceferina NPFSSP0 # avl
 Ceferino Ceferino NPMSSP0 # avl
 Cehegín Cehegín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ceilán Ceilán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Celaya Celaya NPCNSP0
+Celaya Celaya NPCSG00
 Celedonia Celedonia NPFSSP0 # avl
 Celedonio Celedonio NPMSSP0 # avl
 Celeste Celeste NPFSSP0 # avl
@@ -3619,6 +3625,7 @@ Hannover Hannover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hans Hans NPCNSP0 # wiki
 Hanói Hanói NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harare Harare NPCNG00 # topònim-apertium-falta-gènere-nombre
+Harlem Harlem NPCSG00
 Haro Haro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harold Harold NPCNSP0 # wiki
 Harris Harris NPCNSP0 # wiki
@@ -3626,9 +3633,11 @@ Harrison Harrison NPCNSP0 # wiki
 Harry Harry NPCNSP0 # wiki
 Hartford Hartford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harvard Harvard NPCNG00 # topònim-apertium-falta-gènere-nombre
+Harvey Harvey NPCNSP0
 Hasán Hasán NPMSSP0 # avl
 Hathor Hathor NPCNSP0 # wiki
 Hattiesburg Hattiesburg NPCSG0
+Hawkins Hawkins NPCNSP0
 Hawái Hawái NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haydn Haydn NPCNSP0 # wiki
 Heathrow Heathrow NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3726,8 +3735,10 @@ Hilberto Hilberto NPMSSP0 # avl
 Hilda Hilda NPFSSP0 # avl
 Hildeberto Hildeberto NPMSSP0 # avl
 Hildebrando Hildebrando NPMSSP0 # avl
+Hillary Hillary NPFSSP0
 Hilton Hilton NPCNSP0
-Himalaya Himalaya NPCNG00 # topònim-apertium-falta-gènere-nombre
+Himalaya Himalaya NPMSG00 # topònim-apertium
+Himalayas Himalaya NPMPG00
 Himberto Himberto NPMSSP0 # avl
 Himeneo Himeneo NPMSSP0 # avl
 Hinojosa Hinojosa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3809,7 +3820,9 @@ Hécuba Hécuba NPFSSP0 # avl
 Hérault Hérault NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hércules Hércules NPMSSP0 # avl
 IBM IBM NPCNO00 # wiki
+ICANN ICANN NPFSO00
 INE INE NPMSO00
+INS INS NPMSO00
 INSS INSS NPMSO00
 IRA IRA NPMSO00
 ISIS ISIS NPCNO00
@@ -4002,6 +4015,7 @@ Jeremy Jeremy NPCNSP0
 Jeremías Jeremías NPMSSP0 # avl
 Jeresa Jeresa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jerez Jerez NPCNG00 # topònim-apertium-falta-gènere-nombre
+Jericó Jericó NPCSG00
 Jerjes Jerjes NPMSSP0 # avl
 Jerry Jerry NPCNSP0 # wiki
 Jersey Jersey NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4875,6 +4889,7 @@ Menandro Menandro NPMSSP0 # avl
 Mencio Mencio NPMSSP0 # avl
 Mencía Mencía NPFSSP0 # avl
 Menda Menda NPFSSP0 # avl
+Mendel Mendel NPCNSP0
 Mendicino Mendicino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mendo Mendo NPMSSP0 # avl
 Mendoza Mendoza NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5073,6 +5088,7 @@ Montesa Montesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montesinos Montesinos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montesquieu Montesquieu NPCNSP0
 Montesquiu Montesquiu NPCNG00 # topònim-apertium-falta-gènere-nombre
+Montessori Montessori NPCNSP0
 Montevideo Montevideo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montferrer Montferrer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montferri Montferri NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5252,6 +5268,7 @@ Nefertiti Nefertiti NPFSSP0
 Neftalí Neftalí NPMSSP0 # avl
 Negrals Negrals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nehemías Nehemías NPMSSP0 # avl
+Neil Neil NPMSSP0
 Nelson Nelson NPCNSP0
 Nemesia Nemesia NPFSSP0 # avl
 Nemesio Nemesio NPMSSP0 # avl
@@ -5349,6 +5366,7 @@ Nuria Nuria NPFSSP0 # avl
 Nuña Nuña NPFSSP0 # avl
 Nuño Nuño NPMSSP0 # avl
 Nàquera Nàquera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nájera Nájera NPCNSP0
 Nápoles Nápoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Náquera Náquera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nélida Nélida NPFSSP0 # avl
@@ -6423,6 +6441,7 @@ Sami Sami NPCNSP0 # wiki
 Samo Samo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Samoa Samoa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Samotracia Samotracia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sampieri Sampieri NPCNSP0
 Samuel Samuel NPMSSP0 # avl
 San'a San'a NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sanabria Sanabria NPFSG00
@@ -6886,6 +6905,7 @@ Teodosio Teodosio NPMSSP0 # avl
 Teodota Teodota NPFSSP0 # avl
 Teodoto Teodoto NPMSSP0 # avl
 Teofrasto Teofrasto NPMSSP0 # avl
+Teotihuacán Teotihuacán NPCSG00
 Tere Tere NPFSSP0 # avl
 Terencia Terencia NPFSSP0 # avl
 Terencio Terencio NPMSSP0 # avl
@@ -7515,6 +7535,7 @@ Witiza Witiza NPMSSP0 # avl
 Wolf Wolf NPCNSP0 # wiki
 Wolfgang Wolfgang NPMSSP0 # wiki
 WooCommerce WooCommerce NPCNO00
+Woody Woody NPCNSP0
 Wright Wright NPCNSP0 # wiki
 Wuhan Wuhan NPCSG00
 Wyoming Wyoming NPCNG00 # topònim-apertium-falta-gènere-nombre
