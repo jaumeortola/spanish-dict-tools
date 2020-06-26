@@ -1158,6 +1158,7 @@ Bartualdo Bartualdo NPMSSP0 # avl
 Baruc Baruc NPMSSP0 # avl
 Barx Barx NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barxeta Barxeta NPCNG00 # topònim-apertium-falta-gènere-nombre
+Barça Barça NPMSO00
 Baréin Baréin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Basilea Basilea NPCSG00 # topònim-apertium
 Basilea Basilea NPFSSP0 # avl
