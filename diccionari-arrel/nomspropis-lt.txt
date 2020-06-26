@@ -145,6 +145,7 @@ ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
 AFP AFP NPCNO00
 AI AI NPFSO00
+AIReF AIReF NPFSO00
 AMLO AMLO NPMSSP0
 ANSES ANSES NPFSO00
 ANSI ANSI NPCNO00
@@ -2336,6 +2337,7 @@ Cuartell Cuartell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuarto Cuarto NPMSSP0 # avl
 Cuatretonda Cuatretonda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuatretondeta Cuatretondeta NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cuauhtémoc Cuauhtémoc NPCSG00
 Cuauhtémoc Cuauhtémoc NPMSSP0
 Cuautla Cuautla NPCSG00
 Cuba Cuba NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3637,6 +3639,7 @@ Harvey Harvey NPCNSP0
 Hasán Hasán NPMSSP0 # avl
 Hathor Hathor NPCNSP0 # wiki
 Hattiesburg Hattiesburg NPCSG0
+Hawking Hawking NPCNSP0
 Hawkins Hawkins NPCNSP0
 Hawái Hawái NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haydn Haydn NPCNSP0 # wiki
@@ -6538,6 +6541,7 @@ Segre Segre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Segrià Segrià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Segunda Segunda NPFSSP0 # avl
 Segundo Segundo NPMSSP0 # avl
+Segura Segura NPCSG00
 Selena Selena NPFSSP0 # avl
 Selene Selene NPFSSP0 # avl
 Sella Sella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7342,6 +7346,7 @@ Vicen Vicen NPFSSP0 # avl
 Vicenta Vicenta NPFSSP0 # avl
 Vicente Vicente NPMSSP0 # avl
 Vich Vich NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vichada Vichada NPCSG00
 Vichy Vichy NPCNG00 # topònim-apertium-falta-gènere-nombre
 Victoria Victoria NPCNG00 # topònim-apertium
 Victoria Victoria NPFSSP0 # avl
