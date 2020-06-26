@@ -3639,7 +3639,7 @@ Harvard Harvard NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harvey Harvey NPCNSP0
 Hasán Hasán NPMSSP0 # avl
 Hathor Hathor NPCNSP0 # wiki
-Hattiesburg Hattiesburg NPCSG0
+Hattiesburg Hattiesburg NPCSG00
 Hawking Hawking NPCNSP0
 Hawkins Hawkins NPCNSP0
 Hawái Hawái NPCNG00 # topònim-apertium-falta-gènere-nombre
