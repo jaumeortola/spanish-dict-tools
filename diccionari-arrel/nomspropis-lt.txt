@@ -1551,6 +1551,7 @@ Brema Brema NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bremen Bremen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brenda Brenda NPFSSP0 # avl
 Bretaña Bretaña NPCNG00 # topònim-apertium-falta-gènere-nombre
+Brexit Brexit NPMSO00
 Brian Brian NPCNSP0 # wiki
 Brianda Brianda NPFSSP0 # avl
 Briatico Briatico NPCNG00 # topònim-apertium-falta-gènere-nombre

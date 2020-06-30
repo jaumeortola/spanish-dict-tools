@@ -16636,6 +16636,7 @@ naciente=categories: A;fonts: LT;
 nacional=categories: A;fonts: LT;
 nacionalcatólico nacionalcatólica=categories: A;fonts: LT;
 nacionalista=categories: A;fonts: LT;
+nacionalpopulista=categories: A;fonts: fundeu;
 nacionalsindicalista=categories: A;fonts: LT;
 nacionalsocialista=categories: A;fonts: LT;
 naco naca=categories: A;fonts: dr;
