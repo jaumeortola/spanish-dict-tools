@@ -6211,6 +6211,7 @@ Rigalda Rigalda NPFSSP0 # avl
 Rigaldo Rigaldo NPMSSP0 # avl
 Rigoberta Rigoberta NPFSSP0 # avl
 Rigoberto Rigoberto NPMSSP0 # avl
+Rimbaud Rimbaud NPCNSP0
 Rimski-Kórsakov Rimski-Kórsakov NPCNSP0 # wiki
 Riner Riner NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rioja Rioja NPCNG00 # topònim-apertium-falta-gènere-nombre

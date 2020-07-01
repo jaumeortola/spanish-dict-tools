@@ -19730,7 +19730,6 @@ profecticio profecticia=categories: A;fonts: LT;
 profesional=categories: A;fonts: LT;
 profeso profesa=categories: A;fonts: LT;
 profesoral=categories: A;fonts: LT;
-professional=categories: A;fonts: LT;
 profetal=categories: A;fonts: dr;
 profetizador profetizadora=categories: A;fonts: LT;
 proficiente=categories: A;fonts: LT;

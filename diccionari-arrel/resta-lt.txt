@@ -225,7 +225,12 @@ dieciocho dieciocho DN0CP0
 diecisiete diecisiete DN0CP0
 dieciséis dieciséis DN0CP0
 diez diez DN0CP0
+diferentes diferentes DI0CP0
 dios dios I
+distintas distintos DI0FP0
+distintos distintos DI0MP0
+diversas diversos DI0FP0
+diversos diversos DI0MP0
 dl dl NCMN000
 dm dm NCMN000
 doce doce DN0CP0
