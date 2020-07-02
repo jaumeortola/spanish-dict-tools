@@ -2384,6 +2384,7 @@ Cándido Cándido NPMSSP0 # avl
 Cárcer Cárcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cárdenas Cárdenas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cárdenas Cárdenas NPCNSP0 # wiki common surnames
+Cáritas Cáritas NPFNO00
 Cárpatos Cárpatos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cástor Cástor NPMSSP0 # avl
 Cáucaso Cáucaso NPCNG00 # topònim-apertium-falta-gènere-nombre
