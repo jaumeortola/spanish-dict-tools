@@ -1,4 +1,3 @@
-
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4207,6 +4206,7 @@ Kuwait Kuwait NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kyoto Kyoto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Königsberg Königsberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 L'Aquila L'Aquila NPCNG00 # topònim-apertium-falta-gènere-nombre
+LATAM LATAM NPFSG00
 Labiano Labiano NPMSSP0 # avl
 Labrador Labrador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lacio Lacio NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4260,6 +4260,7 @@ Larraya Larraya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larry Larry NPCNSP0 # wiki
 Lasarte Lasarte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Latakia Latakia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Latam Latam NPFSG00
 Latinoamérica Latinoamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lattarico Lattarico NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laudelina Laudelina NPFSSP0 # avl
