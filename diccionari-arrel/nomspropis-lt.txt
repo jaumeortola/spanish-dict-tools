@@ -1416,6 +1416,7 @@ Bigastro Bigastro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bigorra Bigorra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bigues Bigues NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bilbao Bilbao NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bildu Bildu NPMSO00
 Bill Bill NPCNSP0 # wiki
 Billboard Billboard NPCNSP0 # wiki
 Billeneta Billeneta NPCNG00 # topònim-apertium-falta-gènere-nombre

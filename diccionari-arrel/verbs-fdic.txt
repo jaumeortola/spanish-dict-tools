@@ -7,6 +7,7 @@
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
+#desparasitar=categories: V;model:amar;fonts: LT; NOU
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
@@ -20,6 +21,7 @@
 #malcreer=categories: V;model:leer;fonts: ap;
 #mayorar=categories: V;model:amar;fonts: ap;
 #miar=categories: V;model:piar;fonts: LT;
+#parasitar=categories: V;model:amar;fonts: LT; NOU
 #pasturar=categories: V;model:amar;fonts: ap;
 #pañear=categories: V;model:amar;fonts: ap;
 #pegilar=categories: V;model:amar;fonts: ap;
