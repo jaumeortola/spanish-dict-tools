@@ -2381,6 +2381,7 @@ Cámar Cámar NPMSSP0 # avl
 Cámpora Cámpora NPCNSP0
 Cándida Cándida NPFSSP0 # avl
 Cándido Cándido NPMSSP0 # avl
+Cánovas Cánovas NPCNSP0
 Cárcer Cárcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cárdenas Cárdenas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cárdenas Cárdenas NPCNSP0 # wiki common surnames
@@ -3827,6 +3828,7 @@ Hérault Hérault NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hércules Hércules NPMSSP0 # avl
 IBM IBM NPCNO00 # wiki
 ICANN ICANN NPFSO00
+ICO ICO NPMSO00
 INE INE NPMSO00
 INS INS NPMSO00
 INSS INSS NPMSO00
@@ -5573,6 +5575,7 @@ PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00 # wiki
 PE PE NPCNO00
 PNG PNG NPCNO00 # wiki
+PNV PNV NPMSO00
 PP PP NPCNO00 # wiki
 PSE PSE NPMSO00
 PSN PSN NPCNO00
@@ -7451,6 +7454,7 @@ Vinyols Vinyols NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viola Viola NPFSSP0 # avl
 Violante Violante NPFSSP0 # avl
 Violeta Violeta NPFSSP0 # avl
+Viollet-le-Duc Viollet-le-Duc NPCNSP0
 Virchinia Virchinia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Virgilia Virgilia NPFSSP0 # avl
 Virgilio Virgilio NPMSSP0 # avl
