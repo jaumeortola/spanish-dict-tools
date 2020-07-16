@@ -9,7 +9,6 @@
 #autogenerar=categories: V;model:amar;fonts: LT; NOU
 #autopublicar=categories: V;model:abarcar;fonts: LT; NOU
 #autopublicitar=categories: V;model:amar;fonts: LT; NOU
-#autorretratar=categories: V;model:amar;fonts: LT; NOU
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
