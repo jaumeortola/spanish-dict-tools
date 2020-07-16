@@ -5373,6 +5373,7 @@ Nulles Nulles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Numancia Numancia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nuria Nuria NPFSG00 # topònim-apertium
 Nuria Nuria NPFSSP0 # avl
+Nuuk Nuuk NPCNG00
 Nuña Nuña NPFSSP0 # avl
 Nuño Nuño NPMSSP0 # avl
 Nàquera Nàquera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6866,6 +6867,7 @@ Tarrés Tarrés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tarsia Tarsia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tarsicia Tarsicia NPFSSP0 # avl
 Tarsicio Tarsicio NPMSSP0 # avl
+Tascón Tascón NPCNSP0
 Tashkent Tashkent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tasia Tasia NPFSSP0 # avl
 Tasio Tasio NPMSSP0 # avl
@@ -7198,6 +7200,7 @@ Unesco Unesco NPFSO00 # wiki
 Unfredo Unfredo NPMSSP0 # avl
 Unha Unha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Unicef Unicef NPMSO00
+Unicode Unicode NPCNO00
 Unix Unix NPCNO00 # wiki
 Urales Urales NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urano Urano NPCNG00 # topònim-apertium-falta-gènere-nombre

@@ -35,6 +35,7 @@
 #preincubar=categories: V;model:amar;fonts: LT; NOU
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #remugar=categories: V;model:cargar;fonts: ap;
+#resilvestrar=categories: V;model:amar;fonts: fundeu NOU;
 #retroferbular=categories: V;model:amar;fonts: ap;
 #retroiluminar=categories: V;model:amar;fonts: LT; NOU
 #trasportar=categories: V;model:amar;fonts: ap;
