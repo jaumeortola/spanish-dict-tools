@@ -34,6 +34,7 @@
 #pegilar=categories: V;model:amar;fonts: ap;
 #preincubar=categories: V;model:amar;fonts: LT; NOU
 #raizar=categories: V;model:abalanzar;fonts: dr;
+#readecuar=categories: V;model:adecuar;fonts: LT; NOU
 #remugar=categories: V;model:cargar;fonts: ap;
 #resilvestrar=categories: V;model:amar;fonts: fundeu NOU;
 #retroferbular=categories: V;model:amar;fonts: ap;
