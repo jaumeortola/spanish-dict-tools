@@ -39,6 +39,7 @@
 #resilvestrar=categories: V;model:amar;fonts: fundeu NOU;
 #retroferbular=categories: V;model:amar;fonts: ap;
 #retroiluminar=categories: V;model:amar;fonts: LT; NOU
+#ruralizar=categories: V;model:abalanzar;fonts: derivat; NOU
 #trasportar=categories: V;model:amar;fonts: ap;
 #triar=categories: V;model:piar;fonts: LT;
 abajar=categories: V;model:amar;fonts: LT;
