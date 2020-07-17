@@ -4906,6 +4906,7 @@ Mendoza Mendoza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mendoza Mendoza NPCNSP0 # wiki common surnames
 Menelao Menelao NPMSSP0 # avl
 Menfis Menfis NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mengele Mengele NPCNSP0
 Menorca Menorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menàrguens Menàrguens NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menéndez Menéndez NPCNSP0 # wiki
