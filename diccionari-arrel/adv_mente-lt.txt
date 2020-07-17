@@ -1943,6 +1943,7 @@ halagadoramente halagadoramente RG # lt2
 halagüeñamente halagüeñamente RG # rae
 hambrientamente hambrientamente RG # lt
 harmoniosamente harmoniosamente RG # lt2
+harmónicamente harmónicamente RG # lt
 hartamente hartamente RG # rae
 hastiosamente hastiosamente RG # lt
 hazañosamente hazañosamente RG # rae
