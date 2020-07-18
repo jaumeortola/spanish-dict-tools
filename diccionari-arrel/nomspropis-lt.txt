@@ -1028,7 +1028,7 @@ Azarías Azarías NPMSSP0 # avl
 Azaña Azaña NPCNSP0 # wiki
 Azcapotzalco Azcapotzalco NPCSG00
 Azerbaiyán Azerbaiyán NPCNG00 # topònim-apertium-falta-gènere-nombre
-Aznar Aznar NPMSSP0 # avl
+Aznar Aznar NPCNSP0
 Azores Azores NPCNG00 # topònim-apertium-falta-gènere-nombre
 Azorina Azorina NPFSSP0 # avl
 Azucena Azucena NPFSSP0 # avl
@@ -6110,6 +6110,7 @@ Rainiero Rainiero NPMSSP0 # avl
 Rais Rais NPMSSP0 # avl
 Raisa Raisa NPFSSP0 # avl
 Rajadell Rajadell NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rajoy Rajoy NPCNSP0
 Rakuten Rakuten NPCNO00
 Raleigh Raleigh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ramacca Ramacca NPCNG00 # topònim-apertium-falta-gènere-nombre
