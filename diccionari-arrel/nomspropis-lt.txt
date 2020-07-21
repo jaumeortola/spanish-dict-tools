@@ -3608,6 +3608,7 @@ Gósol Gósol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Göteborg Göteborg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Güelfa Güelfa NPFSSP0 # avl
 Güell Güell NPCNSP0 # wiki
+Gürtel Gürtel NPFSO00
 HBO HBO NPCNSP0
 Habacuc Habacuc NPMSSP0 # avl
 Habsburgo Habsburgo NPCNSP0 # wiki
@@ -6090,6 +6091,7 @@ Quito Quito NPCNG00 # topònim-apertium-falta-gènere-nombre
 RDA RDA NPFSG00
 RFA RFA NPFSG00
 RFC RFC NPCNO00
+RTVV RTVV NPFSO00
 RUT RUT NPMSO00
 Ra Ra NPMSSP0 # avl
 Rabat Rabat NPCNG00 # topònim-apertium-falta-gènere-nombre
