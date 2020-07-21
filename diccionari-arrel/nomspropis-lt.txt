@@ -1042,6 +1042,7 @@ BCN BCN NPCNG00 # topònim-apertium-falta-gènere-nombre
 BCN BCN NPCSG00
 BEI BEI NPMSO00
 BMW BMW NPCNO00 # wiki
+BNG BNG NPMSO00
 BOE BOE NPMNO00
 Baal Baal NPMSSP0 # avl
 Baalbek Baalbek NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3835,6 +3836,7 @@ INSS INSS NPMSO00
 IRA IRA NPMSO00
 ISIS ISIS NPCNO00
 ISO ISO NPCNO00 # wiki
+IU IU NPFSO00
 Ian Ian NPCNSP0 # wiki
 Ibarra Ibarra NPCNSP0
 Iberia Iberia NPCNG00 # topònim-apertium-falta-gènere-nombre
