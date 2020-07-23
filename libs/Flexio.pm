@@ -265,7 +265,7 @@ sub verb_pronouns {
         $stem =~ s/e$/é/;
         $stem =~ s/i$/í/;
 
-        foreach my $key ("me", "nos", "os", "lo", "los" , "la", "las" , "le", "les") { #"se"    apertium sí: "te",
+        foreach my $key ("me", "nos", "os", "lo", "los" , "la", "las" , "le", "les", "te") { #"se"    apertium sí: "te",
             my $stemhere = $form;
             $stemhere =~ s/á$/a/;
             $stemhere =~ s/é$/e/;
@@ -274,8 +274,8 @@ sub verb_pronouns {
             $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
         }
        
-        foreach my $key1 ("me",  "se", "nos", "os") {  # apertium sí: "te",
-            foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
+        foreach my $key1 ("me",  "se", "nos", "os" , "te") {  # apertium sí: "te",
+            foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") { # le, les infreqüents?
                 if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
                 my $stemhere = $stem;
                 if ($key1 =~ /^os$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
