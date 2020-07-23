@@ -1468,6 +1468,7 @@ Blasa Blasa NPFSSP0 # avl
 Blasco Blasco NPMSSP0 # avl
 Blois Blois NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bloom Bloom NPCNSP0
+Bloomberg Bloomberg NPCNSP0
 Blue Blue NPCNSP0 # wiki
 Boadilla Boadilla NPCSG00
 Bobby Bobby NPCNSP0 # wiki
@@ -1676,6 +1677,7 @@ Cabildo Cabildo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cabilia Cabilia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cabiria Cabiria NPFSSP0 # avl
 Cabiro Cabiro NPMSSP0 # avl
+Cablevisión Cablevisión NPCSO00
 Cabrera Cabrera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cabrera Cabrera NPCNSP0 # wiki common surnames
 Cabrils Cabrils NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1778,6 +1780,7 @@ Camporotondo Camporotondo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camporrobles Camporrobles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campos Campos NPCNSP0 # wiki common surnames
 Camprodon Camprodon NPCNG00 # topònim-apertium-falta-gènere-nombre
+Campuzano Campuzano NPCNSP0
 Camós Camós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canadá Canadá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canals Canals NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2066,6 +2069,7 @@ Chihuahua Chihuahua NPCSG00
 Chilches Chilches NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chile Chile NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chima Chima NPFSSP0 # avl
+Chimborazo Chimborazo NPMSG00
 Chimo Chimo NPMSSP0 # avl
 China China NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chipre Chipre NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2090,6 +2094,7 @@ Chóvar Chóvar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cibeles Cibeles NPFSSP0 # avl
 Cicerón Cicerón NPMSSP0 # avl
 Ciempozuelos Ciempozuelos NPCSG00
+Cienfuegos Cienfuegos NPCNG00
 Cieza Cieza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cifuentes Cifuentes NPCNSP0
 Cinca Cinca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2168,6 +2173,7 @@ Cloe Cloe NPFSSP0 # avl
 Cloralex Cloralex NPCNO00
 Clorinda Clorinda NPFSSP0 # avl
 Cloris Cloris NPFSSP0 # avl
+Clotaldo Clotaldo NPMSSP0
 Clotilde Clotilde NPFSSP0 # avl
 Cloé Cloé NPFSSP0 # avl
 Cluj-Napoca Cluj-Napoca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3242,6 +3248,7 @@ Fresina Fresina NPFSSP0 # avl
 Freud Freud NPCNSP0 # wiki
 Friburgo Friburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Frida Frida NPFSSP0 # avl
+Friedman Friedman NPCNSP0
 Friedrich Friedrich NPCNSP0 # wiki
 Friné Friné NPFSSP0 # avl
 Frisia Frisia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3852,6 +3859,7 @@ Humberta Humberta NPFSSP0 # avl
 Humbertina Humbertina NPFSSP0 # avl
 Humbertino Humbertino NPMSSP0 # avl
 Humberto Humberto NPMSSP0 # avl
+Humboldt Humboldt NPCNSP0
 Humildad Humildad NPFSSP0 # avl
 Humilde Humilde NPMSSP0 # avl
 Humiliana Humiliana NPFSSP0 # avl
@@ -5453,6 +5461,7 @@ Núremberg Núremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Núñez Núñez NPCNSP0 # wiki common surnames
 OCASA OCASA NPCNO00
 OCDE OCDE NPFSO00
+OIT OIT NPFSO00
 OLAF OLAF NPFSO00
 OMS OMS NPFSO00 # wiki
 ONU ONU NPFSO00
@@ -6189,6 +6198,7 @@ Ramos Ramos NPCNSP0 # wiki common surnames
 Ramsés Ramsés NPMSSP0 # avl
 Ramírez Ramírez NPCNSP0 # wiki common surnames
 Ramón Ramón NPMSSP0 # avl
+Rancagua Rancagua NPCSG00
 Randazzo Randazzo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Randolfa Randolfa NPFSSP0 # avl
 Randolfo Randolfo NPMSSP0 # avl
@@ -6803,6 +6813,7 @@ Sotera Sotera NPFSSP0 # avl
 Sotero Sotero NPMSSP0 # avl
 Soto Soto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soto Soto NPCNSP0 # wiki common surnames
+Sotomayor Sotomayor NPCNSP0
 South South NPCNSP0 # wiki
 Soverato Soverato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soyuz Soyuz NPCNSP0 # wiki
