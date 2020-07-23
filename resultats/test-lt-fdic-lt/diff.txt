@@ -1,16 +1,5 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
-79539,79542c79539,79540
-< mamita mamita NCFS000
-< mamita mamita NCMS000
-< mamitas mamita NCFP000
-< mamitas mamita NCMP000
----
-> mamita mamita NCCS000
-> mamitas mamita NCCP000
 ** Compara adjectius **
-55048,55049d55047
-< monocolor monocolor AQ0CS0
-< monocolores monocolor AQ0CP0
 ** Compara verbs **
 ** Altres errors **
