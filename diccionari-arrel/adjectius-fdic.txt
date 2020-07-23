@@ -34,6 +34,7 @@
 #mejicano mejicana=categories: A;fonts: LT;
 #minuto minuta=categories: A;fonts: LT;
 #misero misera=categories: A;fonts: LT;
+#monocolor=categories: AI;fonts: LT;
 #musco musca=categories: A;fonts: LT;
 #musgo musga=categories: A;fonts: LT;
 #muslim=categories: A;fonts: dr;
@@ -16221,7 +16222,6 @@ monoclonal=categories: A;fonts: LT;
 monocloracético monocloracética=categories: A;fonts: LT;
 monoclínico monoclínica=categories: A;fonts: LT;
 monocolor=categories: A;fonts: derivat;
-monocolor=categories: AI;fonts: LT;
 monocorde=categories: A;fonts: LT;
 monocotiledón monocotiledona=categories: A;fonts: dr;
 monocristalino monocristalina=categories: A;fonts: LT;

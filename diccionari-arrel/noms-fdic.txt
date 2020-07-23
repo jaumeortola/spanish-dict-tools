@@ -267,6 +267,7 @@
 #mabí=categories: M;fonts: dr;
 #macabí=categories: M;fonts: dr;
 #maeso maesa=categories: F;fonts: dr;
+#mamita=categories: M;fonts: dr;
 #mandí=categories: M;fonts: dr;
 #maniblaj=categories: M;fonts: dr;
 #manjuarí=categories: M;fonts: dr;
@@ -37880,8 +37881,7 @@ mameyero=categories: M;fonts: dr;
 mami=categories: F;fonts: dr;
 mami=categories: F;fonts: infantial;
 mamila=categories: F;fonts: LT;
-mamita=categories: F;fonts: LT;
-mamita=categories: M;fonts: dr;
+mamita=categories: MF;fonts: LT;
 mamografía=categories: F;fonts: LT;
 mamola=categories: F;fonts: LT;
 mamoncillo=categories: M;fonts: dr;
