@@ -2192,6 +2192,7 @@ Coimbra Coimbra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coix Coix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colbert Colbert NPCNSP0
 Colera Colera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Colgate Colgate NPCNO00
 Colima Colima NPCSG00
 Coll Coll NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collado Collado NPCNG00 # topònim-apertium-falta-gènere-nombre
