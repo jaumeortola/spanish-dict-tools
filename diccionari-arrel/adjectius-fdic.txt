@@ -16560,6 +16560,7 @@ multipuesto=categories: AI;fonts: LT;
 multirracial=categories: A;fonts: LT;
 multirradial=categories: A;fonts: LT;
 multirradicular=categories: A;fonts: LT;
+multirreincidente=categories: A;fonts: dpej;
 multisectorial=categories: A;fonts: LT;
 multisecular=categories: A;fonts: dr;
 multiservicio=categories: AI;fonts: derivat;

@@ -41366,6 +41366,7 @@ multiprueba=categories: F;fonts: derivat;
 multipuerta=categories: F;fonts: LT;
 multipuesto=categories: M;fonts: LT;
 multipunto=categories: M;fonts: LT;
+multirreincidencia=categories: F;fonts: dpej;
 multitarea=categories: F;fonts: LT;
 multitrama=categories: F;fonts: LT;
 multitratamiento=categories: M;fonts: LT;
