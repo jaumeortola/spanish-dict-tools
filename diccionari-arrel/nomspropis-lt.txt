@@ -2483,7 +2483,7 @@ Davidia Davidia NPFSSP0 # avl
 Davidse Davidse NPCNSP0 # wiki
 Davinia Davinia NPFSSP0 # avl
 Davis Davis NPCNSP0 # wiki
-Davos Davos NPCSG00 # topònim-apertium-falta-gènere-nombre
+Davos Davos NPCSG00 # topònim-apertium
 Dayana Dayana NPFSSP0
 Daza Daza NPCNSP0
 Deborah Deborah NPFSSP0
