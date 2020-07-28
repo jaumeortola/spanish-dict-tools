@@ -3326,7 +3326,7 @@ Galeano Galeano NPCNSP0
 Galena Galena NPFSSP0 # avl
 Galeno Galeno NPMSSP0 # avl
 Galerio Galerio NPMSSP0 # avl
-Gales Gales NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gales Gales NPCSG00 # topònim-apertium
 Galeás Galeás NPMSSP0 # avl
 Galia Galia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Galiana Galiana NPFSSP0 # avl
