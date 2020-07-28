@@ -6,10 +6,12 @@
 #asosegar=categories: V;model:negar;fonts: LT;
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
+#descojonar=categories: V;model:amar;fonts: dr; NOU
 #desnegar=categories: V;model:negar;fonts: ap;
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
+#fisurar=categories: V;model:amar;fonts: dr; NOU
 #fruir=categories: V;model:fluir;fonts: LT;
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!
 #grafiar=categories: V;model:enviar;fonts: ap;
@@ -22,6 +24,7 @@
 #miar=categories: V;model:piar;fonts: LT;
 #pasturar=categories: V;model:amar;fonts: ap;
 #pañear=categories: V;model:amar;fonts: ap;
+#pedorrear=categories: V;model:amar;fonts: dr; NOU
 #pegilar=categories: V;model:amar;fonts: ap;
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #remugar=categories: V;model:cargar;fonts: ap;

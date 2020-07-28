@@ -82,6 +82,7 @@
 #Lombardia Lombardia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Louisiana Louisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lés Lés NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Male Male NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mar Mar NPFSSP0 # avl
 #Maravillas Maravillas NPFSSP0 # avl
 #Marcos Marcos NPMSSP0 # avl
@@ -4700,7 +4701,6 @@ Maldivas Maldivas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maldonado Maldonado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maldonado Maldonado NPCNSP0 # wiki common surnames
 Maldà Maldà NPCNG00 # topònim-apertium-falta-gènere-nombre
-Male Male NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malena Malena NPFSSP0 # avl
 Maletto Maletto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malgrat Malgrat NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4776,6 +4776,7 @@ Marcelina Marcelina NPFSSP0 # avl
 Marcelino Marcelino NPMSSP0 # avl
 Marcellinara Marcellinara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marcelo Marcelo NPMSSP0 # avl
+March March NPCNSP0
 Marcia Marcia NPFSSP0 # avl
 Marcial Marcial NPMSSP0 # avl
 Marciala Marciala NPFSSP0 # avl
