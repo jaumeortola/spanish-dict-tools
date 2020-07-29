@@ -1004,6 +1004,7 @@ Aurora Aurora NPFSSP0 # avl
 Auschwitz Auschwitz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ausias Ausias NPMSSP0 # avl
 Aussau Aussau NPCNG00 # topònim-apertium-falta-gènere-nombre
+Austen Austen NPCNSP0
 Austin Austin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Australia Australia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austrasia Austrasia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1436,6 +1437,7 @@ Bill Bill NPCNSP0 # wiki
 Billboard Billboard NPCNSP0 # wiki
 Billeneta Billeneta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Billy Billy NPCNSP0 # wiki
+Bingen Bingen NPCSG00
 Binissalem Binissalem NPCNG00 # topònim-apertium-falta-gènere-nombre
 Binéfar Binéfar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bioko Bioko NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2264,6 +2266,7 @@ Copelia Copelia NPFSSP0 # avl
 Copenhague Copenhague NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copons Copons NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copparo Copparo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Copperfield Copperfield NPCNSP0
 Copérnico Copérnico NPMSSP0
 Cora Cora NPFSSP0 # avl
 Coral Coral NPFSSP0 # avl
@@ -3154,6 +3157,7 @@ Flaviana Flaviana NPFSSP0 # avl
 Flaviano Flaviano NPMSSP0 # avl
 Flavio Flavio NPMSSP0 # avl
 Flaçà Flaçà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fleming Fleming NPCNSP0
 Flix Flix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Flor Flor NPFSSP0 # avl
 Flora Flora NPFSSP0 # avl
@@ -3479,6 +3483,7 @@ Ginesa Ginesa NPFSSP0 # avl
 Ginestar Ginestar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gino Gino NPMSSP0 # avl
 Ginés Ginés NPMSSP0 # avl
+Gioachino Gioachino NPMSSP0
 Gioconda Gioconda NPFSSP0
 Gioia Gioia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Giovanni Giovanni NPCNSP0 # wiki
@@ -3632,6 +3637,7 @@ Guitarda Guitarda NPFSSP0 # avl
 Guitardo Guitardo NPMSSP0 # avl
 Guiumri Guiumri NPCSG00
 Guixers Guixers NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gulliver Gulliver NPMSSP0
 Gumersinda Gumersinda NPFSSP0 # avl
 Gumersindo Gumersindo NPMSSP0 # avl
 Gurb Gurb NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3794,6 +3800,7 @@ Hilberto Hilberto NPMSSP0 # avl
 Hilda Hilda NPFSSP0 # avl
 Hildeberto Hildeberto NPMSSP0 # avl
 Hildebrando Hildebrando NPMSSP0 # avl
+Hildegarda Hildegarda NPFSSP0
 Hillary Hillary NPFSSP0
 Hilton Hilton NPCNSP0
 Himalaya Himalaya NPMSG00 # topònim-apertium
@@ -3875,6 +3882,7 @@ Huseín Huseín NPMSSP0 # avl
 Huxley Huxley NPCNSP0
 Huánuco Huánuco NPCSG00
 Hyperwallet Hyperwallet NPCNO00
+Händel Händel NPCNSP0
 Hébridas Hébridas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Héctor Héctor NPMSSP0 # avl
 Hécuba Hécuba NPFSSP0 # avl
@@ -5094,6 +5102,7 @@ Misterbianco Misterbianco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Misterio Misterio NPCSSP0 # avl
 Misuri Misuri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mitríades Mitríades NPMSSP0 # avl
+Mitterrand Mitterrand NPCNSP0
 Moctezuma Moctezuma NPCNSP0
 Modesta Modesta NPFSSP0 # avl
 Modesto Modesto NPMSSP0 # avl
@@ -5850,6 +5859,7 @@ Perenchisa Perenchisa NPFSSP0 # avl
 Pereyra Pereyra NPCNSP0 # wiki common surnames
 Perfecta Perfecta NPFSSP0 # avl
 Perfecto Perfecto NPMSSP0 # avl
+Pergolesi Pergolesi NPCNSP0
 Perica Perica NPFSSP0 # avl
 Pericles Pericles NPMSSP0 # avl
 Perico Perico NPMSSP0 # avl
@@ -6407,6 +6417,7 @@ Ross Ross NPCNSP0 # wiki
 Rossano Rossano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rossell Rossell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosselló Rosselló NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rossini Rossini NPCNSP0
 Rota Rota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rotglà Rotglà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rousseau Rousseau NPCNSP0 # wiki
@@ -6614,6 +6625,8 @@ Schengen Schengen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schubert Schubert NPCNSP0 # wiki
 Schumacher Schumacher NPCNSP0
+Schumann Schumann NPCNSP0
+Schumpeter Schumpeter NPCNSP0
 Schwarzenegger Schwarzenegger NPCNSP0
 Schweppes Schweppes NPCNO00
 Scido Scido NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6835,6 +6848,7 @@ Stanford Stanford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stanley Stanley NPCNSP0 # wiki
 Stavanger Stavanger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stefanaconi Stefanaconi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Stendhal Stendhal NPMSSP0
 Stephen Stephen NPCNSP0 # wiki
 Stepney Stepney NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sterling Sterling NPCNSP0
