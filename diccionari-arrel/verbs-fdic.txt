@@ -32,6 +32,7 @@
 #pegilar=categories: V;model:amar;fonts: ap;
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #remugar=categories: V;model:cargar;fonts: ap;
+#repantingar=categories: V;model:cargar;fonts: dr; NOU
 #retroferbular=categories: V;model:amar;fonts: ap;
 #trasportar=categories: V;model:amar;fonts: ap;
 #traumar=categories: V;model:amar;fonts: dr, latam; NOU

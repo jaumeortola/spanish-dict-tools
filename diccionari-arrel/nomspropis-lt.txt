@@ -2554,6 +2554,7 @@ Dietrich Dietrich NPCNSP0
 Digna Digna NPFSSP0 # avl
 Digno Digno NPMSSP0 # avl
 Dimas Dimas NPMSSP0 # avl
+Dimitri Dimitri NPMSSP0
 Dina Dina NPFSSP0 # avl
 Dinamarca Dinamarca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dinami Dinami NPCNG00 # topònim-apertium-falta-gènere-nombre
