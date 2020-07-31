@@ -1432,6 +1432,7 @@ Bigastro Bigastro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bigorra Bigorra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bigues Bigues NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bilbao Bilbao NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bilderberg Bilderberg NPCNSP0
 Bildu Bildu NPMSO00
 Bill Bill NPCNSP0 # wiki
 Billboard Billboard NPCNSP0 # wiki
@@ -3300,6 +3301,7 @@ Fénix Fénix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fígols Fígols NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fórnols Fórnols NPCNG00 # topònim-apertium-falta-gènere-nombre
 GAL GAL NPMPO00
+GDPR GDPR NPMSO00
 GPL GPL NPCNO00 # wiki
 GSM GSM NPCNO00
 Gabarda Gabarda NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6177,6 +6179,7 @@ Quiteria Quiteria NPFSSP0 # avl
 Quiterio Quiterio NPMSSP0 # avl
 Quito Quito NPCNG00 # topònim-apertium-falta-gènere-nombre
 RDA RDA NPFSG00
+RENFE RENFE NPCNO00
 RFA RFA NPFSG00
 RFC RFC NPCNO00
 RTVV RTVV NPFSO00
@@ -6269,6 +6272,7 @@ Renata Renata NPFSSP0 # avl
 Renato Renato NPMSSP0 # avl
 Renau Renau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rende Rende NPCNG00 # topònim-apertium-falta-gènere-nombre
+Renfe Renfe NPCNO00
 Renoir Renoir NPCNSP0 # wiki
 Renovardo Renovardo NPMSSP0 # avl
 Rentería Rentería NPCNG00 # topònim-apertium-falta-gènere-nombre

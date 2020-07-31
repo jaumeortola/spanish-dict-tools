@@ -19,6 +19,7 @@
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
 #implotar=categories: V;model:amar;fonts: ap;
+#infraestimar=categories: V;model:amar;fonts: termcat; NOU
 #insumir=categories: V;model:partir;fonts: dr; NOU
 #litar=categories: V;model:amar;fonts: LT; #eliminar
 #luir=categories: V;model:fluir;fonts: LT;
