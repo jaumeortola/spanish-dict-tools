@@ -6384,6 +6384,7 @@ Roland Roland NPCNSP0
 Rolando Rolando NPMSSP0 # avl
 Roldán Roldán NPCNSP0 # wiki common surnames
 Roldán Roldán NPMSSP0 # avl
+Rolls-Royce Rolls-Royce NPCNSP0
 Roma Roma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Romana Romana NPFSSP0 # avl
 Rombiolo Rombiolo NPCNG00 # topònim-apertium-falta-gènere-nombre
