@@ -36,6 +36,7 @@
 #trasportar=categories: V;model:amar;fonts: ap;
 #traumar=categories: V;model:amar;fonts: dr, latam; NOU
 #triar=categories: V;model:piar;fonts: LT;
+#trolear=categories: V;model:amar;fonts: fundeu; NOU
 abajar=categories: V;model:amar;fonts: LT;
 abalanzar=categories: V;model:abalanzar;fonts: LT;
 abalaustrar=categories: V;model:amar;fonts: LT;
