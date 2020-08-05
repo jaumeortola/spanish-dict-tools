@@ -4223,6 +4223,7 @@ Kansas Kansas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kant Kant NPCNSP0 # wiki
 Karabaj Karabaj NPCNG00 # topònim-apertium-falta-gènere-nombre
 Karachi Karachi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kardashian Kardashian NPCNSP0
 Karen Karen NPFSSP0 # avl
 Karina Karina NPFSSP0
 Karl Karl NPCNSP0 # wiki
