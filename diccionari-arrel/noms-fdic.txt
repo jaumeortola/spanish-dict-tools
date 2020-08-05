@@ -47211,6 +47211,7 @@ plantario=categories: M;fonts: LT;
 plante=categories: M;fonts: LT;
 planteamiento=categories: M;fonts: LT;
 plantel=categories: M;fonts: LT;
+planteo=categories: M;fonts: dr;
 plantilla=categories: F;fonts: LT;
 plantillazo=categories: M;fonts: dr;
 plantista=categories: MF;fonts: LT;
