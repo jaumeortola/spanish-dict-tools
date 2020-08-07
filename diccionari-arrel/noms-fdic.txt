@@ -37394,6 +37394,7 @@ macroglosia=categories: F;fonts: LT;
 macroglubinemia=categories: F;fonts: LT;
 macrognacia=categories: F;fonts: LT;
 macrografía=categories: F;fonts: LT;
+macroincendio=categories: M;fonts: LT;
 macroinstrucción=categories: F;fonts: LT;
 macrojuicio=categories: M;fonts: LT;
 macromagnitud=categories: F;fonts: LT;
