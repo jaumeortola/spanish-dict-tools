@@ -656,6 +656,7 @@ Anabella Anabella NPFSSP0 # avl
 Anacleta Anacleta NPFSSP0 # avl
 Anacleto Anacleto NPMSSP0 # avl
 Ananías Ananías NPMSSP0 # avl
+Anasagasti Anasagasti NPCNSP0
 Anastasia Anastasia NPFSSP0 # avl
 Anastasio Anastasio NPMSSP0 # avl
 Anatolia Anatolia NPFSSP0 # avl
@@ -3307,6 +3308,7 @@ GPL GPL NPCNO00 # wiki
 GSM GSM NPCNO00
 Gabarda Gabarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gabi Gabi NPMSSP0 # avl
+Gabilondo Gabilondo NPCNSP0
 Gabina Gabina NPFSSP0 # avl
 Gabino Gabino NPMSSP0 # avl
 Gaborone Gaborone NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4027,6 +4029,7 @@ Iván Iván NPMSSP0 # avl
 Ivón Ivón NPMSSP0 # avl
 Ixena Ixena NPFSSP0 # avl
 Iàtova Iàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
+Iñaki Iñaki NPMSSP0
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jacarilla Jacarilla NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6184,6 +6187,7 @@ RDA RDA NPFSG00
 RENFE RENFE NPCNO00
 RFA RFA NPFSG00
 RFC RFC NPCNO00
+RGPD RGPD NPMSO00
 RTVV RTVV NPFSO00
 RUT RUT NPMSO00
 Ra Ra NPMSSP0 # avl
@@ -7321,6 +7325,7 @@ Urales Urales NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urano Urano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urbana Urbana NPFSSP0 # avl
 Urbano Urbano NPMSSP0 # avl
+Urdangarin Urdangarin NPCNSP0
 Urgel Urgel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urgell Urgell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uribe Uribe NPCNSP0

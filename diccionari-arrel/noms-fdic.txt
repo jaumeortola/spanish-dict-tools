@@ -35049,6 +35049,7 @@ juagarzo=categories: M;fonts: dr;
 juan=categories: M;fonts: dr;
 juana=categories: F;fonts: dr;
 juanacastle=categories: M;fonts: dr;
+juancarlismo=categories: MS;fonts: derivat;
 juanete=categories: M;fonts: LT;
 juanetero=categories: M;fonts: LT;
 juanilama=categories: F;fonts: dr;
