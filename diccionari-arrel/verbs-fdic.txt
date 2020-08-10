@@ -33,6 +33,7 @@
 #perimetrar=categories: V;model:amar;fonts: LT; NOU
 #permear=categories: V;model:amar;fonts: LT; NOU
 #raizar=categories: V;model:abalanzar;fonts: dr;
+#reagendar=categories: V;model:amar;fonts: LT; NOU
 #remugar=categories: V;model:cargar;fonts: ap;
 #repantingar=categories: V;model:cargar;fonts: dr; NOU
 #retroferbular=categories: V;model:amar;fonts: ap;
