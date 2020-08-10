@@ -3389,6 +3389,7 @@ binocular=categories: A;fonts: LT;
 binomial=categories: A;fonts: LT;
 binómico binómica=categories: A;fonts: LT;
 biobibliográfico biobibliográfica=categories: A;fonts: dr;
+biocida=categories: A;fonts: dr;
 bioclimático bioclimática=categories: A;fonts: dr;
 bioclástico bioclástica=categories: A;fonts: LT;
 biocompatible=categories: A;fonts: LT;
