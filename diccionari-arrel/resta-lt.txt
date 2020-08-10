@@ -1,6 +1,10 @@
 #alguno alguno DI0MS0
 #naide nadie PI0CS000
 #ninguno ninguno DI0MS0
+Dr Dr NCMS000
+Dra Dr NCFS000
+Dras Dr NCFP000
+Dres Dr NCMP000
 GB GB NCMN000
 GHz GHz NCMN000
 Gbit Gbit NCMN000
@@ -8,6 +12,10 @@ Hz Hz NCMN000
 MB MB NCMN000
 MHz MHz NCMN000
 Mbit Mbit NCMN000
+Sr Sr NCMS000
+Sra Sr NCFS000
+Sras Sr NCFP000
+Sres Sr NCMP000
 a a SPS00
 aC aC RG
 abur abur I

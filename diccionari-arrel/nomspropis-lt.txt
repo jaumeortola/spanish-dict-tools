@@ -7356,6 +7356,7 @@ Vaduz Vaduz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vaiaku Vaiaku NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valclusa Valclusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valda Valda NPFSSP0 # avl
+Valdano Valdano NPCNSP0
 Valdemoro Valdemoro NPCSG00
 Valdepeñas Valdepeñas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valderrama Valderrama NPCNSP0
