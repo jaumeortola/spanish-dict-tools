@@ -4238,6 +4238,7 @@ Kahlo Kahlo NPCNSP0
 Kalimantan Kalimantan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaliningrado Kaliningrado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kallio Kallio NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kamala Kamala NPFSSP0
 Kampala Kampala NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kampuchea Kampuchea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kandahar Kandahar NPCNG00 # topònim-apertium-falta-gènere-nombre
