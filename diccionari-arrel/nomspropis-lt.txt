@@ -4640,6 +4640,7 @@ Luigi Luigi NPCNSP0 # wiki
 Luis Luis NPMSSP0 # avl
 Luisa Luisa NPFSSP0 # avl
 Luisiana Luisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lukashenko Lukashenko NPCNSP0
 Lulio Lulio NPMSSP0 # avl
 Lumo Lumo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luna Luna NPCNSP0 # wiki common surnames
