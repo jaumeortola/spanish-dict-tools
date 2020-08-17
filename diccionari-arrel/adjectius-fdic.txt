@@ -7525,6 +7525,7 @@ desintegrador desintegradora=categories: A;fonts: LT;
 desintoxicante=categories: A;fonts: dr;
 desjuiciado desjuiciada=categories: A;fonts: LT;
 deslabazado deslabazada=categories: A;fonts: LT;
+deslactosada=categories: AF;fonts: derivat;
 desleal=categories: A;fonts: LT;
 deslechugador deslechugadora=categories: A;fonts: LT;
 deslizable=categories: A;fonts: LT;

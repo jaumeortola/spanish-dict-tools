@@ -1481,6 +1481,7 @@ Bloom Bloom NPCNSP0
 Bloomberg Bloomberg NPCNSP0
 Blue Blue NPCNSP0 # wiki
 Boadilla Boadilla NPCSG00
+Boateng Boateng NPCNSP0
 Bobby Bobby NPCNSP0 # wiki
 Bocairent Bocairent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bocairente Bocairente NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2384,6 +2385,7 @@ Cuatretonda Cuatretonda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuatretondeta Cuatretondeta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuauhtémoc Cuauhtémoc NPCSG00
 Cuauhtémoc Cuauhtémoc NPMSSP0
+Cuautitlán Cuautitlán NPCSG00
 Cuautla Cuautla NPCSG00
 Cuba Cuba NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cubelles Cubelles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3709,6 +3711,8 @@ Hans Hans NPCNSP0 # wiki
 Hanói Hanói NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harare Harare NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harlem Harlem NPCSG00
+Harley Harley NPCNO00
+Harley-Davidson Harley-Davidson NPCNO00
 Haro Haro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harold Harold NPCNSP0 # wiki
 Harris Harris NPCNSP0 # wiki
@@ -5335,6 +5339,7 @@ Nadal Nadal NPCNSP0
 Nadia Nadia NPFSSP0 # avl
 Nadina Nadina NPFSSP0 # avl
 Nagasaki Nagasaki NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nahualate Nahualate NPMSG00
 Nahum Nahum NPMSSP0 # avl
 Nahún Nahún NPMSSP0 # avl
 Naila Naila NPFSSP0 # avl
@@ -6661,6 +6666,7 @@ Scandale Scandale NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scarlett Scarlett NPFSSP0
 Schengen Schengen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
+Schopenhauer Schopenhauer NPCNSP0
 Schubert Schubert NPCNSP0 # wiki
 Schumacher Schumacher NPCNSP0
 Schumann Schumann NPCNSP0
@@ -7149,6 +7155,7 @@ Tiurana Tiurana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivenys Tivenys NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivissa Tivissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tlaxcala Tlaxcala NPCSG00
+Tláhuac Tláhuac NPCSG00
 Tobarra Tobarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tobías Tobías NPMSSP0 # avl
 Toda Toda NPFSSP0 # avl
@@ -7794,6 +7801,7 @@ Zamenhof Zamenhof NPCNSP0
 Zamora Zamora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zanzíbar Zanzíbar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zapopan Zapopan NPCSG00
+Zapotitlán Zapotitlán NPCSG00
 Zaqueo Zaqueo NPMSSP0 # avl
 Zaragoza Zaragoza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zaratustra Zaratustra NPMSSP0 # avl
