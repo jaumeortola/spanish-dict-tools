@@ -2340,6 +2340,7 @@ Crevillente Crevillente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Creúsa Creúsa NPFSSP0 # avl
 Crimea Crimea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crinis Crinis NPFSSP0 # avl
+Cris Cris NPCSSP0
 Crisanta Crisanta NPFSSP0 # avl
 Crisanto Crisanto NPMSSP0 # avl
 Crispa Crispa NPFSSP0 # avl
