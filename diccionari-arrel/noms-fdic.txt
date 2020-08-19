@@ -38973,6 +38973,7 @@ megapíxel=categories: M;fonts: derivat;
 megarón=categories: M;fonts: LT;
 megascopio=categories: M;fonts: LT;
 megasporocito=categories: M;fonts: LT;
+megatendencia=categories: F;fonts: derivat;
 megaterio=categories: M;fonts: LT;
 megatón=categories: M;fonts: LT;
 megavatio=categories: M;fonts: LT;

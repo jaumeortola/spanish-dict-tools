@@ -1141,6 +1141,7 @@ Barbézieux Barbézieux NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barcelona Barcelona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barceloneta Barceloneta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barcelonès Barcelonès NPCNG00 # topònim-apertium-falta-gènere-nombre
+Barceló Barceló NPCNSP0
 Barcheta Barcheta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barcino Barcino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bardo Bardo NPMSSP0 # avl

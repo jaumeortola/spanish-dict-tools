@@ -248,6 +248,7 @@ dos dos DN0CP0
 doscientas doscientos DN0FP0
 doscientos doscientos DN0MP0
 durante durante SPS00
+dícese decir VMIP3S0+PP3CN000
 dónde dónde PT000000
 e e CC
 eV eV NCMN000

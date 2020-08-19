@@ -20655,6 +20655,7 @@ redoblón=categories: A;fonts: LT;
 redolente=categories: A;fonts: dr;
 redomado redomada=categories: A;fonts: LT;
 redomón redomona=categories: A;fonts: dr;
+redondito redondita=categories: A;fonts: diminutiu;
 redondo redonda=categories: A;fonts: LT;
 redox=categories: AI;fonts: fundeu;
 reduccionista=categories: A;fonts: LT;
