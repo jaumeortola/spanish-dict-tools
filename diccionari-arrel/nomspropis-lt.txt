@@ -3157,6 +3157,7 @@ Filipino Filipino NPMSSP0 # avl
 Filipo Filipo NPMSSP0 # avl
 Filis Filis NPFSSP0 # avl
 Filo Filo NPFSSP0 # avl
+Filo Filo NPMSSP0 
 Filogaso Filogaso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Filomena Filomena NPFSSP0 # avl
 Filomeno Filomeno NPMSSP0 # avl
