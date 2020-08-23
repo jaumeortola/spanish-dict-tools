@@ -1670,6 +1670,7 @@ Bòssost Bòssost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bósforo Bósforo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Börngen Börngen NPCNSP0
 Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
+CAM CAM NPFSO00
 CDE CDE NPCNO00
 CDMX CDMX NPFSG00
 CEOE CEOE NPFSO00
