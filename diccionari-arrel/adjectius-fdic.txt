@@ -109,6 +109,7 @@ abertal=categories: A;fonts: LT;
 abertzale=categories: A;fonts: LT;
 aberzale=categories: A;fonts: dr;
 abestiado abestiada=categories: A;fonts: dr;
+abierto abierta=categories: A;fonts: dr;
 abietáceo abietácea=categories: A;fonts: dr;
 abietíneo abietínea=categories: A;fonts: dr;
 abigotado abigotada=categories: A;fonts: dr;

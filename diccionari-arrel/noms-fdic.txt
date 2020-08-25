@@ -807,6 +807,7 @@ abetuna=categories: F;fonts: LT;
 abey [pl. abeyes]=categories: M;fonts: LT;
 abia=categories: F;fonts: dr;
 abiar=categories: M;fonts: dr;
+abierto=categories: M;fonts: dr;
 abieteno=categories: M;fonts: LT;
 abietinato=categories: M;fonts: LT;
 abietácea=categories: F;fonts: LT;

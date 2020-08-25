@@ -106,6 +106,8 @@
 #Orígenes Orígenes NPMSSP0 # avl
 #Palas Palas NPFSSP0 # avl
 #Paquistán Paquistán NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Penàguila Penàguila NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Peníscola Peníscola NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Pequín Pequín NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Progreso Progreso NPCSSP0 # avl
 #Puigcerdá Puigcerdá NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5316,11 +5318,12 @@ Málaga Málaga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Márquez Márquez NPCNSP0
 Máxima Máxima NPFSSP0 # avl
 Máximo Máximo NPMSSP0 # avl
+Méjico Méjico NPCSG00 # topònim-apertium
 Méndez Méndez NPCNSP0 # wiki common surnames
 Méras Méras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mérida Mérida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mérope Mérope NPFSSP0 # avl
-México México NPCNG00 # topònim-apertium-falta-gènere-nombre
+México México NPCSG00 # topònim-apertium
 Míriam Míriam NPFSSP0 # avl
 Módena Módena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mónaco Mónaco NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5878,10 +5881,8 @@ Pensilvania Pensilvania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pentesilea Pentesilea NPFSSP0 # avl
 Pentesilia Pentesilia NPFSSP0 # avl
 Pentone Pentone NPCNG00 # topònim-apertium-falta-gènere-nombre
-Penàguila Penàguila NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penáguila Penáguila NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penélope Penélope NPFSSP0 # avl
-Peníscola Peníscola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pepa Pepa NPFSSP0 # avl
 Pepe Pepe NPMSSP0 # avl
 Perafita Perafita NPCNG00 # topònim-apertium-falta-gènere-nombre
