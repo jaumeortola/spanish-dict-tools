@@ -565,6 +565,7 @@ CCTV=categories: MI;fonts: sigla;
 CD-ROM=categories: MI;fonts: dr;
 CD=categories: MI;fonts: dr;
 CEO=categories: MFI;fonts: sigla;
+CIE=categories: MI;fonts: sigla;
 CIF=categories: MI;fonts: sigla;
 COVID-19=categories: MFS;fonts: fundeu;
 COVID=categories: MFS;fonts: fundeu;
