@@ -803,6 +803,7 @@ Aquitania Aquitania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arabela Arabela NPFSSP0 # avl
 Arabella Arabella NPFSSP0 # avl
 Arabia Arabia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aracataca Aracataca NPCSG00
 Araceli Araceli NPFSSP0 # avl
 Aragón Aragón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aramunt Aramunt NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1015,6 +1016,7 @@ Australia Australia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austrasia Austrasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austria Austria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austrias Austria NPMPSP0
+AutoCAD AutoCAD NPCNO00
 Autodesk Autodesk NPCNO00
 Auvernia Auvernia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Auxencia Auxencia NPFSSP0 # avl
@@ -2418,6 +2420,7 @@ Curro Curro NPMSSP0 # avl
 Custodia Custodia NPFSSP0 # avl
 Custodio Custodio NPMSSP0 # avl
 Cutro Cutro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cuéllar Cuéllar NPCSG00
 Cynthia Cynthia NPFSSP0
 Càlig Càlig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cànoves Cànoves NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2611,6 +2614,7 @@ Dora Dora NPFSSP0 # avl
 Dorcas Dorcas NPMSSP0 # avl
 Dordoña Dordoña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Doris Doris NPFSSP0 # avl
+Doritos Doritos NPCNO00
 Doro Doro NPMSSP0 # avl
 Dorotea Dorotea NPFSSP0 # avl
 Doroteo Doroteo NPMSSP0 # avl
@@ -3242,6 +3246,7 @@ Fortunata Fortunata NPFSSP0 # avl
 Fortunato Fortunato NPMSSP0 # avl
 Forès Forès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foucault Foucault NPCNSP0
+Fourier Fourier NPCNSP0
 Fournier Fournier NPCNSP0
 Fox Fox NPFSO00
 Foyos Foyos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3368,6 +3373,7 @@ Galindo Galindo NPMSSP0 # avl
 Gallardo Gallardo NPCNSP0 # wiki common surnames
 Gallardo Gallardo NPMSSP0 # avl
 Gallifa Gallifa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gallimard Gallimard NPCNO00
 Galo Galo NPMSSP0 # avl
 Galván Galván NPMSSP0 # avl
 Galápagos Galápagos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4619,6 +4625,7 @@ Luca Luca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lucana Lucana NPFSSP0 # avl
 Lucania Lucania NPFSSP0 # avl
 Lucano Lucano NPMSSP0 # avl
+Lucanor Lucanor NPCNSO0
 Lucas Lucas NPMSSP0 # avl
 Lucena Lucena NPCSG00
 Lucero Lucero NPCNSP0 # wiki common surnames
@@ -4996,6 +5003,7 @@ Melanio Melanio NPMSSP0 # avl
 Melbourne Melbourne NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melchor Melchor NPMSSP0 # avl
 Melchora Melchora NPFSSP0 # avl
+Melgarejo Melgarejo NPCNSP0
 Meliana Meliana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melibea Melibea NPFSSP0 # avl
 Melibeo Melibeo NPMSSP0 # avl
@@ -6722,6 +6730,7 @@ Sentmenat Sentmenat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senyera Senyera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senén Senén NPMSSP0 # avl
 Septimania Septimania NPCNG00 # topònim-apertium-falta-gènere-nombre
+Septuaginta Septuaginta NPFSO00
 Sepúlveda Sepúlveda NPCNSP0 # wiki common surnames
 Serafina Serafina NPFSSP0 # avl
 Serafín Serafín NPMSSP0 # avl
@@ -7059,6 +7068,8 @@ Telmo Telmo NPMSSP0 # avl
 Telémaco Telémaco NPMSSP0 # avl
 Tenerife Tenerife NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tennessee Tennessee NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tenochtitlan Tenochtitlan NPCSG00
+Tenochtitlán Tenochtitlán NPCSG00
 Teo Teo NPMSSP0 # avl
 Teobalda Teobalda NPFSSP0 # avl
 Teobaldo Teobaldo NPMSSP0 # avl
@@ -7176,6 +7187,7 @@ Tolkien Tolkien NPCNSP0 # wiki
 Tollos Tollos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tolomeo Tolomeo NPMSSP0 # avl
 Tolosa Tolosa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tolstói Tolstói NPCNSP0
 Toluca Toluca NPCSG00
 Tom Tom NPMSSP0 # wiki
 Tomasa Tomasa NPFSSP0 # avl
@@ -7373,6 +7385,7 @@ Urgel Urgel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urgell Urgell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uribe Uribe NPCNSP0
 Uriel Uriel NPMSSP0 # avl
+Urquiza Urquiza NPCNSP0
 Ursina Ursina NPFSSP0 # avl
 Ursino Ursino NPMSSP0 # avl
 Ursulina Ursulina NPFSSP0 # avl
