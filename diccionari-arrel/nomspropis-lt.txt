@@ -2528,6 +2528,7 @@ Delia Delia NPFSG00 # topònim-apertium
 Delia Delia NPFSSP0 # avl
 Delianuova Delianuova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Delio Delio NPMSSP0 # avl
+Dell Dell NPCNO00
 Delmira Delmira NPFSSP0 # avl
 Delmiro Delmiro NPMSSP0 # avl
 Delphi Delphi NPCNG00 # topònim-apertium-falta-gènere-nombre

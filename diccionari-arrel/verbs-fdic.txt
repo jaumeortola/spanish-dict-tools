@@ -5,6 +5,7 @@
 #arcar=categories: V;model:abarcar;fonts: ap;
 #arromper=categories: V;model:romper;fonts: LT;
 #asosegar=categories: V;model:negar;fonts: LT;
+#chusmear=categories: V;model:amar;fonts: LT; NOU!!
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
 #descojonar=categories: V;model:amar;fonts: dr; NOU
@@ -27,6 +28,7 @@
 #malcreer=categories: V;model:leer;fonts: ap;
 #mayorar=categories: V;model:amar;fonts: ap;
 #miar=categories: V;model:piar;fonts: LT;
+#okupar=categories: V;model:amar;fonts: fundeu; NOU
 #pasturar=categories: V;model:amar;fonts: ap;
 #pañear=categories: V;model:amar;fonts: ap;
 #pedorrear=categories: V;model:amar;fonts: dr; NOU
