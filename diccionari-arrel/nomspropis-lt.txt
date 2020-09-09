@@ -2443,6 +2443,7 @@ Cástor Cástor NPMSSP0 # avl
 Cáucaso Cáucaso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Céfalo Céfalo NPMSSP0 # avl
 César César NPMSSP0 # avl
+Cézanne Cézanne NPCNSP0
 Córcega Córcega NPCNG00 # topònim-apertium-falta-gènere-nombre
 Córdoba Córdoba NPCNG00 # topònim-apertium-falta-gènere-nombre
 Córdoba Córdoba NPCNSP0 # wiki common surnames

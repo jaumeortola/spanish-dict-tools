@@ -40,6 +40,7 @@
 #remugar=categories: V;model:cargar;fonts: ap;
 #repantingar=categories: V;model:cargar;fonts: dr; NOU
 #retroferbular=categories: V;model:amar;fonts: ap;
+#segurizar=categories: V;model:amar;fonts: dr; NOU
 #trasportar=categories: V;model:amar;fonts: ap;
 #traumar=categories: V;model:amar;fonts: dr, latam; NOU
 #triar=categories: V;model:piar;fonts: LT;
