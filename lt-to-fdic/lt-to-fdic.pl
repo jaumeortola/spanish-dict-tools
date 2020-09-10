@@ -332,9 +332,32 @@ sub escriuFormatDiccionari {
             print $ofh "=categories: ";
             switch ($originTag) {
                 case "NC"  { print $ofh "MFS"; }
-                case "AQ0" { print $ofh "ACS"; }
-                case "AO0" { print $ofh "AOCS"; }    #???
-                case "AQA" { print $ofh "AACS"; }    #???
+                case "AQ0" { print $ofh "AS"; }
+                case "AO0" { print $ofh "AOS"; }    #???
+                case "AQA" { print $ofh "AAS"; }    #???
+            }
+
+        }
+        
+        #nom masculí/femení plural
+        elsif ($modeltag !~ /(NC|AQ0|AQA|AO0)[FM]/
+            && $modeltag =~ /(NC|AQ0|AQA|AO0)CP/
+            && $modeltag !~ /(NC|AQ0|AQA|AO0)C[NS]/ )
+        {
+
+            if ( $forma[4] =~ /^$/ ) {
+                print $ofh "$forma[2]$numAccepcio";
+            }
+            else {
+                print $ofh "$forma[2]$numAccepcio ($forma[4]) ???";
+            }
+
+            print $ofh "=categories: ";
+            switch ($originTag) {
+                case "NC"  { print $ofh "MFP"; }
+                case "AQ0" { print $ofh "AP"; }
+                case "AO0" { print $ofh "AOP"; }    #???
+                case "AQA" { print $ofh "AAP"; }    #???
             }
 
         }
