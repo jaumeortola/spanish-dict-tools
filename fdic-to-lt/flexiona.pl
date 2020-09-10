@@ -430,6 +430,14 @@ while ( my $line = <$fh> ) {
                   . "$tagafter\n";    #???
             }
         }
+        elsif ( $categoria =~ /S/ ) {
+            print $ofh "$singular $singular$numAccepcio $tagbefore" . "CS"
+              . "$tagafter\n";
+        }
+        elsif ( $categoria =~ /P/ ) {
+            print $ofh "$singular $singular$numAccepcio $tagbefore" . "CP"
+              . "$tagafter\n";
+        }
 
     }
     elsif ($line =~ /^($Flexio::carac+)=categories: (RG);/ )
