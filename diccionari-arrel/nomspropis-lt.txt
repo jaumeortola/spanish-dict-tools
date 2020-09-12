@@ -477,6 +477,7 @@ Alexia Alexia NPFSSP0 # avl
 Alexis Alexis NPMSSP0 # avl
 Alfafar Alfafar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfafara Alfafara NPCNG00 # topònim-apertium-falta-gènere-nombre
+Alfaguara Alfaguara NPCNO00
 Alfaro Alfaro NPCNSP0 # wiki
 Alfarp Alfarp NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfarrasí Alfarrasí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1401,6 +1402,7 @@ Bernhard Bernhard NPCNSP0
 Bernoulli Bernoulli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berriozábal Berriozábal NPCSG00
 Berta Berta NPFSSP0 # avl
+Bertelsmann Bertelsmann NPCNO00
 Berthold Berthold NPCNSP0
 Bertina Bertina NPFSSP0 # avl
 Bertino Bertino NPMSSP0 # avl
@@ -5886,6 +5888,7 @@ Peloponeso Peloponeso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penedès Penedès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penedés Penedés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penelles Penelles NPCNG00 # topònim-apertium-falta-gènere-nombre
+Penguin Penguin NPCNO00
 Pennsylvania Pennsylvania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pensilvania Pensilvania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pentesilea Pentesilea NPFSSP0 # avl
@@ -6353,6 +6356,7 @@ Ricadi Ricadi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ricarda Ricarda NPFSSP0 # avl
 Ricardo Ricardo NPMSSP0 # avl
 Richard Richard NPMCSP0 # wiki
+Richelieu Richelieu NPMSSP0
 Richmond Richmond NPCNG00 # topònim-apertium-falta-gènere-nombre
 Richter Richter NPCNSP0 # wiki
 Rick Rick NPCNSP0 # wiki
@@ -7316,6 +7320,7 @@ Turquestán Turquestán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turquía Turquía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turín Turín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turís Turís NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tusquets Tusquets NPCNO00
 Tuvalu Tuvalu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tuéjar Tuéjar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tàrbena Tàrbena NPCNG00 # topònim-apertium-falta-gènere-nombre
