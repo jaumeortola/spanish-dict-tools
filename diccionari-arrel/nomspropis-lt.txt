@@ -2662,6 +2662,7 @@ Décimo Décimo NPMSSP0 # avl
 Dédalo Dédalo NPMSSP0 # avl
 Díaz Díaz NPCNSP0 # wiki common surnames
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
+EAU EAU NPMPG00
 ECHO ECHO NPCNO00
 ECTS ECTS NPMSO00
 Eastwood Eastwood NPCNSP0

@@ -37,6 +37,7 @@
 #permear=categories: V;model:amar;fonts: LT; NOU
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #reagendar=categories: V;model:amar;fonts: derivat; NOU
+#reestablecer=categories: V;model:agradecer;fonts: LT;
 #remugar=categories: V;model:cargar;fonts: ap;
 #repantingar=categories: V;model:cargar;fonts: dr; NOU
 #retroferbular=categories: V;model:amar;fonts: ap;
@@ -6963,7 +6964,6 @@ reenvidar=categories: V;model:amar;fonts: LT;
 reequilibrar=categories: V;model:amar;fonts: LT;
 reequipar=categories: V;model:amar;fonts: ap;
 reescribir=categories: V;model:escribir;fonts: LT;
-reestablecer=categories: V;model:agradecer;fonts: LT;
 reestilizar=categories: V;model:abalanzar;fonts: ap;
 reestrenar=categories: V;model:amar;fonts: LT;
 reestructurar=categories: V;model:amar;fonts: LT;

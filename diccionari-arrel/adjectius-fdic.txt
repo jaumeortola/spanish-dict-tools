@@ -8597,6 +8597,7 @@ emigratorio emigratoria=categories: A;fonts: LT;
 eminencial=categories: A;fonts: dr;
 eminente=categories: A;fonts: LT;
 eminentísimo eminentísima=categories: A;fonts: dr;
+emiratí [pl. emiratíes o emiratís]=categories: A;fonts: LT;
 emisivo emisiva=categories: A;fonts: LT;
 emisor emisora=categories: A;fonts: LT;
 emocionable=categories: A;fonts: LT;
