@@ -9,6 +9,7 @@
 #carraco carraca=categories: A;fonts: LT, desus;
 #ciprino ciprina=categories: A;fonts: LT, desus;
 #ciprio cipria=categories: A;fonts: LT, desus;
+#contra=categories: AI;fonts: LT;
 #cri=categories: A;fonts: LT;
 #cuadrupedal=categories: A;fonts: LT, desus;
 #denario denaria=categories: A;fonts: LT, desus;
@@ -6132,7 +6133,6 @@ continuador continuadora=categories: A;fonts: LT;
 continuativo continuativa=categories: A;fonts: LT;
 continuista=categories: A;fonts: LT;
 continuo continua=categories: A;fonts: LT;
-contra=categories: AI;fonts: LT;
 contrabanda=categories: A;fonts: LT;
 contrabandado=categories: A;fonts: dr;
 contrabandista=categories: A;fonts: LT;
