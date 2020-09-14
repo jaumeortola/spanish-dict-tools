@@ -6560,7 +6560,7 @@ Sagàs Sagàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sahara Sahara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sahel Sahel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
-Saint-Beuve Saint Veuve NPCNSP0
+Saint-Beuve Saint-Beuve NPCNSP0
 Saint-Exupéry Saint-Exupéry NPCNSP0
 Saint-Malo Saint-Malo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saix Saix NPCNG00 # topònim-apertium-falta-gènere-nombre
