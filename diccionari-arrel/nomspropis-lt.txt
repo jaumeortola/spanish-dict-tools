@@ -4570,6 +4570,7 @@ Llombay Llombay NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llorac Llorac NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llorach Llorach NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lloret Lloret NPCNG00 # topònim-apertium-falta-gènere-nombre
+Llosa Llosa NPCNSP0
 Lloseta Lloseta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lloà Lloà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llubí Llubí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6559,6 +6560,7 @@ Sagàs Sagàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sahara Sahara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sahel Sahel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
+Saint-Beuve Saint Veuve NPCNSP0
 Saint-Exupéry Saint-Exupéry NPCNSP0
 Saint-Malo Saint-Malo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saix Saix NPCNG00 # topònim-apertium-falta-gènere-nombre
