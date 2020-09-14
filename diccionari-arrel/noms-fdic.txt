@@ -50629,6 +50629,7 @@ ramillete=categories: M;fonts: LT;
 ramilletero ramilletera=categories: MF;fonts: LT;
 ramina=categories: F;fonts: dr;
 ramio=categories: M;fonts: LT;
+ramita=categories: F;fonts: diminutiu;
 ramito=categories: M;fonts: dr;
 ramiza=categories: F;fonts: LT;
 ramnáceo ramnácea=categories: MF;fonts: LT;
