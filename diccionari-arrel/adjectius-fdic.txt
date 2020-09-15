@@ -152,6 +152,7 @@ abrasivo abrasiva=categories: A;fonts: LT;
 abrazador abrazadora=categories: A;fonts: LT;
 abreviable=categories: A;fonts: LT;
 abreviador abreviadora=categories: A;fonts: dr;
+abreviativo abreviativa=categories: A;fonts: wikilengua;
 abridero abridera=categories: A;fonts: LT;
 abridor abridora=categories: A;fonts: LT;
 abrigador abrigadora=categories: A;fonts: dr;
