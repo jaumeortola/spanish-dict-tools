@@ -65,3 +65,4 @@ ecir iga ir VMM03S0 # diga
 ecir igamos ir VMM01P0 # digamos
 r d ir VMM02P0 # decid
 ecir igan ir VMM03P0 # digan
+decir dícese ir VMIP3S0+PP3CN000 # dícese
