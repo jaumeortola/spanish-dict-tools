@@ -4646,7 +4646,7 @@ Luca Luca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lucana Lucana NPFSSP0 # avl
 Lucania Lucania NPFSSP0 # avl
 Lucano Lucano NPMSSP0 # avl
-Lucanor Lucanor NPCNSO0
+Lucanor Lucanor NPCNSP0
 Lucas Lucas NPMSSP0 # avl
 Lucena Lucena NPCSG00
 Lucero Lucero NPCNSP0 # wiki common surnames
