@@ -4215,6 +4215,7 @@ Jose Jose NPMSSP0 # familiar?
 Josefa Josefa NPFSSP0 # avl
 Josefina Josefina NPFSSP0 # avl
 Josefino Josefino NPMSSP0 # avl
+Joselito Joselito NPMSSP0
 Joseph Joseph NPMSSP0 # wiki
 Josué Josué NPMSSP0 # avl
 José José NPMSSP0 # avl
@@ -6548,7 +6549,7 @@ Ródano Ródano NPMSG00 # wiki
 Rómulo Rómulo NPMSSP0 # avl
 Róterdam Róterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rótova Rótova NPCNG00 # topònim-apertium-falta-gènere-nombre
-SAT SAT NPMSO00
+SAT SAT NPCNO00
 SEAT SEAT NPCNO00 # wiki
 SENA SENA NPMSO00 # topònim-apertium-falta-gènere-nombre
 SEP SEP NPCNO00
