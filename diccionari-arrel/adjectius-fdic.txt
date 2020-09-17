@@ -4442,6 +4442,7 @@ cariógeno cariógena=categories: A;fonts: LT;
 carlancón carlancona=categories: A;fonts: LT;
 carlista=categories: A;fonts: LT;
 carlovingio carlovingia=categories: A;fonts: LT;
+carmelita=categories: A;fonts: dr;
 carmelitano carmelitana=categories: A;fonts: dr;
 carmesí [pl. carmesíes o carmesís]=categories: A;fonts: LT;
 carminativo carminativa=categories: A;fonts: LT;
