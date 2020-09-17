@@ -183,6 +183,7 @@
 #estent=categories: M;fonts: dr;
 #estocafís=categories: M;fonts: dr;
 #exceptio veritatis=categories: F;fonts: dr;
+#exprés=categories: M;fonts: LT;
 #f=categories: FS;fonts: LT;
 #fagote=categories: M;fonts: LT;
 #fang [pl. fangs]=categories: M;fonts: LT;
@@ -26520,7 +26521,6 @@ exprimidero exprimidera=categories: MF;fonts: LT;
 exprimidor exprimidora=categories: MF;fonts: LT;
 expromisión=categories: F;fonts: LT;
 expropiación=categories: F;fonts: LT;
-exprés=categories: MI;fonts: LT;
 expugnación=categories: F;fonts: LT;
 expugnador expugnadora=categories: MF;fonts: LT;
 expulsivo=categories: M;fonts: LT;
