@@ -31194,6 +31194,7 @@ haraute=categories: M;fonts: dr;
 harca=categories: F;fonts: LT;
 harda=categories: F;fonts: dr;
 hardware=categories: M;fonts: LT;
+harem [pl. harems]=categories: M;fonts: LT;
 harija=categories: F;fonts: LT;
 harina=categories: F;fonts: LT;
 harinado=categories: M;fonts: LT;

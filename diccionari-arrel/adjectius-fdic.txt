@@ -33,6 +33,7 @@
 #líbero líbera=categories: A;fonts: dr, desus;
 #maleador maleadora=categories: A;fonts: LT, desus;
 #mam [pl. mames]=categories: A;fonts: dr;
+#manifesto manifesta=categories: A;fonts: LT;
 #mareomotor mareomotora=categories: A;fonts: LT;
 #mejicano mejicana=categories: A;fonts: LT;
 #minuto minuta=categories: A;fonts: LT;
@@ -15308,7 +15309,6 @@ manicorto manicorta=categories: A;fonts: LT;
 manierista=categories: A;fonts: LT;
 manifestador manifestadora=categories: A;fonts: LT;
 manifestativo manifestativa=categories: A;fonts: LT;
-manifesto manifesta=categories: A;fonts: LT;
 manifiesto manifiesta=categories: A;fonts: LT;
 manigüero manigüera=categories: A;fonts: dr;
 manilargo manilarga=categories: A;fonts: LT;
