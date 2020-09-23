@@ -4589,6 +4589,7 @@ Llorach Llorach NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lloret Lloret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llosa Llosa NPCNSP0
 Lloseta Lloseta NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lloyd Lloyd NPCNSP0
 Lloà Lloà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llubí Llubí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llucena Llucena NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5702,6 +5703,7 @@ Ortiz Ortiz NPMSSP0 # avl
 Ortuña Ortuña NPFSSP0 # avl
 Ortuño Ortuño NPMSSP0 # avl
 Ortín Ortín NPMSSP0 # avl
+Orwell Orwell NPCNSP0
 Orxeta Orxeta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orán Orán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orís Orís NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7730,6 +7732,7 @@ Walt Walt NPCNSP0 # wiki
 Walter Walter NPCNSP0 # wiki
 Wamba Wamba NPMSSP0 # avl
 Wanda Wanda NPCSSP0 # avl
+Warhol Warhol NPCNSP0
 Warren Warren NPCNSP0 # wiki
 Washington Washington NPCNG00 # topònim-apertium-falta-gènere-nombre
 Waterloo Waterloo NPCSG00

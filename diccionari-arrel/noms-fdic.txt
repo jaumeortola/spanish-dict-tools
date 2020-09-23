@@ -9230,6 +9230,7 @@ botavante=categories: M;fonts: dr;
 botavara=categories: F;fonts: LT;
 bote=categories: M;fonts: LT;
 botecario=categories: M;fonts: dr;
+botecito=categories: M;fonts: diminutiu;
 boteja=categories: F;fonts: dr;
 botella=categories: F;fonts: LT;
 botellazo=categories: M;fonts: LT;
