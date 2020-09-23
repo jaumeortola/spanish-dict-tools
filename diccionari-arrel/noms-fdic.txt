@@ -4713,6 +4713,7 @@ antiperístasis=categories: FI;fonts: dr;
 antipirina=categories: F;fonts: LT;
 antipirético=categories: M;fonts: LT;
 antiplasmina=categories: F;fonts: LT;
+antipolilla=categories: M;fonts: dr;
 antipontificado=categories: M;fonts: dr;
 antipressing [pl. antipressings]=categories: M;fonts: LT;
 antiprotón=categories: M;fonts: LT;
