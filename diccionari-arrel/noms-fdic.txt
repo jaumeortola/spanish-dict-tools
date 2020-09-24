@@ -4687,6 +4687,7 @@ antimoniuro=categories: M;fonts: LT;
 antimonopolio=categories: M;fonts: LT;
 antineutrino=categories: M;fonts: dr;
 antineutrón=categories: M;fonts: LT;
+antiniebla=categories: M;fonts: dr;
 antinodo=categories: M;fonts: LT;
 antinomia=categories: F;fonts: LT;
 antinomía=categories: F;fonts: LT;
