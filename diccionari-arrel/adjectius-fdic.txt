@@ -51,6 +51,7 @@
 #poch=categories: A;fonts: dr;
 #poco poca=categories: A;fonts: LT; millor com a determinant
 #presago presaga=categories: A;fonts: LT;
+#producto producta=categories: A;fonts: LT;
 #quindécimo quindécima=categories: A;fonts: LT, desus;
 #recentín=categories: A;fonts: LT, desus;
 #riquísimo riquísima=categories: A;fonts: LT;
@@ -19809,7 +19810,6 @@ producidor producidora=categories: A;fonts: dr;
 productible=categories: A;fonts: LT;
 productivista=categories: A;fonts: LT;
 productivo productiva=categories: A;fonts: LT;
-producto producta=categories: A;fonts: LT;
 productor productora=categories: A;fonts: LT;
 proel=categories: A;fonts: LT;
 proemial=categories: A;fonts: LT;
