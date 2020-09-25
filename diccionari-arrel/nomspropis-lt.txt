@@ -6714,6 +6714,7 @@ Scandale Scandale NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scarlett Scarlett NPFSSP0
 Schengen Schengen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
+Schneider Schneider NPCNSP0
 Schopenhauer Schopenhauer NPCNSP0
 Schröder Schröder NPCNSP0
 Schubert Schubert NPCNSP0 # wiki

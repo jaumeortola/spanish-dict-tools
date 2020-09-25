@@ -29818,6 +29818,7 @@ globulariácea=categories: F;fonts: LT;
 globulina=categories: F;fonts: LT;
 globulinemia=categories: F;fonts: LT;
 globulímetro=categories: M;fonts: LT;
+glocalización=categories: F;fonts: fundeu;
 glomerulonefritis=categories: FI;fonts: LT;
 glomo=categories: M;fonts: LT;
 glomérulo=categories: M;fonts: LT;
