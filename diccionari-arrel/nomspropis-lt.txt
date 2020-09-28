@@ -1691,6 +1691,7 @@ CEOE CEOE NPFSO00
 CES CES NPCNO00
 CEST CEST NPCNO00 # wiki
 CFE CFE NPFSO00
+CGPJ CGPJ NPMSO00
 CIA CIA NPFSO00 # wiki
 CIS CIS NPMSO00
 CLP CLP NPCNO00
@@ -3760,6 +3761,7 @@ Hawking Hawking NPCNSP0
 Hawkins Hawkins NPCNSP0
 Hawái Hawái NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haydn Haydn NPCNSP0 # wiki
+Hayek Hayek NPCNSP0
 Heathrow Heathrow NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hebron Hebron NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hebrón Hebrón NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4311,6 +4313,7 @@ Kepler Kepler NPCNSP0 # wiki
 Kerbala Kerbala NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kerouac Kerouac NPCNSP0 # wiki
 Kevin Kevin NPCNSP0
+Keynes Keynes NPCNSP0
 Khartum Khartum NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kierkegaard Kierkegaard NPCNSP0
 Kiev Kiev NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4335,6 +4338,7 @@ Kodak Kodak NPCNO00
 Konrad Konrad NPCNSP0
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kremlin Kremlin NPCNG00 # topònim-apertium-falta-gènere-nombreKremlin Kremlin NPMSG00
+Krugman Krugman NPCNSP0
 Kubrick Kubrick NPCNSP0 # wiki
 Kundera Kundera NPCNSP0
 Kurdistán Kurdistán NPCNG00 # topònim-apertium-falta-gènere-nombre

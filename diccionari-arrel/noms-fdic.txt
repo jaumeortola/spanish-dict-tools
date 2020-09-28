@@ -51431,6 +51431,7 @@ reenvío=categories: M;fonts: LT;
 reequilibrio=categories: M;fonts: LT;
 reequipamiento=categories: M;fonts: LT;
 reerección=categories: F;fonts: LT;
+reescalada=categories: F;fonts: derivat;
 reescritura=categories: F;fonts: LT;
 reestreno=categories: M;fonts: LT;
 reestructuración=categories: F;fonts: LT;
