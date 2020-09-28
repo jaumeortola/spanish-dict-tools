@@ -397,6 +397,7 @@ Alberique Alberique NPCNG00 # topònim-apertium-falta-gènere-nombre
 Albert Albert NPCNSP0
 Alberta Alberta NPCSG00 # topònim-apertium-falta
 Alberta Alberta NPFSSP0 # avl
+Alberti Alberti NPCNSP0
 Albertina Albertina NPFSSP0 # avl
 Albertino Albertino NPMSSP0 # avl
 Alberto Alberto NPMSSP0 # avl
@@ -4465,6 +4466,7 @@ Lepe Lepe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Leriana Leriana NPFSSP0 # avl
 Leriano Leriano NPMSSP0 # avl
 Leslie Leslie NPCNSP0
+Lesmes Lesmes NPCNSP0
 Lesoto Lesoto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lesseps Lesseps NPCNG00 # topònim-apertium-falta-gènere-nombre
 Leticia Leticia NPFSSP0 # avl
@@ -6268,6 +6270,7 @@ RENFE RENFE NPCNO00
 RFA RFA NPFSG00
 RFC RFC NPCNO00
 RGPD RGPD NPMSO00
+RTVE RTVE NPFSO00
 RTVV RTVV NPFSO00
 RUT RUT NPMSO00
 Ra Ra NPMSSP0 # avl
