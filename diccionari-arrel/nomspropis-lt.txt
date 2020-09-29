@@ -688,7 +688,7 @@ Andrea Andrea NPFSSP0 # avl
 Andreani Andreani NPCNSP0
 Andrew Andrew NPCNSP0 # wiki
 Andreína Andreína NPFSSP0
-Android Android NPCSO00
+Android Android NPCNO00
 André André NPCNSP0 # wiki
 Andrés Andrés NPMSSP0 # avl
 Andrómaca Andrómaca NPFSSP0 # avl
@@ -7420,7 +7420,7 @@ Unarre Unarre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Unesco Unesco NPFSO00 # wiki
 Unfredo Unfredo NPMSSP0 # avl
 Unha Unha NPCNG00 # topònim-apertium-falta-gènere-nombre
-Unicef Unicef NPMSO00
+Unicef Unicef NPCSO00
 Unicode Unicode NPCNO00
 Unix Unix NPCNO00 # wiki
 Urales Urales NPCNG00 # topònim-apertium-falta-gènere-nombre
