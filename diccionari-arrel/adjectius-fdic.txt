@@ -1,5 +1,6 @@
 #afro afra=categories: A;fonts: LT, desus;
 #albero albera=categories: A;fonts: LT, desus;
+#aniversario aniversaria=categories: A;fonts: LT; unusual!
 #artista=categories: A;fonts: LT, desus;
 #bebedizo bebediza=categories: A;fonts: LT, desus;
 #bio=categories: AI;fonts: LT;
@@ -1570,7 +1571,6 @@ anisotónico anisotónica=categories: A;fonts: LT;
 anisócrono anisócrona=categories: A;fonts: LT;
 anisómero anisómera=categories: A;fonts: LT;
 anisótropo anisótropa=categories: A;fonts: LT;
-aniversario aniversaria=categories: A;fonts: LT;
 aniñado aniñada=categories: A;fonts: LT;
 aniónico aniónica=categories: A;fonts: LT;
 annobonés annobonesa=categories: A;fonts: dr;
