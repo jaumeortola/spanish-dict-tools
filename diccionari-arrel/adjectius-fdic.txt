@@ -5043,6 +5043,7 @@ chetumalense=categories: A;fonts: dr;
 chetumaleño chetumaleña=categories: A;fonts: dr;
 cheuto cheuta=categories: A;fonts: dr;
 chiapaneco chiapaneca=categories: A;fonts: dr;
+chibcha=categories: A;fonts: dr;
 chic=categories: AI;fonts: LT;
 chicanero chicanera=categories: A;fonts: dr;
 chicano chicana=categories: A;fonts: LT;
