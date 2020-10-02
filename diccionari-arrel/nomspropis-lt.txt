@@ -1048,6 +1048,7 @@ Ayamonte Ayamonte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aylin Aylin NPFSSP0
 Ayora Ayora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ayrton Ayrton NPMSSP0
+Ayuso Ayuso NPCNSP0
 Ayódar Ayódar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Azarías Azarías NPMSSP0 # avl
 Azaña Azaña NPCNSP0 # wiki
@@ -4964,6 +4965,7 @@ Massanassa Massanassa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massanes Massanes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massanet Massanet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massoteres Massoteres NPCNG00 # topònim-apertium-falta-gènere-nombre
+MasterChef MasterChef NPCNO00
 Matadepera Matadepera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mataró Mataró NPCNG00 # topònim-apertium-falta-gènere-nombre
 Matatías Matatías NPMSSP0 # avl
