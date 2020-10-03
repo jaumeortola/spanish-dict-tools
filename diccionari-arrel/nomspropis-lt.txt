@@ -7175,6 +7175,7 @@ Thimbu Thimbu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Thomas Thomas NPCNSP0
 Thompson Thompson NPCNSP0 # wiki
 Thonon Thonon NPCNG00 # topònim-apertium-falta-gènere-nombre
+Thor Thor NPMSSP0
 Thyssen Thyssen NPCNSP0
 Thyssen-Bornemisza Thyssen-Bornemisza NPCNSP0
 Tiana Tiana NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7301,6 +7302,7 @@ Tost Tost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Totana Totana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tottenham Tottenham NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toulouse Toulouse NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tourette Tourette NPCNSP0
 Tous Tous NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toya Toya NPFSSP0 # avl
 Trabaldo Trabaldo NPMSSP0 # avl
