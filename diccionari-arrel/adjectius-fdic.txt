@@ -4583,7 +4583,6 @@ catabólico catabólica=categories: A;fonts: dr;
 catadióptrico catadióptrica=categories: A;fonts: LT;
 catafórico catafórica=categories: A;fonts: LT;
 catalanista=categories: A;fonts: LT;
-catalano-hablante=categories: A;fonts: LT;
 catalanohablante=categories: A;fonts: LT;
 catalanoparlante=categories: A;fonts: LT;
 catalizador catalizadora=categories: A;fonts: LT;

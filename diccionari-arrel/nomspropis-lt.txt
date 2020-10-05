@@ -7262,6 +7262,7 @@ Toro Toro NPCNSP0 # wiki common surnames
 Toronto Toronto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Torquemada Torquemada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Torquemadas Torquemadas NPMPSP0
+Torra Torra NPCNSP0
 Torre-Pacheco Torre-Pacheco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Torre-serona Torre-serona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Torre-xiva Torre-xiva NPCNG00 # topònim-apertium-falta-gènere-nombre

@@ -30395,6 +30395,7 @@ griterío=categories: M;fonts: LT;
 grito=categories: M;fonts: LT;
 grivia=categories: F;fonts: LT;
 grivna=categories: F;fonts: LT;
+grizzly [pl. grizzlies]=categories: M;fonts: english;
 griñolera=categories: F;fonts: LT;
 griñón=categories: M;fonts: LT;
 gro=categories: M;fonts: LT;
