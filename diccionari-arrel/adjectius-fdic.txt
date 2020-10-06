@@ -16311,6 +16311,7 @@ monorrefringente=categories: A;fonts: LT;
 monorriel=categories: A;fonts: dr;
 monorrimo monorrima=categories: A;fonts: LT;
 monorrítmico monorrítmica=categories: A;fonts: LT;
+monosexual=categories: A;fonts: diec;
 monosilábico monosilábica=categories: A;fonts: LT;
 monospermo monosperma=categories: A;fonts: LT;
 monostrófico monostrófica=categories: A;fonts: LT;
