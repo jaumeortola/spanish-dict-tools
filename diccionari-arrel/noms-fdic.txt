@@ -22177,6 +22177,7 @@ drago=categories: M;fonts: LT;
 dragomán=categories: M;fonts: LT;
 dragona=categories: F;fonts: LT;
 dragoncillo=categories: M;fonts: LT;
+dragoncito=categories: M;fonts: dimnutiu;
 dragonete=categories: M;fonts: dr;
 dragonites=categories: FI;fonts: dr;
 dragontea=categories: F;fonts: LT;
