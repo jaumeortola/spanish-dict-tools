@@ -1384,6 +1384,7 @@ Berenice Berenice NPFSSP0 # avl
 Beret Beret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berga Berga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bergman Bergman NPCNSP0
+Bergoglio Bergoglio NPCNSP0
 Berguedà Berguedà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berkeley Berkeley NPCSG00
 Berlandina Berlandina NPFSSP0 # avl

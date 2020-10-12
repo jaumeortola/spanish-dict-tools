@@ -123,7 +123,6 @@
 #container [pl. containers]=categories: M;fonts: LT;
 #contray=categories: M;fonts: dr;
 #copalchí=categories: M;fonts: dr;
-#copec [pl. copecs]=categories: M;fonts: LT;
 #coquinario coquinaria=categories: M;fonts: dr;
 #coquí=categories: M;fonts: dr;
 #cortinado cortinada=categories: M;fonts: dr;
@@ -17130,6 +17129,7 @@ copatrón copatrona=categories: MF;fonts: dr;
 copayero=categories: M;fonts: LT;
 copaína=categories: F;fonts: LT;
 copeado=categories: M;fonts: LT;
+copec [pl. copecs]=categories: M;fonts: LT;
 copeicillo=categories: M;fonts: dr;
 copela=categories: F;fonts: LT;
 copelación=categories: F;fonts: LT;
