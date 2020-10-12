@@ -87,7 +87,6 @@
 #Maravillas Maravillas NPFSSP0 # avl
 #Marcos Marcos NPMSSP0 # avl
 #Marolas Marolas NPFSSP0 # avl
-#Marraquech Marraquech NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Marraqués Marraqués NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Masalfasar Masalfasar NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mayor Mayor NPMSSP0 # avl
@@ -1982,6 +1981,7 @@ Cataluña Cataluña NPFSG00
 Cataluñas Cataluñas NPFPG00 # topònim-apertium-falta-gènere-nombre
 Catania Catania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catanzaro Catanzaro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Catar Catar NPCSG00 # topònim-apertium
 Catarroja Catarroja NPFSG00 # topònim-apertium
 Catellbisbal Catellbisbal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catherine Catherine NPFSSP0
@@ -2644,6 +2644,7 @@ Dotesio Dotesio NPMSSP0 # avl
 Doubs Doubs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Douglas Douglas NPCNSP0 # wiki
 Dover Dover NPCNG00 # topònim-apertium-falta-gènere-nombre
+Down Down NPCNSP0
 Drapia Drapia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dresde Dresde NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dris Dris NPMSSP0 # avl
@@ -4911,7 +4912,8 @@ Marna Marna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marolo Marolo NPMSSP0 # avl
 Maropati Maropati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marquina Marquina NPCNG00 # topònim-apertium-falta-gènere-nombre
-Marrakech Marrakech NPCNG00 # topònim-apertium-falta-gènere-nombre
+Marrakech Marrakech NPCSG00 # topònim-apertium
+Marraquech Marraquech NPCSG00 # topònim-apertium
 Marratxí Marratxí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marruecos Marruecos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marsella Marsella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6222,7 +6224,7 @@ Pío Pío NPMSSP0 # avl
 Píramo Píramo NPMSSP0 # avl
 Pólux Pólux NPMSSP0 # avl
 Pórtugos Pórtugos NPCNG00 # topònim-apertium-falta-gènere-nombre
-Qatar Qatar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Qatar Qatar NPCSG00 # topònim-apertium
 Quart Quart NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quartell Quartell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quatretonda Quatretonda NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7061,6 +7063,8 @@ Tana Tana NPFSSP0 # avl
 Tancreda Tancreda NPFSSP0 # avl
 Tancredo Tancredo NPMSSP0 # avl
 Tang Tang NPCNSP0 # wiki
+Tanganica Tanganica NPCSG00
+Tanganika Tanganika NPCSG00
 Tania Tania NPFSSP0 # avl
 Tano Tano NPMSSP0 # avl
 Tanzania Tanzania NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7360,9 +7364,10 @@ Tunja Tunja NPCSG00
 Turia Turia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turing Turing NPCNSP0 # wiki
 Turingia Turingia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Turkestán Turkestán NPCSG00 # topònim-apertium
 Turkmenistán Turkmenistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turner Turner NPCNSP0 # wiki
-Turquestán Turquestán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Turquestán Turquestán NPCSG00 # topònim-apertium
 Turquía Turquía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turín Turín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turís Turís NPCNG00 # topònim-apertium-falta-gènere-nombre

@@ -1,3 +1,5 @@
+# contraargumentar=categories: V;model:amar;fonts: LT; NOU!!
+# contrargumentar=categories: V;model:amar;fonts: LT; NOU!!
 #abar=categories: V;model:amar;fonts: LT; defectiu!!
 #acachar=categories: V;model:amar;fonts: LT;
 #advocar=categories: V;model:abarcar;fonts: ap;
