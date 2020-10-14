@@ -4091,6 +4091,7 @@ Ixena Ixena NPFSSP0 # avl
 Iztapalapa Iztapalapa NPCSG00
 Iàtova Iàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iñaki Iñaki NPMSSP0
+Iósif Iósif NPMSSP0
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jacarilla Jacarilla NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4546,6 +4547,7 @@ Lino Lino NPMSSP0 # avl
 Linux Linux NPCNO00 # wiki
 Linyola Linyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lionel Lionel NPMSSP0
+Lipschutz Lipschutz NPCNSP0
 Liria Liria NPFSG00 # topònim-apertium
 Liria Liria NPFSSP0 # avl
 Lirio Lirio NPFSSP0 # avl
@@ -5552,6 +5554,7 @@ Nuria Nuria NPFSSP0 # avl
 Nuuk Nuuk NPCNG00
 Nuña Nuña NPFSSP0 # avl
 Nuño Nuño NPMSSP0 # avl
+Nyong'o Nyong'o NPCNSP0
 Nàquera Nàquera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nájera Nájera NPCNSP0
 Nápoles Nápoles NPCNG00 # topònim-apertium-falta-gènere-nombre
