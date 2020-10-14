@@ -5554,7 +5554,6 @@ Nuria Nuria NPFSSP0 # avl
 Nuuk Nuuk NPCNG00
 Nuña Nuña NPFSSP0 # avl
 Nuño Nuño NPMSSP0 # avl
-Nyong'o Nyong'o NPCNSP0
 Nàquera Nàquera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nájera Nájera NPCNSP0
 Nápoles Nápoles NPCNG00 # topònim-apertium-falta-gènere-nombre
