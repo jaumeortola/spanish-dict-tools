@@ -38,6 +38,7 @@
 #arto=categories: M;fonts: dr;
 #autoregulación=categories: F;fonts: LT;
 #azut=categories: M;fonts: dr;
+#badminton [pl. badmintones o badmintons]=categories: M;fonts: LT;
 #barn [pl. barnes o barns]=categories: M;fonts: LT;
 #ben [pl. benes]=categories: M;fonts: LT;
 #bestiún=categories: M;fonts: dr;
@@ -7174,7 +7175,6 @@ badilazo=categories: M;fonts: LT;
 badilejo=categories: M;fonts: LT;
 badina=categories: F;fonts: dr;
 badián=categories: M;fonts: LT;
-badminton [pl. badmintones o badmintons]=categories: M;fonts: LT;
 badulaque=categories: M;fonts: LT;
 badulaquería=categories: F;fonts: dr;
 badén=categories: M;fonts: LT;
