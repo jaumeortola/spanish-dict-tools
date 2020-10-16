@@ -20540,6 +20540,7 @@ reacio reacia=categories: A;fonts: LT;
 reactante=categories: A;fonts: dr;
 reactivable=categories: A;fonts: LT;
 reactivo reactiva=categories: A;fonts: LT;
+ready-made=categories: AI;fonts: termcat;
 reafirmante=categories: A;fonts: dr;
 reagudo reaguda=categories: A;fonts: dr;
 reajustable=categories: A;fonts: LT;

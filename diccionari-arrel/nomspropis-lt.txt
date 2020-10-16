@@ -452,6 +452,7 @@ Aldaya Aldaya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aldo Aldo NPMSSP0 # avl
 Aldonza Aldonza NPFSSP0 # avl
 Aldover Aldover NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aldrin Aldrin NPCNSP0
 Aledo Aledo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alegría Alegría NPFSSP0 # avl
 Aleja Aleja NPFSSP0 # avl
@@ -831,6 +832,7 @@ Arcadio Arcadio NPMSSP0 # avl
 Arcavell Arcavell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arce Arce NPCNSP0 # wiki common surnames
 Archena Archena NPCNG00 # topònim-apertium-falta-gènere-nombre
+Arcimboldo Arcimboldo NPMSSP0
 Arcángel Arcángel NPMSSP0 # avl
 Arcángela Arcángela NPFSSP0 # avl
 Ardebaldo Ardebaldo NPMSSP0 # avl
@@ -1125,6 +1127,7 @@ Baltimore Baltimore NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balzac Balzac NPCNSP0
 Balákirev Balákirev NPCNSP0 # wiki
 Bamako Bamako NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bancaja Bancaja NPFSO00
 Bancolombia Bancolombia NPCNO00
 Bandung Bandung NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bangalore Bangalore NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1132,6 +1135,7 @@ Bangkok Bangkok NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bangladés Bangladés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bangui Bangui NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banjul Banjul NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bankia Bankia NPFSO00
 Banyalbufar Banyalbufar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banyoles Banyoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baqueira Baqueira NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1315,6 +1319,7 @@ Benferri Benferri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bengala Bengala NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bengaluru Bengaluru NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bengasi Bengasi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Benguerel Benguerel NPCNSP0
 Beniarbeig Beniarbeig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beniardà Beniardà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beniardá Beniardá NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1653,6 +1658,7 @@ Bundestag Bundestag NPMSO00
 Bunyol Bunyol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bunyola Bunyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buonabitacolo Buonabitacolo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Buonarroti Buonarroti NPCNSP0
 Buonvicino Buonvicino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Burckhardt Burckhardt NPCNSP0
 Burdeos Burdeos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1888,6 +1894,7 @@ Carmen Carmen NPFSSP0 # avl
 Carmesina Carmesina NPFSSP0 # avl
 Carmina Carmina NPFSSP0 # avl
 Carmona Carmona NPCSG00
+Carnegie Carnegie NPCNSP0
 Carol Carol NPFSSP0
 Carola Carola NPFSSP0 # avl
 Carolei Carolei NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1994,6 +2001,7 @@ Catón Catón NPMSSP0 # avl
 Caudiel Caudiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caulonia Caulonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cava Cava NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cavendish Cavendish NPCNSP0
 Caya Caya NPFSSP0 # avl
 Cayena Cayena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cayetana Cayetana NPFSSP0 # avl
@@ -2424,6 +2432,7 @@ Cullera Cullera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cundinamarca Cundinamarca NPCSG00
 Cuneo Cuneo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cunit Cunit NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cunningham Cunningham NPCNSP0
 Cuomo Cuomo NPCNSP0
 Cupido Cupido NPMSSP0 # avl
 Curazao Curazao NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2528,12 +2537,14 @@ Davos Davos NPCSG00 # topònim-apertium
 Dawkins Dawkins NPCNSP0
 Dayana Dayana NPFSSP0
 Daza Daza NPCNSP0
+DeLorean DeLorean NPCNO00
 Deborah Deborah NPFSSP0
 Debussy Debussy NPCNSP0
 Decio Decio NPMSSP0 # avl
 Deidamía Deidamía NPFSSP0
 Deià Deià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dekan Dekan NPCNG00 # topònim-apertium-falta-gènere-nombre
+Delacroix Delacroix NPCNSP0
 Delany Delany NPCNSP0
 Delaware Delaware NPCNG00 # topònim-apertium-falta-gènere-nombre
 Delfina Delfina NPFSSP0 # avl
@@ -2682,6 +2693,7 @@ EAU EAU NPMPG00
 ECHO ECHO NPCNO00
 ECTS ECTS NPMSO00
 ERC ERC NPCNO00
+ESA ESA NPFSO00
 Eastwood Eastwood NPCNSP0
 Ebo Ebo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ebro Ebro NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2709,6 +2721,7 @@ Edna Edna NPFSSP0 # avl
 Edson Edson NPMSSP0
 Eduarda Eduarda NPFSSP0 # avl
 Eduardo Eduardo NPMSSP0 # avl
+Edurne Edurne NPFSSP0
 Eduvigis Eduvigis NPFSSP0 # avl
 Edward Edward NPCNSP0
 Edwards Edwards NPCNSP0
@@ -2838,6 +2851,7 @@ Engordany Engordany NPCNG00 # topònim-apertium-falta-gènere-nombre
 Engracia Engracia NPFSSP0 # avl
 Engracio Engracio NPMSSP0 # avl
 Enguera Enguera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ennio Ennio NPMSSP0
 Enoc Enoc NPMSSP0 # avl
 Enone Enone NPFSSP0 # avl
 Enrique Enrique NPMSSP0 # avl
@@ -3075,6 +3089,7 @@ FBI FBI NPMSO00 # wiki
 FEDER FEDER NPMNO00
 FIFA FIFA NPFSO00 # wiki
 FMI FMI NPMSO00
+FROB FROB NPMSO00
 Fabiana Fabiana NPFSSP0 # avl
 Fabio Fabio NPMSSP0 # avl
 Fabiola Fabiola NPFSSP0 # avl
@@ -3239,6 +3254,7 @@ Fonollosa Fonollosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fonseca Fonseca NPCNSP0
 Font Font NPCNG00 # topònim-apertium-falta-gènere-nombre
 Font-rubí Font-rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fontalba Fontalba NPFSG00
 Fontana Fontana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fontanares Fontanares NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fontanilles Fontanilles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3300,10 +3316,12 @@ Frascineto Frascineto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fraterna Fraterna NPFSSP0 # avl
 Fraterno Fraterno NPMSSP0 # avl
 Fred Fred NPCNSP0 # wiki
+Freddie Freddie NPMSSP0
 Freddy Freddy NPCNSP0
 Frederick Frederick NPCNSP0 # wiki
 Freetown Freetown NPCNG00 # topònim-apertium-falta-gènere-nombre
 Freginals Freginals NPCNG00 # topònim-apertium-falta-gènere-nombre
+Freixa Freixa NPCNSP0
 Freixas Freixas NPCNSP0
 Fresia Fresia NPFSSP0 # avl
 Fresina Fresina NPFSSP0 # avl
@@ -3521,6 +3539,7 @@ Getafe Getafe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getulia Getulia NPFSSP0 # avl
 Getulio Getulio NPMSSP0 # avl
 Ghana Ghana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gianni Gianni NPMSSP0
 Giberto Giberto NPMSSP0 # avl
 Gibraltar Gibraltar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gijón Gijón NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3815,6 +3834,7 @@ Herberto Herberto NPMSSP0 # avl
 Herbés Herbés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Herculano Herculano NPMSSP0 # avl
 Heredia Heredia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hergé Hergé NPMSSP0
 Heriberta Heriberta NPFSSP0 # avl
 Heriberto Heriberto NPMSSP0 # avl
 Herman Herman NPMSSP0
@@ -3831,6 +3851,7 @@ Herminda Herminda NPFSSP0 # avl
 Hermindo Hermindo NPMSSP0 # avl
 Herminia Herminia NPFSSP0 # avl
 Herminio Herminio NPMSSP0 # avl
+Hermione Hermione NPFSSP0
 Hermosillo Hermosillo NPMSG00
 Hermógenes Hermógenes NPMSSP0 # avl
 Hernando Hernando NPMSSP0 # avl
@@ -3842,6 +3863,7 @@ Herodías Herodías NPFSSP0 # avl
 Heros Heros NPMSSP0 # avl
 Herrera Herrera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Herrera Herrera NPCNSP0 # wiki common surnames
+Hertzsprung Hertzsprung NPCNSP0
 Herté Herté NPMSSP0 # avl
 Hervás Hervás NPCNG00 # topònim-apertium-falta-gènere-nombre
 Herzegovina Herzegovina NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4307,6 +4329,7 @@ Kattegat Kattegat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kazajistán Kazajistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kazajstán Kazajstán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Keeling Keeling NPCNG00 # topònim-apertium-falta-gènere-nombre
+Keitel Keitel NPCNSP0
 Kelly Kelly NPCNSP0 # wiki
 Ken Ken NPCNSP0 # wiki
 Kenia Kenia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4346,6 +4369,7 @@ Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kremlin Kremlin NPCNG00 # topònim-apertium-falta-gènere-nombreKremlin Kremlin NPMSG00
 Krugman Krugman NPCNSP0
 Kubrick Kubrick NPCNSP0 # wiki
+Kuiper Kuiper NPCNSP0
 Kundera Kundera NPCNSP0
 Kurdistán Kurdistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kuriles Kuriles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4654,6 +4678,7 @@ Lourdes Lourdes NPCSG00 # topònim-apertium
 Lourdes Lourdes NPFSSP0 # avl
 Louvre Louvre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lovecraft Lovecraft NPCNSP0 # wiki
+Lovelace Lovelace NPCNSP0
 Loyola Loyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lozère Lozère NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luanda Luanda NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4774,6 +4799,7 @@ Maidana Maidana NPCNSP0 # wiki common surnames
 Maierato Maierato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maigmó Maigmó NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maimón Maimón NPMSSP0 # avl
+Mainat Mainat NPCNSP0
 Maine Maine NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mainz Mainz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mairena Mairena NPCSG00
@@ -4839,6 +4865,7 @@ Manises Manises NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manizales Manizales NPCSG00
 Manlleu Manlleu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manola Manola NPFSSP0 # avl
+Manolete Manolete NPMSSP0
 Manoli Manoli NPFSSP0
 Manolo Manolo NPMSSP0 # avl
 Manresa Manresa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5323,6 +5350,7 @@ Morgana Morgana NPFSSP0 # avl
 Morigerati Morigerati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mormanno Mormanno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moroni Moroni NPCNG00 # topònim-apertium-falta-gènere-nombre
+Morricone Morricone NPCNSP0
 Moscova Moscova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moscú Moscú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mosela Mosela NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5505,6 +5533,7 @@ Nicómaco Nicómaco NPMSSP0 # avl
 Nidia Nidia NPFSSP0 # avl
 Nietzsche Nietzsche NPCNSP0
 Nigeria Nigeria NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nikola Nikola NPMSSP0
 Nilo Nilo NPMSG00 # topònim-apertium
 Nilo Nilo NPMSSP0 # avl
 Nimes Nimes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5517,6 +5546,7 @@ Nixon Nixon NPCNSP0 # wiki
 Niza Niza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niágara Niágara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nièvre Nièvre NPCNG00 # topònim-apertium-falta-gènere-nombre
+Noah Noah NPCSSP0
 Noain Noain NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nocara Nocara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nocera Nocera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5554,6 +5584,7 @@ Nuria Nuria NPFSSP0 # avl
 Nuuk Nuuk NPCNG00
 Nuña Nuña NPFSSP0 # avl
 Nuño Nuño NPMSSP0 # avl
+Nyong'o Nyong'o NPCNSP0
 Nàquera Nàquera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nájera Nájera NPCNSP0
 Nápoles Nápoles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5855,6 +5886,7 @@ Parker Parker NPCNSP0 # wiki
 Parla Parla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Parlament Parlament NPCNG00 # topònim-apertium-falta-gènere-nombre
 Parlavà Parlavà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Parma Parma NPFSG00
 Parmenia Parmenia NPFSSP0 # avl
 Parmenio Parmenio NPMSSP0 # avl
 Parménides Parménides NPMSSP0 # avl
@@ -6091,6 +6123,7 @@ Polinesia Polinesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Polinyà Polinyà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Polistena Polistena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pollença Pollença NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pollock Pollock NPCNSP0
 Polo Polo NPMSSP0 # avl
 Polonia Polonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Polop Polop NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6154,6 +6187,7 @@ Presentación Presentación NPFSSP0 # avl
 Presley Presley NPCNSP0
 Prestige Prestige NPMSO00
 Pretoria Pretoria NPCNG00 # topònim-apertium-falta-gènere-nombre
+Priestley Priestley NPCNSP0
 Prima Prima NPFSSP0 # avl
 Primitiva Primitiva NPFSSP0 # avl
 Primitivo Primitivo NPMSSP0 # avl
@@ -6672,6 +6706,7 @@ Sandro Sandro NPMSSP0 # avl
 Sanet Sanet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sangineto Sangineto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sanhueza Sanhueza NPCNSP0 # wiki common surnames
+Sanjurjo Sanjurjo NPCNSP0
 Sanlúcar Sanlúcar NPCSG00
 Sansor Sansor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sansón Sansón NPMSSP0 # avl
@@ -6736,9 +6771,11 @@ Schubert Schubert NPCNSP0 # wiki
 Schumacher Schumacher NPCNSP0
 Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0
+Schwartz Schwartz NPCNSP0
 Schwarzenegger Schwarzenegger NPCNSP0
 Schweppes Schweppes NPCNO00
 Scido Scido NPCNG00 # topònim-apertium-falta-gènere-nombre
+Science Science NPFSO00
 Scigliano Scigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scott Scott NPCNSP0 # wiki
 Scrabble Scrabble NPCNO00
@@ -6919,6 +6956,7 @@ Solsona Solsona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Solsonès Solsonès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Solórzano Solórzano NPCSG00
 Somalia Somalia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Somerville Somerville NPCSG00
 Sommatino Sommatino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Somoza Somoza NPCNSP0
 Sonadell Sonadell NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7080,6 +7118,7 @@ Tarento Tarento NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taric Taric NPMSSP0 # avl
 Tarkovski Tarkovski NPCNSP0
 Tarn Tarn NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tarquinio Tarquinio NPMSSP0
 Tarradellas Tarradellas NPCNSP0
 Tarragona Tarragona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tarragonès Tarragonès NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7197,6 +7236,7 @@ Tiburcia Tiburcia NPFSSP0 # avl
 Tiburcio Tiburcio NPMSSP0 # avl
 Ticiana Ticiana NPFSSP0 # avl
 Ticiano Ticiano NPMSSP0 # avl
+Tiffany Tiffany NPCNO00
 Tigris Tigris NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tijuana Tijuana NPCSG00
 TikTok TikTok NPCNO00
@@ -7783,6 +7823,7 @@ Wikisource Wikisource NPCNO00 # wiki
 Wilfreda Wilfreda NPFSSP0 # avl
 Wilfredo Wilfredo NPMSSP0 # avl
 Wilhelm Wilhelm NPCNSP0 # wiki
+Willendorf Willendorf NPCNSP0
 William William NPCNSP0
 Williams Williams NPCNSP0
 Willie Willie NPCNSP0
