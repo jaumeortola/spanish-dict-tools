@@ -6640,6 +6640,7 @@ Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saint-Beuve Saint-Beuve NPCNSP0
 Saint-Exupéry Saint-Exupéry NPCNSP0
 Saint-Malo Saint-Malo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sainz Sainz NPCNSP0
 Saix Saix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sajonia Sajonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saladina Saladina NPFSSP0 # avl
@@ -7780,6 +7781,7 @@ Volkswagen Volkswagen NPCNSP0 # wiki
 Voltaire Voltaire NPCNSP0 # wiki
 Volvo Volvo NPCNSP0
 Vosgos Vosgos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vox Vox NPCNO00
 Voyager Voyager NPCNSP0 # wiki
 Vulcano Vulcano NPMSSP0 # avl
 Vulpellac Vulpellac NPCNG00 # topònim-apertium-falta-gènere-nombre
