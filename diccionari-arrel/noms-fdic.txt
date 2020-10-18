@@ -16053,6 +16053,7 @@ compatrono compatrona=categories: MF;fonts: dr;
 compatrón=categories: M;fonts: dr;
 compaña=categories: F;fonts: LT;
 compañerismo=categories: M;fonts: LT;
+compañerito compañerita=categories: MF;fonts: diminutiu;
 compañero compañera=categories: MF;fonts: LT;
 compañería=categories: F;fonts: dr;
 compañía (cía)=categories: F;fonts: LT;

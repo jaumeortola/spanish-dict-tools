@@ -3882,6 +3882,7 @@ Higueruelas Higueruelas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hilaria Hilaria NPFSSP0 # avl
 Hilario Hilario NPMSSP0 # avl
 Hilarión Hilarión NPMSSP0 # avl
+Hilary Hilary NPFSSP0
 Hilberto Hilberto NPMSSP0 # avl
 Hilda Hilda NPFSSP0 # avl
 Hildeberto Hildeberto NPMSSP0 # avl
@@ -6558,6 +6559,7 @@ Rosselló Rosselló NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rossini Rossini NPCNSP0
 Rota Rota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rotglà Rotglà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rothschild Rothschild NPCNSP0
 Rousseau Rousseau NPCNSP0 # wiki
 Rovira Rovira NPCNSP0
 Rovito Rovito NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6975,6 +6977,7 @@ Soria Soria NPCNSP0 # wiki common surnames
 Sorianello Sorianello NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soriguera Soriguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sorita Sorita NPCNG00 # topònim-apertium-falta-gènere-nombre
+Soros Soros NPCNSP0
 Sort Sort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sosa Sosa NPCNSP0 # wiki common surnames
 Soses Soses NPCNG00 # topònim-apertium-falta-gènere-nombre

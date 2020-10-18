@@ -26,6 +26,7 @@
 #pasturar=categories: V;model:amar;fonts: ap;
 #pañear=categories: V;model:amar;fonts: ap;
 #pegilar=categories: V;model:amar;fonts: ap;
+#plebiscitar=categories: V;model:amar;fonts: derivat; NOU!!
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #reestablecer=categories: V;model:agradecer;fonts: LT; # Error: restablecer
 #remugar=categories: V;model:cargar;fonts: ap;

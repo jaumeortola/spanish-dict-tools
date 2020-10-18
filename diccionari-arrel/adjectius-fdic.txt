@@ -49,6 +49,7 @@
 #noto nota=categories: A;fonts: LT, desus;
 #padrísimo=categories: AM;fonts: LT;
 #paquistanés paquistanesa=categories: A;fonts: LT;
+#plebiscitar=categories: A;fonts: LT;
 #poch=categories: A;fonts: dr;
 #poco poca=categories: A;fonts: LT; millor com a determinant
 #presago presaga=categories: A;fonts: LT;
@@ -19037,7 +19038,6 @@ playero playera=categories: A;fonts: LT;
 playo playa=categories: A;fonts: dr;
 plañidero plañidera=categories: A;fonts: LT;
 plebeyo plebeya=categories: A;fonts: LT;
-plebiscitar=categories: A;fonts: LT;
 plebiscitario plebiscitaria=categories: A;fonts: LT;
 plectognato=categories: A;fonts: dr;
 plegable=categories: A;fonts: LT;
