@@ -9,6 +9,7 @@
 #asosegar=categories: V;model:negar;fonts: LT;
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
+#descarbonizar=categories: V;model:abalanzar;fonts: fundeu; NOU!!
 #desnegar=categories: V;model:negar;fonts: ap;
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
