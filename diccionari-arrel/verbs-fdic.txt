@@ -11,6 +11,7 @@
 #colidir=categories: V;model:partir;fonts: ap;
 #descarbonizar=categories: V;model:abalanzar;fonts: fundeu; NOU!!
 #desnegar=categories: V;model:negar;fonts: ap;
+#digitar=categories: V;model:amar;fonts: LT; NOU
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
@@ -28,9 +29,11 @@
 #pañear=categories: V;model:amar;fonts: ap;
 #pegilar=categories: V;model:amar;fonts: ap;
 #plebiscitar=categories: V;model:amar;fonts: derivat; NOU!!
+#postear=categories: V;model:amar;fonts: LT; NOU regla: postear -> publicar
 #raizar=categories: V;model:abalanzar;fonts: dr;
 #reestablecer=categories: V;model:agradecer;fonts: LT; # Error: restablecer
 #remugar=categories: V;model:cargar;fonts: ap;
+#resocializar=categories: V;model:abalanzar;fonts: LT; NOU
 #retroferbular=categories: V;model:amar;fonts: ap;
 #transustanciar=categories: V;model:amar;fonts: LT; NOU
 #trasportar=categories: V;model:amar;fonts: LT; NOU
