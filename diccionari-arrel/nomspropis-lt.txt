@@ -2805,6 +2805,7 @@ Eloísa Eloísa NPFSSP0 # avl
 Elpidia Elpidia NPFSSP0 # avl
 Elpidio Elpidio NPMSSP0 # avl
 Elsa Elsa NPFSSP0 # avl
+Elton Elton NPMSSP0
 Elvino Elvino NPMSSP0 # avl
 Elvira Elvira NPFSSP0 # avl
 Elvis Elvis NPCNSP0
@@ -4015,6 +4016,7 @@ Ibor Ibor NPMSSP0 # avl
 Ibrahim Ibrahim NPMSSP0 # avl
 Ibáñez Ibáñez NPCNSP0
 Icaria Icaria NPCNG00 # topònim-apertium-falta-gènere-nombre
+Iceta Iceta NPCNSP0
 Icíar Icíar NPFSSP0 # avl
 Ida Ida NPFSSP0 # avl
 Idaho Idaho NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5538,6 +5540,7 @@ Nicanora Nicanora NPFSSP0 # avl
 Nicaragua Nicaragua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nicasia Nicasia NPFSSP0 # avl
 Nicasio Nicasio NPMSSP0 # avl
+Niccolò Niccolò NPMSSP0
 Nicea Nicea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nicholson Nicholson NPCNSP0
 Nico Nico NPCSSP0 # avl
@@ -5833,6 +5836,7 @@ Pacs Pacs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Padania Padania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paddington Paddington NPCNSP0
 Padua Padua NPCNG00 # topònim-apertium-falta-gènere-nombre
+Paganini Paganini NPCNSP0
 Paiporta Paiporta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pakistán Pakistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paladia Paladia NPFSSP0 # avl

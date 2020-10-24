@@ -8,6 +8,7 @@
 #arromper=categories: V;model:romper;fonts: LT;
 #asosegar=categories: V;model:negar;fonts: LT;
 #ciar=categories: V;model:piar;fonts: LT;
+#cliquear=categories: V;model:amar;fonts: LT; NOU
 #colidir=categories: V;model:partir;fonts: ap;
 #descarbonizar=categories: V;model:abalanzar;fonts: fundeu; NOU!!
 #desnegar=categories: V;model:negar;fonts: ap;
