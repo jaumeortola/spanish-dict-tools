@@ -1858,6 +1858,8 @@ Caperucita Caperucita NPFSSP0
 Capistrano Capistrano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capolat Capolat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caprasio Caprasio NPMSSP0 # avl
+Capuleto Capuleto NPCNSP0
+Capuletos Capuletos NPMPSP0
 Capçanes Capçanes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caracalla Caracalla NPMSSP0 # avl
 Caracas Caracas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4926,6 +4928,7 @@ Marciana Marciana NPFSSP0 # avl
 Marciano Marciano NPMSSP0 # avl
 Marcio Marcio NPMSSP0 # avl
 Marco Marco NPMSSP0 # avl
+Marcos Marcos NPCNSP0 # ??
 Marcovaldo Marcovaldo NPMSSP0 # avl
 Maremagnum Maremagnum NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maresme Maresme NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5316,6 +5319,8 @@ Monteolivete Monteolivete NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monterde Monterde NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monterosso Monterosso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montesa Montesa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Montesco Montesco NPCNSP0
+Montescos Montescos NPMPSP0
 Montesinos Montesinos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montesquieu Montesquieu NPCNSP0
 Montesquiu Montesquiu NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7242,6 +7247,7 @@ Teruel Teruel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tesalia Tesalia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tesalónica Tesalónica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Teseo Teseo NPMSSP0 # avl
+Tesla Tesla NPCNSP0
 Tetis Tetis NPFSSP0 # avl
 Tetuán Tetuán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Teulada Teulada NPCNG00 # topònim-apertium-falta-gènere-nombre
