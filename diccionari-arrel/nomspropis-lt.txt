@@ -1079,6 +1079,7 @@ Babel Babel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Babilonia Babilonia NPFSSP0 # avl
 Babilonio Babilonio NPMSSP0 # avl
 Bach Bach NPCNSP0 # wiki
+Bachelet Bachelet NPCNSP0
 Baco Baco NPMSSP0 # avl
 Badajoz Badajoz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Badalona Badalona NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1237,6 +1238,7 @@ Beatles Beatles NPMPO00 # wiki
 Beato Beato NPMSSP0 # avl
 Beatriz Beatriz NPFSSP0 # avl
 Beaucaire Beaucaire NPCNG00 # topònim-apertium-falta-gènere-nombre
+Beaufort Beaufort NPCNSP0
 Bechí Bechí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beck Beck NPCNSP0 # wiki
 Becker Becker NPCNSP0
@@ -2089,6 +2091,7 @@ Chamonix Chamonix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Champaña Champaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chantal Chantal NPFSSP0 # avl
 Chaplin Chaplin NPCNSP0 # wiki
+Chapultepec Chapultepec NPCSG00
 Charente Charente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Charles Charles NPCNSP0
 Charlie Charlie NPCNSP0 # wiki
@@ -4357,6 +4360,7 @@ Kelly Kelly NPCNSP0 # wiki
 Ken Ken NPCNSP0 # wiki
 Kenia Kenia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kennedy Kennedy NPCNSP0
+Kenneth Kenneth NPMSSP0
 Kent Kent NPCNSP0
 Kentucky Kentucky NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kenya Kenya NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6144,6 +6148,7 @@ Poe Poe NPCNSP0 # wiki
 Poitiers Poitiers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Poitou-Charentes Poitou-Charentes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pola Pola NPFSSP0 # avl
+Polanco Polanco NPCNSP0
 Poldo Poldo NPMSSP0 # avl
 Polibio Polibio NPMSSP0 # avl
 Policarpa Policarpa NPFSSP0 # avl
@@ -7028,6 +7033,7 @@ South South NPCNSP0 # wiki
 Soverato Soverato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soyuz Soyuz NPCNSP0 # wiki
 Spa Spa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Spencer Spencer NPCNSP0
 Spinoza Spinoza NPCNSP0
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sport Sport NPMSO00
@@ -7233,6 +7239,7 @@ Terencia Terencia NPFSSP0 # avl
 Terencio Terencio NPMSSP0 # avl
 Teresa Teresa NPFSSP0 # avl
 Teresina Teresina NPFSSP0 # avl
+Teresita Teresita NPFSSP0
 Terra Terra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Terrades Terrades NPCNG00 # topònim-apertium-falta-gènere-nombre
 Terradets Terradets NPCNG00 # topònim-apertium-falta-gènere-nombre
