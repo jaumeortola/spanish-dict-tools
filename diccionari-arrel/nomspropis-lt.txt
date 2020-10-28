@@ -1,4 +1,3 @@
-
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1239,6 +1238,7 @@ Beato Beato NPMSSP0 # avl
 Beatriz Beatriz NPFSSP0 # avl
 Beaucaire Beaucaire NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beaufort Beaufort NPCNSP0
+Beaumont Beaumont NPCNSP0
 Bechí Bechí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beck Beck NPCNSP0 # wiki
 Becker Becker NPCNSP0

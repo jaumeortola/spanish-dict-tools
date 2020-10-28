@@ -13168,6 +13168,7 @@ inflativo inflativa=categories: A;fonts: LT;
 inflexible=categories: A;fonts: LT;
 inflexional=categories: A;fonts: LT;
 influenciable=categories: A;fonts: dr;
+influenciador influenciadora=categories: A;fonts: fundeu;
 influente=categories: A;fonts: LT;
 influyente=categories: A;fonts: LT;
 infográfico infográfica=categories: A;fonts: LT;
