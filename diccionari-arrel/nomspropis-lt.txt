@@ -2712,6 +2712,7 @@ ECHO ECHO NPCNO00
 ECTS ECTS NPMSO00
 ERC ERC NPCNO00
 ESA ESA NPFSO00
+EUA EUA NPMPG00
 Eastwood Eastwood NPCNSP0
 Ebo Ebo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ebro Ebro NPCNG00 # topònim-apertium-falta-gènere-nombre
