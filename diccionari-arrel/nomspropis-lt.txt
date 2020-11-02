@@ -1205,6 +1205,7 @@ Basilisa Basilisa NPFSSP0 # avl
 Basilisca Basilisca NPFSSP0 # avl
 Basilisco Basilisco NPMSSP0 # avl
 Basiliso Basiliso NPMSSP0 # avl
+Baskonia Baskonia NPMSO00
 Basora Basora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bassegoda Bassegoda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bassella Bassella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1578,6 +1579,7 @@ Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bouvet Bouvet NPCSG00
 Bova Bova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bovalino Bovalino NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bovary Bovary NPCNSP0
 Bovera Bovera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Boyacá Boyacá NPCSG00
 Boí Boí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1708,6 +1710,7 @@ CGPJ CGPJ NPMSO00
 CIA CIA NPFSO00 # wiki
 CIS CIS NPMSO00
 CLP CLP NPCNO00
+CNP CNP NPMSO00
 CNT CNT NPFSO00
 COI COI NPMSO00
 COU COU NPMNO00
@@ -1904,6 +1907,7 @@ Carmesina Carmesina NPFSSP0 # avl
 Carmina Carmina NPFSSP0 # avl
 Carmona Carmona NPCSG00
 Carnegie Carnegie NPCNSP0
+Carod-Rovira Carod-Rovira NPCNSP0
 Carol Carol NPFSSP0
 Carola Carola NPFSSP0 # avl
 Carolei Carolei NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3393,6 +3397,7 @@ GAL GAL NPMPO00
 GDPR GDPR NPMSO00
 GPL GPL NPCNO00 # wiki
 GSM GSM NPCNO00
+GSMA GSMA NPFSO00
 Gabarda Gabarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gabi Gabi NPMSSP0 # avl
 Gabilondo Gabilondo NPCNSP0
@@ -4342,6 +4347,7 @@ Karabaj Karabaj NPCNG00 # topònim-apertium-falta-gènere-nombre
 Karachi Karachi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kardashian Kardashian NPCNSP0
 Karen Karen NPFSSP0 # avl
+Karenina Karenina NPCNSP0
 Karina Karina NPFSSP0
 Karl Karl NPCNSP0 # wiki
 Karlsruhe Karlsruhe NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4749,6 +4755,7 @@ Luis Luis NPMSSP0 # avl
 Luisa Luisa NPFSSP0 # avl
 Luisiana Luisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lukashenko Lukashenko NPCNSP0
+Lukács Lukács NPCNSP0
 Lulio Lulio NPMSSP0 # avl
 Lumo Lumo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luna Luna NPCNSP0 # wiki common surnames
@@ -5917,6 +5924,7 @@ Parcent Parcent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pardines Pardines NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pardiñas Pardiñas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paredes Paredes NPCNSP0 # wiki common surnames
+Pareto Pareto NPCNSP0
 Parets Parets NPCNG00 # topònim-apertium-falta-gènere-nombre
 Parghelia Parghelia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paris Paris NPMSSP0 # avl
@@ -6087,6 +6095,7 @@ Pierre Pierre NPCNSP0
 Pierre Pierre NPCSG00
 Pietrafitta Pietrafitta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pietro Pietro NPCNSP0 # wiki
+Piketty Piketty NPCNSP0
 Pilar Pilar NPCSSP0 # avl
 Pilato Pilato NPMSSP0 # avl
 Pilatos Pilatos NPMSSP0 # avl
@@ -6316,6 +6325,7 @@ Querubina Querubina NPFSSP0 # avl
 Querubín Querubín NPMSSP0 # avl
 Querétaro Querétaro NPCSG00
 Quesa Quesa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Quesnay Quesnay NPCNSP0
 Quevedo Quevedo NPCNSP0 # wiki
 Quica Quica NPFSSP0 # avl
 Quico Quico NPMSSP0 # avl
@@ -7014,6 +7024,7 @@ Sonsoles Sonsoles NPFSSP0 # avl
 Sora Sora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soraya Soraya NPFSSP0 # avl
 Sorbona Sorbona NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sorel Sorel NPCNSP0
 Soreng Soreng NPCNSP0 # wiki
 Soria Soria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soria Soria NPCNSP0 # wiki common surnames
@@ -7485,6 +7496,7 @@ Tírvia Tírvia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
 UCR UCR NPFSO00 # Universidad de Costa Rica, University of California...
 UD UD NPCNO00
+UDEF UDEF NPFSO00
 UE UE NPCNG00 # topònim-apertium-falta-gènere-nombre
 UEFA UEFA NPFSO00 # wiki
 UNAM UNAM NPFSO00
