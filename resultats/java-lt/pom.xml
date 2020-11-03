@@ -5,7 +5,7 @@
 
     <groupId>org.softcatala</groupId>
     <artifactId>spanish-pos-dict</artifactId>
-    <version>0.6</version>
+    <version>0.7</version>
     <url>http://github.com/jaumeortola/spanish-dict-tools</url>
     <name>Spanish part-of-speech dictionary</name>
     <description>A Spanish part-of-speech (POS) dictionary as a Morfologik binary</description>
