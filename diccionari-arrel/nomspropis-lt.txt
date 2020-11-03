@@ -2148,7 +2148,7 @@ Chulilla Chulilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chumillas Chumillas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Churchill Churchill NPCNSP0 # wiki
 Chávez Chávez NPCNSP0 # wiki common surnames
-Chéjov Chéjov NPCPS0
+Chéjov Chéjov NPCNSP0
 Chóvar Chóvar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cibeles Cibeles NPFSSP0 # avl
 Cicerón Cicerón NPMSSP0 # avl
