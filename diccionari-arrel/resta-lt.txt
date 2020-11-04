@@ -38,7 +38,7 @@ ahijuna ahijuna I
 aire aire I
 ajajá ajajá I
 ajá ajá I
-al a+el SP+DA
+al a:el SP:DA
 ala ala I
 albricias albricias I
 aleluya aleluya I
@@ -212,7 +212,7 @@ dB dB NCMN000
 dC dC RG
 daca daca I
 de de SPS00
-del de+el SP+DA
+del de:el SP:DA
 demasiada demasiado DI0FS0
 demasiada demasiado PI0FS000
 demasiadas demasiado DI0FP0
@@ -227,7 +227,7 @@ demás demás DI0CN0
 demás demás PI0CN000
 desde desde SPS00
 despacio despacio I
-desque desde+que SP+CS
+desque desde:que SP:CS
 dg dg NCMN000
 diablo diablo I
 diantre diantre I

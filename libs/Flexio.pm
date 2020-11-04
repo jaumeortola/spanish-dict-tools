@@ -9,6 +9,8 @@ our $carac="[Å₂²³a-zA-ZûêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜ
 
 my $hacaspirada = "Haarlem|hack.*|Harlem|Haifa|haikus?|haima|haimes|halal|halar|hall.*|Halloweens?|Hamada|Hamas|Hamàs|hamilton.*|Hamlet.*|Hammond|Hampton|handicaps?|Hannover|Hanoi|Hans|Hansa|hardware|harolds?|Harrison|harrods?|harry|Hartmann?|Haruki|Harvard|Harz|Havilland|hawai.*|hawk.*|Haydn|Hayworth|Heard|hearst|Heathrow|heav.*|hegel.*|Heidelberg|Heide[gn].*|Heilig.*|hein.*|Heisen.*|Heitz|Helen|Heming.*|henna|hennes|Henry|Hepburn|herbert.*|Herder|Hereford|Hesse|Hessen|Hewlett.*|Hezboll.+|high.*|hilbert.*|Hilda|hinden.*|hinterlands?|Hitch.*|hitler.*|hobbes.*|hobby|hobbies|Hohen.*|holdings?|hollywood.*|Holmes.*|Holstein|Hong|hongk.+|Honolu.+|Honsh[uū]|h[òo]bbits?|hoover.*|hopkins|Hork.*|horst|H[ou]f.*|Houston|Howard|Hubble|humbold.*|Hume|hunting.*|husseinit.+|Higgs|high|Hill|Himmler|hip-hop|hippies|hippy|Hirado|His|Hubei|Hudson|Hunter|Husserl|Huygens|Utah";
 
+my $jointags = ":";
+
 # Genera el plural a partir del singular.
 # En alguns casos cal saber el gènere.
 sub plural {
@@ -191,21 +193,21 @@ sub verb_pronouns {
         foreach my $key ("me", "te", "se", "nos", "os", "lo", "los" , "la", "las" , "le", "les") {
             my $stemhere = $form;
             if ($postag =~ /V.G.*/) {$stemhere = $stem;}
-            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+            $result .= "$stemhere$key $lemma $postag$jointags$pronouns{$key}\n"
         }
         foreach my $key1 ("me", "te", "se", "nos", "os") {
             foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
-                $result .= "$stem$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                $result .= "$stem$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
             }   
         }
         #se+
         foreach my $key3 ("me", "te", "nos", "os") {
-            $result .= "${stem}se$key3 $lemma $postag+".$pronouns{"se"}."+$pronouns{$key3}\n"
+            $result .= "${stem}se$key3 $lemma $postag$jointags".$pronouns{"se"}."$jointags$pronouns{$key3}\n"
                
         }
         #te+
         foreach my $key3 ("me", "nos") {
-            $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"
+            $result .= "${stem}te$key3 $lemma $postag$jointags".$pronouns{"te"}."$jointags$pronouns{$key3}\n"
                
         }                
     } elsif ($postag =~ /V.M.1P./){ 
@@ -215,19 +217,19 @@ sub verb_pronouns {
         foreach my $key ("me", "te", "nos", "os", "lo", "los" , "la", "las" , "le", "les") { #"se"
             my $stemhere = $stem;
             if ($key =~ /^(nos|os|se)$/) {$stemhere =~ s/s$//;}
-            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+            $result .= "$stemhere$key $lemma $postag$jointags$pronouns{$key}\n"
         }
         foreach my $key1 ("me", "te", "se", "nos", "os") {
             foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
                 if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
                 my $stemhere = $stem;
                 if ($key1 =~ /^(nos|os|se)$/) {$stemhere =~ s/s$//;}
-                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                $result .= "$stemhere$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
             }   
         }
         #te+
         foreach my $key3 ("me", "nos") {
-            $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"
+            $result .= "${stem}te$key3 $lemma $postag$jointags".$pronouns{"te"}."$jointags$pronouns{$key3}\n"
         }  
 
     } elsif ($postag =~ /V.M.2P./){ 
@@ -238,26 +240,26 @@ sub verb_pronouns {
         foreach my $key ("me", "nos", "os", "lo", "los" , "la", "las" , "le", "les") { #"se"    apertium sí: "te",
             my $stemhere = $form;
             if ($key =~ /^(os)$/ && $lemma !~ /^ir$/)  {$stemhere =~ s/d$//; $stemhere =~ s/i$/í/; }  #partíos
-            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+            $result .= "$stemhere$key $lemma $postag$jointags$pronouns{$key}\n"
         }
         foreach my $key1 ("me",  "se", "nos", "os") {  # apertium sí: "te",
             foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
                 if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
                 my $stemhere = $stem;
                 if ($key1 =~ /^os$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
-                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                $result .= "$stemhere$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
             }   
         }
         foreach my $key1 ("os") {  
             foreach my $key2 ("me", "nos") {
                 my $stemhere = $stem;
                 if ($key1 =~ /^(os)$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
-                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                $result .= "$stemhere$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
             }   
         }
         #te+
         foreach my $key3 ("me", "nos") {
-            $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"  
+            $result .= "${stem}te$key3 $lemma $postag$jointags".$pronouns{"te"}."$jointags$pronouns{$key3}\n"  
         }  
 
     } elsif ($postag =~ /V.M.2V./){ 
@@ -271,7 +273,7 @@ sub verb_pronouns {
             $stemhere =~ s/é$/e/;
             $stemhere =~ s/í$/i/;
             if ($key =~ /^(os)$/ && $lemma !~ /^ir$/)  {$stemhere =~ s/i$/í/;}  #partíos
-            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+            $result .= "$stemhere$key $lemma $postag$jointags$pronouns{$key}\n"
         }
        
         foreach my $key1 ("me",  "se", "nos", "os" , "te") {  # apertium sí: "te",
@@ -279,7 +281,7 @@ sub verb_pronouns {
                 if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
                 my $stemhere = $stem;
                 if ($key1 =~ /^os$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
-                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                $result .= "$stemhere$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
             }   
         }
 =pod         
@@ -287,12 +289,12 @@ sub verb_pronouns {
             foreach my $key2 ("me", "nos") {
                 my $stemhere = $stem;
                 if ($key1 =~ /^(os)$/ && $lemma !~ /^ir$/) {$stemhere =~ s/d$//;}
-                $result .= "$stemhere$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                $result .= "$stemhere$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
             }   
         }
         #te+
         foreach my $key3 ("me", "nos") {
-            $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"  
+            $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."$jointags$pronouns{$key3}\n"  
         }  
 =cut
     } elsif ($postag =~ /V.M.2S./) { #canta, teme, parte, peina, renueva, pinta, piensa, actúa # més: haz, pon, sal, di ...
@@ -323,7 +325,7 @@ sub verb_pronouns {
             $stemhere =~ s/ón$/on/;
             $stemhere =~ s/ú$/u/;
             $stemhere =~ s/ún$/un/;
-            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+            $result .= "$stemhere$key $lemma $postag$jointags$pronouns{$key}\n"
         }
         
         if ($stem !~ /[áéíóú]/) {
@@ -340,12 +342,12 @@ sub verb_pronouns {
             foreach my $key1 ("me", "te", "se", "nos", ) { 
                 foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
                     if ($key1 =~ /^se$/ && $key2 =~ /^les?$/) {next;}
-                    $result .= "$stem$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                    $result .= "$stem$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
                 }   
             }
             #te+
             foreach my $key3 ("me", "nos") {
-                $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"  
+                $result .= "${stem}te$key3 $lemma $postag$jointags".$pronouns{"te"}."$jointags$pronouns{$key3}\n"  
             }    
         }
     } elsif ($postag =~ /V.M.3[SP]./) { 
@@ -381,7 +383,7 @@ sub verb_pronouns {
             $stemhere =~ s/ú$/u/;
             $stemhere =~ s/ún$/un/;
             
-            $result .= "$stemhere$key $lemma $postag+$pronouns{$key}\n"
+            $result .= "$stemhere$key $lemma $postag$jointags$pronouns{$key}\n"
         }
 
         $stem =~ s/^den$/dén/;
@@ -390,16 +392,16 @@ sub verb_pronouns {
         if ($stem !~ /l$/) {
             foreach my $key1 ("me", "te", "se", "nos", "os") { 
                 foreach my $key2 ("lo", "los" , "la", "las" , "le", "les") {
-                    $result .= "$stem$key1$key2 $lemma $postag+$pronouns{$key1}+$pronouns{$key2}\n"
+                    $result .= "$stem$key1$key2 $lemma $postag$jointags$pronouns{$key1}$jointags$pronouns{$key2}\n"
                 }   
             }
             #se+
             foreach my $key3 ("me", "te", "nos", "os") {
-                $result .= "${stem}se$key3 $lemma $postag+".$pronouns{"se"}."+$pronouns{$key3}\n"  
+                $result .= "${stem}se$key3 $lemma $postag$jointags".$pronouns{"se"}."$jointags$pronouns{$key3}\n"  
             }  
             #te+
             foreach my $key3 ("me", "nos") {
-                $result .= "${stem}te$key3 $lemma $postag+".$pronouns{"te"}."+$pronouns{$key3}\n"  
+                $result .= "${stem}te$key3 $lemma $postag$jointags".$pronouns{"te"}."$jointags$pronouns{$key3}\n"  
             }    
         }
     }

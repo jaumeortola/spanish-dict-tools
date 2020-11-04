@@ -15,6 +15,7 @@ my $verbaltagsordenats = $dir_entrada."/verbal_tags_ordenats.txt";
 my $nommodels = $dir_entrada."/nom_models_verbals.txt";
 my $verbs_fdic = $dir_eixida."/verbs-fdic.txt";
 
+my $joinpostag=":";
 my $inf = "";
 my $prevInf = "";
 my $model="";
@@ -69,7 +70,7 @@ while(my $line = <$fh>){
 
 	#if ($postag !~ /^VMM02S0\+/) { #ignorem de moment les formes amb canvi d'accent: ámalo
 	#if ($postag !~ /^.*\+/) { #ignorem de moment les formes amb canvi d'accent: ámalo
-	if ($postag !~ /\+/ || $word =~ /^(érase|dícese)$/) {
+	if ($postag !~ /$joinpostag/ || $word =~ /^(érase|dícese)$/) {
 
 		#afegeix forma     encode($enc, $word);
 		$words[$i]=$word;
