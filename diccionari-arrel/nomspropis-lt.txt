@@ -2199,6 +2199,7 @@ Clariso Clariso NPMSSP0 # avl
 Clark Clark NPCNSP0 # wiki
 Clarke Clarke NPCNSP0
 Claro Claro NPMSSP0 # avl
+Classroom Classroom NPCNO00
 Claude Claude NPCNSP0 # wiki
 Claudia Claudia NPFSSP0 # avl
 Claudina Claudina NPFSSP0 # avl
