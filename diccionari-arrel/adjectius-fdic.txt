@@ -12023,6 +12023,7 @@ hiperglucémico hiperglucémica=categories: A;fonts: dr;
 hipericíneo hipericínea=categories: A;fonts: dr;
 hiperinmune=categories: A;fonts: LT;
 hipermaduro hipermadura=categories: A;fonts: LT;
+hipermedia=categories: AI;fonts: wiki;
 hipermetrópico hipermetrópica=categories: A;fonts: LT;
 hipermétrope=categories: A;fonts: LT;
 hiperplásico hiperplásica=categories: A;fonts: LT;

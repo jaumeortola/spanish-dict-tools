@@ -25,6 +25,7 @@
 #pañear=categories: V;model:amar;fonts: ap;
 #pegilar=categories: V;model:amar;fonts: ap;
 #raizar=categories: V;model:abalanzar;fonts: dr;
+#recongelar=categories: V;model:amar;fonts: derivat; NOU
 #reestablecer=categories: V;model:agradecer;fonts: LT; # Error: restablecer
 #remugar=categories: V;model:cargar;fonts: ap;
 #retroferbular=categories: V;model:amar;fonts: ap;

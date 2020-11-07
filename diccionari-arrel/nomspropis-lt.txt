@@ -4201,6 +4201,7 @@ Jazberto Jazberto NPMSSP0 # avl
 Jazmín Jazmín NPCSSP0 # avl
 Jazperto Jazperto NPMSSP0 # avl
 Jaén Jaén NPCNG00 # topònim-apertium-falta-gènere-nombre
+Jean-Baptiste Jean-Baptiste NPMSSP0
 Jefferson Jefferson NPCNSP0 # wiki
 Jehová Jehová NPMSSP0
 Jenara Jenara NPFSSP0 # avl
@@ -4759,6 +4760,7 @@ Luisiana Luisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lukashenko Lukashenko NPCNSP0
 Lukács Lukács NPCNSP0
 Lulio Lulio NPMSSP0 # avl
+Lully Lully NPMSSP0
 Lumo Lumo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luna Luna NPCNSP0 # wiki common surnames
 Luna Luna NPFSSP0 # avl
@@ -5092,6 +5094,7 @@ Medardo Medardo NPMSSP0 # avl
 Medea Medea NPFSSP0 # avl
 Medellín Medellín NPCSG00
 Mederico Mederico NPMSSP0 # avl
+Mediapro Mediapro NPCNO00
 Medina Medina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Medina Medina NPCNSP0 # wiki common surnames
 Medinyà Medinyà NPCNG00 # topònim-apertium-falta-gènere-nombre
