@@ -39904,6 +39904,7 @@ micromanipulador=categories: M;fonts: dr;
 micromanómetro=categories: M;fonts: LT;
 micromarketing [pl. micromarketings]=categories: M;fonts: LT;
 micromecanización=categories: F;fonts: LT;
+micromecenas=categories: MFI;fonts: derivat;
 micromecenazgo=categories: M;fonts: derivat;
 micromecánica=categories: F;fonts: LT;
 micromelia=categories: F;fonts: LT;

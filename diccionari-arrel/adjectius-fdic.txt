@@ -22913,6 +22913,7 @@ superfluido superfluida=categories: A;fonts: LT;
 superfluo superflua=categories: A;fonts: LT;
 superheterodino superheterodina=categories: A;fonts: LT;
 superinteligente=categories: A;fonts: derivat;
+superinteresante=categories: A;fonts: derivat;
 superior [fem. superiora]=categories: A;fonts: LT;
 superlativo superlativa=categories: A;fonts: LT;
 superlíquido superlíquida=categories: A;fonts: LT;

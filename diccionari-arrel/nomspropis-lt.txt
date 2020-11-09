@@ -1507,6 +1507,7 @@ Blasco Blasco NPMSSP0 # avl
 Blois Blois NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bloom Bloom NPCNSP0
 Bloomberg Bloomberg NPCNSP0
+Bloomsbury Bloomsbury NPCSG00
 Blue Blue NPCNSP0 # wiki
 Boadilla Boadilla NPCSG00
 Boateng Boateng NPCNSP0
@@ -2243,7 +2244,7 @@ Coahuila Coahuila NPCSG00
 Cobreros Cobreros NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cocentaina Cocentaina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cochabamba Cochabamba NPCSG00
-Cochinchina Cochinchina NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cochinchina Cochinchina NPFSG00 # topònim-apertium
 Codigoro Codigoro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coelho Coelho NPCNSP0
 Cofrentes Cofrentes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6118,6 +6119,7 @@ Pinochet Pinochet NPCNSP0 # wiki
 Pinoso Pinoso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pinós Pinós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pira Pira NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pirandello Pirandello NPCNSP0
 Pirineo Pirineo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pirineos Pirineos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pirra Pirra NPFSSP0 # avl
