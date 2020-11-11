@@ -1726,7 +1726,6 @@ antidiabético antidiabética=categories: A;fonts: dr;
 antidiarreico antidiarreica=categories: A;fonts: dr;
 antidictatorial=categories: A;fonts: dr;
 antidiftérico antidiftérica=categories: A;fonts: dr;
-antidiluviano antidiluviana=categories: A;fonts: LT;
 antidinástico antidinástica=categories: A;fonts: dr;
 antidisturbios=categories: A;fonts: dr;
 antidiurético antidiurética=categories: A;fonts: dr;
