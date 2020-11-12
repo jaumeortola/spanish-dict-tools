@@ -22935,6 +22935,7 @@ superinteresante=categories: A;fonts: derivat;
 superior [fem. superiora]=categories: A;fonts: LT;
 superjugoso superjugosa=categories: A;fonts: derivat;
 superlativo superlativa=categories: A;fonts: LT;
+superlindo superlinda=categories: A;fonts: derivat;
 superlíquido superlíquida=categories: A;fonts: LT;
 supermercadista=categories: A;fonts: dr;
 supernatural=categories: A;fonts: derivat;

@@ -5445,6 +5445,7 @@ Méjico Méjico NPCSG00 # topònim-apertium
 Méndez Méndez NPCNSP0 # wiki common surnames
 Méras Méras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mérida Mérida NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mérimée Mérimée NPCNSP0
 Mérope Mérope NPFSSP0 # avl
 México México NPCSG00 # topònim-apertium
 Míriam Míriam NPFSSP0 # avl

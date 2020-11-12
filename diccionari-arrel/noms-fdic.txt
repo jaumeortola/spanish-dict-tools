@@ -56938,6 +56938,7 @@ superposición=categories: F;fonts: LT;
 superpotencia=categories: F;fonts: LT;
 superproducción=categories: F;fonts: LT;
 superrealismo=categories: M;fonts: LT;
+superrebaja=categories: F;fonts: derivat;
 superregeneración=categories: F;fonts: LT;
 supersaturación=categories: F;fonts: LT;
 superservicio=categories: M;fonts: LT;
