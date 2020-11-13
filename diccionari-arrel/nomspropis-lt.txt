@@ -49,6 +49,7 @@
 #Erivan Erivan NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Espoleto Espoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Estaràs Estaràs NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Fad Fad NPMSSP0 # avl
 #Febe Febe NPCSSP0 # avl
 #Febrero Febrero NPMSSP0 # avl
 #Fede Fede NPMSSP0 # avl
@@ -3105,6 +3106,7 @@ Exuperancia Exuperancia NPFSSP0 # avl
 Exuperancio Exuperancio NPMSSP0 # avl
 Ezequiel Ezequiel NPMSSP0 # avl
 Ezequías Ezequías NPMSSP0 # avl
+FAD FAD NPCSO00
 FAO FAO NPFSO00 # wiki
 FARC FARC NPFPO00
 FAS FAS NPCNO00
@@ -3126,7 +3128,6 @@ Facebook Facebook NPCNO00 # wiki
 Facheca Facheca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Facunda Facunda NPFSSP0 # avl
 Facundo Facundo NPMSSP0 # avl
-Fad Fad NPMSSP0 # avl
 Fadrica Fadrica NPFSSP0 # avl
 Fadrique Fadrique NPMSSP0 # avl
 Fageca Fageca NPCNG00 # topònim-apertium-falta-gènere-nombre
