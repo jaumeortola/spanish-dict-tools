@@ -21916,6 +21916,7 @@ semental=categories: A;fonts: LT;
 sementino sementina=categories: A;fonts: LT;
 semestral=categories: A;fonts: LT;
 semi-invertido semi-invertida=categories: A;fonts: LT;
+semi=categories: A;fonts: colloquial;
 semi=categories: AI;fonts: LT;
 semiabierto semiabierta=categories: A;fonts: LT;
 semiajustable=categories: A;fonts: LT;

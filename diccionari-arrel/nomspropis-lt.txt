@@ -8043,6 +8043,7 @@ Zósima Zósima NPFSSP0 # avl
 Zósimo Zósimo NPMSSP0 # avl
 Zúrich Zúrich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zúñiga Zúñiga NPCNSP0 # wiki common surnames
+al-Ándalus al-Ándalus NPMSG00
 iTunes iTunes NPCNO00
 l'Alacantí l'Alacantí NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Albagés l'Albagés NPCNG00 # topònim-apertium-falta-gènere-nombre
