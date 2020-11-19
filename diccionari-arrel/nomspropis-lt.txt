@@ -179,6 +179,7 @@ Abellán Abellán NPMSSP0 # avl
 Abenámar Abenámar NPMSSP0 # avl
 Abercrombie Abercrombie NPCNO00 # marca
 Aberdeen Aberdeen NPCNG00 # topònim-apertium-falta-gènere-nombre
+AbiWord AbiWord NPMSO00
 Abiatar Abiatar NPMSSP0 # avl
 Abigaíl Abigaíl NPFSSP0 # avl
 Abilene Abilene NPCSSP0 # avl
@@ -1584,6 +1585,7 @@ Bovalino Bovalino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bovary Bovary NPCNSP0
 Bovera Bovera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Boyacá Boyacá NPCSG00
+Boyle Boyle NPCNSP0
 Boí Boí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bracs Bracs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brad Brad NPMSSP0
@@ -2639,6 +2641,7 @@ Discovery Discovery NPCNSP0 # wiki
 Disney Disney NPCNO00 # wiki
 Disneyland Disneyland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Divina Divina NPFSSP0 # avl
+Dizzy Dizzy NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2657,6 +2660,7 @@ Domitila Domitila NPFSSP0 # avl
 Domínguez Domínguez NPCNSP0 # wiki common surnames
 Donald Donald NPCNSP0 # wiki
 Donata Donata NPFSSP0 # avl
+Donatello Donatello NPCNSP0
 Donato Donato NPMSSP0 # avl
 Donoso Donoso NPCNSP0 # wiki common surnames
 Donosti Donosti NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2689,6 +2693,7 @@ Dubai Dubai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dublín Dublín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Duero Duero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Duesaigües Duesaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
+Duke Duke NPCNSP0
 Dumas Dumas NPCNSP0
 Duna Duna NPFSSP0 # avl
 Dunia Dunia NPFSSP0 # avl
@@ -2724,6 +2729,7 @@ Echeverría Echeverría NPCNSP0
 Eclesiastés Eclesiastés NPMSO00
 Ecuador Ecuador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Edda Edda NPFSSP0 # avl
+Edebé Edebé NPCNO00
 Edelberta Edelberta NPFSSP0 # avl
 Edelberto Edelberto NPMSSP0 # avl
 Edelmira Edelmira NPFSSP0 # avl
@@ -2765,6 +2771,7 @@ Eiffel Eiffel NPCNSP0 # wiki
 Eimerica Eimerica NPFSSP0 # avl
 Eimerico Eimerico NPMSSP0 # avl
 Einstein Einstein NPCNSP0 # wiki
+Eisenach Eisenach NPCSG00
 Eisenhower Eisenhower NPCNSP0 # wiki
 Eivissa Eivissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eixample Eixample NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2805,6 +2812,7 @@ Eliseo Eliseo NPMSSP0 # avl
 Elizabeth Elizabeth NPFSSP0
 Elizondo Elizondo NPCSG00
 Elián Elián NPMSSP0 # avl
+Ellington Ellington NPCNSP0
 Elma Elma NPFSSP0 # avl
 Elmet Elmet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Elmo Elmo NPMSSP0 # avl
@@ -3240,6 +3248,7 @@ Fiona Fiona NPFSSP0 # avl
 Firefox Firefox NPCNO00
 Fischer Fischer NPCNSP0 # wiki
 Fisher Fisher NPCNSP0
+Fitzgerald Fitzgerald NPCNSP0
 Fiumefreddo Fiumefreddo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiyi Fiyi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiódor Fiódor NPMSSP0
@@ -3579,6 +3588,7 @@ Gilberta Gilberta NPFSSP0 # avl
 Gilberto Gilberto NPMSSP0 # avl
 Gilda Gilda NPFSSP0 # avl
 Gilet Gilet NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gillespie Gillespie NPCNSP0
 Gimenells Gimenells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gimigliano Gimigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Giménez Giménez NPCNSP0 # wiki common surnames
@@ -3615,6 +3625,7 @@ Glasgow Glasgow NPCNG00 # topònim-apertium-falta-gènere-nombre
 Glauca Glauca NPFSSP0 # avl
 Glauco Glauco NPMSSP0 # avl
 Glenda Glenda NPFSSP0 # avl
+Glenn Glenn NPCNSP0
 Gliceria Gliceria NPFSSP0 # avl
 Glicerio Glicerio NPMSSP0 # avl
 Gluck Gluck NPCNSP0 # wiki
@@ -3638,6 +3649,7 @@ Gondwana Gondwana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gonzaga Gonzaga NPMSSP0 # avl
 Gonzalo Gonzalo NPMSSP0 # avl
 González González NPCNSP0 # wiki common surnames
+Goodman Goodman NPCNSP0
 Google Google NPCNO00 # wiki
 Gordiano Gordiano NPMSSP0 # avl
 Gordon Gordon NPCNSP0 # wiki
@@ -5835,6 +5847,7 @@ Ourense Ourense NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ovidia Ovidia NPFSSP0 # avl
 Ovidio Ovidio NPMSSP0 # avl
 Oviedo Oviedo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Owens Owens NPCNSP0
 Oxford Oxford NPCNG00 # topònim-apertium-falta-gènere-nombre
 PAC PAC NPCNO00
 PC PC NPCNSP0 # wiki
@@ -5850,6 +5863,7 @@ PSOE PSOE NPCNO00 # wiki
 Pablito Pablito NPMSSP0 # familiar
 Pablo Pablo NPMSSP0 # avl
 Paca Paca NPFSSP0 # avl
+Pacheco Pacheco NPCNSP0
 Paciana Paciana NPFSSP0 # avl
 Paciano Paciano NPMSSP0 # avl
 Paciencia Paciencia NPFSSP0 # avl
@@ -5859,6 +5873,7 @@ Pacomio Pacomio NPMSSP0 # avl
 Pacs Pacs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Padania Padania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paddington Paddington NPCNSP0
+Padilla Padilla NPCNSP0
 Padua Padua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paganini Paganini NPCNSP0
 Paiporta Paiporta NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6167,6 +6182,7 @@ Poitiers Poitiers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Poitou-Charentes Poitou-Charentes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pola Pola NPFSSP0 # avl
 Polanco Polanco NPCNSP0
+Polanski Polanski NPCNSP0
 Poldo Poldo NPMSSP0 # avl
 Polibio Polibio NPMSSP0 # avl
 Policarpa Policarpa NPFSSP0 # avl
@@ -6228,6 +6244,7 @@ Potríes Potríes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Potsdam Potsdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Potter Potter NPCNSP0 # wiki
 Power Power NPCNSP0 # wiki
+PowerPoint PowerPoint NPMNO00
 Pozuelo Pozuelo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prada Prada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prades Prades NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6514,6 +6531,7 @@ Rigoberto Rigoberto NPMSSP0 # avl
 Rimbaud Rimbaud NPCNSP0
 Rimski-Kórsakov Rimski-Kórsakov NPCNSP0 # wiki
 Riner Riner NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ringo Ringo NPCNSP0
 Rioja Rioja NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riola Riola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ripoll Ripoll NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6630,6 +6648,7 @@ Ruan Ruan NPCSG00
 Ruanda Ruanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubicón Rubicón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubik Rubik NPCNSP0
+Rubio Rubio NPCNSP0
 Rubió Rubió NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubén Rubén NPMSSP0 # avl
 Rubí Rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7061,6 +7080,7 @@ Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Staiti Staiti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stalin Stalin NPCNSP0 # wiki
 Stalingrado Stalingrado NPCNG00 # topònim-apertium-falta-gènere-nombre
+Stallman Stallman NPCNSP0
 Stamford Stamford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stanford Stanford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stanley Stanley NPCNSP0 # wiki
@@ -7913,6 +7933,7 @@ Windhoek Windhoek NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windows Windows NPCNO00 # wiki
 Wisconsin Wisconsin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Witiza Witiza NPMSSP0 # avl
+Wittgenstein Wittgenstein NPCNSP0
 Wolf Wolf NPCNSP0 # wiki
 Wolfgang Wolfgang NPMSSP0 # wiki
 Wollstonecraft Wollstonecraft NPCNSP0
