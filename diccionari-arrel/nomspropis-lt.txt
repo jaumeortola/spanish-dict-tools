@@ -2278,6 +2278,7 @@ Colomèrs Colomèrs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colorado Colorado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Columbia Columbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Columbo Columbo NPMSSP0 # avl
+Colón Colón NPCNSP0
 Comacchio Comacchio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comenges Comenges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Commodore Commodore NPCNSP0 # wiki
@@ -4710,6 +4711,7 @@ Long Long NPCNSP0 # wiki
 Longino Longino NPMSSP0 # avl
 Longobardi Longobardi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Longobucco Longobucco NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lope Lope NPCNSP0
 Lope Lope NPMSSP0 # avl
 Lorca Lorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lorcha Lorcha NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7927,6 +7929,7 @@ William William NPCNSP0
 Williams Williams NPCNSP0
 Willie Willie NPCNSP0
 Wilson Wilson NPMSSP0 # avl
+Wilson Wilson NPCNSP0
 Wimbledon Wimbledon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Winchester Winchester NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windhoek Windhoek NPCNG00 # topònim-apertium-falta-gènere-nombre
