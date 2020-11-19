@@ -6390,7 +6390,7 @@ RFC RFC NPCNO00
 RGPD RGPD NPMSO00
 RTVE RTVE NPFSO00
 RTVV RTVV NPFSO00
-RUT RUT NPMSO00
+RUT RUT NPMNO00
 Ra Ra NPMSSP0 # avl
 Rabat Rabat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rabós Rabós NPCNG00 # topònim-apertium-falta-gènere-nombre
