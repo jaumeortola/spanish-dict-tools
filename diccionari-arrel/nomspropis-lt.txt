@@ -914,6 +914,7 @@ Arquímedes Arquímedes NPMSSP0 # avl
 Arrate Arrate NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arreola Arreola NPCNSP0
 Arres Arres NPCNG00 # topònim-apertium-falta-gènere-nombre
+Arriaga Arriaga NPCNSP0
 Arrieta Arrieta NPCNSP0
 Arrás Arrás NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arró Arró NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3641,6 +3642,7 @@ Godofredo Godofredo NPMSSP0 # avl
 Godoy Godoy NPCNSP0
 Godoy Godoy NPCNSP0 # wiki common surnames
 Gogh Gogh NPCNSP0 # wiki
+Golgi Golgi NPCNSP0
 Goliat Goliat NPMSSP0 # avl
 Golmés Golmés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gombaldo Gombaldo NPMSSP0 # avl
@@ -4351,6 +4353,7 @@ Júpiter Júpiter NPMSSP0 # avl
 KDE KDE NPCNO00 # wiki
 Kabul Kabul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kahlo Kahlo NPCNSP0
+Kahoot Kahoot NPCNO00
 Kalimantan Kalimantan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaliningrado Kaliningrado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kallio Kallio NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4692,6 +4695,7 @@ Lluçà Lluçà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llíber Llíber NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llíria Llíria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llívia Llívia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Locke Locke NPCNSP0
 Locri Locri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lodz Lodz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Logroño Logroño NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5426,6 +5430,7 @@ Mottafollone Mottafollone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moyano Moyano NPCNSP0 # wiki common surnames
 Mozambique Mozambique NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mozart Mozart NPCNSP0 # wiki
+Mozilla Mozilla NPCNO00
 Muchamiel Muchamiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mucia Mucia NPFSSP0 # avl
 Mucio Mucio NPMSSP0 # avl
@@ -7928,8 +7933,8 @@ Willendorf Willendorf NPCNSP0
 William William NPCNSP0
 Williams Williams NPCNSP0
 Willie Willie NPCNSP0
-Wilson Wilson NPMSSP0 # avl
 Wilson Wilson NPCNSP0
+Wilson Wilson NPMSSP0 # avl
 Wimbledon Wimbledon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Winchester Winchester NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windhoek Windhoek NPCNG00 # topònim-apertium-falta-gènere-nombre
