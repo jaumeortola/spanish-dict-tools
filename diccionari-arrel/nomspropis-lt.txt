@@ -883,6 +883,7 @@ Ariza Ariza NPCNSP0
 Arizona Arizona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ariège Ariège NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arkansas Arkansas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Arlington Arlington NPCSG00
 Arlés Arlés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Armanda Armanda NPFSSP0 # avl
 Armando Armando NPMSSP0 # avl
@@ -1628,6 +1629,7 @@ Bronte Bronte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brooklyn Brooklyn NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brooks Brooks NPCNSP0
 Brown Brown NPCNSP0
+Brueghel Brueghel NPCNSP0
 Bruna Bruna NPFSSP0 # avl
 Brunei Brunei NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brunete Brunete NPMSSP0 # avl
@@ -5476,6 +5478,7 @@ Mónico Mónico NPMSSP0 # avl
 Móstoles Móstoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Múnich Múnich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Músorgski Músorgski NPCNSP0 # wiki
+Müller Müller NPCNSP0
 Münchhausen Münchhausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 N'Djanema N'Djanema NPCNG00 # topònim-apertium-falta-gènere-nombre
 NAFTA NAFTA NPMSO00
@@ -7168,6 +7171,7 @@ TGSS TGSS NPFSO00
 TV1 TV1 NPCSO00
 TV2 TV2 NPCSO00
 TV3 TV3 NPCSO00
+TVE TVE NPFSO00
 Tabarca Tabarca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tabasco Tabasco NPCSG00
 Tacia Tacia NPFSSP0 # avl
@@ -7251,6 +7255,7 @@ Teià Teià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tejada Tejada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tejas Tejas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Telcel Telcel NPCNO00
+Telecinco Telecinco NPFSO00 
 Telegram Telegram NPCNO00
 Telesfora Telesfora NPFSSP0 # avl
 Telesforo Telesforo NPMSSP0 # avl
