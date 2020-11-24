@@ -1835,6 +1835,7 @@ Camporrobles Camporrobles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campos Campos NPCNSP0 # wiki common surnames
 Camprodon Camprodon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campuzano Campuzano NPCNSP0
+Camus Camus NPCNSP0
 Camós Camós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canadá Canadá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canals Canals NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2687,6 +2688,7 @@ Dover Dover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Down Down NPCNSP0
 Drapia Drapia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dresde Dresde NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dreyfus Dreyfus NPCNSP0
 Dris Dris NPMSSP0 # avl
 Drusiana Drusiana NPFSSP0 # avl
 Druso Druso NPMSSP0 # avl
@@ -6667,6 +6669,7 @@ Rudecindo Rudecindo NPMSSP0
 Rudolf Rudolf NPCNSP0 # wiki
 Rufina Rufina NPFSSP0 # avl
 Rufino Rufino NPMSSP0 # avl
+Rufián Rufián NPCNSP0
 Rufo Rufo NPMSSP0 # avl
 Rugat Rugat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ruiz Ruiz NPCNSP0 # wiki common surnames
