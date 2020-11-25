@@ -2709,6 +2709,7 @@ Durango Durango NPCSG00
 Durán Durán NPMSSP0 # avl
 Dushanbe Dushanbe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dvořák Dvořák NPCNSP0 # wiki
+Dylan Dylan NPCNSP0
 Dáil Dáil NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dálmata Dálmata NPMSSP0 # avl
 Dámaris Dámaris NPFSSP0 # avl
@@ -5770,6 +5771,7 @@ Onteniente Onteniente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ontinyent Ontinyent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Onésima Onésima NPFSSP0 # avl
 Onésimo Onésimo NPMSSP0 # avl
+Opel Opel NPCNO00
 Oporto Oporto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oportuna Oportuna NPFSSP0 # avl
 Oportuno Oportuno NPMSSP0 # avl
@@ -5847,6 +5849,7 @@ Osvalda Osvalda NPFSSP0 # avl
 Osvaldo Osvaldo NPMSSP0 # avl
 Oswaldo Oswaldo NPCNSP0
 Otawa Otawa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Otegi Otegi NPCNSP0
 Otelo Otelo NPMSSP0 # avl
 Otilia Otilia NPFSSP0 # avl
 Otilio Otilio NPMSSP0 # avl
