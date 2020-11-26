@@ -45,6 +45,7 @@
 #bestiún=categories: M;fonts: dr;
 #bibí=categories: M;fonts: dr;
 #binguí=categories: M;fonts: dr;
+#bitcóin [pl. bitcoines]=categories: M;fonts: fundeu;
 #bocací=categories: M;fonts: dr;
 #bocapí=categories: M;fonts: dr;
 #bonasí=categories: M;fonts: dr;
