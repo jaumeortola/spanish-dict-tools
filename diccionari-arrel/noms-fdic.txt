@@ -50743,6 +50743,7 @@ ramblar=categories: M;fonts: LT;
 ramblazo=categories: M;fonts: LT;
 ramblizo=categories: M;fonts: LT;
 rambután=categories: M;fonts: LT;
+ramen [pl. rámenes]=categories: M;fonts: fundeu;
 ramera=categories: F;fonts: LT;
 ramería=categories: F;fonts: LT;
 ramial=categories: M;fonts: dr;
