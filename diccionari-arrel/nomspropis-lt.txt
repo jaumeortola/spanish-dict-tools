@@ -7235,6 +7235,7 @@ Tarsia Tarsia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tarsicia Tarsicia NPFSSP0 # avl
 Tarsicio Tarsicio NPMSSP0 # avl
 Tascón Tascón NPCNSP0
+Taser Taser NPCNO00
 Tashkent Tashkent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tasia Tasia NPFSSP0 # avl
 Tasio Tasio NPMSSP0 # avl
