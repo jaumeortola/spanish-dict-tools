@@ -22986,6 +22986,7 @@ supersencillo supersencilla=categories: A;fonts: derivat;
 supersensible=categories: A;fonts: LT;
 supersincrónico supersincrónica=categories: A;fonts: LT;
 supersticioso supersticiosa=categories: A;fonts: LT;
+supersuave=categories: A;fonts: derivat;
 supersónico supersónica=categories: A;fonts: LT;
 supertemible=categories: A;fonts: derivat;
 supertímido supertímida=categories: A;fonts: derivat;
