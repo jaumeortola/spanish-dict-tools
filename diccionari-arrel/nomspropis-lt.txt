@@ -7076,6 +7076,7 @@ Sorianello Sorianello NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soriguera Soriguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sorita Sorita NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soros Soros NPCNSP0
+Sorrentino Sorrentino NPCNSP0
 Sort Sort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sosa Sosa NPCNSP0 # wiki common surnames
 Soses Soses NPCNG00 # topònim-apertium-falta-gènere-nombre
