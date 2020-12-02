@@ -3084,6 +3084,8 @@ Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Euroregión Euroregión NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eurosia Eurosia NPFSSP0 # avl
 Eurosio Eurosio NPMSSP0 # avl
+Eurostar Eurostar NPMSO00
+Eurostat Eurostat NPFSO00
 Eurídice Eurídice NPFSSP0 # avl
 Eurípides Eurípides NPMSSP0 # avl
 Eusebia Eusebia NPFSSP0 # avl
