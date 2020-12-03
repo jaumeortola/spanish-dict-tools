@@ -19447,6 +19447,7 @@ postal=categories: A;fonts: LT;
 postalveolar=categories: A;fonts: LT;
 postbucal=categories: A;fonts: LT;
 postcolonial=categories: A;fonts: derivat;
+postcomunista=categories: A;fonts: dr;
 postcondíleo postcondílea=categories: A;fonts: LT;
 postcranial=categories: A;fonts: LT;
 postdiluviano postdiluviana=categories: A;fonts: LT;

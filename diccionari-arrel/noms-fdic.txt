@@ -48344,6 +48344,7 @@ posta=categories: F;fonts: LT;
 postación=categories: F;fonts: dr;
 postaje=categories: M;fonts: dr;
 postal=categories: F;fonts: LT;
+postcomunismo=categories: M;fonts: dr;
 postcontracción=categories: F;fonts: LT;
 postcosecha=categories: F;fonts: LT;
 postcurado=categories: M;fonts: LT;
