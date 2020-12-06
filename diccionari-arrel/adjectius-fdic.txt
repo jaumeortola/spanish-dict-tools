@@ -1862,6 +1862,7 @@ antirreflector antirreflectora=categories: A;fonts: LT;
 antirreflejante=categories: A;fonts: LT;
 antirreglamentario antirreglamentaria=categories: A;fonts: LT;
 antirreligioso antirreligiosa=categories: A;fonts: LT;
+antirrepresivo antirrepresiva=categories: A;fonts: derivat;
 antirrepublicano antirrepublicana=categories: A;fonts: dr;
 antirresonante=categories: A;fonts: LT;
 antirretroviral=categories: A;fonts: dr;

@@ -4838,6 +4838,7 @@ Macián Macián NPMSSP0 # avl
 Mackenzie Mackenzie NPCNSP0
 Macris Macris NPFSSP0 # avl
 Macrobús Macrobús NPMSO00
+Macron Macron NPCNSP0
 Madagascar Madagascar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madeira Madeira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madison Madison NPCNSP0 # wiki
