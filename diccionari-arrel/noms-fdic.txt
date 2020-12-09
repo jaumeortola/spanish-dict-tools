@@ -26602,6 +26602,7 @@ exquisitez=categories: F;fonts: LT;
 exrepresor exrepresora=categories: MF;fonts: LT;
 exsanguinotransfusión=categories: F;fonts: LT;
 exsolución=categories: F;fonts: LT;
+exsubsecretario exsubsecretaria=categories: MF;fonts: derivat;
 extasiamiento=categories: M;fonts: LT;
 extemporaneidad=categories: F;fonts: LT;
 extendedor=categories: M;fonts: LT;

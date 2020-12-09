@@ -10340,6 +10340,7 @@ firme=categories: A;fonts: LT;
 firmón=categories: A;fonts: LT;
 firulo firula=categories: A;fonts: dr;
 fiscal=categories: A;fonts: LT;
+fiscalista=categories: A;fonts: derivat;
 fiscalizable=categories: A;fonts: dr;
 fiscalizador fiscalizadora=categories: A;fonts: LT;
 fisgador fisgadora=categories: A;fonts: dr;

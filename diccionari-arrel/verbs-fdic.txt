@@ -34,6 +34,7 @@
 #mastectomizar=categories: V;model:amar;fonts: dr; NOU
 #mayorar=categories: V;model:amar;fonts: ap;
 #miar=categories: V;model:piar;fonts: LT;
+#optimar=categories: V;model:amar;fonts: LT; NOU!!
 #pasturar=categories: V;model:amar;fonts: ap;
 #pañear=categories: V;model:amar;fonts: ap;
 #pegilar=categories: V;model:amar;fonts: ap;
