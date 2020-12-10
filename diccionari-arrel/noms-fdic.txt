@@ -52662,6 +52662,7 @@ retrusión=categories: F;fonts: LT;
 retruécano=categories: M;fonts: LT;
 retrónica=categories: F;fonts: LT;
 retuelle=categories: M;fonts: dr;
+retuit=categories: M;fonts: derivat;
 retumbo=categories: M;fonts: LT;
 retén=categories: M;fonts: LT;
 retícula=categories: F;fonts: LT;
