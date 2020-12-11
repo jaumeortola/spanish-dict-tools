@@ -1,17 +1,5 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
-12711,12714c12711,12712
-< autoproducciones autoproducción NCFP000
-< autoproducciones autoproducción NCMP000
-< autoproducción autoproducción NCFS000
-< autoproducción autoproducción NCMS000
----
-> autoproducciones autoproducción NCCP000
-> autoproducción autoproducción NCCS000
 ** Compara adjectius **
-74203d74202
-< semi semi AQ0CS0
-74534d74532
-< semis semi AQ0CP0
 ** Compara verbs **
 ** Altres errors **

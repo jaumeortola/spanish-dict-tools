@@ -5903,7 +5903,7 @@ Paladino Paladino NPMSSP0 # avl
 Paladio Paladio NPMSSP0 # avl
 Palafolls Palafolls NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palafrugell Palafrugell NPCNG00 # topònim-apertium-falta-gènere-nombre
-Palais-Royal Palais-Royal NPMSG0
+Palais-Royal Palais-Royal NPMSG00
 Palamós Palamós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palancia Palancia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palanques Palanques NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7051,7 +7051,7 @@ Sofronio Sofronio NPMSSP0 # avl
 Sofía Sofía NPFSG00 # topònim-apertium
 Sofía Sofía NPFSSP0 # avl
 Sogorb Sogorb NPCNG00 # topònim-apertium-falta-gènere-nombre
-Soho Soho NPMSG0
+Soho Soho NPMSG00
 Sol Sol NPCSSP0 # avl
 Soledad Soledad NPFSSP0 # avl
 Solera Solera NPCNG00 # topònim-apertium-falta-gènere-nombre
