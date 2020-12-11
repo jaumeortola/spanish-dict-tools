@@ -54684,6 +54684,7 @@ sementera=categories: F;fonts: LT;
 sementero=categories: M;fonts: LT;
 semestralización=categories: F;fonts: LT;
 semestre=categories: M;fonts: LT;
+semiabandono=categories: M;fonts: derivat;
 semiacero semiacera=categories: MF;fonts: LT;
 semianticadencia=categories: F;fonts: LT;
 semiautómata=categories: M;fonts: LT;
