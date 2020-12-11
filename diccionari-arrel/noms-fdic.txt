@@ -6680,7 +6680,6 @@ autoplastia=categories: F;fonts: LT;
 autopolimerización=categories: F;fonts: LT;
 autopreservación=categories: F;fonts: derivat;
 autoproducción=categories: F;fonts: LT;
-autoproducción=categories: M;fonts: fr;
 autoproductor autoproductora=categories: MF;fonts: LT;
 autoprohibición=categories: F;fonts: derivat;
 autopropulsión=categories: F;fonts: LT;
