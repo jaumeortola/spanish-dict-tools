@@ -1831,6 +1831,7 @@ antioqueno antioquena=categories: A;fonts: dr;
 antioqueño antioqueña=categories: A;fonts: dr;
 antioxidante=categories: A;fonts: LT;
 antipalúdico antipalúdica=categories: A;fonts: LT;
+antipandemia=categories: AI;fonts: derivat;
 antipapista=categories: A;fonts: dr;
 antiparalelo antiparalela=categories: A;fonts: LT;
 antiparasitario antiparasitaria=categories: A;fonts: LT;
