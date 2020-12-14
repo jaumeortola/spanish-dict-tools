@@ -1244,6 +1244,7 @@ Beatriz Beatriz NPFSSP0 # avl
 Beaucaire Beaucaire NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beaufort Beaufort NPCNSP0
 Beaumont Beaumont NPCNSP0
+Becedas Becedas NPCSG00
 Bechí Bechí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beck Beck NPCNSP0 # wiki
 Becker Becker NPCNSP0
@@ -1698,6 +1699,7 @@ Bárbara Bárbara NPFSSP0 # avl
 Bárig Bárig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bèlgida Bèlgida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bécquer Bécquer NPCNSP0
+Béjar Béjar NPCSG00
 Bélgica Bélgica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bélgida Bélgida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bérgamo Bérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7180,6 +7182,7 @@ Sóller Sóller NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sóstenes Sóstenes NPMSSP0 # avl
 Súria Súria NPCNG00 # topònim-apertium-falta-gènere-nombre
 TC TC NPMSO00
+TEDH TEDH NPMSO00
 TGSS TGSS NPFSO00
 TV1 TV1 NPCSO00
 TV2 TV2 NPCSO00
