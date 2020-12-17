@@ -2531,6 +2531,7 @@ Dalila Dalila NPFSSP0 # avl
 Dallas Dallas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dalmacia Dalmacia NPFSSP0 # avl
 Dalmacio Dalmacio NPMSSP0 # avl
+Dalí Dalí NPCNSP0
 Damasco Damasco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Damiana Damiana NPFSSP0 # avl
 Damiata Damiata NPFSSP0 # avl
@@ -5280,6 +5281,7 @@ Miro Miro NPMSSP0 # avl
 Mirra Mirra NPFSSP0 # avl
 Mirtila Mirtila NPFSSP0 # avl
 Mirtilo Mirtilo NPMSSP0 # avl
+Miró Miró NPCNSP0
 Mirón Mirón NPMSSP0 # avl
 Misano Misano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Misericordia Misericordia NPFSSP0 # avl
