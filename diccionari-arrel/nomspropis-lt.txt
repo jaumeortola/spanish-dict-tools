@@ -147,6 +147,7 @@
 8TV 8TV NPCNO00
 ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
+AENA AENA NPCSO00
 AFIP AFIP NPFSO00
 AFP AFP NPCNO00
 AI AI NPFSO00
@@ -2729,8 +2730,10 @@ Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
 EAU EAU NPMPG00
 ECHO ECHO NPCNO00
 ECTS ECTS NPMSO00
+ENAIRE ENAIRE NPCSO00
 ERC ERC NPCNO00
 ESA ESA NPFSO00
+ESMUC ESMUC NPFSO00
 EUA EUA NPMPG00
 Eastwood Eastwood NPCNSP0
 Ebo Ebo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4230,6 +4233,7 @@ Jazmín Jazmín NPCSSP0 # avl
 Jazperto Jazperto NPMSSP0 # avl
 Jaén Jaén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jean-Baptiste Jean-Baptiste NPMSSP0
+Jean-Paul Jean-Paul NPMSSP0
 Jefferson Jefferson NPCNSP0 # wiki
 Jehová Jehová NPMSSP0
 Jenara Jenara NPFSSP0 # avl
