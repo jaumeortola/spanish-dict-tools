@@ -1400,6 +1400,7 @@ bambalear=categories: V;model:amar;fonts: LT;
 bambolear=categories: V;model:amar;fonts: LT;
 bambonear=categories: V;model:amar;fonts: LT;
 banalizar=categories: V;model:abalanzar;fonts: dr;
+bancar=categories: V;model:abarcar;fonts: dr, colloquial;
 bancarizar=categories: V;model:abalanzar;fonts: dr;
 bandear=categories: V;model:amar;fonts: LT;
 banderillear=categories: V;model:amar;fonts: LT;
