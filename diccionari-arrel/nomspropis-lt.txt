@@ -818,14 +818,17 @@ Arabia Arabia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aracataca Aracataca NPCSG00
 Araceli Araceli NPFSSP0 # avl
 Aragón Aragón NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aramburu Aramburu NPCNSP0
 Aramunt Aramunt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arancha Arancha NPFSSP0 # avl
+Arancibia Arancibia NPCNSP0
 Aranguren Aranguren NPCNSP0
 Aranjuez Aranjuez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aransís Aransís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arantxa Arantxa NPFSSP0 # avl
 Aranyuel Aranyuel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aras Aras NPCNG00
+Arauco Arauco NPCSG00
 Aravell Aravell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aravena Aravena NPCNSP0 # wiki common surnames
 Araya Araya NPCNSP0 # wiki common surnames
@@ -1002,6 +1005,7 @@ Atilana Atilana NPFSSP0 # avl
 Atilano Atilano NPMSSP0 # avl
 Atlanta Atlanta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Atlántico Atlántico NPCNG00 # topònim-apertium-falta-gènere-nombre
+Atlántida Atlántida NPFSG00
 Atocha Atocha NPFSG00 # topònim-apertium
 Atocha Atocha NPFSSP0 # avl
 Atzúbia Atzúbia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1024,6 +1028,7 @@ Aureliana Aureliana NPFSSP0 # avl
 Aureliano Aureliano NPMSSP0 # avl
 Aurelio Aurelio NPMSSP0 # avl
 Aurora Aurora NPFSSP0 # avl
+Aurrera Aurrera NPCNSP0
 Auschwitz Auschwitz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ausias Ausias NPMSSP0 # avl
 Aussau Aussau NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1184,6 +1189,7 @@ Barra Barra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barrabás Barrabás NPMSSP0 # avl
 Barracas Barracas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barrameda Barrameda NPCSG00
+Barrancabermeja Barrancabermeja NPCSG00
 Barranquilla Barranquilla NPCNG00
 Barranquilla Barranquilla NPCSG00
 Barrantes Barrantes NPCSG00
@@ -1452,6 +1458,7 @@ Beslán Beslán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Besòs Besòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Betancourt Betancourt NPCNSP0
 Betania Betania NPCSG00
+Betis Betis NPMSO00
 Betlan Betlan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Betren Betren NPCNG00 # topònim-apertium-falta-gènere-nombre
 Betsabé Betsabé NPFSSP0 # avl
@@ -1524,6 +1531,7 @@ Bloomsbury Bloomsbury NPCSG00
 Blue Blue NPCNSP0 # wiki
 Boadilla Boadilla NPCSG00
 Boateng Boateng NPCNSP0
+Bobadilla Bobadilla NPCSG00
 Bobby Bobby NPCNSP0 # wiki
 Bocairent Bocairent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bocairente Bocairente NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1950,6 +1958,7 @@ Cartagena Cartagena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cartago Cartago NPCNG00 # topònim-apertium-falta-gènere-nombre
 Carter Carter NPCNSP0 # wiki
 Carvajal Carvajal NPCNSP0 # wiki common surnames
+Carver Carver NPCNSP0
 Casablanca Casablanca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Casabona Casabona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Casandra Casandra NPFSSP0 # avl
@@ -2148,6 +2157,7 @@ Chile Chile NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chilexpress Chilexpress NPCNSP0
 Chima Chima NPFSSP0 # avl
 Chimborazo Chimborazo NPMSG00
+Chimbote Chimbote NPCSG00
 Chimo Chimo NPMSSP0 # avl
 China China NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chipre Chipre NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2158,6 +2168,7 @@ Chomsky Chomsky NPCNSP0
 Chopin Chopin NPCNSP0 # wiki
 Chris Chris NPCNSP0 # wiki
 Christian Christian NPCNSP0 # wiki
+Christine Christine NPFSSP0
 Christopher Christopher NPCNSP0 # wiki
 Chromebook Chromebook NPCNO00
 Chromebooks Chromebook NPCPO00
@@ -2226,6 +2237,7 @@ Claudina Claudina NPFSSP0 # avl
 Claudino Claudino NPMSSP0 # avl
 Claudio Claudio NPMSSP0 # avl
 Claverol Claverol NPCNG00 # topònim-apertium-falta-gènere-nombre
+Clavijo Clavijo NPCNSP0
 Clayton Clayton NPCNSP0 # wiki
 Cleandro Cleandro NPMSSP0 # avl
 Clemencia Clemencia NPFSSP0 # avl
@@ -2264,6 +2276,7 @@ Cobreros Cobreros NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cocentaina Cocentaina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cochabamba Cochabamba NPCSG00
 Cochinchina Cochinchina NPFSG00 # topònim-apertium
+Cochrane Cochrane NPCNSP0
 Codigoro Codigoro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coelho Coelho NPCNSP0
 Cofrentes Cofrentes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2686,6 +2699,7 @@ Donatello Donatello NPCNSP0
 Donato Donato NPMSSP0 # avl
 Donoso Donoso NPCNSP0 # wiki common surnames
 Donosti Donosti NPCNG00 # topònim-apertium-falta-gènere-nombre
+Donovan Donovan NPCNSP0
 Dora Dora NPFSSP0 # avl
 Dorcas Dorcas NPMSSP0 # avl
 Dordoña Dordoña NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4095,6 +4109,7 @@ Ilda Ilda NPFSSP0 # avl
 Ildefonsa Ildefonsa NPFSSP0 # avl
 Ildefonso Ildefonso NPMSSP0 # avl
 Illescas Illescas NPCSG00
+Illich Illich NPCNSP0
 Illinois Illinois NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iluminada Iluminada NPFSSP0 # avl
 Iluminado Iluminado NPMSSP0 # avl
@@ -4342,6 +4357,7 @@ Juan Juan NPMSSP0 # avl
 Juana Juana NPFSSP0 # avl
 Juanita Juanita NPFSSP0
 Juanito Juanito NPMSSP0
+Juanma Juanma NPMSSP0
 Judas Judas NPMNSP0 # avl
 Judea Judea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Judit Judit NPFSSP0 # avl
@@ -4434,6 +4450,7 @@ Khartum Khartum NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kierkegaard Kierkegaard NPCNSP0
 Kiev Kiev NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kigali Kigali NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kilimanjaro Kilimanjaro NPMSG00
 Kim Kim NPCNSP0 # wiki
 Kimberly Kimberly NPCNSP0
 King King NPCNSP0 # wiki
@@ -5438,6 +5455,7 @@ Monòver Monòver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monóvar Monóvar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moodle Moodle NPMNO00
 Moore Moore NPCNSP0 # wiki
+Moquegua Moquegua NPCSG00
 Mora Mora NPCNSP0 # wiki common surnames
 Morales Morales NPCNSP0 # wiki common surnames
 Morano Morano NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6103,6 +6121,7 @@ Peramola Peramola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peratallada Peratallada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peraza Peraza NPCNSP0
 Perceval Perceval NPMSSP0 # avl
+Perea Perea NPCNSP0
 Pereira Pereira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pereira Pereira NPCNSP0 # wiki common surnames
 Perenchisa Perenchisa NPFSSP0 # avl
@@ -7228,6 +7247,7 @@ Tacia Tacia NPFSSP0 # avl
 Tacio Tacio NPMSSP0 # avl
 Tadea Tadea NPFSSP0 # avl
 Tadeo Tadeo NPMSSP0 # avl
+Taehyung Taehyung NPCNSP0
 Tagamanent Tagamanent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tahuantinsuyo Tahuantinsuyo NPCSO00
 Tailandia Tailandia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7251,6 +7271,7 @@ Tamara Tamara NPFSSP0 # avl
 Tamaulipas Tamaulipas NPCSG00
 Tamayo Tamayo NPCNSP0
 Tampere Tampere NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tampico Tampico NPCSG00
 Tana Tana NPFSSP0 # avl
 Tancreda Tancreda NPFSSP0 # avl
 Tancredo Tancredo NPMSSP0 # avl
