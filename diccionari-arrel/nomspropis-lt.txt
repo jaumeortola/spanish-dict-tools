@@ -7532,6 +7532,7 @@ Tous Tous NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toya Toya NPFSSP0 # avl
 Trabaldo Trabaldo NPMSSP0 # avl
 Tracia Tracia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Trafalgar Trafalgar NPCSG00
 Traiguera Traiguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trajano Trajano NPMSSP0 # avl
 Transcaucasia Transcaucasia NPCNG00 # topònim-apertium-falta-gènere-nombre
