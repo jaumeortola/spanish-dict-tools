@@ -7667,6 +7667,7 @@ Urdangarin Urdangarin NPCNSP0
 Ureña Ureña NPCNSP0
 Urgel Urgel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urgell Urgell NPCNG00 # topònim-apertium-falta-gènere-nombre
+Uri Uri NPCSG00
 Uribe Uribe NPCNSP0
 Uriel Uriel NPMSSP0 # avl
 Urquiza Urquiza NPCNSP0

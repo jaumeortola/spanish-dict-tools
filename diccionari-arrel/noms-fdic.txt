@@ -709,6 +709,7 @@ TIC=categories: FP;fonts: fundeu;
 TNT=categories: MI;fonts: dr;
 TV=categories: MFI;fonts: sigla;
 UCI=categories: FI;fonts: dr;
+URI=categories: MI;fonts: sigles;
 URL=categories: MFI;fonts: LT;
 USB=categories: MFI;fonts: sigla;
 USD=categories: MI;fonts: sigla;
