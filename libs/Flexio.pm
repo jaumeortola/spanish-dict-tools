@@ -298,6 +298,8 @@ sub verb_pronouns {
         }  
 =cut
     } elsif ($postag =~ /V.M.2S./) { #canta, teme, parte, peina, renueva, pinta, piensa, actúa # més: haz, pon, sal, di ...
+        #desáhuciala
+    	if    ($stem !~ /[áéíóú]/) { $stem =~ s/a(huci[ae]n?)$/á$1/; }
         if    ($stem !~ /[áéíóú]/) { $stem =~ s/a([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/á$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/e([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/é$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/o([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ó$1/; }
@@ -306,10 +308,15 @@ sub verb_pronouns {
         if ($stem !~ /[áéíóú]/) { $stem =~ s/ei([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/éi$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/ai([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ái$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/oi([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ói$1/; }
-        if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
+        #lícuala, averíguala
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([gqc][uü])[ae]n?)$/$1í$2/; }
+        #anúnciala
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^aeoéáó])u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1ú$2/; }
-        if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/í$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
+        
         if ($stem !~ /[áéíóú]/) { $stem =~ s/^u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ú$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/í$1/; }
+        
 
         foreach my $key ("me", "nos", "te", "lo", "los" , "la", "las" , "le", "les") { 
             if ($stem =~ /l$/ && $key =~ /^l/) { next;}  #exception: salle
