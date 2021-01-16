@@ -80,12 +80,12 @@ sub mascplural_partintdeduesformes {
     my $mp="";
 
     if ($ms =~ /^$fs$/) {
-	   $mp=Flexio::plural($ms); # aborigen
+       $mp=Flexio::plural($ms); # aborigen
     #}
     #elsif ($ms =~ /.+([àéèíóòú]|[aàeéèiíoóòuú][sn]|ix)$/) {
-	#   $mp=Flexio::pluralMasc_del_fem($fs);
+    #   $mp=Flexio::pluralMasc_del_fem($fs);
     } else {
-	   $mp=Flexio::plural($ms);
+       $mp=Flexio::plural($ms);
     }
     return $mp;
 }
@@ -102,35 +102,35 @@ sub desplega_femeni_amb_guionet {
     #my $found;
     
     if ($term_fem =~ /^-/) {
-	$term_fem =~ s/-//;
-	if ( $term_fem =~ /^a$/ ) {
-	    $arrel=~s/[eoa]$//;
-	    $mot_fem=$arrel.$term_fem;
-	    #$found=1;
-	}
-	else {
-	    my $nTerm_fem=&unac_string($term_fem);
-	    my $nMot_masc=&unac_string($mot_masc);
-	    $nTerm_fem =~ /^(.).*$/;
-	    my $firstLetterTerm=$1;
+    $term_fem =~ s/-//;
+    if ( $term_fem =~ /^a$/ ) {
+        $arrel=~s/[eoa]$//;
+        $mot_fem=$arrel.$term_fem;
+        #$found=1;
+    }
+    else {
+        my $nTerm_fem=&unac_string($term_fem);
+        my $nMot_masc=&unac_string($mot_masc);
+        $nTerm_fem =~ /^(.).*$/;
+        my $firstLetterTerm=$1;
             #La terminació femenina s'ha d'afegir a partir de la vocal tònica.
             #Fem que la forma femenina varie entre 0 i 2 caràcters més que la masculina.
             #És un pegat per a no haver de calcular la síl·laba tònica.
             #A voltes fins i tot és més efectiu (sensoriomotor -motriu, tracofrigi -frígia).
-	    my $lenTerm1=length($nTerm_fem)-1; if ($lenTerm1<0) {$lenTerm1=0;}
-	    my $lenTerm2=length($nTerm_fem)-3; if ($lenTerm2<0) {$lenTerm2=0;}
-	    $nMot_masc =~ /^(.+)$firstLetterTerm.{$lenTerm2,$lenTerm1}$/;
-	    my $lenArrel=length($1);
-	    $mot_masc =~ /^(.{$lenArrel}).*$/; #recupera alguna dièresi (caïnià)
-	    $arrel=$1;
-	    $mot_fem=$arrel.$term_fem;	    
-	    #$found=1;
+        my $lenTerm1=length($nTerm_fem)-1; if ($lenTerm1<0) {$lenTerm1=0;}
+        my $lenTerm2=length($nTerm_fem)-3; if ($lenTerm2<0) {$lenTerm2=0;}
+        $nMot_masc =~ /^(.+)$firstLetterTerm.{$lenTerm2,$lenTerm1}$/;
+        my $lenArrel=length($1);
+        $mot_masc =~ /^(.{$lenArrel}).*$/; #recupera alguna dièresi (caïnià)
+        $arrel=$1;
+        $mot_fem=$arrel.$term_fem;        
+        #$found=1;
             #Si la diferència entre masculí i femení és de més de dos caràcters.
             #Error probable.
-	    if ( abs(length($mot_fem)-length($mot_masc))>2) {
-		$trobat = 0; 
-	    }
-	}
+        if ( abs(length($mot_fem)-length($mot_masc))>2) {
+        $trobat = 0; 
+        }
+    }
     }
     return ($mot_fem, $trobat);
 }
@@ -139,10 +139,10 @@ sub desplega_femeni_amb_guionet {
 sub apostrofa_masculi {
     my $mot = $_[0];
     if ($mot =~ /^h?[aeiouàèéíòóú]/i && $mot !~ /^(h?[ui][aeioàèéóòu].*|[aeio]|host|$hacaspirada)$/i) {
-	return 1;
+    return 1;
     }
     if ($mot =~ /^(ió|ions|ionitza.+|h?uix.+|Iowa|Uialfàs|Iu)$/) {
-	return 1;
+    return 1;
     }
     return 0;
 }
@@ -153,8 +153,8 @@ sub apostrofa_masculi {
 sub apostrofa_femeni {
     my $mot = $_[0];
     if ($mot =~ /^(h?[aeoàèéíòóú].*|h?[ui][^aeiouàèéíòóúüï]+([aeiou]s?|[ei]n)|urbs|URSS|UJI|11a)$/i 
-	&& $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una|$hacaspirada)$/i) {
-	return 1;
+    && $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una|$hacaspirada)$/i) {
+    return 1;
     }
     return 0;
 }
@@ -177,16 +177,16 @@ sub verb_pronouns {
     #$pronouns{"lo"}="PP3CNA00";
     $pronouns{"lo"}="PP3MSA00";
     $pronouns{"los"}="PP3MPA00";
-	$pronouns{"la"}="PP3FSA00";
-	$pronouns{"las"}="PP3FPA00";
-	$pronouns{"le"}="PP3CSD00";
-	$pronouns{"les"}="PP3CPD00";
-	
-	$pronouns{"me"}="PP1CS000";
-	$pronouns{"te"}="PP2CS000";
+    $pronouns{"la"}="PP3FSA00";
+    $pronouns{"las"}="PP3FPA00";
+    $pronouns{"le"}="PP3CSD00";
+    $pronouns{"les"}="PP3CPD00";
+    
+    $pronouns{"me"}="PP1CS000";
+    $pronouns{"te"}="PP2CS000";
     $pronouns{"se"}="PP3CN000";
     $pronouns{"nos"}="PP1CP000";
-	$pronouns{"os"}="PP2CP000";
+    $pronouns{"os"}="PP2CP000";
    
 
     if ($postag =~ /V.[NG].*/) {
@@ -299,7 +299,7 @@ sub verb_pronouns {
 =cut
     } elsif ($postag =~ /V.M.2S./) { #canta, teme, parte, peina, renueva, pinta, piensa, actúa # més: haz, pon, sal, di ...
         #desáhuciala
-    	if    ($stem !~ /[áéíóú]/) { $stem =~ s/a(huci[ae]n?)$/á$1/; }
+        if    ($stem !~ /[áéíóú]/) { $stem =~ s/a(huci[ae]n?)$/á$1/; }
         if    ($stem !~ /[áéíóú]/) { $stem =~ s/a([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/á$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/e([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/é$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/o([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ó$1/; }
@@ -313,7 +313,6 @@ sub verb_pronouns {
         #anúnciala
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^aeoéáó])u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1ú$2/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
-        
         if ($stem !~ /[áéíóú]/) { $stem =~ s/^u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ú$1/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/í$1/; }
         
@@ -360,20 +359,23 @@ sub verb_pronouns {
     } elsif ($postag =~ /V.M.3[SP]./) { 
         #cante, tema, parta, peine, renueve, pinte, piense, actúe # més: haga, ponga, salga, diga ...
         #canten, teman, partan, peinen, renueven, pinten, piensen, actúen
-        if ($stem !~ /[áéíóú]/) {
-            if    ($stem !~ /[áéíóú]/) { $stem =~ s/a([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/á$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/e([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/é$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/o([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ó$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/au([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/áu$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/eu([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/éu$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/ei([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/éi$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/ai([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ái$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/oi([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ói$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/([^aeoéáó])u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1ú$2/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/í$1/; }
-            if ($stem !~ /[áéíóú]/) { $stem =~ s/^u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ú$1/; }
-        }
+        #desáhuciala
+        if    ($stem !~ /[áéíóú]/) { $stem =~ s/a(huci[ae]n?)$/á$1/; }
+        if    ($stem !~ /[áéíóú]/) { $stem =~ s/a([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/á$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/e([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/é$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/o([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ó$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/au([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/áu$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/eu([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/éu$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/ei([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/éi$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/ai([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ái$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/oi([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ói$1/; }
+        #lícuala, averíguala
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([gqc][uü])[ae]n?)$/$1í$2/; }
+        #anúnciala
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/([^aeoéáó])u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1ú$2/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/^u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ú$1/; }
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/í$1/; }
 
         foreach my $key ("se", "me", "nos", "os", "te", "lo", "los" , "la", "las" , "le", "les") { 
             if ($stem =~ /l$/ && $key =~ /^l/) { next;}
