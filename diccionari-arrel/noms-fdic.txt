@@ -9571,6 +9571,7 @@ brocino=categories: M;fonts: dr;
 brocárdico=categories: M;fonts: LT;
 broma=categories: F;fonts: LT;
 bromación=categories: F;fonts: LT;
+bromance=categories: MS;fonts: fundeu;
 bromato=categories: M;fonts: LT;
 bromatología=categories: F;fonts: LT;
 bromatólogo bromatóloga=categories: MF;fonts: LT;

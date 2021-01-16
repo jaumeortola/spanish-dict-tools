@@ -1240,6 +1240,7 @@ Bautista Bautista NPMSSP0 # avl
 Baviera Baviera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bayardo Bayardo NPMSSP0
 Bayardo Bayardo NPMSSP0 # avl
+Bayern Bayern NPCSO00
 Bayona Bayona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bazán Bazán NPCNSP0
 Baén Baén NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2678,6 +2679,7 @@ Disneyland Disneyland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Divina Divina NPFSSP0 # avl
 Dizzy Dizzy NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
+Djokovic Djokovic NPCNSP0
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dolores Dolores NPCNG00 # topònim-apertium
@@ -4371,6 +4373,7 @@ Juliana Juliana NPFSSP0 # avl
 Julieta Julieta NPFSSP0 # avl
 Julio Julio NPMSSP0 # avl
 Julián Julián NPMSSP0 # avl
+Jumbo-Visma Jumbo-Visma NPMSO00
 Jumilla Jumilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Juncosa Juncosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 June June NPFSSP0 # avl
@@ -5698,6 +5701,7 @@ Norte Norte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Norteamérica Norteamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 North North NPCNSP0 # wiki
 Noruega Noruega NPCNG00 # topònim-apertium-falta-gènere-nombre
+Novak Novak NPMSSP0
 Novalis Novalis NPMSSP0
 Novata Novata NPFSSP0 # avl
 Novelda Novelda NPCNG00 # topònim-apertium-falta-gènere-nombre
