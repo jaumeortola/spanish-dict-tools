@@ -310,6 +310,8 @@ sub verb_pronouns {
         if ($stem !~ /[áéíóú]/) { $stem =~ s/oi([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ói$1/; }
         #lícuala, averíguala
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([gqc][uü])[ae]n?)$/$1í$2/; }
+        #írguela
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([gqc][uü])[ae]n?)$/í$1/; }
         #anúnciala
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^aeoéáó])u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1ú$2/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
@@ -371,6 +373,8 @@ sub verb_pronouns {
         if ($stem !~ /[áéíóú]/) { $stem =~ s/oi([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/ói$1/; }
         #lícuala, averíguala
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([gqc][uü])[ae]n?)$/$1í$2/; }
+        #írguela
+        if ($stem !~ /[áéíóú]/) { $stem =~ s/^i([^aeiouáéíóú]*([gqc][uü])[ae]n?)$/í$1/; }
         #anúnciala
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^aeoéáó])u([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1ú$2/; }
         if ($stem !~ /[áéíóú]/) { $stem =~ s/([^eaoéáó])i([^aeiouáéíóú]*([qg][uü])?[iu]?[ae]n?)$/$1í$2/; }
