@@ -1,6 +1,7 @@
 #abar=categories: V;model:amar;fonts: LT; defectiu!!
 #acachar=categories: V;model:amar;fonts: LT;
 #advocar=categories: V;model:abarcar;fonts: ap;
+#aluciar=categories: V;model:amar;fonts: LT; inusual
 #amarizar=categories: V;model:abalanzar;fonts: dr;
 #arcar=categories: V;model:abarcar;fonts: ap;
 #arromper=categories: V;model:romper;fonts: LT;
@@ -641,7 +642,6 @@ altercar=categories: V;model:abarcar;fonts: LT;
 alternar=categories: V;model:amar;fonts: LT;
 altivar=categories: V;model:amar;fonts: LT;
 altivecer=categories: V;model:agradecer;fonts: LT;
-aluciar=categories: V;model:amar;fonts: LT;
 alucinar=categories: V;model:amar;fonts: LT;
 aludir=categories: V;model:partir;fonts: LT;
 alujar=categories: V;model:amar;fonts: LT;
