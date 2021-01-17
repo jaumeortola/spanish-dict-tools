@@ -67,6 +67,7 @@ claro claro RG
 comoquiera comoquiera RG
 conforme conforme RG
 cuan cuan RG
+cuandoquiera cuandoquiera RG
 cuantimás cuantimás RG
 cuanto cuanto RG
 cuasi cuasi RG
