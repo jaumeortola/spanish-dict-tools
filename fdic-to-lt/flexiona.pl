@@ -34,10 +34,14 @@ while ( my $line = <$fh> ) {
     if ( $line =~ /^($Flexio::carac+) .*\[sup\. ([^ ]+)o\]/ ) {
         my $lemma = $1;
         my $superlatiu = $2;
-        print $ofh "${superlatiu}o ${superlatiu}o AQAMS0\n";
-        print $ofh $superlatiu."a ${superlatiu}o AQAFS0\n";
-        print $ofh $superlatiu."os ${superlatiu}o AQAMP0\n";
-        print $ofh $superlatiu."as ${superlatiu}o AQAFP0\n";
+        my $tag = "AQ";
+        if ($line =~ /categories: AO/) {
+          $tag="AO";
+          }
+        print $ofh "${superlatiu}o ${superlatiu}o ${tag}AMS0\n";
+        print $ofh $superlatiu."a ${superlatiu}o ${tag}AFS0\n";
+        print $ofh $superlatiu."os ${superlatiu}o ${tag}AMP0\n";
+        print $ofh $superlatiu."as ${superlatiu}o ${tag}AFP0\n";
         #print $ofh "$superlatiu $lemma AQAMS0\n";
         #print $ofh $superlatiu."a $lemma AQAFS0\n";
         #print $ofh $superlatiu."s $lemma AQAMP0\n";

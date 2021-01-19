@@ -7997,6 +7997,7 @@ Washington Washington NPCNG00 # topònim-apertium-falta-gènere-nombre
 Waterloo Waterloo NPCSG00
 Watson Watson NPCNSP0 # wiki
 Waziristán Waziristán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Wegener Wegener NPCNSP0
 Wellington Wellington NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wenceslao Wenceslao NPMSSP0 # avl
 Wenceslava Wenceslava NPFSSP0 # avl
