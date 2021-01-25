@@ -14125,6 +14125,7 @@ jacetano jacetana=categories: A;fonts: LT;
 jachudo jachuda=categories: A;fonts: dr;
 jachón jachona=categories: A;fonts: dr;
 jacintino jacintina=categories: A;fonts: LT;
+jack=categories: AI;fonts: derivat;
 jacobeo jacobea=categories: A;fonts: LT;
 jacobiano jacobiana=categories: A;fonts: LT;
 jacobino jacobina=categories: A;fonts: LT;

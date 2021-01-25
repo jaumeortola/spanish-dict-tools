@@ -917,6 +917,7 @@ Arnold Arnold NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aroa Aroa NPFSSP0 # avl
 Aroha Aroha NPFSSP0 # avl
 Arona Arona NPCNG00 # topònim-apertium-falta-gènere-nombre
+Arp Arp NPCNSP0
 Arquelao Arquelao NPMSSP0 # avl
 Arquimbaldo Arquimbaldo NPMSSP0 # avl
 Arquipo Arquipo NPMSSP0 # avl
@@ -1685,6 +1686,7 @@ Buitrago Buitrago NPCSG00
 Bujumbura Bujumbura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulgaria Bulgaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bullas Bullas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bulli Bulli NPMSO00
 Bundesland Bundesland NPMSO00
 Bundesliga Bundesliga NPFSO00
 Bundesrat Bundesrat NPMSO00
@@ -1741,6 +1743,7 @@ CNI CNI NPMSO00
 CNP CNP NPMSO00
 CNT CNT NPFSO00
 COI COI NPMSO00
+COPE COPE NPFSO00
 COU COU NPMNO00
 CSD CSD NPMSO00
 Cabacés Cabacés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2289,6 +2292,7 @@ Colbert Colbert NPCNSP0
 Colera Colera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colgate Colgate NPCNO00
 Colima Colima NPCSG00
+Colin Colin NPCNSP0
 Coll Coll NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collado Collado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collbató Collbató NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2666,6 +2670,7 @@ Dimitri Dimitri NPMSSP0
 Dina Dina NPFSSP0 # avl
 Dinamarca Dinamarca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dinami Dinami NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dino Dino NPMSSP0
 Diocleciano Diocleciano NPMSSP0 # avl
 Diodoro Diodoro NPMSSP0 # avl
 Diomedes Diomedes NPMSSP0 # avl
@@ -3465,6 +3470,7 @@ Gabi Gabi NPMSSP0 # avl
 Gabilondo Gabilondo NPCNSP0
 Gabina Gabina NPFSSP0 # avl
 Gabino Gabino NPMSSP0 # avl
+Gabo Gabo NPMSSP0
 Gaborone Gaborone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gabriel Gabriel NPMSSP0 # avl
 Gabriela Gabriela NPFSSP0 # avl
@@ -3843,6 +3849,7 @@ Hadoop Hadoop NPCNO00
 Hagar Hagar NPFSSP0 # avl
 Haifa Haifa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haití Haití NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hal Hal NPMSSP0
 Haley Haley NPCNSP0 # wiki
 Halifax Halifax NPCNG00 # topònim-apertium-falta-gènere-nombre
 Halloween Halloween NPCNO00
@@ -4062,6 +4069,7 @@ Hungría Hungría NPCNG00 # topònim-apertium-falta-gènere-nombre
 Huseín Huseín NPMSSP0 # avl
 Huxley Huxley NPCNSP0
 Huánuco Huánuco NPCSG00
+Hyde Hyde NPCNSP0
 Hyperwallet Hyperwallet NPCNO00
 Händel Händel NPCNSP0
 Hébridas Hébridas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4270,6 +4278,7 @@ Jean-Baptiste Jean-Baptiste NPMSSP0
 Jean-Paul Jean-Paul NPMSSP0
 Jefferson Jefferson NPCNSP0 # wiki
 Jehová Jehová NPMSSP0
+Jekyll Jekyll NPCNSP0
 Jenara Jenara NPFSSP0 # avl
 Jenaro Jenaro NPMSSP0 # avl
 Jennifer Jennifer NPFSSP0
@@ -5060,6 +5069,7 @@ Marna Marna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marolo Marolo NPMSSP0 # avl
 Maropati Maropati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marquina Marquina NPCNG00 # topònim-apertium-falta-gènere-nombre
+Marr Marr NPCNSP0
 Marrakech Marrakech NPCSG00 # topònim-apertium
 Marraquech Marraquech NPCSG00 # topònim-apertium
 Marratxí Marratxí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5608,6 +5618,7 @@ Nazario Nazario NPMSSP0 # avl
 Naím Naím NPMSSP0 # avl
 Naín Naín NPMSSP0 # avl
 Nebraska Nebraska NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ned Ned NPMSSP0
 Neera Neera NPFSSP0 # avl
 Nefertiti Nefertiti NPFSSP0
 Neftalí Neftalí NPMSSP0 # avl
@@ -6651,6 +6662,7 @@ Rocky Rocky NPCNSP0
 Rocío Rocío NPCSSP0 # avl
 Rodes Rodes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rodesia Rodesia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rodin Rodin NPCNSP0
 Rodoblado Rodoblado NPMSSP0 # avl
 Rodolfa Rodolfa NPFSSP0 # avl
 Rodolfo Rodolfo NPMSSP0 # avl
@@ -6705,6 +6717,7 @@ Rosarno Rosarno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosaura Rosaura NPFSSP0 # avl
 Roseau Roseau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosellón Rosellón NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rosen Rosen NPCNSP0
 Rosenda Rosenda NPFSSP0 # avl
 Rosendo Rosendo NPMSSP0 # avl
 Roses Roses NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7562,6 +7575,7 @@ Triana Triana NPCNSP0
 Triana Triana NPCSG00
 Trieste Trieste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trifón Trifón NPMSSP0 # avl
+Trini Trini NPFSSP0
 Trinidad Trinidad NPCSSP0 # avl
 Tristana Tristana NPFSSP0 # avl
 Tristán Tristán NPMSSP0 # avl

@@ -60852,6 +60852,7 @@ trujimán trujimana=categories: MF;fonts: dr;
 trulla=categories: F;fonts: LT;
 trullo=categories: M;fonts: LT;
 trumao=categories: M;fonts: dr;
+trumpismo=categories: MS;fonts: derivat;
 truncamiento=categories: M;fonts: LT;
 trupial=categories: M;fonts: LT;
 truque=categories: M;fonts: LT;
