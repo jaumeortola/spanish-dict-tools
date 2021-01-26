@@ -3286,6 +3286,7 @@ berroqueño berroqueña=categories: A;fonts: dr;
 beréber=categories: A;fonts: LT;
 berón berona=categories: A;fonts: dr;
 bestial=categories: A;fonts: LT;
+betalactámico betalacámica=categories: A;fonts: derivat;
 betlehemita=categories: A;fonts: dr;
 betlehemítico betlehemítica=categories: A;fonts: dr;
 betlemita=categories: A;fonts: LT;
