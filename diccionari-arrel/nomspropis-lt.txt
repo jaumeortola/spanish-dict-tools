@@ -6598,7 +6598,7 @@ Ribesalbes Ribesalbes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ricadi Ricadi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ricarda Ricarda NPFSSP0 # avl
 Ricardo Ricardo NPMSSP0 # avl
-Richard Richard NPMCSP0 # wiki
+Richard Richard NPCNSP0 # wiki
 Richelieu Richelieu NPMSSP0
 Richmond Richmond NPCNG00 # topònim-apertium-falta-gènere-nombre
 Richter Richter NPCNSP0 # wiki
