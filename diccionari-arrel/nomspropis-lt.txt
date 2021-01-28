@@ -1601,6 +1601,7 @@ Boston Boston NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bot Bot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botarell Botarell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Botticelli Botticelli NPCNSP0
 Bouvet Bouvet NPCSG00
 Bova Bova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bovalino Bovalino NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6560,6 +6561,7 @@ Relleu Relleu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rellinars Rellinars NPCNG00 # topònim-apertium-falta-gènere-nombre
 Remberta Remberta NPFSSP0 # avl
 Remberto Remberto NPMSSP0 # avl
+Rembrandt Rembrandt NPCNSP0
 Remedios Remedios NPCNSP0 # avl
 Remigia Remigia NPFSSP0 # avl
 Remigio Remigio NPMSSP0 # avl
