@@ -4872,6 +4872,7 @@ Lázaro Lázaro NPMSSP0 # avl
 Léntulo Léntulo NPMSSP0 # avl
 Lépido Lépido NPMSSP0 # avl
 Lérida Lérida NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lévi-Strauss Lévi-Strauss NPCNSP0
 Lía Lía NPFSSP0 # avl
 Líbano Líbano NPCNG00 # topònim-apertium-falta-gènere-nombre
 López López NPCNSP0 # wiki common surnames
@@ -5314,6 +5315,7 @@ Mingote Mingote NPMSSP0 # avl
 Minneapolis Minneapolis NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minnesota Minnesota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsk Minsk NPCNG00 # topònim-apertium-falta-gènere-nombre
+Minsky Minsky NPCNSP0
 Miqueas Miqueas NPMSSP0 # avl
 Mira Mira NPFSSP0 # avl
 Mira-rosa Mira-rosa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6118,6 +6120,7 @@ Penedés Penedés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penelles Penelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penguin Penguin NPCNO00
 Pennsylvania Pennsylvania NPCNG00 # topònim-apertium-falta-gènere-nombre
+Penrose Penrose NPCNSP0
 Pensilvania Pensilvania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pentesilea Pentesilea NPFSSP0 # avl
 Pentesilia Pentesilia NPFSSP0 # avl
@@ -7603,6 +7606,7 @@ Tullerías Tullerías NPFPG00
 Tunicia Tunicia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tunja Tunja NPCSG00 
 Turia Turia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Turing Turing NPCNSP0
 Turing Turing NPCNSP0 # wiki
 Turingia Turingia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turkestán Turkestán NPCSG00 # topònim-apertium
