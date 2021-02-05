@@ -46362,6 +46362,7 @@ personera=categories: F;fonts: dr;
 personería=categories: F;fonts: dr;
 personificación=categories: F;fonts: LT;
 personilla=categories: F;fonts: LT;
+personita=categories: F;fonts: diminutiu;
 perspectiva=categories: F;fonts: LT;
 perspectividad=categories: F;fonts: LT;
 perspectivismo=categories: M;fonts: LT;

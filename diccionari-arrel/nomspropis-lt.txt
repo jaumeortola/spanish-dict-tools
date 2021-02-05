@@ -269,7 +269,7 @@ Adolfina Adolfina NPFSSP0 # avl
 Adolfino Adolfino NPMSSP0 # avl
 Adolfo Adolfo NPMSSP0 # avl
 Adonay Adonay NPMSSP0 # avl
-Adonis Adonis NPMSSP0 # avl
+Adonis Adonis NPMNSP0 # avl
 Adonáis Adonáis NPMSSP0 # avl
 Ador Ador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Adoración Adoración NPFSSP0 # avl
@@ -4512,6 +4512,7 @@ Lagat Lagat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lagos Lagos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lagos Lagos NPCNSP0 # wiki common surnames
 Lagosanto Lagosanto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lagrange Lagrange NPCNSP0
 Lahore Lahore NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lahti Lahti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laia Laia NPFSSP0
@@ -5679,6 +5680,7 @@ Nicómaco Nicómaco NPMSSP0 # avl
 Nidia Nidia NPFSSP0 # avl
 Nietzsche Nietzsche NPCNSP0
 Nigeria Nigeria NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nijinsky Nijinsky NPCNSP0
 Nikola Nikola NPMSSP0
 Nilo Nilo NPMSG00 # topònim-apertium
 Nilo Nilo NPMSSP0 # avl
