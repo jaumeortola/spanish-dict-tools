@@ -22948,6 +22948,7 @@ supercontagiador supercontagiadora=categories: A;fonts: derivat;
 supercontento supercontenta=categories: A;fonts: derivat;
 supercrítico supercrítica=categories: A;fonts: LT;
 superdepredador superdepredadora=categories: A;fonts: wiki;
+superdespistado superdespistada=categories: A;fonts: derivat;
 superdifícil=categories: A;fonts: derivat;
 superdivertido superdivertida=categories: A;fonts: derivat;
 superdotado superdotada=categories: A;fonts: LT;
