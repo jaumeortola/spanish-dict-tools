@@ -16,6 +16,7 @@
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
+#hiperventilar=categories: V;model:amar;fonts: dr; NOU!
 #implotar=categories: V;model:amar;fonts: ap;
 #litar=categories: V;model:amar;fonts: LT; #eliminar
 #luir=categories: V;model:fluir;fonts: LT;

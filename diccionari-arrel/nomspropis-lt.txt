@@ -2725,6 +2725,7 @@ Doubs Doubs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Douglas Douglas NPCNSP0 # wiki
 Dover Dover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Down Down NPCNSP0
+Draghi Draghi NPCNSP0
 Drapia Drapia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dresde Dresde NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dreyfus Dreyfus NPCNSP0
