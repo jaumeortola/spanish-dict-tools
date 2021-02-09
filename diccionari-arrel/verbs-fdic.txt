@@ -16,7 +16,6 @@
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
-#hiperventilar=categories: V;model:amar;fonts: dr; NOU!
 #implotar=categories: V;model:amar;fonts: ap;
 #litar=categories: V;model:amar;fonts: LT; #eliminar
 #luir=categories: V;model:fluir;fonts: LT;
@@ -5186,6 +5185,7 @@ hiperbolizar=categories: V;model:abalanzar;fonts: dr;
 hipercontrolar=categories: V;model:amar;fonts: ap;
 hiperregular=categories: V;model:amar;fonts: ap;
 hipertrofiar=categories: V;model:amar;fonts: LT;
+hiperventilar=categories: V;model:amar;fonts: dr; 
 hipnotizar=categories: V;model:abalanzar;fonts: LT;
 hipotecar=categories: V;model:abarcar;fonts: LT;
 hipotetizar=categories: V;model:abalanzar;fonts: dr;
