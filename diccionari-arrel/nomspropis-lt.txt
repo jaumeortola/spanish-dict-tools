@@ -1535,6 +1535,7 @@ Boadilla Boadilla NPCSG00
 Boateng Boateng NPCNSP0
 Bobadilla Bobadilla NPCSG00
 Bobby Bobby NPCNSP0 # wiki
+Bobby Bobby NPMSSP0
 Bocairent Bocairent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bocairente Bocairente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Boccherini Boccherini NPCNSP0 # wiki
@@ -3300,6 +3301,7 @@ Finestrat Finestrat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Finlandia Finlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiona Fiona NPFSSP0 # avl
 Firefox Firefox NPCNO00
+Fischer Fischer NPCNSP0
 Fischer Fischer NPCNSP0 # wiki
 Fisher Fisher NPCNSP0
 Fitzgerald Fitzgerald NPCNSP0
@@ -4495,6 +4497,7 @@ Kursaal Kursaal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kurt Kurt NPCNSP0 # wiki
 Kuwait Kuwait NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kyoto Kyoto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kárpov Kárpov NPCNSP0
 Königsberg Königsberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 L'Aquila L'Aquila NPCNG00 # topònim-apertium-falta-gènere-nombre
 LATAM LATAM NPFSG00
@@ -7174,6 +7177,7 @@ South South NPCNSP0 # wiki
 Soverato Soverato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soyuz Soyuz NPCNSP0 # wiki
 Spa Spa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Spasski Spasski NPCNSP0
 Spencer Spencer NPCNSP0
 Spinoza Spinoza NPCNSP0
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7552,6 +7556,7 @@ Tost Tost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Totana Totana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tottenham Tottenham NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toulouse Toulouse NPCNG00 # topònim-apertium-falta-gènere-nombre
+Toulouse-Lautrec Toulouse-Lautrec NPMSSP0
 Tourette Tourette NPCNSP0
 Tous Tous NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toya Toya NPFSSP0 # avl

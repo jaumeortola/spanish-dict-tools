@@ -19577,6 +19577,7 @@ precocinado precocinada=categories: A;fonts: dr;
 precolombino precolombina=categories: A;fonts: LT;
 precompacto precompacta=categories: A;fonts: LT;
 precompetitivo precompetitiva=categories: A;fonts: LT;
+preconcedido preconcedida=categories: A;fonts: derivat;
 preconciliar=categories: A;fonts: dr;
 precongresual=categories: A;fonts: LT;
 preconizable=categories: A;fonts: LT;
