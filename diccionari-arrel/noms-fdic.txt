@@ -6158,6 +6158,7 @@ astronauta=categories: MF;fonts: LT;
 astronave=categories: F;fonts: LT;
 astronomía=categories: F;fonts: LT;
 astronáutica=categories: F;fonts: LT;
+astroturismo=categories: M;fonts: fundeu;
 astrágalo=categories: M;fonts: LT;
 astrógrafo=categories: M;fonts: LT;
 astrólogo astróloga=categories: MF;fonts: LT;

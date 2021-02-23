@@ -2417,6 +2417,7 @@ Coyoacán Coyoacán NPCSG00
 Cozumel Cozumel NPCSG00
 Cracovia Cracovia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Craig Craig NPCNSP0
+Cranagh Cranagh NPCNSP0
 Creixell Creixell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Creonte Creonte NPMSSP0 # avl
 Crescencia Crescencia NPFSSP0 # avl
@@ -3746,6 +3747,7 @@ Grassbase Grassbase NPCNSP0 # wiki
 Gratallops Gratallops NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grau Grau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grecia Grecia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Greco Greco NPMSSP0
 Gredos Gredos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gregoria Gregoria NPFSSP0 # avl
 Gregorio Gregorio NPMSSP0 # avl
@@ -3882,6 +3884,7 @@ Hartford Hartford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harvard Harvard NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harvey Harvey NPCNSP0
 Hasán Hasán NPMSSP0 # avl
+Hasél Hasél NPCNSP0
 Hathor Hathor NPCNSP0 # wiki
 Hattiesburg Hattiesburg NPCSG00
 Hawking Hawking NPCNSP0
@@ -6504,6 +6507,7 @@ Rafelbuñol Rafelbuñol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelcofer Rafelcofer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelguaraf Rafelguaraf NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ragalna Ragalna NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rahola Rahola NPCNSP0
 Raimunda Raimunda NPFSSP0 # avl
 Raimundo Raimundo NPMSSP0 # avl
 Rainhill Rainhill NPCNG00
@@ -7471,6 +7475,7 @@ Tito Tito NPMSSP0 # avl
 Tiurana Tiurana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivenys Tivenys NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivissa Tivissa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tiziano Tiziano NPMSSP0
 Tlaxcala Tlaxcala NPCSG00
 Tláhuac Tláhuac NPCSG00
 Tobarra Tobarra NPCNG00 # topònim-apertium-falta-gènere-nombre
