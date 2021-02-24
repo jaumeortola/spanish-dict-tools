@@ -11390,6 +11390,7 @@ gramofónico gramofónica=categories: A;fonts: dr;
 gramomolecular=categories: A;fonts: LT;
 gramoso gramosa=categories: A;fonts: LT;
 grampositivo grampositiva=categories: A;fonts: dr;
+gramsciano gramsciana=categories: A;fonts: derivat;
 gramático gramática=categories: A;fonts: LT;
 gramíneo gramínea=categories: A;fonts: LT;
 gran=categories: AS;fonts: LT;

@@ -15566,6 +15566,7 @@ cognomen=categories: MI;fonts: dr;
 cognomento=categories: M;fonts: LT;
 cognoscibilidad=categories: F;fonts: LT;
 cogobernanza=categories: F;fonts: LT;
+cogobierno=categories: M;fonts: derivat;
 cogollero=categories: M;fonts: dr;
 cogollo=categories: M;fonts: LT;
 cogombrillo=categories: M;fonts: dr;
