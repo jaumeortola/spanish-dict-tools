@@ -4852,6 +4852,7 @@ Luisa Luisa NPFSSP0 # avl
 Luisiana Luisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lukashenko Lukashenko NPCNSP0
 Lukács Lukács NPCNSP0
+Lula Lula NPMSSP0
 Lulio Lulio NPMSSP0 # avl
 Lully Lully NPMSSP0
 Lumo Lumo NPCNG00 # topònim-apertium-falta-gènere-nombre

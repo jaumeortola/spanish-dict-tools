@@ -22459,6 +22459,7 @@ ebanista=categories: MF;fonts: LT;
 ebanistería=categories: F;fonts: LT;
 ebenácea=categories: F;fonts: LT;
 ebionita=categories: MF;fonts: LT;
+ebitda=categories: M;fonts: sigla;
 ebonita=categories: F;fonts: LT;
 ebook=categories: M;fonts: english;
 eborario eboraria=categories: MF;fonts: LT;
