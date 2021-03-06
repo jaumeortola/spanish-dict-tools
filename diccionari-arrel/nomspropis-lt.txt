@@ -3738,6 +3738,7 @@ Grammy Grammy NPCNO00
 Granada Granada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granadinas Granadinas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granados Granados NPCNSP0 # wiki
+Grande-Marlaska Grande-Marlaska NPCNSP0
 Granera Granera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granollers Granollers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grant Grant NPCNSP0 # wiki
@@ -3749,6 +3750,7 @@ Grau Grau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grecia Grecia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Greco Greco NPMSSP0
 Gredos Gredos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Greenwich Greenwich NPCSG00
 Gregoria Gregoria NPFSSP0 # avl
 Gregorio Gregorio NPMSSP0 # avl
 Grenoble Grenoble NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3877,6 +3879,7 @@ Harley Harley NPCNO00
 Harley-Davidson Harley-Davidson NPCNO00
 Haro Haro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harold Harold NPCNSP0 # wiki
+Harper Harper NPCNSP0
 Harris Harris NPCNSP0 # wiki
 Harrison Harrison NPCNSP0 # wiki
 Harry Harry NPCNSP0 # wiki
@@ -5589,6 +5592,7 @@ Narbona Narbona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Narcisa Narcisa NPFSSP0 # avl
 Narciso Narciso NPMSSP0 # avl
 Nariño Nariño NPCSG00
+Narnia Narnia NPFSG00
 Narváez Narváez NPCNSP0
 Nashville Nashville NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nasáu Nasáu NPCNG00 # topònim-apertium-falta-gènere-nombre
