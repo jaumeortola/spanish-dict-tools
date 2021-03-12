@@ -11504,6 +11504,7 @@ capó [pl. capós]=categories: M;fonts: LT;
 capón=categories: M;fonts: LT;
 caquexia=categories: F;fonts: LT;
 caqui=categories: M;fonts: LT;
+caquita=categories: F;fonts: diminutiu;
 car=categories: M;fonts: LT;
 cara=categories: F;fonts: LT;
 caraba=categories: F;fonts: LT;

@@ -7201,6 +7201,7 @@ Stallman Stallman NPCNSP0
 Stamford Stamford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stanford Stanford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stanley Stanley NPCNSP0 # wiki
+StarCraft StarCraft NPMNO00
 Stavanger Stavanger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stefanaconi Stefanaconi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stendhal Stendhal NPMSSP0
@@ -7345,6 +7346,7 @@ Tasia Tasia NPFSSP0 # avl
 Tasio Tasio NPMSSP0 # avl
 Tasmania Tasmania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tatiana Tatiana NPFSSP0 # avl
+Tatoeba Tatoeba NPCNO00
 Tatoeba Tatoeba NPCNO00 # wiki
 Tatras Tatras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taurianova Taurianova NPCNG00 # topònim-apertium-falta-gènere-nombre
