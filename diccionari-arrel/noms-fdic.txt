@@ -26996,6 +26996,7 @@ faramallero faramallera=categories: MF;fonts: LT;
 faramallón faramallona=categories: MF;fonts: LT;
 farandola=categories: F;fonts: dr;
 farandulero farandulera=categories: MF;fonts: LT;
+farandulización=categories: F;fonts: derivat;
 faranga=categories: F;fonts: dr;
 faraute=categories: MF;fonts: LT;
 faraón faraona=categories: MF;fonts: LT;

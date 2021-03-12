@@ -2834,6 +2834,7 @@ Elba Elba NPFSSP0 # avl
 Elba Elba NPMSG00
 Elche Elche NPCNG00 # topònim-apertium-falta-gènere-nombre
 Elda Elda NPCNG00 # topònim-apertium-falta-gènere-nombre
+Elea Elea NPFSG00
 Eleazar Eleazar NPCSSP0 # avl
 Electra Electra NPFSSP0 # avl
 Elena Elena NPFSSP0 # avl
