@@ -9820,6 +9820,7 @@ expedito expedita=categories: A;fonts: LT;
 expeditor expeditora=categories: A;fonts: LT;
 expendedor expendedora=categories: A;fonts: LT;
 experiencial=categories: A;fonts: dr;
+experimentable=categories: A;fonts: derivat;
 experimentador experimentadora=categories: A;fonts: LT;
 experimental=categories: A;fonts: LT;
 experimentalista=categories: A;fonts: dr;
