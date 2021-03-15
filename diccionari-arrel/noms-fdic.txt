@@ -55363,6 +55363,7 @@ sietenrama=categories: M;fonts: LT;
 sietepellejos=categories: MI;fonts: dr;
 sietillo sietilla=categories: MF;fonts: dr;
 sievert=categories: M;fonts: dr;
+siévert=categories: M;fonts: fundeu;
 sifilazo=categories: M;fonts: dr;
 sifilicomio=categories: M;fonts: dr;
 sifilografía=categories: F;fonts: LT;
