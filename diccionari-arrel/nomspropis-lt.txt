@@ -1311,6 +1311,7 @@ Beltrán Beltrán NPMSSP0 # avl
 Belém Belém NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belén Belén NPCNG00 # topònim-apertium
 Belén Belén NPFSSP0 # avl
+Ben-Gurión Ben-Gurión NPCNSP0
 Benabarre Benabarre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benafer Benafer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benafigos Benafigos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5657,6 +5658,7 @@ Nereo Nereo NPMSSP0 # avl
 Neruda Neruda NPCNSP0 # wiki
 Nerón Nerón NPMSSP0 # avl
 Nestoria Nestoria NPFSSP0 # avl
+Netanyahu Netanyahu NPCNSP0
 Neumann Neumann NPCNSP0 # wiki
 Neuquén Neuquén NPCSG00
 Nevaldo Nevaldo NPMSSP0 # avl
