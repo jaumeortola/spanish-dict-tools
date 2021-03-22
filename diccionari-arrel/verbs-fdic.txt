@@ -12,7 +12,6 @@
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
-#farandulizar=categories: V;model:abalanzar;fonts: LT; NOU!!
 #fruir=categories: V;model:fluir;fonts: LT;
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!
 #grafiar=categories: V;model:enviar;fonts: ap;
@@ -4820,6 +4819,7 @@ fanfarronear=categories: V;model:amar;fonts: LT;
 fantasear=categories: V;model:amar;fonts: LT;
 faramallear=categories: V;model:amar;fonts: LT;
 farandulear=categories: V;model:amar;fonts: LT;
+farandulizar=categories: V;model:abalanzar;fonts: LT;
 fardar=categories: V;model:amar;fonts: LT;
 farfullar=categories: V;model:amar;fonts: LT;
 farolear=categories: V;model:amar;fonts: LT;
