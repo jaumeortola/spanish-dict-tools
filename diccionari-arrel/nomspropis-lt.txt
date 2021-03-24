@@ -5092,6 +5092,7 @@ Mariola Mariola NPFSSP0 # avl
 Mariona Mariona NPFSSP0 # avl
 Marisa Marisa NPFSSP0 # avl
 Marisol Marisol NPFSSP0 # avl
+Maritza Maritza NPFSSP0
 Marivent Marivent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marián Marián NPFSSP0 # avl
 Mariño Mariño NPCNSP0
