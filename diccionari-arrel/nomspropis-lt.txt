@@ -6044,6 +6044,8 @@ Papasidero Papasidero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Papeete Papeete NPCNG00 # topònim-apertium-falta-gènere-nombre
 Papúa Papúa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paquetexpress Paquetexpress NPCNO00
+Paquita Paquita NPFSSP0
+Paquito Paquito NPMSSP0
 Paracelso Paracelso NPMSSP0 # avl
 Paracleto Paracleto NPMSSP0 # avl
 Paracuellos Paracuellos NPCSG00
@@ -7663,6 +7665,7 @@ UDEF UDEF NPFSO00
 UE UE NPCNG00 # topònim-apertium-falta-gènere-nombre
 UEFA UEFA NPFSO00 # wiki
 UNAM UNAM NPFSO00
+UNED UNED NPFSO00
 UNESCO UNESCO NPFSO00 # wiki
 UNIX UNIX NPCNO00 # wiki
 UOC UOC NPFSO00
