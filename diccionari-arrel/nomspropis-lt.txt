@@ -1739,6 +1739,7 @@ Börngen Börngen NPCNSP0
 Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
 CAM CAM NPFSO00
 CAS CAS NPCNO00
+CBC CBC NPCNO00
 CDC CDC NPCNO00
 CDE CDE NPCNO00
 CDMX CDMX NPFSG00
@@ -1746,6 +1747,7 @@ CEOE CEOE NPFSO00
 CES CES NPCNO00
 CEST CEST NPCNO00 # wiki
 CFE CFE NPFSO00
+CFK CFK NPFSSP0 #Cristina Fernández de Kirchner
 CGPJ CGPJ NPMSO00
 CIA CIA NPFSO00 # wiki
 CIS CIS NPMSO00
@@ -4107,6 +4109,8 @@ IBM IBM NPCNO00 # wiki
 ICANN ICANN NPFSO00
 ICO ICO NPMSO00
 IEEE IEEE NPMSO00
+IESS IESS NPMSO00
+IFS IFS NPCNO00
 IGSS IGSS NPMSO00
 IMSS IMSS NPMSO00
 INE INE NPMSO00
@@ -6912,6 +6916,7 @@ Sam Sam NPCNSP0
 Samalús Samalús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Samaniego Samaniego NPCNSP0
 Samanta Samanta NPFSSP0 # avl
+Samantha Samantha NPFSSP0
 Samaria Samaria NPFSG00
 Sami Sami NPCNSP0 # wiki
 Samo Samo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7389,7 +7394,7 @@ Taís Taís NPFSSP0 # avl
 Taús Taús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tbilisi Tbilisi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tchad Tchad NPCNG00 # topònim-apertium-falta-gènere-nombre
-Teams Teams NPCNSP0
+Teams Teams NPCNO00
 Teaneck Teaneck NPCSG00
 Tebas Tebas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tecla Tecla NPFSSP0 # avl
