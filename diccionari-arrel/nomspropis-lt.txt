@@ -7187,7 +7187,7 @@ Solivella Solivella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sollana Sollana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Solsona Solsona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Solsonès Solsonès NPCNG00 # topònim-apertium-falta-gènere-nombre
-Solí Solís NPCNSP0
+Solís Solís NPCNSP0
 Solórzano Solórzano NPCSG00
 Somalia Somalia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Somerville Somerville NPCSG00
