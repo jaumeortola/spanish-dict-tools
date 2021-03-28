@@ -459,6 +459,7 @@
 #step [pl. steps]=categories: M;fonts: LT;
 #stick [pl. sticks]=categories: M;fonts: LT;
 #suirirí=categories: M;fonts: dr;
+#supe=categories: M;fonts: LT; error?
 #supersport=categories: MI;fonts: LT;
 #t=categories: FS;fonts: LT;
 #tabula gratulatoria=categories: F;fonts: dr;
@@ -56977,7 +56978,6 @@ sunní [pl. sunníes o sunnís]=categories: MF;fonts: LT;
 suntuosidad=categories: F;fonts: LT;
 sunzapote=categories: M;fonts: dr;
 suní [pl. suníes o sunís]=categories: MF;fonts: LT;
-supe=categories: M;fonts: LT;
 supeditación=categories: F;fonts: LT;
 supedáneo=categories: M;fonts: LT;
 superabundancia=categories: F;fonts: LT;
