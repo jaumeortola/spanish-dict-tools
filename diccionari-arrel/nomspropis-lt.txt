@@ -258,6 +258,7 @@ Ademús Ademús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Adeodata Adeodata NPFSSP0 # avl
 Adeodato Adeodato NPMSSP0 # avl
 Adhanom Adhanom NPCNSP0
+Adif Adif NPCNO00
 Adiguesia Adiguesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Adina Adina NPFSSP0 # avl
 Adino Adino NPMSSP0 # avl

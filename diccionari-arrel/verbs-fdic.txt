@@ -17,6 +17,7 @@
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
 #implotar=categories: V;model:amar;fonts: ap;
+#laboralizar=categories: V;model:abalanzar;fonts: fundeu; NOU!
 #litar=categories: V;model:amar;fonts: LT; #eliminar
 #luir=categories: V;model:fluir;fonts: LT;
 #malcreer=categories: V;model:leer;fonts: ap;
