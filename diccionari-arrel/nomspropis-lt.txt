@@ -1092,6 +1092,7 @@ BCE BCE NPMSO00
 BCN BCN NPCNG00 # topònim-apertium-falta-gènere-nombre
 BCN BCN NPCSG00
 BEI BEI NPMSO00
+BID BID NPMSO00
 BMW BMW NPCNO00 # wiki
 BNG BNG NPMSO00
 BOE BOE NPMNO00
@@ -5760,6 +5761,7 @@ Norte Norte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Norteamérica Norteamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 North North NPCNSP0 # wiki
 Noruega Noruega NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nostradamus Nostradamus NPMSSP0
 Novak Novak NPMSSP0
 Novalis Novalis NPMSSP0
 Novata Novata NPFSSP0 # avl
@@ -5791,6 +5793,7 @@ Núremberg Núremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Núñez Núñez NPCNSP0 # wiki common surnames
 OCASA OCASA NPCNO00
 OCDE OCDE NPFSO00
+OECO OECO NPFSO00
 OIT OIT NPFSO00
 OLAF OLAF NPFSO00
 OMS OMS NPFSO00 # wiki
@@ -7021,6 +7024,7 @@ Secundino Secundino NPMSSP0 # avl
 Sedaví Sedaví NPCNG00 # topònim-apertium-falta-gènere-nombre
 Segarra Segarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Segart Segart NPCNG00 # topònim-apertium-falta-gènere-nombre
+Segib Segib NPFSO00
 Segismunda Segismunda NPFSSP0 # avl
 Segismundo Segismundo NPMSSP0 # avl
 Segorbe Segorbe NPCNG00 # topònim-apertium-falta-gènere-nombre
