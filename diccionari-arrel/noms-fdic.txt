@@ -62310,6 +62310,7 @@ vertido=categories: M;fonts: LT;
 vertiente=categories: MF;fonts: LT;
 vertiginosidad=categories: F;fonts: LT;
 vertimiento=categories: M;fonts: LT;
+vertipuerto=categories: M;fonts: fundeu;
 vertisol=categories: M;fonts: LT;
 vertisuelo=categories: M;fonts: LT;
 verónica=categories: F;fonts: LT;
