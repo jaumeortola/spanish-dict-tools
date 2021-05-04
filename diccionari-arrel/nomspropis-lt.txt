@@ -4517,6 +4517,8 @@ Klee Klee NPCNSP0
 Knéset Knéset NPFSO00
 Kobo Kobo NPCNO00
 Kodak Kodak NPCNO00
+Koeman Koeman NPCNSP0
+Komodo Komodo NPMSG00
 Konrad Konrad NPCNSP0
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kremlin Kremlin NPCNG00 # topònim-apertium-falta-gènere-nombreKremlin Kremlin NPMSG00
@@ -8335,4 +8337,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Koeman Koeman NPCNSP0
