@@ -12,6 +12,7 @@
 #ciprio cipria=categories: A;fonts: LT, desus;
 #contra=categories: AI;fonts: LT;
 #cri=categories: A;fonts: LT;
+marítimo-terrestre=categories: A;fonts: dr;
 #cuadrupedal=categories: A;fonts: LT, desus;
 #denario denaria=categories: A;fonts: LT, desus;
 #despendedor despendedora=categories: A;fonts: LT, desus;
