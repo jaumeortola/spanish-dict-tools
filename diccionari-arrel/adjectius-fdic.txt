@@ -12,7 +12,6 @@
 #ciprio cipria=categories: A;fonts: LT, desus;
 #contra=categories: AI;fonts: LT;
 #cri=categories: A;fonts: LT;
-marítimo-terrestre=categories: A;fonts: dr;
 #cuadrupedal=categories: A;fonts: LT, desus;
 #denario denaria=categories: A;fonts: LT, desus;
 #despendedor despendedora=categories: A;fonts: LT, desus;
@@ -15516,6 +15515,7 @@ marxista=categories: A;fonts: LT;
 marxistaleninista=categories: A;fonts: LT;
 marzal=categories: A;fonts: LT;
 marítimo marítima=categories: A;fonts: LT;
+marítimo-terrestre=categories: A;fonts: dr;
 masageta=categories: A;fonts: dr;
 masamuda=categories: A;fonts: dr;
 masatepino masatepina=categories: A;fonts: dr;
