@@ -1786,6 +1786,7 @@ antihistamínico antihistamínica=categories: A;fonts: LT;
 antihistérico antihistérica=categories: A;fonts: dr;
 antihiático antihiática=categories: A;fonts: LT;
 antihorario antihoraria=categories: A;fonts: dr;
+antihumanista=categories: A;fonts: derivat;
 antihumano antihumana=categories: A;fonts: LT;
 antiimperialista=categories: A;fonts: dr;
 antiincendios=categories: A;fonts: dr;
