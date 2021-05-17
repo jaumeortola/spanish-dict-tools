@@ -94,6 +94,7 @@
 #Mercedes Mercedes NPFSSP0 # avl
 #Mississippi Mississippi NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mississippí Mississippí NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Moldova Moldova NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Munich Munich NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Méjico Méjico NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Naplusa Naplusa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3151,6 +3152,7 @@ Eurosia Eurosia NPFSSP0 # avl
 Eurosio Eurosio NPMSSP0 # avl
 Eurostar Eurostar NPMSO00
 Eurostat Eurostat NPCSO00
+Eurovisión Eurovisión NPFSO00
 Eurídice Eurídice NPFSSP0 # avl
 Eurípides Eurípides NPMSSP0 # avl
 Eusebia Eusebia NPFSSP0 # avl
@@ -5410,7 +5412,6 @@ Moixent Moixent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moià Moià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moldava Moldava NPCSG00
 Moldavia Moldavia NPCNG00 # topònim-apertium-falta-gènere-nombre
-Moldova Moldova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moleskine Moleskine NPCNO00
 Molina Molina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Molina Molina NPCNSP0 # wiki common surnames
@@ -7704,6 +7705,7 @@ UD UD NPCNO00
 UDEF UDEF NPFSO00
 UE UE NPCNG00 # topònim-apertium-falta-gènere-nombre
 UEFA UEFA NPFSO00 # wiki
+UER UER NPFSO00
 UNAM UNAM NPFSO00
 UNED UNED NPFSO00
 UNESCO UNESCO NPFSO00 # wiki
