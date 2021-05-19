@@ -15535,6 +15535,7 @@ coeternidad=categories: F;fonts: LT;
 coetáneo coetánea=categories: MF;fonts: LT;
 coevaluación=categories: F;fonts: derivat;
 coexistencia=categories: F;fonts: LT;
+coexpositor coexpositora=categories: MF;fonts: LT;
 coextensión=categories: F;fonts: LT;
 coextrusión=categories: F;fonts: LT;
 cofa=categories: F;fonts: LT;

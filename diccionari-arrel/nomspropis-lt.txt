@@ -2209,6 +2209,7 @@ Ciempozuelos Ciempozuelos NPCSG00
 Cienfuegos Cienfuegos NPCNG00
 Cieza Cieza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cifuentes Cifuentes NPCNSP0
+Cimet Cimet NPFSO00
 Cinca Cinca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cincinnati Cincinnati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cinctorres Cinctorres NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3326,6 +3327,7 @@ Firefox Firefox NPCNO00
 Fischer Fischer NPCNSP0
 Fischer Fischer NPCNSP0 # wiki
 Fisher Fisher NPCNSP0
+Fitur Fitur NPCSO00
 Fitzgerald Fitzgerald NPCNSP0
 Fiumefreddo Fiumefreddo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiyi Fiyi NPCNG00 # topònim-apertium-falta-gènere-nombre
