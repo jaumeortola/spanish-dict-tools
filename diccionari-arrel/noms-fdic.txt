@@ -58086,6 +58086,7 @@ tecnociencia=categories: F;fonts: LT;
 tecnocracia=categories: F;fonts: LT;
 tecnoestructura=categories: F;fonts: LT;
 tecnoestrés=categories: MS;fonts: fundeu;
+tecnofinanzas=categories: FP;fonts: derivat;
 tecnografía=categories: F;fonts: dr;
 tecnologización=categories: F;fonts: dr;
 tecnología=categories: F;fonts: LT;
