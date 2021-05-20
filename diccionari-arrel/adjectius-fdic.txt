@@ -18,6 +18,9 @@
 #despeñadero despeñadera=categories: A;fonts: LT, desus;
 #destruidor destruidora=categories: A;fonts: LT, desus;
 #diluente=categories: A;fonts: LT;
+gazatí [pl. gazatíes o gazatís]=categories: A;fonts: fundeu;
+telaviví [pl. telavivíes o telavivís]=categories: A;fonts: fundeu;
+telavivense=categories: A;fonts: fundeu;
 #elegio elegia=categories: A;fonts: dr;
 #estacionero estacionera=categories: A;fonts: LT, desus;
 #estrógeno estrógena=categories: A;fonts: LT; inusual
@@ -14078,6 +14081,7 @@ isquiático isquiática=categories: A;fonts: LT;
 isquémico isquémica=categories: A;fonts: LT;
 israelita=categories: A;fonts: LT;
 israelí [pl. israelíes o israelís]=categories: A;fonts: LT;
+palestino-israelí [pl. palestino-israelíes o palestino-israelís]=categories: A;fonts: LT;
 israelítico israelítica=categories: A;fonts: LT;
 istmeño istmeña=categories: A;fonts: LT;
 istulte=categories: A;fonts: dr;

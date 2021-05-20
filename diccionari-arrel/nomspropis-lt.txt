@@ -3724,6 +3724,7 @@ Godofredo Godofredo NPMSSP0 # avl
 Godoy Godoy NPCNSP0
 Godoy Godoy NPCNSP0 # wiki common surnames
 Gogh Gogh NPCNSP0 # wiki
+Golán Golán NPMSG00
 Golgi Golgi NPCNSP0
 Goliat Goliat NPMSSP0 # avl
 Golmés Golmés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4325,7 +4326,7 @@ Jenaro Jenaro NPMSSP0 # avl
 Jennifer Jennifer NPFSSP0
 Jenny Jenny NPFSSP0
 Jenofonte Jenofonte NPMSSP0 # avl
-Jenín Jenín NPCNG00 # topònim-apertium-falta-gènere-nombre
+Yenín Yenín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jenófanes Jenófanes NPMSSP0 # avl
 Jeraco Jeraco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jeremy Jeremy NPCNSP0
@@ -5603,7 +5604,7 @@ N'Djanema N'Djanema NPCNG00 # topònim-apertium-falta-gènere-nombre
 NAFTA NAFTA NPMSO00
 NBA NBA NPFSO00
 Naamán Naamán NPMSSP0 # avl
-Nablús Nablús NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nablus Nablus NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nabucodonosor Nabucodonosor NPMSSP0 # avl
 Nacha Nacha NPFSSP0 # avl
 Nacho Nacho NPMSSP0 # avl
@@ -6567,7 +6568,9 @@ Rajoy Rajoy NPCNSP0
 Rakuten Rakuten NPCNO00
 Raleigh Raleigh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ramacca Ramacca NPCNG00 # topònim-apertium-falta-gènere-nombre
-Ramala Ramala NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ramala Ramala NPFSG00 # topònim-apertium
+Ramálah Ramálah NPFSG00
+Ráfah Ráfah NPCSG00
 Ramira Ramira NPFSSP0 # avl
 Ramiro Ramiro NPMSSP0 # avl
 Ramona Ramona NPFSSP0 # avl
