@@ -3724,10 +3724,10 @@ Godofredo Godofredo NPMSSP0 # avl
 Godoy Godoy NPCNSP0
 Godoy Godoy NPCNSP0 # wiki common surnames
 Gogh Gogh NPCNSP0 # wiki
-Golán Golán NPMSG00
 Golgi Golgi NPCNSP0
 Goliat Goliat NPMSSP0 # avl
 Golmés Golmés NPCNG00 # topònim-apertium-falta-gènere-nombre
+Golán Golán NPMSG00
 Gombaldo Gombaldo NPMSSP0 # avl
 Gombardo Gombardo NPMSSP0 # avl
 Gombrèn Gombrèn NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4326,7 +4326,6 @@ Jenaro Jenaro NPMSSP0 # avl
 Jennifer Jennifer NPFSSP0
 Jenny Jenny NPFSSP0
 Jenofonte Jenofonte NPMSSP0 # avl
-Yenín Yenín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jenófanes Jenófanes NPMSSP0 # avl
 Jeraco Jeraco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jeremy Jeremy NPCNSP0
@@ -6569,13 +6568,12 @@ Rakuten Rakuten NPCNO00
 Raleigh Raleigh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ramacca Ramacca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ramala Ramala NPFSG00 # topònim-apertium
-Ramálah Ramálah NPFSG00
-Ráfah Ráfah NPCSG00
 Ramira Ramira NPFSSP0 # avl
 Ramiro Ramiro NPMSSP0 # avl
 Ramona Ramona NPFSSP0 # avl
 Ramos Ramos NPCNSP0 # wiki common surnames
 Ramsés Ramsés NPMSSP0 # avl
+Ramálah Ramálah NPFSG00
 Ramírez Ramírez NPCNSP0 # wiki common surnames
 Ramón Ramón NPMSSP0 # avl
 Rancagua Rancagua NPCSG00
@@ -6835,6 +6833,7 @@ Rutilia Rutilia NPFSSP0 # avl
 Rutilio Rutilio NPMSSP0 # avl
 Ruán Ruán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ryanair Ryanair NPCNO00
+Ráfah Ráfah NPCSG00
 Régula Régula NPFSSP0 # avl
 Régulo Régulo NPMSSP0 # avl
 Rémulo Rémulo NPMSSP0 # avl
