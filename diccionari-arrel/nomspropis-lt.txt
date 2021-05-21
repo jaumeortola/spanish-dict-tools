@@ -1114,6 +1114,7 @@ Baell Baell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baena Baena NPCSG00
 Baetano Baetano NPMSSP0 # avl
 Baeza Baeza NPCSG00
+Bafta Bafta NPMNO00
 Bagdad Bagdad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bagergue Bagergue NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bages Bages NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3504,6 +3505,7 @@ Gabriel Gabriel NPMSSP0 # avl
 Gabriela Gabriela NPFSSP0 # avl
 Gabón Gabón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gad Gad NPMSSP0 # avl
+Gadafi Gadafi NPMSSP0
 Gaia Gaia NPFSG00
 Gaianes Gaianes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gaibiel Gaibiel NPCNG00 # topònim-apertium-falta-gènere-nombre
