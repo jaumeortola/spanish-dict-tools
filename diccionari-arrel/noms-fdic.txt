@@ -19048,6 +19048,7 @@ cámbaro=categories: M;fonts: dr;
 cámbium [pl. cámbiumes o cámbiums]=categories: M;fonts: LT;
 cámbrico=categories: M;fonts: LT;
 cámino=categories: M;fonts: dr;
+cámper=categories: MF;fonts: fundeu;
 cáncamo=categories: M;fonts: LT;
 cáncana=categories: F;fonts: LT;
 cáncano=categories: M;fonts: LT;
