@@ -4926,6 +4926,7 @@ Lía Lía NPFSSP0 # avl
 Líbano Líbano NPCNG00 # topònim-apertium-falta-gènere-nombre
 López López NPCNSP0 # wiki common surnames
 Lübeck Lübeck NPCNG00 # topònim-apertium-falta-gènere-nombre
+MIES MIES NPMSO00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mabel Mabel NPFSSP0 # avl
 Mac Mac NPCNO00 # wiki
@@ -8345,4 +8346,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-MIES MIES NPMSO00
