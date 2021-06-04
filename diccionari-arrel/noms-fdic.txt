@@ -13800,6 +13800,7 @@ cherne=categories: M;fonts: dr;
 chernocién=categories: M;fonts: LT;
 chero chera=categories: MF;fonts: dr;
 cheroqui=categories: MF;fonts: LT;
+cherri=categories: MF;fonts: fundeu;
 cherva=categories: F;fonts: dr;
 cheviot [pl. cheviots]=categories: M;fonts: LT;
 chevió=categories: M;fonts: dr;
