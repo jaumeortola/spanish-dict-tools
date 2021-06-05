@@ -4929,6 +4929,7 @@ Líbano Líbano NPCNG00 # topònim-apertium-falta-gènere-nombre
 López López NPCNSP0 # wiki common surnames
 Lübeck Lübeck NPCNG00 # topònim-apertium-falta-gènere-nombre
 MIES MIES NPMSO00
+MIR MIR NPCNO00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mabel Mabel NPFSSP0 # avl
 Mac Mac NPCNO00 # wiki
@@ -5371,6 +5372,7 @@ Minnesota Minnesota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsk Minsk NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsky Minsky NPCNSP0
 Miqueas Miqueas NPMSSP0 # avl
+Mir Mir NPCNO00
 Mira Mira NPFSSP0 # avl
 Mira-rosa Mira-rosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mirabella Mirabella NPCNG00 # topònim-apertium-falta-gènere-nombre
