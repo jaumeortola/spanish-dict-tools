@@ -2165,6 +2165,7 @@ Chequia Chequia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chera Chera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cherburgo Cherburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chernóbil Chernóbil NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cherry Cherry NPCNSP0
 Chert Chert NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cherubini Cherubini NPCNSP0 # wiki
 Cheshire Cheshire NPCSG00
@@ -3286,6 +3287,7 @@ Ferrero Ferrero NPMSSP0 # avl
 Ferreyra Ferreyra NPCNSP0 # wiki common surnames
 Ferrol Ferrol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ferruzzano Ferruzzano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ferry Ferry NPCNSP0
 Fez Fez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fidel Fidel NPMSSP0 # avl
 Fidela Fidela NPFSSP0 # avl
