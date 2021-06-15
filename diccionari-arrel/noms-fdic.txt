@@ -37,6 +37,7 @@
 #arrompido=categories: M;fonts: LT;
 #arruí [pl. arruís o arruíes]=categories: M;fonts: dr;
 #arto=categories: M;fonts: dr;
+#auto-regulación=categories: F;fonts: LT;
 #autoregulación=categories: F;fonts: LT;
 #azut=categories: M;fonts: dr;
 #badminton [pl. badmintones o badmintons]=categories: M;fonts: LT;
@@ -6515,7 +6516,6 @@ autentificación=categories: F;fonts: LT;
 autillo=categories: M;fonts: LT;
 autismo=categories: M;fonts: LT;
 autista=categories: MF;fonts: LT;
-auto-regulación=categories: F;fonts: LT;
 auto=categories: M;fonts: LT;
 autoabastecimiento=categories: M;fonts: LT;
 autoacusación=categories: F;fonts: LT;
