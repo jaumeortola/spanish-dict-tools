@@ -6560,6 +6560,7 @@ autochequeo=categories: M;fonts: derivat;
 autochoque=categories: M;fonts: LT;
 autocierre=categories: M;fonts: derivat;
 autocine=categories: M;fonts: LT;
+autocita=categories: F;fonts: derivat;
 autocitólisis=categories: FI;fonts: LT;
 autoclave=categories: MF;fonts: LT;
 autocombustión=categories: F;fonts: LT;
