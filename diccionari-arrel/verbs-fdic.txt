@@ -17,7 +17,6 @@
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
 #implotar=categories: V;model:amar;fonts: ap;
-#laboralizar=categories: V;model:abalanzar;fonts: fundeu; NOU!
 #litar=categories: V;model:amar;fonts: LT; #eliminar
 #luir=categories: V;model:fluir;fonts: LT;
 #malcreer=categories: V;model:leer;fonts: ap;
@@ -5554,6 +5553,7 @@ justipreciar=categories: V;model:amar;fonts: LT;
 juzgar=categories: V;model:cargar;fonts: LT;
 kilometrar=categories: V;model:amar;fonts: LT;
 labializar=categories: V;model:abalanzar;fonts: LT;
+laboralizar=categories: V;model:abalanzar;fonts: fundeu;
 laborar=categories: V;model:amar;fonts: LT;
 laborear=categories: V;model:amar;fonts: LT;
 labrar=categories: V;model:amar;fonts: LT;
