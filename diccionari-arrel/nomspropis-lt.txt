@@ -4433,6 +4433,7 @@ Juncosa Juncosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 June June NPFSSP0 # avl
 Juneau Juneau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Juneda Juneda NPCNG00 # topònim-apertium-falta-gènere-nombre
+Juneteenth Juneteenth NPMSO00
 Juno Juno NPFSSP0 # avl
 Junípero Junípero NPMSSP0 # avl
 Jura Jura NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5408,6 +5409,7 @@ Misterio Misterio NPCSSP0 # avl
 Misuri Misuri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mitríades Mitríades NPMSSP0 # avl
 Mitterrand Mitterrand NPCNSP0
+MoMA MoMA NPMSO00
 Moctezuma Moctezuma NPCNSP0
 Modesta Modesta NPFSSP0 # avl
 Modesto Modesto NPMSSP0 # avl
