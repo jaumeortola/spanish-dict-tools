@@ -6577,6 +6577,8 @@ Rakuten Rakuten NPCNO00
 Raleigh Raleigh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ramacca Ramacca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ramala Ramala NPFSG00 # topònim-apertium
+Rambo Rambo NPMSSP0
+Rambos Rambo NPMPSP0
 Ramira Ramira NPFSSP0 # avl
 Ramiro Ramiro NPMSSP0 # avl
 Ramona Ramona NPFSSP0 # avl
