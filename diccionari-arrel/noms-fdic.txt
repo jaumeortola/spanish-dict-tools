@@ -53436,6 +53436,7 @@ rotífero=categories: M;fonts: LT;
 rouge=categories: M;fonts: dr;
 roulotte=categories: F;fonts: LT;
 round=categories: MI;fonts: LT;
+router [pl. routers]=categories: M;fonts: english;
 routing=categories: MI;fonts: LT;
 rovellón=categories: M;fonts: LT;
 roya=categories: F;fonts: LT;
