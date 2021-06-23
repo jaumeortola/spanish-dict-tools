@@ -17332,6 +17332,7 @@ obligatorio obligatoria=categories: A;fonts: LT;
 obliterador obliteradora=categories: A;fonts: dr;
 obliterativo obliterativa=categories: A;fonts: LT;
 oblongo oblonga=categories: A;fonts: LT;
+obrante=categories: A;fonts: derivat;
 obrepticio obrepticia=categories: A;fonts: LT;
 obrerista=categories: A;fonts: LT;
 obrero obrera=categories: A;fonts: LT;

@@ -2139,6 +2139,7 @@ Cesáreo Cesáreo NPMSSP0 # avl
 Cetraro Cetraro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ceuta Ceuta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ceutí Ceutí NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chabás Chabás NPCNSP0
 Chad Chad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chaikovski Chaikovski NPCNSP0 # wiki
 Chamartín Chamartín NPCNG00 # topònim-apertium-falta-gènere-nombre
