@@ -1,3 +1,4 @@
+
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -834,10 +835,12 @@ Arantxa Arantxa NPFSSP0 # avl
 Aranyuel Aranyuel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aras Aras NPCNG00
 Arauco Arauco NPCSG00
+Araujo Araujo NPCNSP0
 Aravell Aravell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aravena Aravena NPCNSP0 # wiki common surnames
 Araya Araya NPCNSP0 # wiki common surnames
 Arañuel Arañuel NPCNG00 # topònim-apertium-falta-gènere-nombre
+Araújo Araújo NPCNSP0
 Arbeca Arbeca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arbolí Arbolí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arboç Arboç NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1075,6 +1078,7 @@ Ayora Ayora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ayrton Ayrton NPMSSP0
 Ayuso Ayuso NPCNSP0
 Ayódar Ayódar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Azael Azael NPMSSP0
 Azarías Azarías NPMSSP0 # avl
 Azaña Azaña NPCNSP0 # wiki
 Azcapotzalco Azcapotzalco NPCSG00
@@ -2655,6 +2659,7 @@ Demóstenes Demóstenes NPMSSP0 # avl
 Denia Denia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Denis Denis NPMSSP0 # avl
 Denisa Denisa NPFSSP0 # avl
+Denisse Denisse NPFSSP0
 Dennis Dennis NPCNSP0 # wiki
 Denver Denver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Denysse Denysse NPCNSP0
@@ -3566,6 +3571,7 @@ García García NPMSSP0 # avl
 Gard Gard NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gardel Gardel NPCNSP0 # wiki
 Gardenia Gardenia NPFSSP0 # avl
+Gardner Gardner NPCNSP0
 Gargallo Gargallo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Garibaldi Garibaldi NPCNSP0
 Garona Garona NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3743,6 +3749,7 @@ González González NPCNSP0 # wiki common surnames
 Goodman Goodman NPCNSP0
 Google Google NPCNO00 # wiki
 Gordiano Gordiano NPMSSP0 # avl
+Gordillo Gordillo NPCNSP0
 Gordon Gordon NPCNSP0 # wiki
 Goreti Goreti NPFSSP0 # avl
 Gorga Gorga NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5232,6 +5239,7 @@ Mbabane Mbabane NPCNG00 # topònim-apertium-falta-gènere-nombre
 McCarthy McCarthy NPCNSP0
 McCartney McCartney NPCNSP0 # wiki
 McCormick McCormick NPCNSP0
+McKay McKay NPCNSP0
 Mecenas Mecenas NPMSSP0 # avl
 Mecklemburgo Mecklemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Medan Medan NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6262,6 +6270,7 @@ Piaget Piaget NPCNSP0
 Piaggine Piaggine NPCNG00 # topònim-apertium-falta-gènere-nombre
 Piamonte Piamonte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Piane Piane NPCNG00 # topònim-apertium-falta-gènere-nombre
+Piattini Piattini NPCNSP0
 Picanya Picanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picasent Picasent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picassent Picassent NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7130,8 +7139,10 @@ Shakespeare Shakespeare NPCNSP0 # wiki
 Shakira Shakira NPFSSP0
 Shanghái Shanghái NPCNG00 # dpan
 Shanghái Shanghái NPCNSP0 # wiki
+Shannon Shannon NPCNSP0
 Sheila Sheila NPFSSP0 # avl
 Sheraton Sheraton NPCNO00
+Shirley Shirley NPFSSP0
 Siam Siam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siberia Siberia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sibila Sibila NPFSSP0 # avl
