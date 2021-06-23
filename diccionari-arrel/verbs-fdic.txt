@@ -11,6 +11,7 @@
 #desnegar=categories: V;model:negar;fonts: ap;
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
+#externar=categories: V;model:amar;fonts: LT; # NOU!! México
 #extruir=categories: V;model:construir;fonts: ap;
 #fruir=categories: V;model:fluir;fonts: LT;
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!

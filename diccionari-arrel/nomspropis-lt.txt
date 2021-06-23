@@ -4086,6 +4086,7 @@ Houston Houston NPCNG00 # topònim-apertium-falta-gènere-nombre
 Howard Howard NPCNSP0 # wiki
 Huamán Huamán NPCNSP0 # wiki common surnames
 Huancabamba Huancabamba NPCSG00
+Huancavelica Huancavelica NPFSG00
 Huancayo Huancayo NPCSG00
 Huarmaca Huarmaca NPCSG00
 Hubble Hubble NPCNO00 # wiki
@@ -4107,6 +4108,7 @@ Humbertina Humbertina NPFSSP0 # avl
 Humbertino Humbertino NPMSSP0 # avl
 Humberto Humberto NPMSSP0 # avl
 Humboldt Humboldt NPCNSP0
+Hume Hume NPCNSP0
 Humildad Humildad NPFSSP0 # avl
 Humilde Humilde NPMSSP0 # avl
 Humiliana Humiliana NPFSSP0 # avl
@@ -7142,6 +7144,7 @@ Shanghái Shanghái NPCNSP0 # wiki
 Shannon Shannon NPCNSP0
 Sheila Sheila NPFSSP0 # avl
 Sheraton Sheraton NPCNO00
+Sherlock Sherlock NPMSSP0
 Shirley Shirley NPFSSP0
 Siam Siam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siberia Siberia NPCNG00 # topònim-apertium-falta-gènere-nombre
