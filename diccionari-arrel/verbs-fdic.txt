@@ -6,6 +6,7 @@
 #arcar=categories: V;model:abarcar;fonts: ap;
 #arromper=categories: V;model:romper;fonts: LT;
 #asosegar=categories: V;model:negar;fonts: LT;
+#bicicletar=categories: V;model:amar;fonts: fundeu; NOU!!!
 #ciar=categories: V;model:piar;fonts: LT;
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
