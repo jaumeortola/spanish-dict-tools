@@ -21014,6 +21014,7 @@ repeor=categories: A;fonts: LT;
 repercusivo repercusiva=categories: A;fonts: LT;
 repercutible=categories: A;fonts: LT;
 repertorista=categories: A;fonts: LT;
+repertorista=categories: A;fonts: derivat;
 repetible=categories: A;fonts: LT;
 repetidor repetidora=categories: A;fonts: LT;
 repetitivo repetitiva=categories: A;fonts: LT;

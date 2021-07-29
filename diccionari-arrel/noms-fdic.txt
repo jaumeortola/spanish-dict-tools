@@ -52237,6 +52237,7 @@ repercusión=categories: F;fonts: LT;
 reperforación=categories: F;fonts: LT;
 reperpero=categories: M;fonts: dr;
 repertorio=categories: M;fonts: LT;
+repertorista=categories: MF;fonts: derivat;
 repertorización=categories: F;fonts: LT;
 repesca=categories: F;fonts: LT;
 repeso=categories: M;fonts: LT;
