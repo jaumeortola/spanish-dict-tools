@@ -1125,6 +1125,7 @@ Bagnara Bagnara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bagur Bagur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bagà Bagà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bahamas Bahamas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bahamonde Bahamonde NPCNSP0
 Baikiri Baikiri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bailén Bailén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bairiki Bairiki NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1703,6 +1704,7 @@ Bujumbura Bujumbura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulgaria Bulgaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bullas Bullas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulli Bulli NPMSO00
+Bundesbank Bundesbank NPMSO00
 Bundesland Bundesland NPMSO00
 Bundesliga Bundesliga NPFSO00
 Bundesrat Bundesrat NPMSO00
@@ -8369,5 +8371,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Bundesbank Bundesbank NPMSO00
-Bahamonde Bahamonde NPCNSP0
