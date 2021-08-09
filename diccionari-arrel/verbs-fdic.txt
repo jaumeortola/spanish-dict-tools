@@ -11,6 +11,8 @@
 #colidir=categories: V;model:partir;fonts: ap;
 #desnegar=categories: V;model:negar;fonts: ap;
 #dolar=categories: V;model:volar;fonts: LT; 
+#eficientar=categories: V;model:amar;fonts: dr; NOU!!
+#eficientizar=categories: V;model:abalanzar;fonts: dr; NOU!!
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #externar=categories: V;model:amar;fonts: LT; # NOU!! México
 #extruir=categories: V;model:construir;fonts: ap;
