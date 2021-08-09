@@ -238,6 +238,7 @@
 #hedentino hedentina=categories: F;fonts: dr;
 #heterocromatinosoma=categories: M;fonts: LT;
 #horror vacui=categories: M;fonts: dr;
+#interface=categories: FMS;fonts: english;
 #interposita persona=categories: F;fonts: dr;
 #intima=categories: F;fonts: LT;
 #iva=categories: M;fonts: LT;
@@ -34250,7 +34251,6 @@ interespacio=categories: M;fonts: LT;
 interesterificación=categories: F;fonts: LT;
 interestratificación=categories: F;fonts: LT;
 interetapa=categories: F;fonts: LT;
-interface=categories: MS;fonts: LT;
 interfase=categories: F;fonts: LT;
 interfaz=categories: F;fonts: LT;
 interfecto interfecta=categories: MF;fonts: LT;
