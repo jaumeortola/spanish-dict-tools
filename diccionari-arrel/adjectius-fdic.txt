@@ -2761,6 +2761,7 @@ autoconclusivo autoconclusiva=categories: A;fonts: derivat;
 autoconductor autoconductora=categories: A;fonts: LT;
 autoconsciente=categories: A;fonts: derivat;
 autocontrolado autocontrolada=categories: A;fonts: LT;
+autocorrector autocorrectora=categories: A;fonts: derivat;
 autocrático autocrática=categories: A;fonts: LT;
 autocrítico autocrítica=categories: A;fonts: dr;
 autodefensivo autodefensiva=categories: A;fonts: derivat;
