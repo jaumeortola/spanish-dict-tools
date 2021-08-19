@@ -7355,6 +7355,7 @@ Sulpicio Sulpicio NPMSSP0 # avl
 Sumacàrcer Sumacàrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Superliga Superliga NPFSO00
 Superman Superman NPMSSP0
 Sur Sur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suramérica Suramérica NPCNG00 # topònim-apertium-falta-gènere-nombre
