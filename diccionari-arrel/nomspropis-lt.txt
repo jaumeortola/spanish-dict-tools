@@ -7489,6 +7489,7 @@ Telecinco Telecinco NPFSO00
 Telegram Telegram NPCNO00
 Telesfora Telesfora NPFSSP0 # avl
 Telesforo Telesforo NPMSSP0 # avl
+Telesur Telesur NPCNO00
 Telma Telma NPFSSP0 # avl
 Telmex Telmex NPCNO00
 Telmo Telmo NPMSSP0 # avl
@@ -8414,4 +8415,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Telesur Telesur NPCNO00
