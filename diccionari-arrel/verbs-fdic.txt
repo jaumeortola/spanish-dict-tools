@@ -33,6 +33,7 @@
 #reestablecer=categories: V;model:agradecer;fonts: LT; # Error: restablecer
 #remugar=categories: V;model:cargar;fonts: ap;
 #retroferbular=categories: V;model:amar;fonts: ap;
+#tardear=categories: V;model:amar;fonts: LT; NOU!
 #triar=categories: V;model:piar;fonts: LT;
 abajar=categories: V;model:amar;fonts: LT;
 abalanzar=categories: V;model:abalanzar;fonts: LT;
