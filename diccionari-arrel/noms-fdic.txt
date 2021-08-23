@@ -44920,6 +44920,7 @@ paralelógrafo=categories: M;fonts: LT;
 paralelómetro=categories: M;fonts: LT;
 paralexia=categories: F;fonts: LT;
 paralimpiada=categories: F;fonts: dr;
+paralimpíada=categories: F;fonts: dr;
 paralipsis=categories: FI;fonts: LT;
 paralipómenos=categories: MP;fonts: dr;
 paralización=categories: F;fonts: LT;
