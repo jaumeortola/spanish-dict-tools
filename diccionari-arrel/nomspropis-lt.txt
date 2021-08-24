@@ -2643,6 +2643,7 @@ DeLorean DeLorean NPCNO00
 Deborah Deborah NPFSSP0
 Debussy Debussy NPCNSP0
 Decio Decio NPMSSP0 # avl
+Defoe Defoe NPCNSP0
 Deidamía Deidamía NPFSSP0
 Deià Deià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dekan Dekan NPCNG00 # topònim-apertium-falta-gènere-nombre
