@@ -19562,6 +19562,7 @@ postulante postulanta=categories: A;fonts: LT;
 postural=categories: A;fonts: LT;
 postverbal=categories: A;fonts: LT;
 postónico postónica=categories: A;fonts: LT;
+posvacacional=categories: A;fonts: fundeu;
 posverbal=categories: A;fonts: LT;
 potabilizador potabilizadora=categories: A;fonts: dr;
 potable=categories: A;fonts: LT;
