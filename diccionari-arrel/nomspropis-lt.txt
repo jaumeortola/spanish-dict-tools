@@ -3573,7 +3573,7 @@ Galvani Galvani NPCNSP0
 Galván Galván NPMSSP0 # avl
 Galápagos Galápagos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gamaliel Gamaliel NPMSSP0 # avl
-Gambia Gambia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gambia Gambia NPFSG00 # topònim-apertium
 Gamesa Gamesa NPCNO00
 Gamiro Gamiro NPMSSP0 # avl
 Gandesa Gandesa NPCNG00 # topònim-apertium-falta-gènere-nombre
