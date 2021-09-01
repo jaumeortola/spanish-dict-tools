@@ -292,6 +292,7 @@
 #masterclass=categories: FI;fonts: English;
 #matines=categories: MI;fonts: dr;
 #mediocampo=categories: M;fonts: LT;
+#megawatio=categories: M;fonts: LT;
 #mejicano mejicana=categories: MF;fonts: LT;
 #merey=categories: M;fonts: dr;
 #mexica=categories: MF;fonts: LT;
@@ -39177,7 +39178,6 @@ megatendencia=categories: F;fonts: derivat;
 megaterio=categories: M;fonts: LT;
 megatón=categories: M;fonts: LT;
 megavatio=categories: M;fonts: LT;
-megawatio=categories: M;fonts: LT;
 meggiorista=categories: MF;fonts: LT;
 megáfono=categories: M;fonts: LT;
 megápolis=categories: FI;fonts: dr;
