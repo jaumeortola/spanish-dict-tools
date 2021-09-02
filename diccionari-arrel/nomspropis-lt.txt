@@ -7332,6 +7332,7 @@ Stignano Stignano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stilo Stilo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stone Stone NPCNSP0 # wiki
 Stonehenge Stonehenge NPCNG00 # topònim-apertium-falta-gènere-nombre
+Strauss Strauss NPCNSP0
 Strauss-Kahn Strauss-Kahn NPCNSP0
 Stuart Stuart NPCNSP0
 Stuttgart Stuttgart NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8417,4 +8418,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Strauss Strauss NPCNSP0
