@@ -688,6 +688,7 @@ POA=categories: MI;fonts: sigla;
 PPT=categories: MFI;fonts: wiki;
 PQR=categories: FI;fonts: sigla, Colombia;
 PVC=categories: MI;fonts: dr;
+PYME=categories: FI;fonts: LT;
 Paracleto=categories: MS;fonts: dr;
 Paráclito=categories: MS;fonts: dr;
 Pentecostés=categories: MI;fonts: dr;
