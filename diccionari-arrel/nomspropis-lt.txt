@@ -3755,6 +3755,7 @@ Godofreda Godofreda NPFSSP0 # avl
 Godofredo Godofredo NPMSSP0 # avl
 Godoy Godoy NPCNSP0
 Godoy Godoy NPCNSP0 # wiki common surnames
+Goethe Goethe NPMSSP0
 Gogh Gogh NPCNSP0 # wiki
 Golgi Golgi NPCNSP0
 Goliat Goliat NPMSSP0 # avl
