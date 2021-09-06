@@ -148,7 +148,7 @@
 8TV 8TV NPCNO00
 ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
-AENA AENA NPCSO00
+AENA AENA NPFSO00
 AFIP AFIP NPFSO00
 AFP AFP NPCNO00
 AI AI NPFSO00
@@ -288,6 +288,7 @@ Adventorio Adventorio NPMSSP0 # avl
 Adzaneta Adzaneta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Adán Adán NPMSSP0 # avl
 Adén Adén NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aena Aena NPFSO00
 Aeroméxico Aeroméxico NPCSO00
 Afganistán Afganistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Afra Afra NPFSSP0 # avl
@@ -2362,8 +2363,7 @@ Comores Comores NPCNG00 # topònim-apertium-falta-gènere-nombre
 Complutense Complutense NPCNG00 # topònim-apertium-falta-gènere-nombre
 Compostela Compostela NPCSG00
 Comte Comte NPCNSP0
-Conakri Conakri NPCNG00 # topònim-apertium-falta-gènere-nombre
-Conakry Conakry NPCNG00 # topònim-apertium-falta-gènere-nombre
+Conakri Conakri NPCSG00 # topònim-apertium-falta-gènere
 Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Concepción Concepción NPFSSP0 # avl
 Concha Concha NPFSSP0 # avl
@@ -3871,6 +3871,7 @@ Guimerá Guimerá NPMSSP0 # avl
 Guinardo Guinardo NPMSSP0 # avl
 Guinea Guinea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guinea-Bisáu Guinea-Bisáu NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guinea-Conakri Guinea-Conakri NPFSG00
 Guineueta Guineueta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guiomar Guiomar NPFSSP0 # avl
 Guipúzcoa Guipúzcoa NPCNG00 # topònim-apertium-falta-gènere-nombre
