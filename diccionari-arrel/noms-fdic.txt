@@ -56068,6 +56068,7 @@ sobrevista=categories: F;fonts: LT;
 sobrevivencia=categories: F;fonts: LT;
 sobreviviente=categories: MF;fonts: LT;
 sobreático=categories: M;fonts: LT;
+sobreúso=categories: M;fonts: fundeu;
 sobriedad=categories: F;fonts: LT;
 sobrinazgo=categories: M;fonts: LT;
 sobrino sobrina=categories: MF;fonts: LT;
