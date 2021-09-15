@@ -3964,6 +3964,7 @@ Hegel Hegel NPCNSP0
 Heidegger Heidegger NPCNSP0
 Heidelberg Heidelberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Heidi Heidi NPFSSP0 # avl
+Heine Heine NPCNSP0
 Heinrich Heinrich NPCNSP0 # wiki
 Heinze Heinze NPCNG00 # topònim-apertium-falta-gènere-nombre
 Heladia Heladia NPFSSP0 # avl
