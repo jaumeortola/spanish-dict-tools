@@ -47161,6 +47161,7 @@ pirobolista=categories: M;fonts: LT;
 pirocatecol=categories: M;fonts: LT;
 piroclasto=categories: M;fonts: LT;
 pirocloro=categories: M;fonts: LT;
+pirocúmulo=categories: M;fonts: fundeu;
 piroelectricidad=categories: F;fonts: LT;
 pirofilacio=categories: M;fonts: LT;
 pirofilita=categories: F;fonts: LT;
