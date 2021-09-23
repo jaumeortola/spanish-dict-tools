@@ -5449,6 +5449,7 @@ interferir=categories: V;model:digerir;fonts: LT;
 interfoliar=categories: V;model:amar;fonts: LT;
 interiorizar=categories: V;model:abalanzar;fonts: dr;
 interlinear=categories: V;model:amar;fonts: LT;
+interlocutar=categories: V;model:amar;fonts: fundeu;
 intermediar=categories: V;model:amar;fonts: LT;
 internacionalizar=categories: V;model:abalanzar;fonts: LT;
 internalizar=categories: V;model:abalanzar;fonts: ap;
