@@ -19,6 +19,7 @@
 #destruidor destruidora=categories: A;fonts: LT, desus;
 #diluente=categories: A;fonts: LT;
 #elegio elegia=categories: A;fonts: dr;
+#espúreo espúrea=categories: A;fonts: LT;
 #estacionero estacionera=categories: A;fonts: LT, desus;
 #estrógeno estrógena=categories: A;fonts: LT; inusual
 #felice=categories: A;fonts: dr;
@@ -9423,7 +9424,6 @@ espático espática=categories: A;fonts: LT;
 espélteo espéltea=categories: A;fonts: LT;
 espíneo espínea=categories: A;fonts: dr;
 espódico espódica=categories: A;fonts: LT;
-espúreo espúrea=categories: A;fonts: LT;
 esquelético esquelética=categories: A;fonts: LT;
 esquemático esquemática=categories: A;fonts: LT;
 esquerranista=categories: A;fonts: LT;
