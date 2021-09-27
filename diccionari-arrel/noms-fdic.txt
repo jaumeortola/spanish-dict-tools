@@ -14518,6 +14518,7 @@ ciberdemocracia=categories: F;fonts: LT;
 ciberespacio=categories: M;fonts: LT;
 cibernauta=categories: MF;fonts: dr;
 cibernética=categories: F;fonts: LT;
+ciberocupación=categories: F;fonts: fundeu;
 ciberpunk=categories: MF;fonts: wiki;
 ciberseguridad=categories: F;fonts: user;
 cibi=categories: M;fonts: dr;
