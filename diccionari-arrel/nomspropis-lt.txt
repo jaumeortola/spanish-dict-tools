@@ -8151,6 +8151,7 @@ Vázquez Vázquez NPCNSP0 # wiki common surnames
 Vélez Vélez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vélez-Málaga Vélez-Málaga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Víctor Víctor NPMSSP0 # avl
+WHATSAPP WHATSAPP NPCNO00
 WWE WWE NPCNO00
 Wagner Wagner NPCNSP0 # wiki
 Walda Walda NPFSSP0 # avl
