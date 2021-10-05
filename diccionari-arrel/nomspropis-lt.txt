@@ -2732,6 +2732,7 @@ Diógenes Diógenes NPMSSP0 # avl
 Djokovic Djokovic NPCNSP0
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dolomitas Dolomitas NPCPG00
 Dolores Dolores NPCNG00 # topònim-apertium
 Dolores Dolores NPFSSP0 # avl
 Domanico Domanico NPCNG00 # topònim-apertium-falta-gènere-nombre
