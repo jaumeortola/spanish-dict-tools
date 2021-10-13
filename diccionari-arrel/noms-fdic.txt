@@ -1,4 +1,3 @@
-H1N1=categories: MFI;fonts: termcat;
 #Gloria Patri=categories: M;fonts: dr;
 #Neoclasicismo=categories: M;fonts: dr;
 #Pange lingua=categories: M;fonts: dr;
@@ -649,6 +648,7 @@ GPS=categories: MI;fonts: LT;
 GPU=categories: FI;fonts: LT;
 GR=categories: MI;fonts: sigla;
 Génesis=categories: MI;fonts: wiki;
+H1N1=categories: MFI;fonts: termcat;
 HDD=categories: MFI;fonts: wiki;
 HTML=categories: MI;fonts: dr;
 HTTP=categories: MI;fonts: sigla;
