@@ -5704,6 +5704,7 @@ aromatización=categories: F;fonts: LT;
 aromatizante=categories: M;fonts: dr;
 aromatoterapia=categories: F;fonts: dr;
 aromo=categories: M;fonts: LT;
+arousal=categories: MS;fonts: medical;
 arpa=categories: F;fonts: LT;
 arpadura=categories: F;fonts: LT;
 arpegio=categories: M;fonts: LT;
