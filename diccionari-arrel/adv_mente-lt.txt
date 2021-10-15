@@ -3120,6 +3120,7 @@ paradógicamente paradógicamente RG # lt2
 paradójicamente paradójicamente RG # lt
 parafrásticamente parafrásticamente RG # rae
 paralelamente paralelamente RG # rae
+paramagnéticamente paramagnéticamente RG #medical
 paramilitarmente paramilitarmente RG # lt2
 paramétricamente paramétricamente RG # lt2
 paranoicamente paranoicamente RG # lt2
