@@ -19914,6 +19914,7 @@ cándano=categories: M;fonts: dr;
 cándara=categories: F;fonts: dr;
 cándida=categories: F;fonts: LT;
 cánido=categories: M;fonts: LT;
+cánnabis=categories: MI;fonts: fundeu;
 cánon=categories: MS;fonts: LT;
 cántabro cántabra=categories: MF;fonts: LT;
 cántara=categories: F;fonts: LT;
