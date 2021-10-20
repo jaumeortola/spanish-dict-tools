@@ -721,6 +721,7 @@ Anaís Anaís NPFSSP0 # avl
 Anbar Anbar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anchorage Anchorage NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ancona Ancona NPCNG00 # topònim-apertium-falta-gènere-nombre
+Andahuaylas Andahuaylas NPCSG00
 Andalucía Andalucía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Andersen Andersen NPCNSP0
 Anderson Anderson NPCNSP0 # wiki
@@ -1335,8 +1336,10 @@ Batea Batea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Batman Batman NPMSSP0
 Batten Batten NPCNSP0 # medical
 Battle Battle NPCSG00
+Baudelaire Baudelaire NPCNSP0
 Baudelocque Baudelocque NPCNSP0 # medical
 Baudilio Baudilio NPMSSP0 # avl
+Bauhaus Bauhaus NPCSO00
 Bausen Bausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bausén Bausén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bautista Bautista NPMSSP0 # avl
@@ -1922,6 +1925,7 @@ Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
 CAM CAM NPFSO00
 CAS CAS NPCNO00
 CBC CBC NPCNO00
+CCAA CCAA NPCNO00
 CDC CDC NPCNO00
 CDE CDE NPCNO00
 CDMX CDMX NPFSG00
@@ -2281,6 +2285,7 @@ Cecilia Cecilia NPFSSP0 # avl
 Cecilio Cecilio NPMSSP0 # avl
 Cedanya Cedanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cedeño Cedeño NPCNSP0 # wiki common surnames
+Cedillo Cedillo NPCSG00
 Cefeo Cefeo NPMSSP0 # avl
 Ceferina Ceferina NPFSSP0 # avl
 Ceferino Ceferino NPMSSP0 # avl
@@ -2388,6 +2393,7 @@ Chihuahua Chihuahua NPCSG00
 Chilches Chilches NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chile Chile NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chilexpress Chilexpress NPCNSP0
+Chilpancingo Chilpancingo NPCSG00
 Chima Chima NPFSSP0 # avl
 Chimborazo Chimborazo NPMSG00
 Chimbote Chimbote NPCSG00
@@ -3383,6 +3389,7 @@ Essex Essex NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estac Estac NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estacia Estacia NPFSSP0 # avl
 Estacio Estacio NPMSSP0 # avl
+Estagira Estagira NPFSG00
 Estamariu Estamariu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estambul Estambul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estanislao Estanislao NPMSSP0 # avl
@@ -4581,6 +4588,7 @@ IU IU NPFSO00
 Ian Ian NPCNSP0 # wiki
 Ibagué Ibagué NPCSG00
 Ibarra Ibarra NPCNSP0
+Iberdrola Iberdrola NPFSO00
 Iberia Iberia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iberoamérica Iberoamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ibi Ibi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4706,6 +4714,7 @@ Iván Iván NPMSSP0 # avl
 Ivón Ivón NPMSSP0 # avl
 Ixena Ixena NPFSSP0 # avl
 Ixtapaluca Ixtapaluca NPCSG00
+Izaguirre Izaguirre NPCNSP0
 Iztapalapa Iztapalapa NPCSG00
 Iàtova Iàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iñaki Iñaki NPMSSP0
@@ -5142,6 +5151,7 @@ Lauro Lauro NPMSSP0 # avl
 Lausana Lausana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lavansa Lavansa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lavinia Lavinia NPFSSP0 # avl
+Lavoisier Lavoisier NPCNSP0
 Lawrence Lawrence NPCNSP0 # wiki
 Lawrence-Moon-Bield Lawrence-Moon-Bield NPCNSP0 # medical
 LeVeen LeVeen NPCNSP0 # medical
@@ -6253,6 +6263,7 @@ Namibia Namibia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nancy Nancy NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nankín Nankín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nantes Nantes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Naomi Naomi NPFSSP0
 Napoleón Napoleón NPMSSP0 # avl
 Nara Nara NPFSSP0 # avl
 Narbona Narbona NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6410,6 +6421,7 @@ Novata Novata NPFSSP0 # avl
 Novelda Novelda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Novelé Novelé NPCNG00 # topònim-apertium-falta-gènere-nombre
 Novetlè Novetlè NPCNG00 # topònim-apertium-falta-gènere-nombre
+Novonor Novonor NPCNO00
 Noé Noé NPMSSP0 # avl
 Nuakchott Nuakchott NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nules Nules NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6462,6 +6474,7 @@ Octaviana Octaviana NPFSSP0 # avl
 Octaviano Octaviano NPMSSP0 # avl
 Octavio Octavio NPMSSP0 # avl
 Oddi Oddi NPCNSP0 # medical
+Odebrecht Odebrecht NPCNO00
 Oderico Oderico NPMSSP0 # avl
 Odesa Odesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Odila Odila NPFSSP0 # avl
@@ -6721,6 +6734,7 @@ Pandolfa Pandolfa NPFSSP0 # avl
 Pandolfo Pandolfo NPMSSP0 # avl
 Pandora Pandora NPFSSP0 # avl
 Panettieri Panettieri NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pangea Pangea NPFSG00
 Paniagua Paniagua NPCNSP0
 Panjab Panjab NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pantaleón Pantaleón NPMSSP0 # avl
@@ -8655,6 +8669,7 @@ Valdepeñas Valdepeñas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valderrama Valderrama NPCNSP0
 Valdesca Valdesca NPFSSP0 # avl
 Valdez Valdez NPCNSP0 # wiki common surnames
+Valdivieso Valdivieso NPCNSP0
 Valdo Valdo NPMSSP0 # avl
 Valdés Valdés NPCNSP0 # wiki common surnames
 Valencia Valencia NPCNG00 # topònim-apertium
@@ -8719,6 +8734,7 @@ Varinia Varinia NPFSSP0 # avl
 Varoufakis Varoufakis NPCNSP0
 Varradòs Varradòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Varsovia Varsovia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vasconcelos Vasconcelos NPCNSP0
 Vater Vater NPCNSP0 # medical
 Vaticano Vaticano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vazzano Vazzano NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8962,6 +8978,7 @@ Waterloo Waterloo NPCSG00
 Waterston-Cooley Waterston-Cooley NPCNSP0 # medical
 Watson Watson NPCNSP0 # wiki
 Watters Watters NPCNSP0 # medical
+Wayne Wayne NPCNSP0
 Waziristán Waziristán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
@@ -9159,6 +9176,7 @@ Zósimo Zósimo NPMSSP0 # avl
 Zúrich Zúrich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zúñiga Zúñiga NPCNSP0 # wiki common surnames
 al-Ándalus al-Ándalus NPMSG00
+d'Alembert d'Alembert NPCNSP0
 iTunes iTunes NPCNO00
 l'Alacantí l'Alacantí NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Albagés l'Albagés NPCNG00 # topònim-apertium-falta-gènere-nombre

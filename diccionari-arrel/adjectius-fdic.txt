@@ -14371,6 +14371,7 @@ inmenso inmensa=categories: A;fonts: LT;
 inmensurable=categories: A;fonts: LT;
 inmensísimo inmensísima=categories: A;fonts: superlative;
 inmerecido inmerecida=categories: A;fonts: LT;
+inmersivo inmersiva=categories: A;fonts: dr;
 inmerso inmersa=categories: A;fonts: LT;
 inmigrante=categories: A;fonts: LT;
 inmigratorio inmigratoria=categories: A;fonts: LT;
