@@ -10794,6 +10794,7 @@ factorial=categories: A;fonts: LT;
 factorizable=categories: A;fonts: LT;
 factual=categories: A;fonts: LT;
 facturable=categories: A;fonts: LT;
+facturador facturadora=categories: A;fonts: LT;
 facultativo facultativa=categories: A;fonts: LT;
 facultoso facultosa=categories: A;fonts: dr;
 facundo facunda=categories: A;fonts: LT;

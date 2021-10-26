@@ -20,23 +20,30 @@
 abandonadamente abandonadamente RG # lt
 abarrotadamente abarrotadamente RG # lt
 abastadamente abastadamente RG # rae
+abatidamente abatidamente RG # de corpus
 abaxialmente abaxialmente RG # lt2
 abdicativamente abdicativamente RG # rae
 abdominalmente abdominalmente RG # lt2
 aberrantemente aberrantemente RG # lt
 abiertamente abiertamente RG # rae
+abigarradamente abigarradamente RG # de corpus
 abismalmente abismalmente RG # lt
 abióticamente abióticamente RG # lt2
 abnegadamente abnegadamente RG # lt2
 abominablemente abominablemente RG # rae
+aborreciblemente aborreciblemente RG # de corpus
 abrasadoramente abrasadoramente RG # lt2
+abrasivamente abrasivamente RG # de corpus
 abreviadamente abreviadamente RG # rae
+abrigadamente abrigadamente RG # de corpus
+abrumadamente abrumadamente RG # de corpus
 abrumadoramente abrumadoramente RG # lt
 abruptamente abruptamente RG # lt
 absolutamente absolutamente RG # rae
 absorbentemente absorbentemente RG # lt2
 absortamente absortamente RG # lt2
 abstractamente abstractamente RG # lt
+abstraídamente abstraídamente RG # de corpus
 absurdamente absurdamente RG # lt2
 abultadamente abultadamente RG # lt
 abundantemente abundantemente RG # rae
@@ -51,6 +58,7 @@ acaloradamente acaloradamente RG # rae
 acarameladamente acarameladamente RG # lt
 acariciadoramente acariciadoramente RG # lt2
 acartonadamente acartonadamente RG # lt
+acatadamente acatadamente RG # de corpus
 accesiblemente accesiblemente RG # lt2
 accesoriamente accesoriamente RG # rae
 accidentadamente accidentadamente RG # rae
@@ -58,34 +66,52 @@ accidentalmente accidentalmente RG # rae
 accionarialmente accionarialmente RG # lt2
 accionariamente accionariamente RG # lt2
 acedamente acedamente RG # rae
+aceitadamente aceitadamente RG # de corpus
+aceitosamente aceitosamente RG # de corpus
 aceleradamente aceleradamente RG # rae
+acendradamente acendradamente RG # de corpus
 acentuadamente acentuadamente RG # rae
 acentualmente acentualmente RG # lt2
 aceptablemente aceptablemente RG # lt2
 aceptadamente aceptadamente RG # rae
+aceradamente aceradamente RG # de corpus
 acerbamente acerbamente RG # rae
 acertadamente acertadamente RG # rae
+achacosamente achacosamente RG # de corpus
+achispadamente achispadamente RG # de corpus
 aciagamente aciagamente RG # lt2
+acientíficamente acientíficamente RG # de corpus
 acobardadamente acobardadamente RG # lt
 acogedoramente acogedoramente RG # lt2
 acojonadamente acojonadamente RG # lt
+acojonantemente acojonantemente RG # de corpus
+acolchadamente acolchadamente RG # de corpus
 acomodadamente acomodadamente RG # rae
 acomodaticiamente acomodaticiamente RG # lt2
+acompasadamente acompasadamente RG # de corpus
+acomplejadamente acomplejadamente RG # de corpus
 acongojadamente acongojadamente RG # rae
 acordadamente acordadamente RG # rae
 acordemente acordemente RG # rae
+acostumbradamente acostumbradamente RG # de corpus
 acremente acremente RG # rae
 acrobáticamente acrobáticamente RG # lt2
+acríticamente acríticamente RG # de corpus
 activamente activamente RG # rae
 actualmente actualmente RG # rae
+actuarialmente actuarialmente RG # de corpus
+actínicamente actínicamente RG # de corpus
+acuciadamente acuciadamente RG # de corpus
 acuciantemente acuciantemente RG # lt2
 acuciosamente acuciosamente RG # rae
 acuminadamente acuminadamente RG # lt2
 acumulativamente acumulativamente RG # lt2
 acuosamente acuosamente RG # lt2
+acusadamente acusadamente RG # de corpus
 acusadoramente acusadoramente RG # lt2
 acusativamente acusativamente RG # lt
 acusatoriamente acusatoriamente RG # lt
+acuáticamente acuáticamente RG # de corpus
 acérrimamente acérrimamente RG # lt2
 acústicamente acústicamente RG # lt2
 adaptativamente adaptativamente RG # lt2
@@ -100,33 +126,46 @@ adjetivamente adjetivamente RG # lt2
 adjuntamente adjuntamente RG # lt2
 administrativamente administrativamente RG # rae
 admirablemente admirablemente RG # lt
+admiradamente admiradamente RG # de corpus
 admirativamente admirativamente RG # lt2
 admisiblemente admisiblemente RG # lt2
+admitidamente admitidamente RG # de corpus
 admonitoriamente admonitoriamente RG # lt2
+adolescentemente adolescentemente RG # de corpus
 adoptivamente adoptivamente RG # lt2
 adorablemente adorablemente RG # lt2
+adormecedoramente adormecedoramente RG # de corpus
+adormecidamente adormecidamente RG # de corpus
+adormiladamente adormiladamente RG # de corpus
 adredemente adredemente RG # rae
 aduaneramente aduaneramente RG # lt2
+aduladoramente aduladoramente RG # de corpus
 adultamente adultamente RG # lt2
 adustamente adustamente RG # lt2
 adverbialmente adverbialmente RG # lt2
 adversamente adversamente RG # lt2
 advertidamente advertidamente RG # rae
 adyacentemente adyacentemente RG # lt2
+adúlteramente adúlteramente RG # de corpus
 aerobiamente aerobiamente RG # lt2
 aerodinámicamente aerodinámicamente RG # lt2
 aeróbicamente aeróbicamente RG # lt2
 afablemente afablemente RG # rae
 afanadamente afanadamente RG # lt
 afanosamente afanosamente RG # rae
+afectadamente afectadamente RG # de corpus
 afectivamente afectivamente RG # lt2
 afectuosamente afectuosamente RG # rae
+afectuosísimamente afectuosísimamente RG # de corpus
 afeminadamente afeminadamente RG # rae
 aferradamente aferradamente RG # rae
+afiebradamente afiebradamente RG # de corpus
+afiladamente afiladamente RG # de corpus
 afinadamente afinadamente RG # rae
 afincadamente afincadamente RG # rae
 afirmadamente afirmadamente RG # rae
 afirmativamente afirmativamente RG # rae
+aflictivamente aflictivamente RG # de corpus
 afligidamente afligidamente RG # rae
 afluentemente afluentemente RG # lt
 afortunadamente afortunadamente RG # rae
@@ -134,37 +173,50 @@ aforísticamente aforísticamente RG # lt2
 afrentosamente afrentosamente RG # lt2
 africanamente africanamente RG # lt2
 afrutadamente afrutadamente RG # lt
+afónicamente afónicamente RG # de corpus
 agitadamente agitadamente RG # lt
+agnósticamente agnósticamente RG # de corpus
 agobiadoramente agobiadoramente RG # lt2
 agobiantemente agobiantemente RG # lt2
+agolpadamente agolpadamente RG # de corpus
 agonizantemente agonizantemente RG # lt2
+agoreramente agoreramente RG # de corpus
 agotadoramente agotadoramente RG # lt2
 agraciadamente agraciadamente RG # rae
 agradablemente agradablemente RG # rae
+agradecidamente agradecidamente RG # de corpus
 agrariamente agrariamente RG # lt2
 agraviadamente agraviadamente RG # rae
 agresivamente agresivamente RG # rae
+agrestemente agrestemente RG # de corpus
+agriadamente agriadamente RG # de corpus
 agriamente agriamente RG # rae
 agridulcemente agridulcemente RG # lt2
 agroindustrialmente agroindustrialmente RG # lt2
 agronómicamente agronómicamente RG # lt2
 agropecuariamente agropecuariamente RG # lt2
 agrícolamente agrícolamente RG # lt2
+aguadamente aguadamente RG # de corpus
 agudamente agudamente RG # rae
+aguerridamente aguerridamente RG # de corpus
 agónicamente agónicamente RG # lt2
 ahincadamente ahincadamente RG # rae
 ahogadamente ahogadamente RG # lt
 ahorradamente ahorradamente RG # rae
+ahorrativamente ahorrativamente RG # de corpus
 airadamente airadamente RG # rae
 airosamente airosamente RG # rae
 aisladamente aisladamente RG # rae
+ajetreadamente ajetreadamente RG # de corpus
 ajustadamente ajustadamente RG # rae
 aladamente aladamente RG # lt2
 alambicadamente alambicadamente RG # lt
 alardosamente alardosamente RG # lt
 alargadamente alargadamente RG # lt
+alarmadamente alarmadamente RG # de corpus
 alarmantemente alarmantemente RG # lt2
 alborotadamente alborotadamente RG # lt
+alborotadoramente alborotadoramente RG # de corpus
 alborozadamente alborozadamente RG # rae
 alcohólicamente alcohólicamente RG # lt2
 aldeanamente aldeanamente RG # lt
@@ -176,14 +228,18 @@ alegóricamente alegóricamente RG # rae
 alentadamente alentadamente RG # rae
 alentadoramente alentadoramente RG # lt
 alertamente alertamente RG # rae
+aletargadamente aletargadamente RG # de corpus
 alevemente alevemente RG # lt2
 alevosamente alevosamente RG # rae
 alfabéticamente alfabéticamente RG # rae
 alfanuméricamente alfanuméricamente RG # lt2
 algebraicamente algebraicamente RG # lt2
 algorítmicamente algorítmicamente RG # lt2
+alicaídamente alicaídamente RG # de corpus
 alimentariamente alimentariamente RG # lt2
 alimenticiamente alimenticiamente RG # lt2
+alineadamente alineadamente RG # de corpus
+almibaradamente almibaradamente RG # de corpus
 alocadamente alocadamente RG # rae
 alofónicamente alofónicamente RG # lt2
 alopáticamente alopáticamente RG # lt2
@@ -191,9 +247,11 @@ alopátricamente alopátricamente RG # lt2
 alquímicamente alquímicamente RG # lt2
 altamente altamente RG # rae
 altaneramente altaneramente RG # rae
+alteradamente alteradamente RG # de corpus
 alternadamente alternadamente RG # rae
 alternamente alternamente RG # lt2
 alternativamente alternativamente RG # rae
+altisonantemente altisonantemente RG # de corpus
 altitudinalmente altitudinalmente RG # lt2
 altivamente altivamente RG # lt
 altruistamente altruistamente RG # lt2
@@ -203,6 +261,7 @@ alucinatoriamente alucinatoriamente RG # lt2
 alusivamente alusivamente RG # lt2
 alzadamente alzadamente RG # rae
 alérgicamente alérgicamente RG # lt2
+amabilísimamente amabilísimamente RG # de corpus
 amablemente amablemente RG # rae
 amaestradamente amaestradamente RG # rae
 amaneradamente amaneradamente RG # lt
@@ -215,6 +274,7 @@ ambiguamente ambiguamente RG # rae
 ambivalentemente ambivalentemente RG # lt2
 ambulantemente ambulantemente RG # lt2
 ambulatoriamente ambulatoriamente RG # lt2
+amedrentadoramente amedrentadoramente RG # de corpus
 amenamente amenamente RG # lt2
 amenazadoramente amenazadoramente RG # lt
 amenazantemente amenazantemente RG # lt2
@@ -222,36 +282,50 @@ amenguadamente amenguadamente RG # rae
 americanamente americanamente RG # lt2
 amigablemente amigablemente RG # rae
 amistosamente amistosamente RG # rae
+amodorradamente amodorradamente RG # de corpus
 amontonadamente amontonadamente RG # rae
 amoralmente amoralmente RG # lt2
 amorosamente amorosamente RG # rae
+amortiguadamente amortiguadamente RG # de corpus
+amotinadamente amotinadamente RG # de corpus
 ampliamente ampliamente RG # rae
+amplísimamente amplísimamente RG # de corpus
 ampulosamente ampulosamente RG # lt2
 amuermadamente amuermadamente RG # lt
 anacrónicamente anacrónicamente RG # lt2
 anaeróbicamente anaeróbicamente RG # lt2
 anafóricamente anafóricamente RG # lt2
+anagramáticamente anagramáticamente RG # de corpus
 analmente analmente RG # lt
 analíticamente analíticamente RG # rae
 analógicamente analógicamente RG # rae
+anaranjadamente anaranjadamente RG # de corpus
 anatómicamente anatómicamente RG # rae
 ancestralmente ancestralmente RG # lt2
 anchamente anchamente RG # rae
 anchurosamente anchurosamente RG # lt2
+ancianamente ancianamente RG # de corpus
+andaluzamente andaluzamente RG # de corpus
 andrajosamente andrajosamente RG # lt
 anecdóticamente anecdóticamente RG # lt2
 anemófilamente anemófilamente RG # lt2
 angelicalmente angelicalmente RG # rae
 angostamente angostamente RG # rae
 angularmente angularmente RG # rae
+angustiadamente angustiadamente RG # de corpus
 angustiosamente angustiosamente RG # rae
 angélicamente angélicamente RG # lt
+anhelantemente anhelantemente RG # de corpus
+anhelosamente anhelosamente RG # de corpus
 animadamente animadamente RG # lt
+animadoramente animadoramente RG # de corpus
 animalmente animalmente RG # lt2
 animosamente animosamente RG # rae
 anisotrópicamente anisotrópicamente RG # lt2
 aniñadamente aniñadamente RG # rae
+anodinamente anodinamente RG # de corpus
 anormalmente anormalmente RG # lt
+ansiadamente ansiadamente RG # de corpus
 ansiosamente ansiosamente RG # lt
 antagónicamente antagónicamente RG # lt2
 antecedentemente antecedentemente RG # lt2
@@ -260,18 +334,22 @@ anterolateralmente anterolateralmente RG # lt2
 anteroposteriormente anteroposteriormente RG # lt2
 anticiclónicamente anticiclónicamente RG # lt2
 anticipadamente anticipadamente RG # rae
+anticonstitucionalmente anticonstitucionalmente RG # de corpus
+anticuadamente anticuadamente RG # de corpus
 antidemocráticamente antidemocráticamente RG # lt2
 antideportivamente antideportivamente RG # lt2
 antiestéticamente antiestéticamente RG # lt2
 antiferromagnéticamente antiferromagnéticamente RG # lt2
 antiguamente antiguamente RG # rae
 antigénicamente antigénicamente RG # lt2
+antihigiénicamente antihigiénicamente RG # de corpus
 antijurídicamente antijurídicamente RG # lt2
 antinaturalmente antinaturalmente RG # lt2
 antiparalelamente antiparalelamente RG # lt2
 antipatrióticamente antipatrióticamente RG # lt2
 antipáticamente antipáticamente RG # lt2
 antirreglamentariamente antirreglamentariamente RG # lt2
+antisépticamente antisépticamente RG # de corpus
 antitéticamente antitéticamente RG # lt2
 antojadizamente antojadizamente RG # rae
 antológicamente antológicamente RG # lt2
@@ -289,26 +367,40 @@ anómalamente anómalamente RG # lt2
 anónimamente anónimamente RG # lt
 apabullantemente apabullantemente RG # lt
 apaciblemente apaciblemente RG # rae
+apaciguadamente apaciguadamente RG # de corpus
+apaciguadoramente apaciguadoramente RG # de corpus
+apagadamente apagadamente RG # de corpus
 aparatosamente aparatosamente RG # rae
 aparentemente aparentemente RG # rae
 apartadamente apartadamente RG # rae
 apasionadamente apasionadamente RG # rae
 apasionantemente apasionantemente RG # lt2
+apelotonadamente apelotonadamente RG # de corpus
+apenadamente apenadamente RG # de corpus
+apesadumbradamente apesadumbradamente RG # de corpus
 apestosamente apestosamente RG # lt2
+apetitosamente apetitosamente RG # de corpus
 apicalmente apicalmente RG # lt2
+apiñadamente apiñadamente RG # de corpus
+aplacadoramente aplacadoramente RG # de corpus
 aplastantemente aplastantemente RG # lt
+aplicadamente aplicadamente RG # de corpus
+aplomadamente aplomadamente RG # de corpus
 apocadamente apocadamente RG # rae
 apocalípticamente apocalípticamente RG # lt2
+apoderadamente apoderadamente RG # de corpus
 apodícticamente apodícticamente RG # lt2
 apologéticamente apologéticamente RG # lt2
 apostólicamente apostólicamente RG # rae
 apoteósicamente apoteósicamente RG # lt2
 apreciablemente apreciablemente RG # lt2
 apreciativamente apreciativamente RG # lt
+aprehensivamente aprehensivamente RG # de corpus
 apremiantemente apremiantemente RG # rae
 aprensivamente aprensivamente RG # lt2
 apresuradamente apresuradamente RG # lt
 apretadamente apretadamente RG # rae
+apretujadamente apretujadamente RG # de corpus
 apriorísticamente apriorísticamente RG # lt2
 aprobadoramente aprobadoramente RG # lt2
 aprobativamente aprobativamente RG # lt2
@@ -327,6 +419,9 @@ arbitralmente arbitralmente RG # lt2
 arbitrariamente arbitrariamente RG # rae
 arcaicamente arcaicamente RG # lt2
 arcaizantemente arcaizantemente RG # lt2
+arcanamente arcanamente RG # de corpus
+arcádicamente arcádicamente RG # de corpus
+ardentísimamente ardentísimamente RG # de corpus
 ardidamente ardidamente RG # rae
 ardientemente ardientemente RG # rae
 ardorosamente ardorosamente RG # rae
@@ -346,14 +441,21 @@ arqueológicamente arqueológicamente RG # lt2
 arquetípicamente arquetípicamente RG # lt2
 arquitecturalmente arquitecturalmente RG # lt2
 arquitectónicamente arquitectónicamente RG # lt2
+arraigadamente arraigadamente RG # de corpus
+arrasadoramente arrasadoramente RG # de corpus
 arrastradamente arrastradamente RG # rae
 arrebatadamente arrebatadamente RG # rae
 arrebatadoramente arrebatadoramente RG # lt2
 arregladamente arregladamente RG # rae
 arremolinadamente arremolinadamente RG # rae
+arriesgadamente arriesgadamente RG # de corpus
 arriscadamente arriscadamente RG # rae
+arrobadamente arrobadamente RG # de corpus
 arrogantemente arrogantemente RG # lt
+arrojadamente arrojadamente RG # de corpus
 arrolladoramente arrolladoramente RG # lt2
+arrulladoramente arrulladoramente RG # de corpus
+arrítmicamente arrítmicamente RG # de corpus
 arteramente arteramente RG # rae
 artesanalmente artesanalmente RG # rae
 articuladamente articuladamente RG # rae
@@ -361,11 +463,13 @@ articularmente articularmente RG # lt2
 articulatoriamente articulatoriamente RG # lt2
 artificialmente artificialmente RG # rae
 artificiosamente artificiosamente RG # rae
+artríticamente artríticamente RG # de corpus
 artísticamente artísticamente RG # rae
 asambleariamente asambleariamente RG # lt2
 ascendentemente ascendentemente RG # lt2
 ascensionalmente ascensionalmente RG # lt2
 ascéticamente ascéticamente RG # lt2
+aseadamente aseadamente RG # de corpus
 aseguradamente aseguradamente RG # lt
 asentadamente asentadamente RG # rae
 asequiblemente asequiblemente RG # lt2
@@ -382,32 +486,59 @@ asmáticamente asmáticamente RG # lt2
 asnalmente asnalmente RG # rae
 asociativamente asociativamente RG # lt2
 asoladoramente asoladoramente RG # lt
+asombradamente asombradamente RG # de corpus
 asombrosamente asombrosamente RG # lt2
+aspaventosamente aspaventosamente RG # de corpus
 asquerosamente asquerosamente RG # lt2
 astralmente astralmente RG # lt2
+astrofísicamente astrofísicamente RG # de corpus
 astrológicamente astrológicamente RG # lt2
 astronómicamente astronómicamente RG # lt2
+astrosamente astrosamente RG # de corpus
+astuciosamente astuciosamente RG # de corpus
 astutamente astutamente RG # lt
+asumidamente asumidamente RG # de corpus
+asustadizamente asustadizamente RG # de corpus
 asépticamente asépticamente RG # lt2
 asíncronamente asíncronamente RG # lt2
 asísmicamente asísmicamente RG # lt2
+atareadamente atareadamente RG # de corpus
+atemorizadoramente atemorizadoramente RG # de corpus
+atemporalmente atemporalmente RG # de corpus
 atentadamente atentadamente RG # rae
 atentamente atentamente RG # rae
 atentísimamente atentísimamente RG # lt
 aterciopeladamente aterciopeladamente RG # lt2
+ateridamente ateridamente RG # de corpus
+aterradamente aterradamente RG # de corpus
 aterradoramente aterradoramente RG # lt
+atestadamente atestadamente RG # de corpus
+atildadamente atildadamente RG # de corpus
+atinadamente atinadamente RG # de corpus
+atipladamente atipladamente RG # de corpus
 atléticamente atléticamente RG # lt2
 atmosféricamente atmosféricamente RG # lt2
 atolondradamente atolondradamente RG # lt
+atonalmente atonalmente RG # de corpus
 atontadamente atontadamente RG # lt
+atormentadamente atormentadamente RG # de corpus
+atormentadoramente atormentadoramente RG # de corpus
 atractivamente atractivamente RG # lt2
+atravesadamente atravesadamente RG # de corpus
+atrayentemente atrayentemente RG # de corpus
+atrevidamente atrevidamente RG # de corpus
+atribuladamente atribuladamente RG # de corpus
 atributivamente atributivamente RG # lt2
 atronadoramente atronadoramente RG # lt2
 atropelladamente atropelladamente RG # rae
 atrozmente atrozmente RG # lt
+aturdidamente aturdidamente RG # de corpus
+aturdidoramente aturdidoramente RG # de corpus
+aturulladamente aturulladamente RG # de corpus
 atávicamente atávicamente RG # lt2
 atípicamente atípicamente RG # lt2
 atómicamente atómicamente RG # lt2
+atónitamente atónitamente RG # de corpus
 audazmente audazmente RG # lt2
 audiblemente audiblemente RG # lt2
 audiovisualmente audiovisualmente RG # lt2
@@ -420,6 +551,7 @@ auspiciosamente auspiciosamente RG # lt2
 austeramente austeramente RG # lt2
 australmente australmente RG # lt2
 autobiográficamente autobiográficamente RG # lt2
+autoconscientemente autoconscientemente RG # de corpus
 autocráticamente autocráticamente RG # lt2
 autodestructivamente autodestructivamente RG # lt2
 autodidácticamente autodidácticamente RG # lt2
@@ -428,6 +560,7 @@ automáticamente automáticamente RG # lt
 autonómicamente autonómicamente RG # lt2
 autoritariamente autoritariamente RG # lt
 autorizadamente autorizadamente RG # rae
+autosuficientemente autosuficientemente RG # de corpus
 autárquicamente autárquicamente RG # lt2
 auténticamente auténticamente RG # lt
 autóctonamente autóctonamente RG # lt2
@@ -439,15 +572,21 @@ avaramente avaramente RG # rae
 avariciosamente avariciosamente RG # rae
 avasalladoramente avasalladoramente RG # lt2
 aventureramente aventureramente RG # lt
+avergonzadamente avergonzadamente RG # de corpus
 averiguadamente averiguadamente RG # rae
 aviesamente aviesamente RG # rae
 avinagradamente avinagradamente RG # lt
 avisadamente avisadamente RG # rae
+avispadamente avispadamente RG # de corpus
 axialmente axialmente RG # lt
 axilarmente axilarmente RG # lt2
+axiológicamente axiológicamente RG # de corpus
 axiomáticamente axiomáticamente RG # lt2
 azarosamente azarosamente RG # rae
+azoradamente azoradamente RG # de corpus
 aéreamente aéreamente RG # lt2
+bablemente bablemente RG # de corpus
+babosamente babosamente RG # de corpus
 bacteriológicamente bacteriológicamente RG # lt2
 bailonamente bailonamente RG # lt
 bajamente bajamente RG # rae
@@ -464,18 +603,21 @@ barrocamente barrocamente RG # lt2
 basalmente basalmente RG # lt
 bastamente bastamente RG # lt2
 bastantemente bastantemente RG # rae
+bastardamente bastardamente RG # de corpus
 beatamente beatamente RG # lt2
 beatíficamente beatíficamente RG # rae
 belicosamente belicosamente RG # lt2
 beligerantemente beligerantemente RG # lt2
 bellacamente bellacamente RG # lt2
 bellamente bellamente RG # rae
+bellísimamente bellísimamente RG # de corpus
 benditamente benditamente RG # lt
 beneficiosamente beneficiosamente RG # lt2
 benevolentemente benevolentemente RG # lt2
 benignamente benignamente RG # rae
 benéficamente benéficamente RG # lt2
 benévolamente benévolamente RG # rae
+beodamente beodamente RG # de corpus
 bestialmente bestialmente RG # rae
 bianualmente bianualmente RG # lt2
 biaxialmente biaxialmente RG # lt2
@@ -484,18 +626,24 @@ bidimensionalmente bidimensionalmente RG # lt2
 bidireccionalmente bidireccionalmente RG # lt2
 bienalmente bienalmente RG # rae
 bienaventuradamente bienaventuradamente RG # lt2
+bienhumoradamente bienhumoradamente RG # de corpus
 bienintencionadamente bienintencionadamente RG # lt
 bifacialmente bifacialmente RG # lt2
 bilabialmente bilabialmente RG # lt2
 bilateralmente bilateralmente RG # lt2
+biliosamente biliosamente RG # de corpus
 bimensualmente bimensualmente RG # lt2
 bimestralmente bimestralmente RG # lt2
 binariamente binariamente RG # lt2
 binomialmente binomialmente RG # lt2
+biodegradablemente biodegradablemente RG # de corpus
+bioeléctricamente bioeléctricamente RG # de corpus
 biogenéticamente biogenéticamente RG # lt2
 biogeográficamente biogeográficamente RG # lt2
 biográficamente biográficamente RG # lt2
 biológicamente biológicamente RG # lt
+biomecánicamente biomecánicamente RG # de corpus
+biométricamente biométricamente RG # de corpus
 bioquímicamente bioquímicamente RG # lt2
 biotecnológicamente biotecnológicamente RG # lt2
 bisemanalmente bisemanalmente RG # lt2
@@ -511,9 +659,12 @@ blasfemamente blasfemamente RG # rae
 bobaliconamente bobaliconamente RG # lt2
 bobamente bobamente RG # rae
 bochornosamente bochornosamente RG # lt2
+bombásticamente bombásticamente RG # de corpus
 bonachonamente bonachonamente RG # lt2
 bondadosamente bondadosamente RG # lt
 bonitamente bonitamente RG # rae
+borrascosamente borrascosamente RG # de corpus
+borreguilmente borreguilmente RG # de corpus
 borrosamente borrosamente RG # lt
 botánicamente botánicamente RG # lt2
 bovinamente bovinamente RG # lt2
@@ -521,6 +672,7 @@ bravamente bravamente RG # rae
 bravuconamente bravuconamente RG # lt2
 bravíamente bravíamente RG # lt2
 brevemente brevemente RG # rae
+brevísimamente brevísimamente RG # de corpus
 brillantemente brillantemente RG # rae
 briosamente briosamente RG # rae
 británicamente británicamente RG # lt2
@@ -534,12 +686,14 @@ bucolingualmente bucolingualmente RG # lt2
 bucólicamente bucólicamente RG # lt2
 buenamente buenamente RG # rae
 bulliciosamente bulliciosamente RG # rae
+burbujeantemente burbujeantemente RG # de corpus
 burdamente burdamente RG # rae
 burguesamente burguesamente RG # lt2
 burlescamente burlescamente RG # lt2
 burlonamente burlonamente RG # lt
 burocráticamente burocráticamente RG # lt2
 bursátilmente bursátilmente RG # lt2
+buscadamente buscadamente RG # de corpus
 bárbaramente bárbaramente RG # rae
 básicamente básicamente RG # rae
 bélicamente bélicamente RG # lt2
@@ -553,6 +707,7 @@ cabezonamente cabezonamente RG # lt
 cabezudamente cabezudamente RG # lt
 cabizbajamente cabizbajamente RG # lt
 cablegráficamente cablegráficamente RG # lt2
+cachazudamente cachazudamente RG # de corpus
 cachondamente cachondamente RG # lt2
 cacofónicamente cacofónicamente RG # lt
 cadavéricamente cadavéricamente RG # lt2
@@ -575,11 +730,13 @@ calmosamente calmosamente RG # lt2
 calumniosamente calumniosamente RG # rae
 calurosamente calurosamente RG # rae
 calóricamente calóricamente RG # lt2
+camaleónicamente camaleónicamente RG # de corpus
 cambiadamente cambiadamente RG # lt
 cambiantemente cambiantemente RG # lt
 cambiariamente cambiariamente RG # lt2
 campanudamente campanudamente RG # lt2
 campechanamente campechanamente RG # rae
+camufladamente camufladamente RG # de corpus
 canallescamente canallescamente RG # lt2
 cancerosamente cancerosamente RG # lt2
 candorosamente candorosamente RG # lt
@@ -595,6 +752,7 @@ capitalistamente capitalistamente RG # lt2
 capitalmente capitalmente RG # rae
 capitularmente capitularmente RG # rae
 caprichosamente caprichosamente RG # lt
+caracterizadamente caracterizadamente RG # de corpus
 caracterológicamente caracterológicamente RG # lt2
 característicamente característicamente RG # rae
 caramente caramente RG # rae
@@ -602,6 +760,8 @@ carbónicamente carbónicamente RG # lt
 carcelariamente carcelariamente RG # lt2
 cardinalmente cardinalmente RG # lt2
 cargadamente cargadamente RG # lt
+cargantemente cargantemente RG # de corpus
+caricaturalmente caricaturalmente RG # de corpus
 caricaturescamente caricaturescamente RG # lt2
 cariciosamente cariciosamente RG # rae
 carismáticamente carismáticamente RG # lt2
@@ -610,20 +770,25 @@ cariñosamente cariñosamente RG # lt
 carnalmente carnalmente RG # rae
 carnavalescamente carnavalescamente RG # lt2
 carniceramente carniceramente RG # lt2
+carnosamente carnosamente RG # de corpus
 carraspeantemente carraspeantemente RG # lt
+carrasposamente carrasposamente RG # de corpus
 cartesianamente cartesianamente RG # lt2
 cartográficamente cartográficamente RG # lt2
+cascadamente cascadamente RG # de corpus
 caseramente caseramente RG # rae
 casposamente casposamente RG # lt
 castamente castamente RG # lt
 castellanamente castellanamente RG # rae
 castigadamente castigadamente RG # rae
+castigadoramente castigadoramente RG # de corpus
 castizamente castizamente RG # rae
 casualmente casualmente RG # rae
 casuísticamente casuísticamente RG # lt2
 catalíticamente catalíticamente RG # lt2
 catastralmente catastralmente RG # lt2
 catastróficamente catastróficamente RG # lt
+catatónicamente catatónicamente RG # de corpus
 categorialmente categorialmente RG # lt2
 categóricamente categóricamente RG # rae
 catárticamente catárticamente RG # lt2
@@ -644,11 +809,13 @@ caóticamente caóticamente RG # lt2
 ceceantemente ceceantemente RG # lt
 cefálicamente cefálicamente RG # lt2
 cegadoramente cegadoramente RG # lt2
+celestemente celestemente RG # de corpus
 celestialmente celestialmente RG # rae
 celosamente celosamente RG # rae
 celularmente celularmente RG # lt2
 cenitalmente cenitalmente RG # lt2
 censalmente censalmente RG # lt2
+censurablemente censurablemente RG # de corpus
 centenariamente centenariamente RG # lt2
 centralmente centralmente RG # lt
 centrífugamente centrífugamente RG # lt2
@@ -661,15 +828,20 @@ cerradamente cerradamente RG # rae
 cerrilmente cerrilmente RG # rae
 certeramente certeramente RG # lt
 certificadamente certificadamente RG # rae
+cervalmente cervalmente RG # de corpus
 cerámicamente cerámicamente RG # lt2
+ceñidamente ceñidamente RG # de corpus
 ceñudamente ceñudamente RG # lt2
 chabacanamente chabacanamente RG # lt2
 chapuceramente chapuceramente RG # lt
+chatamente chatamente RG # de corpus
 chillonamente chillonamente RG # lt2
 chirriantemente chirriantemente RG # lt
+chispeantemente chispeantemente RG # de corpus
 chistosamente chistosamente RG # rae
 chocantemente chocantemente RG # lt
 chovinistamente chovinistamente RG # lt2
+chulamente chulamente RG # de corpus
 chulescamente chulescamente RG # lt2
 chuscamente chuscamente RG # rae
 cibernéticamente cibernéticamente RG # lt2
@@ -693,18 +865,23 @@ circunstancialmente circunstancialmente RG # lt2
 cismáticamente cismáticamente RG # rae
 citológicamente citológicamente RG # lt2
 citoplasmáticamente citoplasmáticamente RG # lt2
+civilizadamente civilizadamente RG # de corpus
 civilmente civilmente RG # rae
 clamorosamente clamorosamente RG # lt2
 clandestinamente clandestinamente RG # rae
 claramente claramente RG # rae
 clarificadoramente clarificadoramente RG # lt2
 clarividentemente clarividentemente RG # lt
+clarísimamente clarísimamente RG # de corpus
+claustrofóbicamente claustrofóbicamente RG # de corpus
+clementemente clementemente RG # de corpus
 clericalmente clericalmente RG # rae
 climatológicamente climatológicamente RG # lt2
 climáticamente climáticamente RG # lt2
 clonalmente clonalmente RG # lt2
 clásicamente clásicamente RG # lt2
 clínicamente clínicamente RG # rae
+clónicamente clónicamente RG # de corpus
 coactivamente coactivamente RG # lt2
 coaxialmente coaxialmente RG # lt2
 cobardemente cobardemente RG # lt
@@ -713,9 +890,11 @@ codiciosamente codiciosamente RG # lt2
 coercitivamente coercitivamente RG # lt2
 coetáneamente coetáneamente RG # lt2
 cognitivamente cognitivamente RG # lt2
+cognosciblemente cognosciblemente RG # de corpus
 cognoscitivamente cognoscitivamente RG # lt2
 coherentemente coherentemente RG # lt2
 cohesivamente cohesivamente RG # lt2
+cohibidamente cohibidamente RG # de corpus
 coincidentemente coincidentemente RG # lt
 cojonudamente cojonudamente RG # lt
 colateralmente colateralmente RG # lt2
@@ -725,11 +904,13 @@ colegialmente colegialmente RG # rae
 colmadamente colmadamente RG # rae
 colonialmente colonialmente RG # lt2
 coloquialmente coloquialmente RG # lt
+coloridamente coloridamente RG # de corpus
 colorimétricamente colorimétricamente RG # lt2
 colosalmente colosalmente RG # lt2
 coléricamente coléricamente RG # lt2
 comarcalmente comarcalmente RG # lt2
 combativamente combativamente RG # lt2
+combinadamente combinadamente RG # de corpus
 combinatoriamente combinatoriamente RG # lt2
 comedidamente comedidamente RG # lt
 comercialmente comercialmente RG # lt
@@ -740,21 +921,28 @@ compasadamente compasadamente RG # rae
 compasivamente compasivamente RG # lt2
 compatiblemente compatiblemente RG # lt2
 compendiosamente compendiosamente RG # rae
+compenetradamente compenetradamente RG # de corpus
 compensatoriamente compensatoriamente RG # lt2
 competencialmente competencialmente RG # lt2
 competentemente competentemente RG # rae
 competitivamente competitivamente RG # lt2
+complacidamente complacidamente RG # de corpus
 complacientemente complacientemente RG # lt2
 complejamente complejamente RG # lt2
 complementariamente complementariamente RG # lt
 completamente completamente RG # rae
+complicadamente complicadamente RG # de corpus
 compositivamente compositivamente RG # lt2
 comprensiblemente comprensiblemente RG # lt2
 comprensivamente comprensivamente RG # lt2
+compresiblemente compresiblemente RG # de corpus
+comprobadamente comprobadamente RG # de corpus
 comprometedoramente comprometedoramente RG # lt2
+comprometidamente comprometidamente RG # de corpus
 compuestamente compuestamente RG # rae
 compulsivamente compulsivamente RG # lt2
 compungidamente compungidamente RG # lt
+computablemente computablemente RG # de corpus
 computacionalmente computacionalmente RG # lt2
 comunalmente comunalmente RG # rae
 comunicativamente comunicativamente RG # lt2
@@ -763,11 +951,13 @@ comúnmente comúnmente RG # rae
 concadenadamente concadenadamente RG # lt
 concatenadamente concatenadamente RG # lt
 concebiblemente concebiblemente RG # lt2
+concentradamente concentradamente RG # de corpus
 conceptualmente conceptualmente RG # lt
 concertadamente concertadamente RG # rae
 concesivamente concesivamente RG # lt2
 conchudamente conchudamente RG # rae
 concienzudamente concienzudamente RG # rae
+conciliadoramente conciliadoramente RG # de corpus
 conciliatoriamente conciliatoriamente RG # lt2
 concisamente concisamente RG # lt2
 conclusivamente conclusivamente RG # lt2
@@ -776,14 +966,20 @@ concomitantemente concomitantemente RG # lt
 concordantemente concordantemente RG # lt2
 concordemente concordemente RG # rae
 concretamente concretamente RG # lt
+concupiscentemente concupiscentemente RG # de corpus
 concurrentemente concurrentemente RG # lt2
 concéntricamente concéntricamente RG # lt
+condenablemente condenablemente RG # de corpus
 condenadamente condenadamente RG # lt
 condenatoriamente condenatoriamente RG # lt2
+condensadamente condensadamente RG # de corpus
 condescendientemente condescendientemente RG # lt2
 condicionalmente condicionalmente RG # rae
 condignamente condignamente RG # lt2
 conductivamente conductivamente RG # lt2
+conductualmente conductualmente RG # de corpus
+conejilmente conejilmente RG # de corpus
+confesadamente confesadamente RG # de corpus
 confesamente confesamente RG # lt2
 confesionalmente confesionalmente RG # lt2
 confiablemente confiablemente RG # lt2
@@ -791,26 +987,33 @@ confiadamente confiadamente RG # rae
 confianzudamente confianzudamente RG # lt2
 confidencialmente confidencialmente RG # rae
 confidentemente confidentemente RG # rae
+confirmatoriamente confirmatoriamente RG # de corpus
 confiscatoriamente confiscatoriamente RG # lt2
 conflictivamente conflictivamente RG # lt2
 conformacionalmente conformacionalmente RG # lt2
 conformemente conformemente RG # rae
 confortablemente confortablemente RG # rae
+confortadoramente confortadoramente RG # de corpus
 confusamente confusamente RG # rae
 congojosamente congojosamente RG # lt2
 congruamente congruamente RG # rae
 congruentemente congruentemente RG # lt2
 congénitamente congénitamente RG # lt2
 conjeturalmente conjeturalmente RG # lt2
+conjuntadamente conjuntadamente RG # de corpus
 conjuntamente conjuntamente RG # rae
 conjuntivamente conjuntivamente RG # lt2
 conmemorativamente conmemorativamente RG # lt2
 conminatoriamente conminatoriamente RG # lt2
+conmiserativamente conmiserativamente RG # de corpus
 conmovedoramente conmovedoramente RG # lt2
+conmovidamente conmovidamente RG # de corpus
 conmutativamente conmutativamente RG # lt2
 connaturalmente connaturalmente RG # rae
 connotativamente connotativamente RG # lt2
 conocidamente conocidamente RG # rae
+consabidamente consabidamente RG # de corpus
+consagradamente consagradamente RG # de corpus
 conscientemente conscientemente RG # lt
 consecuentemente consecuentemente RG # rae
 consecutivamente consecutivamente RG # rae
@@ -818,12 +1021,16 @@ consensualmente consensualmente RG # lt2
 conservadoramente conservadoramente RG # lt2
 conservativamente conservativamente RG # lt2
 considerablemente considerablemente RG # rae
+consideradamente consideradamente RG # de corpus
 consiguientemente consiguientemente RG # rae
 consistentemente consistentemente RG # lt
 consistorialmente consistorialmente RG # rae
 consoladoramente consoladoramente RG # lt2
 conspicuamente conspicuamente RG # lt2
+conspirativamente conspirativamente RG # de corpus
+conspiratoriamente conspiratoriamente RG # de corpus
 constantemente constantemente RG # rae
+consternadamente consternadamente RG # de corpus
 constitucionalmente constitucionalmente RG # rae
 constitutivamente constitutivamente RG # lt2
 constructivamente constructivamente RG # lt2
@@ -836,7 +1043,9 @@ contablemente contablemente RG # lt2
 contagiosamente contagiosamente RG # lt2
 contantemente contantemente RG # lt2
 contemplativamente contemplativamente RG # lt2
+contemporizadoramente contemporizadoramente RG # de corpus
 contemporáneamente contemporáneamente RG # lt
+contenidamente contenidamente RG # de corpus
 contentadamente contentadamente RG # lt
 contentamente contentamente RG # lt
 contextualmente contextualmente RG # lt2
@@ -849,16 +1058,20 @@ contractualmente contractualmente RG # lt2
 contradictoriamente contradictoriamente RG # rae
 contralateralmente contralateralmente RG # lt2
 contraproducentemente contraproducentemente RG # lt2
+contrariadamente contrariadamente RG # de corpus
 contrariamente contrariamente RG # rae
 contritamente contritamente RG # lt2
+controladamente controladamente RG # de corpus
 contumazmente contumazmente RG # rae
 contundentemente contundentemente RG # lt2
+convencidamente convencidamente RG # de corpus
 convencionalmente convencionalmente RG # rae
 convenientemente convenientemente RG # rae
 conventualmente conventualmente RG # rae
 convergentemente convergentemente RG # lt2
 conversacionalmente conversacionalmente RG # lt2
 conversamente conversamente RG # lt2
+convexamente convexamente RG # de corpus
 convincentemente convincentemente RG # rae
 convulsamente convulsamente RG # lt2
 convulsivamente convulsivamente RG # lt
@@ -874,6 +1087,7 @@ coquetonamente coquetonamente RG # lt2
 corajudamente corajudamente RG # lt2
 coralmente coralmente RG # lt2
 cordialmente cordialmente RG # rae
+cordialísimamente cordialísimamente RG # de corpus
 coreográficamente coreográficamente RG # lt2
 coronalmente coronalmente RG # lt2
 corporalmente corporalmente RG # rae
@@ -881,6 +1095,7 @@ corporativamente corporativamente RG # rae
 corpóreamente corpóreamente RG # lt2
 correccionalmente correccionalmente RG # rae
 correctamente correctamente RG # rae
+correctísimamente correctísimamente RG # de corpus
 correlativamente correlativamente RG # rae
 correspondientemente correspondientemente RG # rae
 corresponsablemente corresponsablemente RG # lt2
@@ -890,6 +1105,7 @@ corrosivamente corrosivamente RG # lt2
 corruptamente corruptamente RG # rae
 cortadamente cortadamente RG # lt
 cortamente cortamente RG # rae
+cortantemente cortantemente RG # de corpus
 cortesanamente cortesanamente RG # rae
 cortesísimamente cortesísimamente RG # lt
 corticalmente corticalmente RG # lt2
@@ -909,6 +1125,7 @@ creativamente creativamente RG # lt2
 crecidamente crecidamente RG # rae
 crecientemente crecientemente RG # lt2
 crematísticamente crematísticamente RG # lt2
+cremosamente cremosamente RG # de corpus
 crepuscularmente crepuscularmente RG # lt2
 cretinamente cretinamente RG # lt2
 creíblemente creíblemente RG # lt2
@@ -916,9 +1133,11 @@ criminalmente criminalmente RG # rae
 criogénicamente criogénicamente RG # lt2
 criollamente criollamente RG # lt2
 criptográficamente criptográficamente RG # lt
+crispadamente crispadamente RG # de corpus
 cristalinamente cristalinamente RG # lt
 cristalográficamente cristalográficamente RG # lt2
 cristianamente cristianamente RG # lt
+cristológicamente cristológicamente RG # de corpus
 cromosómicamente cromosómicamente RG # lt2
 cromáticamente cromáticamente RG # lt2
 cronoestratigráficamente cronoestratigráficamente RG # lt2
@@ -928,6 +1147,7 @@ crucialmente crucialmente RG # lt2
 crudamente crudamente RG # rae
 cruelmente cruelmente RG # rae
 cruentamente cruentamente RG # rae
+crujientemente crujientemente RG # de corpus
 crédulamente crédulamente RG # rae
 crípticamente crípticamente RG # lt2
 críticamente críticamente RG # rae
@@ -945,6 +1165,7 @@ cuerdamente cuerdamente RG # rae
 cuestionablemente cuestionablemente RG # lt
 cuidadamente cuidadamente RG # lt
 cuidadosamente cuidadosamente RG # rae
+cuidosamente cuidosamente RG # de corpus
 cuitadamente cuitadamente RG # rae
 culinariamente culinariamente RG # lt2
 culpablemente culpablemente RG # rae
@@ -952,6 +1173,7 @@ culposamente culposamente RG # lt2
 cultamente cultamente RG # rae
 culturalmente culturalmente RG # lt
 cumplidamente cumplidamente RG # rae
+cumplidoramente cumplidoramente RG # de corpus
 cumulativamente cumulativamente RG # lt2
 cuotidianamente cuotidianamente RG # lt2
 cupularmente cupularmente RG # lt2
@@ -967,23 +1189,29 @@ cándidamente cándidamente RG # rae
 cáusticamente cáusticamente RG # lt
 cáusticamente cáusticamente RG # rae
 célebremente célebremente RG # lt
+céleremente céleremente RG # de corpus
 céntricamente céntricamente RG # lt2
 cíclicamente cíclicamente RG # lt2
 cínicamente cínicamente RG # rae
 cívicamente cívicamente RG # lt2
 cómicamente cómicamente RG # lt
 cómodamente cómodamente RG # rae
+cómplicemente cómplicemente RG # de corpus
 cónicamente cónicamente RG # lt2
 cósmicamente cósmicamente RG # lt2
 cúbicamente cúbicamente RG # lt2
 dactilarmente dactilarmente RG # lt
+daderamente daderamente RG # de corpus
 dadivosamente dadivosamente RG # lt2
 dantescamente dantescamente RG # lt
 dañinamente dañinamente RG # lt2
+dañosamente dañosamente RG # de corpus
 debidamente debidamente RG # rae
+debilísimamente debilísimamente RG # de corpus
 decadentemente decadentemente RG # lt2
 decenalmente decenalmente RG # lt2
 decentemente decentemente RG # rae
+decepcionadamente decepcionadamente RG # de corpus
 decepcionantemente decepcionantemente RG # lt2
 decididamente decididamente RG # rae
 deciduamente deciduamente RG # lt2
@@ -1000,17 +1228,23 @@ dedicadamente dedicadamente RG # lt
 deductivamente deductivamente RG # lt
 defectuosamente defectuosamente RG # lt2
 defensivamente defensivamente RG # lt2
+deferencialmente deferencialmente RG # de corpus
 deferentemente deferentemente RG # lt2
 deficientemente deficientemente RG # lt2
 deficitariamente deficitariamente RG # lt2
+definidamente definidamente RG # de corpus
 definitivamente definitivamente RG # rae
 definitoriamente definitoriamente RG # lt2
+deformemente deformemente RG # de corpus
+degeneradamente degeneradamente RG # de corpus
 dejuramente dejuramente RG # rae
+delatoramente delatoramente RG # de corpus
 deleitablemente deleitablemente RG # lt2
 deleitosamente deleitosamente RG # lt2
 delgadamente delgadamente RG # rae
 deliberadamente deliberadamente RG # rae
 delicadamente delicadamente RG # rae
+delicadísimamente delicadísimamente RG # de corpus
 deliciosamente deliciosamente RG # lt
 delictivamente delictivamente RG # lt2
 delictuosamente delictuosamente RG # lt2
@@ -1023,11 +1257,14 @@ democráticamente democráticamente RG # lt
 demográficamente demográficamente RG # lt2
 demoledoramente demoledoramente RG # lt2
 demoníacamente demoníacamente RG # lt2
+demoradamente demoradamente RG # de corpus
 demostrablemente demostrablemente RG # lt2
+demostradamente demostradamente RG # de corpus
 demostrativamente demostrativamente RG # lt2
 dengosamente dengosamente RG # lt2
 denigrantemente denigrantemente RG # lt2
 denodadamente denodadamente RG # lt2
+denostadamente denostadamente RG # de corpus
 denotativamente denotativamente RG # lt2
 densamente densamente RG # lt
 dentalmente dentalmente RG # lt2
@@ -1037,16 +1274,21 @@ departidamente departidamente RG # rae
 dependientemente dependientemente RG # lt2
 deplorablemente deplorablemente RG # lt2
 deportivamente deportivamente RG # lt
+depravadamente depravadamente RG # de corpus
 depresivamente depresivamente RG # lt2
 deprimentemente deprimentemente RG # lt2
 derechamente derechamente RG # rae
+derivadamente derivadamente RG # de corpus
 derivativamente derivativamente RG # lt2
 dermatológicamente dermatológicamente RG # lt2
 derramadamente derramadamente RG # rae
+derrochadoramente derrochadoramente RG # de corpus
 desaboridamente desaboridamente RG # lt
 desabridamente desabridamente RG # rae
 desacatadamente desacatadamente RG # rae
 desacertadamente desacertadamente RG # rae
+desacompasadamente desacompasadamente RG # de corpus
+desaconsejablemente desaconsejablemente RG # de corpus
 desaconsejadamente desaconsejadamente RG # rae
 desacordadamente desacordadamente RG # rae
 desacostumbradamente desacostumbradamente RG # rae
@@ -1055,12 +1297,16 @@ desafiantemente desafiantemente RG # lt2
 desafinadamente desafinadamente RG # rae
 desaforadamente desaforadamente RG # rae
 desafortunadamente desafortunadamente RG # lt
+desagraciadamente desagraciadamente RG # de corpus
 desagradablemente desagradablemente RG # rae
+desagradecidamente desagradecidamente RG # de corpus
+desaguisadamente desaguisadamente RG # de corpus
 desahogadamente desahogadamente RG # rae
 desairadamente desairadamente RG # rae
 desaladamente desaladamente RG # rae
 desalentadamente desalentadamente RG # rae
 desalentadoramente desalentadoramente RG # lt2
+desaliñadamente desaliñadamente RG # de corpus
 desalmadamente desalmadamente RG # rae
 desalumbradamente desalumbradamente RG # rae
 desamoradamente desamoradamente RG # rae
@@ -1069,20 +1315,30 @@ desangeladamente desangeladamente RG # lt2
 desanimadamente desanimadamente RG # lt
 desapaciblemente desapaciblemente RG # rae
 desapasionadamente desapasionadamente RG # rae
+desapegadamente desapegadamente RG # de corpus
 desapercibidamente desapercibidamente RG # lt2
 desapiadadamente desapiadadamente RG # lt2
 desapoderadamente desapoderadamente RG # rae
 desaprensivamente desaprensivamente RG # lt2
 desaprobadoramente desaprobadoramente RG # lt2
+desarmadamente desarmadamente RG # de corpus
+desarregladamente desarregladamente RG # de corpus
+desarticuladamente desarticuladamente RG # de corpus
+desaseadamente desaseadamente RG # de corpus
+desasosegadamente desasosegadamente RG # de corpus
 desastradamente desastradamente RG # rae
 desastrosamente desastrosamente RG # lt2
 desatadamente desatadamente RG # rae
 desatentadamente desatentadamente RG # rae
 desatentamente desatentamente RG # rae
 desatinadamente desatinadamente RG # rae
+desazonadamente desazonadamente RG # de corpus
+desazonadoramente desazonadoramente RG # de corpus
 desbarajustadamente desbarajustadamente RG # lt
 desbaratadamente desbaratadamente RG # rae
 desbocadamente desbocadamente RG # rae
+desbordadamente desbordadamente RG # de corpus
+desbordantemente desbordantemente RG # de corpus
 descabelladamente descabelladamente RG # rae
 descansadamente descansadamente RG # rae
 descaradamente descaradamente RG # rae
@@ -1091,15 +1347,18 @@ descendentemente descendentemente RG # lt2
 descendientemente descendientemente RG # lt2
 descomedidamente descomedidamente RG # rae
 descompasadamente descompasadamente RG # rae
+descompensadamente descompensadamente RG # de corpus
 descompuestamente descompuestamente RG # rae
 descomunalmente descomunalmente RG # rae
 desconcertadamente desconcertadamente RG # rae
 desconcertantemente desconcertantemente RG # lt
+desconectadamente desconectadamente RG # de corpus
 desconfiadamente desconfiadamente RG # rae
 desconocidamente desconocidamente RG # rae
 desconsideradamente desconsideradamente RG # rae
 desconsoladamente desconsoladamente RG # rae
 desconsoladoramente desconsoladoramente RG # lt2
+descontroladamente descontroladamente RG # de corpus
 descoordinadamente descoordinadamente RG # lt2
 descorazonadamente descorazonadamente RG # rae
 descorazonadoramente descorazonadoramente RG # lt2
@@ -1114,14 +1373,20 @@ deseablemente deseablemente RG # lt2
 desembarazadamente desembarazadamente RG # rae
 desembargadamente desembargadamente RG # rae
 desembozadamente desembozadamente RG # rae
+desencajadamente desencajadamente RG # de corpus
 desenfadadamente desenfadadamente RG # lt
+desenfocadamente desenfocadamente RG # de corpus
 desenfrenadamente desenfrenadamente RG # lt
 desengañadamente desengañadamente RG # rae
+desentonadamente desentonadamente RG # de corpus
 desenvueltamente desenvueltamente RG # rae
 deseosamente deseosamente RG # lt2
 desesperadamente desesperadamente RG # lt
 desesperantemente desesperantemente RG # lt2
+desesperanzadamente desesperanzadamente RG # de corpus
+desesperanzadoramente desesperanzadoramente RG # de corpus
 desfachatadamente desfachatadamente RG # lt2
+desfallecidamente desfallecidamente RG # de corpus
 desfavorablemente desfavorablemente RG # rae
 desganadamente desganadamente RG # lt
 desgarbadamente desgarbadamente RG # lt2
@@ -1129,33 +1394,48 @@ desgarradamente desgarradamente RG # rae
 desgarradoramente desgarradoramente RG # lt2
 desgastadamente desgastadamente RG # lt
 desgraciadamente desgraciadamente RG # rae
+deshilvanadamente deshilvanadamente RG # de corpus
 deshonestamente deshonestamente RG # rae
 deshonrosamente deshonrosamente RG # lt2
 desiderativamente desiderativamente RG # lt2
+desidiosamente desidiosamente RG # de corpus
 desigualmente desigualmente RG # rae
 desinhibidamente desinhibidamente RG # lt2
 desinteresadamente desinteresadamente RG # rae
+deslavazadamente deslavazadamente RG # de corpus
 deslealmente deslealmente RG # lt2
 deslucidamente deslucidamente RG # rae
 deslumbradoramente deslumbradoramente RG # lt2
 deslumbrantemente deslumbrantemente RG # lt2
+desmadejadamente desmadejadamente RG # de corpus
+desmanotadamente desmanotadamente RG # de corpus
+desmayadamente desmayadamente RG # de corpus
 desmañadamente desmañadamente RG # lt2
 desmedidamente desmedidamente RG # rae
 desmesuradamente desmesuradamente RG # rae
+desmoralizadoramente desmoralizadoramente RG # de corpus
 desnudamente desnudamente RG # rae
 desobedientemente desobedientemente RG # lt2
 desoladamente desoladamente RG # lt
 desoladoramente desoladoramente RG # lt
+desolladamente desolladamente RG # de corpus
+desorbitadamente desorbitadamente RG # de corpus
 desordenadamente desordenadamente RG # rae
 desorganizadamente desorganizadamente RG # rae
+desorientadoramente desorientadoramente RG # de corpus
 despaciosamente despaciosamente RG # rae
+despampanantemente despampanantemente RG # de corpus
+desparejamente desparejamente RG # de corpus
+despavoridamente despavoridamente RG # de corpus
 despechadamente despechadamente RG # rae
 despectivamente despectivamente RG # rae
 despegadamente despegadamente RG # rae
+despejadamente despejadamente RG # de corpus
 despeñadamente despeñadamente RG # rae
 despiadadamente despiadadamente RG # lt
 despiertamente despiertamente RG # rae
 despilfarradoramente despilfarradoramente RG # lt
+despistadamente despistadamente RG # de corpus
 despreciablemente despreciablemente RG # lt2
 despreciativamente despreciativamente RG # lt2
 despreocupadamente despreocupadamente RG # lt
@@ -1163,10 +1443,15 @@ desprevenidamente desprevenidamente RG # rae
 desprolijamente desprolijamente RG # rae
 desproporcionadamente desproporcionadamente RG # lt
 despóticamente despóticamente RG # lt
+desquiciadamente desquiciadamente RG # de corpus
 destacablemente destacablemente RG # lt2
+destacadamente destacadamente RG # de corpus
+destartaladamente destartaladamente RG # de corpus
 destempladamente destempladamente RG # rae
 destructivamente destructivamente RG # rae
+destructoramente destructoramente RG # de corpus
 desusadamente desusadamente RG # rae
+desvalidamente desvalidamente RG # de corpus
 desvariadamente desvariadamente RG # rae
 desvaídamente desvaídamente RG # lt2
 desventajosamente desventajosamente RG # lt2
@@ -1174,12 +1459,14 @@ desventuradamente desventuradamente RG # lt2
 desvergonzadamente desvergonzadamente RG # rae
 detalladamente detalladamente RG # rae
 detenidamente detenidamente RG # rae
+determinadamente determinadamente RG # de corpus
 determinantemente determinantemente RG # lt2
 determinísticamente determinísticamente RG # lt2
 detestablemente detestablemente RG # lt2
 devastadoramente devastadoramente RG # lt2
 devoradoramente devoradoramente RG # lt2
 devotamente devotamente RG # lt
+devotísimamente devotísimamente RG # de corpus
 deícticamente deícticamente RG # lt2
 diabólicamente diabólicamente RG # lt
 diacrónicamente diacrónicamente RG # lt2
@@ -1188,6 +1475,7 @@ diagonalmente diagonalmente RG # rae
 diagramáticamente diagramáticamente RG # lt2
 dialectalmente dialectalmente RG # lt2
 dialécticamente dialécticamente RG # lt2
+dialógicamente dialógicamente RG # de corpus
 diamantinamente diamantinamente RG # lt2
 diametralmente diametralmente RG # rae
 diariamente diariamente RG # rae
@@ -1199,6 +1487,7 @@ dicótomamente dicótomamente RG # lt2
 didácticamente didácticamente RG # lt
 diestramente diestramente RG # rae
 dietéticamente dietéticamente RG # lt2
+diferenciadamente diferenciadamente RG # de corpus
 diferencialmente diferencialmente RG # lt2
 diferentemente diferentemente RG # rae
 dificultosamente dificultosamente RG # rae
@@ -1209,48 +1498,63 @@ digitadamente digitadamente RG # lt2
 digitalmente digitalmente RG # lt
 dignamente dignamente RG # rae
 dilatadamente dilatadamente RG # rae
+dilectamente dilectamente RG # de corpus
 diligentemente diligentemente RG # rae
 dimensionalmente dimensionalmente RG # lt2
 diminutamente diminutamente RG # rae
 diminutivamente diminutivamente RG # rae
 dinámicamente dinámicamente RG # rae
 dinásticamente dinásticamente RG # lt2
+dionisiacamente dionisiacamente RG # de corpus
 diplomáticamente diplomáticamente RG # lt2
 direccionalmente direccionalmente RG # lt2
 directamente directamente RG # rae
 directivamente directivamente RG # lt2
+disciplinadamente disciplinadamente RG # de corpus
 disciplinariamente disciplinariamente RG # lt2
 discográficamente discográficamente RG # lt2
 discontinuamente discontinuamente RG # lt2
 discordantemente discordantemente RG # lt2
 discrecionalmente discrecionalmente RG # lt
 discretamente discretamente RG # rae
+discretísimamente discretísimamente RG # de corpus
+discriminadamente discriminadamente RG # de corpus
 discriminatoriamente discriminatoriamente RG # lt2
+disculpablemente disculpablemente RG # de corpus
 disculpadamente disculpadamente RG # rae
 discursivamente discursivamente RG # lt
 discutiblemente discutiblemente RG # lt2
 disformemente disformemente RG # lt2
 disimuladamente disimuladamente RG # rae
 disjuntamente disjuntamente RG # lt2
+dislocadamente dislocadamente RG # de corpus
 disolutamente disolutamente RG # lt2
+disonantemente disonantemente RG # de corpus
+disparadamente disparadamente RG # de corpus
 disparatadamente disparatadamente RG # rae
 disparejamente disparejamente RG # lt2
 dispendiosamente dispendiosamente RG # lt2
 dispersamente dispersamente RG # lt
 displicentemente displicentemente RG # lt2
 dispositivamente dispositivamente RG # rae
+dispépticamente dispépticamente RG # de corpus
 distalmente distalmente RG # lt2
+distanciadamente distanciadamente RG # de corpus
 distantemente distantemente RG # rae
 distendidamente distendidamente RG # lt
 distinguiblemente distinguiblemente RG # lt2
+distinguidamente distinguidamente RG # de corpus
 distintamente distintamente RG # lt
 distintivamente distintivamente RG # lt2
+distorsionadamente distorsionadamente RG # de corpus
 distraídamente distraídamente RG # lt
 distribucionalmente distribucionalmente RG # lt2
+disuasoriamente disuasoriamente RG # de corpus
 disyuntivamente disyuntivamente RG # rae
 diurnamente diurnamente RG # lt2
 divergentemente divergentemente RG # lt2
 diversamente diversamente RG # rae
+divertidamente divertidamente RG # de corpus
 divinamente divinamente RG # rae
 divulgativamente divulgativamente RG # lt2
 diáfanamente diáfanamente RG # lt2
@@ -1261,9 +1565,12 @@ doctamente doctamente RG # rae
 doctoralmente doctoralmente RG # lt2
 doctrinalmente doctrinalmente RG # lt2
 doctrinariamente doctrinariamente RG # lt2
+documentadamente documentadamente RG # de corpus
 documentalmente documentalmente RG # lt
 documentariamente documentariamente RG # lt2
 dogmáticamente dogmáticamente RG # rae
+dolidamente dolidamente RG # de corpus
+dolientemente dolientemente RG # de corpus
 doloridamente doloridamente RG # lt2
 dolorosamente dolorosamente RG # rae
 dolosamente dolosamente RG # rae
@@ -1273,23 +1580,30 @@ dominantemente dominantemente RG # lt2
 dominicalmente dominicalmente RG # lt2
 domésticamente domésticamente RG # rae
 donosamente donosamente RG # lt2
+doradamente doradamente RG # de corpus
 dorsalmente dorsalmente RG # lt
 dorsolateralmente dorsolateralmente RG # lt2
+dorsoventralmente dorsoventralmente RG # de corpus
+dramatúrgicamente dramatúrgicamente RG # de corpus
 dramáticamente dramáticamente RG # rae
 drásticamente drásticamente RG # lt
 dualmente dualmente RG # lt2
 dubitativamente dubitativamente RG # derivat
 dubitativamente dubitativamente RG # lt2
+dudablemente dudablemente RG # de corpus
 dudosamente dudosamente RG # rae
 dulcemente dulcemente RG # rae
+dulcísimamente dulcísimamente RG # de corpus
 dulzonamente dulzonamente RG # lt2
 duplicadamente duplicadamente RG # rae
 durablemente durablemente RG # lt2
 duraderamente duraderamente RG # rae
 duramente duramente RG # rae
+durísimamente durísimamente RG # de corpus
 débilmente débilmente RG # rae
 dísticamente dísticamente RG # lt2
 dócilmente dócilmente RG # rae
+dúctilmente dúctilmente RG # de corpus
 ebriamente ebriamente RG # lt
 eclesialmente eclesialmente RG # lt2
 eclesiásticamente eclesiásticamente RG # rae
@@ -1305,11 +1619,13 @@ edificantemente edificantemente RG # lt2
 ediliciamente ediliciamente RG # lt2
 editorialmente editorialmente RG # rae
 educacionalmente educacionalmente RG # lt2
+educadamente educadamente RG # de corpus
 educativamente educativamente RG # lt2
 edulcoradamente edulcoradamente RG # lt
 edáficamente edáficamente RG # lt2
 efectistamente efectistamente RG # lt2
 efectivamente efectivamente RG # rae
+eficacísimamente eficacísimamente RG # de corpus
 eficazmente eficazmente RG # rae
 eficientemente eficientemente RG # rae
 efusivamente efusivamente RG # lt
@@ -1335,6 +1651,7 @@ electroquímicamente electroquímicamente RG # lt2
 electrostáticamente electrostáticamente RG # lt2
 electrónicamente electrónicamente RG # rae
 elegantemente elegantemente RG # rae
+elegantísimamente elegantísimamente RG # de corpus
 elegíacamente elegíacamente RG # lt2
 elementalmente elementalmente RG # rae
 elevadamente elevadamente RG # rae
@@ -1347,42 +1664,56 @@ eléctricamente eléctricamente RG # lt
 elípticamente elípticamente RG # rae
 embarazadamente embarazadamente RG # rae
 embarazosamente embarazosamente RG # rae
+embarulladamente embarulladamente RG # de corpus
 embebecidamente embebecidamente RG # rae
+embelesadamente embelesadamente RG # de corpus
 emblemáticamente emblemáticamente RG # rae
+embotadamente embotadamente RG # de corpus
 embozadamente embozadamente RG # rae
 embriagadoramente embriagadoramente RG # lt2
 embriológicamente embriológicamente RG # lt2
 embrionariamente embrionariamente RG # lt2
+embrolladamente embrolladamente RG # de corpus
+embrujadoramente embrujadoramente RG # de corpus
 embusteramente embusteramente RG # lt2
 emergentemente emergentemente RG # lt2
 eminencialmente eminencialmente RG # rae
 eminentemente eminentemente RG # rae
+emocionadamente emocionadamente RG # de corpus
 emocionalmente emocionalmente RG # rae
 emocionantemente emocionantemente RG # lt2
 emotivamente emotivamente RG # rae
 empalagosamente empalagosamente RG # lt2
 emparejadamente emparejadamente RG # lt
 empecinadamente empecinadamente RG # lt
+empedernidamente empedernidamente RG # de corpus
 empeñadamente empeñadamente RG # rae
 empeñosamente empeñosamente RG # rae
+empinadamente empinadamente RG # de corpus
 emprendedoramente emprendedoramente RG # lt
 empresarialmente empresarialmente RG # lt2
 empáticamente empáticamente RG # lt
 empíricamente empíricamente RG # rae
+enajenadamente enajenadamente RG # de corpus
 enaltecedoramente enaltecedoramente RG # lt2
 enamoradamente enamoradamente RG # rae
+enardecidamente enardecidamente RG # de corpus
 enarmónicamente enarmónicamente RG # lt2
 encandiladamente encandiladamente RG # lt
 encantadoramente encantadoramente RG # lt
 encarecidamente encarecidamente RG # rae
 encargadamente encargadamente RG # rae
+encarnecidamente encarnecidamente RG # de corpus
 encarnizadamente encarnizadamente RG # rae
 encasilladamente encasilladamente RG # lt
 encendidamente encendidamente RG # rae
 enciclopédicamente enciclopédicamente RG # lt2
 encogidamente encogidamente RG # rae
+encolerizadamente encolerizadamente RG # de corpus
 encomiablemente encomiablemente RG # lt2
+encomiosamente encomiosamente RG # de corpus
 encomiásticamente encomiásticamente RG # lt2
+enconadamente enconadamente RG # de corpus
 encontradamente encontradamente RG # rae
 encubiertamente encubiertamente RG # rae
 encumbradamente encumbradamente RG # rae
@@ -1391,6 +1722,7 @@ endemoniadamente endemoniadamente RG # lt
 endiabladamente endiabladamente RG # rae
 endogámicamente endogámicamente RG # lt2
 endoscópicamente endoscópicamente RG # lt2
+endovenosamente endovenosamente RG # de corpus
 endémicamente endémicamente RG # lt2
 endógenamente endógenamente RG # lt2
 enemigamente enemigamente RG # rae
@@ -1398,22 +1730,34 @@ energéticamente energéticamente RG # lt2
 enervantemente enervantemente RG # lt
 enfadadamente enfadadamente RG # lt
 enfadosamente enfadosamente RG # rae
+enfebrecidamente enfebrecidamente RG # de corpus
+enfermamente enfermamente RG # de corpus
 enfermizamente enfermizamente RG # lt2
+enfurecidamente enfurecidamente RG # de corpus
 enfáticamente enfáticamente RG # rae
+engañadamente engañadamente RG # de corpus
 engañadoramente engañadoramente RG # lt2
 engañosamente engañosamente RG # rae
 engoladamente engoladamente RG # lt2
+engorrosamente engorrosamente RG # de corpus
+engreídamente engreídamente RG # de corpus
 enigmáticamente enigmáticamente RG # rae
 enjundiosamente enjundiosamente RG # lt2
 enloquecedoramente enloquecedoramente RG # rae
 enloquecidamente enloquecidamente RG # rae
+enmarañadamente enmarañadamente RG # de corpus
+enojadamente enojadamente RG # de corpus
 enojosamente enojosamente RG # rae
 enormemente enormemente RG # rae
 enredosamente enredosamente RG # lt
 enrevesadamente enrevesadamente RG # lt2
 enriquecedoramente enriquecedoramente RG # lt2
+enroscadamente enroscadamente RG # de corpus
 ensayísticamente ensayísticamente RG # lt2
+ensañadamente ensañadamente RG # de corpus
+ensimismadamente ensimismadamente RG # de corpus
 ensordecedoramente ensordecedoramente RG # lt2
+ensoñadamente ensoñadamente RG # de corpus
 ensoñadoramente ensoñadoramente RG # lt2
 entendiblemente entendiblemente RG # lt2
 entendidamente entendidamente RG # rae
@@ -1421,13 +1765,19 @@ enteramente enteramente RG # rae
 enternecedoramente enternecedoramente RG # lt
 enternecidamente enternecidamente RG # rae
 entitativamente entitativamente RG # lt2
+entonadamente entonadamente RG # de corpus
 entrañablemente entrañablemente RG # rae
+entrecortadamente entrecortadamente RG # de corpus
 entregadamente entregadamente RG # rae
 entretenidamente entretenidamente RG # lt
 entrópicamente entrópicamente RG # lt2
+entumecidamente entumecidamente RG # de corpus
+entusiasmadamente entusiasmadamente RG # de corpus
 entusiastamente entusiastamente RG # lt
 entusiásticamente entusiásticamente RG # lt2
 enunciativamente enunciativamente RG # lt2
+envanecidamente envanecidamente RG # de corpus
+envaradamente envaradamente RG # de corpus
 envidiablemente envidiablemente RG # lt2
 envidiosamente envidiosamente RG # lt2
 enzimáticamente enzimáticamente RG # lt2
@@ -1445,6 +1795,7 @@ epistemológicamente epistemológicamente RG # lt2
 epistolarmente epistolarmente RG # lt2
 epistémicamente epistémicamente RG # lt2
 episódicamente episódicamente RG # rae
+epitomadamente epitomadamente RG # de corpus
 equidistantemente equidistantemente RG # lt2
 equilibradamente equilibradamente RG # rae
 equitativamente equitativamente RG # rae
@@ -1452,16 +1803,22 @@ equivalentemente equivalentemente RG # rae
 equivocadamente equivocadamente RG # rae
 equívocamente equívocamente RG # rae
 ergonómicamente ergonómicamente RG # lt
+erguidamente erguidamente RG # de corpus
 erosivamente erosivamente RG # lt2
 erradamente erradamente RG # rae
 erráticamente erráticamente RG # lt
 erróneamente erróneamente RG # rae
 eruditamente eruditamente RG # rae
 eróticamente eróticamente RG # lt2
+esbeltamente esbeltamente RG # de corpus
+esbozadamente esbozadamente RG # de corpus
 escabrosamente escabrosamente RG # rae
 escalarmente escalarmente RG # lt2
 escalofriantemente escalofriantemente RG # lt2
+escalonadamente escalonadamente RG # de corpus
+escandalizadamente escandalizadamente RG # de corpus
 escandalosamente escandalosamente RG # rae
+escarpadamente escarpadamente RG # de corpus
 escasamente escasamente RG # rae
 escatimosamente escatimosamente RG # rae
 escatológicamente escatológicamente RG # lt
@@ -1474,9 +1831,11 @@ escondidamente escondidamente RG # rae
 escrupulosamente escrupulosamente RG # rae
 escrutadoramente escrutadoramente RG # lt2
 escuderilmente escuderilmente RG # lt
+escudriñadoramente escudriñadoramente RG # de corpus
 escuetamente escuetamente RG # rae
 esculturalmente esculturalmente RG # lt2
 escultóricamente escultóricamente RG # lt2
+escurridizamente escurridizamente RG # de corpus
 escénicamente escénicamente RG # lt2
 escépticamente escépticamente RG # lt2
 esdrújulamente esdrújulamente RG # lt2
@@ -1496,6 +1855,7 @@ espartanamente espartanamente RG # lt
 espasmódicamente espasmódicamente RG # lt
 españolamente españolamente RG # lt2
 especialmente especialmente RG # rae
+especialísimamente especialísimamente RG # de corpus
 especificadamente especificadamente RG # rae
 espectacularmente espectacularmente RG # lt
 espectralmente espectralmente RG # lt2
@@ -1507,6 +1867,8 @@ específicamente específicamente RG # rae
 espeleológicamente espeleológicamente RG # lt2
 espeluznantemente espeluznantemente RG # lt2
 esperablemente esperablemente RG # lt2
+esperadamente esperadamente RG # de corpus
+esperanzadamente esperanzadamente RG # de corpus
 esperanzadoramente esperanzadoramente RG # lt2
 esperpénticamente esperpénticamente RG # lt2
 espesamente espesamente RG # rae
@@ -1520,7 +1882,9 @@ espléndidamente espléndidamente RG # rae
 espontáneamente espontáneamente RG # rae
 esporádicamente esporádicamente RG # lt
 espuriamente espuriamente RG # lt2
+esqueléticamente esqueléticamente RG # de corpus
 esquemáticamente esquemáticamente RG # rae
+esquinadamente esquinadamente RG # de corpus
 esquivamente esquivamente RG # lt2
 esquizofrénicamente esquizofrénicamente RG # lt2
 establemente establemente RG # rae
@@ -1537,29 +1901,41 @@ estequiométricamente estequiométricamente RG # lt2
 estereofónicamente estereofónicamente RG # lt2
 estereoscópicamente estereoscópicamente RG # lt
 estereoselectivamente estereoselectivamente RG # lt2
+estereotipadamente estereotipadamente RG # de corpus
 estereotípicamente estereotípicamente RG # lt2
+estertorosamente estertorosamente RG # de corpus
 estertóreamente estertóreamente RG # lt2
 estigmáticamente estigmáticamente RG # lt2
+estilizadamente estilizadamente RG # de corpus
 estilísticamente estilísticamente RG # lt
 estimativamente estimativamente RG # lt2
 estimulantemente estimulantemente RG # lt2
+estiradamente estiradamente RG # de corpus
 estivalmente estivalmente RG # lt2
 estocásticamente estocásticamente RG # lt2
 estoicamente estoicamente RG # rae
 estrafalariamente estrafalariamente RG # rae
+estragadamente estragadamente RG # de corpus
 estrambóticamente estrambóticamente RG # rae
+estranguladamente estranguladamente RG # de corpus
 estratigráficamente estratigráficamente RG # lt2
+estratosféricamente estratosféricamente RG # de corpus
 estratégicamente estratégicamente RG # rae
 estrechamente estrechamente RG # rae
 estrechísimamente estrechísimamente RG # lt
 estremecedoramente estremecedoramente RG # lt2
+estremecidamente estremecidamente RG # de corpus
 estrepitosamente estrepitosamente RG # rae
 estrictamente estrictamente RG # rae
 estridentemente estridentemente RG # lt2
+estroboscópicamente estroboscópicamente RG # de corpus
 estropajosamente estropajosamente RG # rae
 estructuralmente estructuralmente RG # lt
 estruendosamente estruendosamente RG # rae
+estrábicamente estrábicamente RG # de corpus
+estudiadamente estudiadamente RG # de corpus
 estudiosamente estudiosamente RG # rae
+estultamente estultamente RG # de corpus
 estupendamente estupendamente RG # rae
 estáticamente estáticamente RG # lt2
 estéricamente estéricamente RG # lt2
@@ -1573,32 +1949,44 @@ etimológicamente etimológicamente RG # rae
 etiológicamente etiológicamente RG # lt2
 etnográficamente etnográficamente RG # lt2
 etnológicamente etnológicamente RG # lt2
+etéreamente etéreamente RG # de corpus
 etílicamente etílicamente RG # lt2
 eucarísticamente eucarísticamente RG # lt2
 eufemísticamente eufemísticamente RG # lt2
 eufónicamente eufónicamente RG # lt2
 eufóricamente eufóricamente RG # lt2
+eugenésicamente eugenésicamente RG # de corpus
 europeamente europeamente RG # lt2
 eutanásicamente eutanásicamente RG # lt2
+evaluadoramente evaluadoramente RG # de corpus
 evaluativamente evaluativamente RG # lt2
+evanescentemente evanescentemente RG # de corpus
 evangélicamente evangélicamente RG # rae
 evasivamente evasivamente RG # lt
 eventualmente eventualmente RG # rae
 evidentemente evidentemente RG # rae
+evidentísimamente evidentísimamente RG # de corpus
 evocadoramente evocadoramente RG # lt2
+evocativamente evocativamente RG # de corpus
 evolutivamente evolutivamente RG # rae
+exacerbadamente exacerbadamente RG # de corpus
 exactamente exactamente RG # rae
+exactísimamente exactísimamente RG # de corpus
 exageradamente exageradamente RG # rae
 exagerativamente exagerativamente RG # lt
+exaltadamente exaltadamente RG # de corpus
+exasperadamente exasperadamente RG # de corpus
 exasperantemente exasperantemente RG # lt2
 excelentemente excelentemente RG # rae
 excelsamente excelsamente RG # rae
 excepcionalmente excepcionalmente RG # rae
 excesivamente excesivamente RG # rae
+excitadamente excitadamente RG # de corpus
 excitantemente excitantemente RG # lt2
 exclamativamente exclamativamente RG
 exclusivamente exclusivamente RG # rae
 excluyentemente excluyentemente RG # lt2
+excusablemente excusablemente RG # de corpus
 excéntricamente excéntricamente RG # rae
 execrablemente execrablemente RG # lt
 exegéticamente exegéticamente RG # lt2
@@ -1610,12 +1998,14 @@ exiguamente exiguamente RG # lt2
 eximiamente eximiamente RG # lt2
 existencialmente existencialmente RG # lt2
 exitosamente exitosamente RG # rae
+exorbitadamente exorbitadamente RG # de corpus
 exorbitantemente exorbitantemente RG # rae
 exotérmicamente exotérmicamente RG # lt2
 expansivamente expansivamente RG # lt2
 expectantemente expectantemente RG # lt
 expeditamente expeditamente RG # rae
 expeditivamente expeditivamente RG # lt2
+experiencialmente experiencialmente RG # de corpus
 experimentalmente experimentalmente RG # rae
 expertamente expertamente RG # rae
 explicablemente explicablemente RG # rae
@@ -1628,6 +2018,7 @@ expositivamente expositivamente RG # lt2
 expresamente expresamente RG # rae
 expresivamente expresivamente RG # rae
 exquisitamente exquisitamente RG # rae
+extasiadamente extasiadamente RG # de corpus
 extemporáneamente extemporáneamente RG # rae
 extendidamente extendidamente RG # rae
 extensamente extensamente RG # rae
@@ -1637,11 +2028,13 @@ externamente externamente RG # rae
 extracelularmente extracelularmente RG # lt2
 extracurricularmente extracurricularmente RG # lt2
 extrajudicialmente extrajudicialmente RG # rae
+extralegalmente extralegalmente RG # de corpus
 extraoficialmente extraoficialmente RG # rae
 extraordinariamente extraordinariamente RG # rae
 extrasensorialmente extrasensorialmente RG # lt2
 extraterritorialmente extraterritorialmente RG # lt2
 extravagantemente extravagantemente RG # lt2
+extrañadamente extrañadamente RG # de corpus
 extrañamente extrañamente RG # rae
 extremadamente extremadamente RG # rae
 extremamente extremamente RG # rae
@@ -1656,6 +2049,7 @@ exóticamente exóticamente RG # lt
 fabulosamente fabulosamente RG # rae
 facciosamente facciosamente RG # lt2
 facialmente facialmente RG # lt2
+facilísimamente facilísimamente RG # de corpus
 facsimilarmente facsimilarmente RG # lt2
 factiblemente factiblemente RG # lt
 facticiamente facticiamente RG # lt2
@@ -1663,6 +2057,8 @@ factorialmente factorialmente RG # lt2
 factualmente factualmente RG # lt2
 facultativamente facultativamente RG # rae
 falazmente falazmente RG # rae
+fallidamente fallidamente RG # de corpus
+fallutamente fallutamente RG # de corpus
 falsamente falsamente RG # rae
 faltamente faltamente RG # lt2
 familiarmente familiarmente RG # rae
@@ -1676,6 +2072,8 @@ fanáticamente fanáticamente RG # rae
 farisaicamente farisaicamente RG # rae
 farmacológicamente farmacológicamente RG # lt2
 farmacéuticamente farmacéuticamente RG # lt2
+farragosamente farragosamente RG # de corpus
+fascinadoramente fascinadoramente RG # de corpus
 fascinantemente fascinantemente RG # lt
 fastidiosamente fastidiosamente RG # rae
 fastuosamente fastuosamente RG # rae
@@ -1687,6 +2085,7 @@ fatuamente fatuamente RG # lt2
 fatídicamente fatídicamente RG # rae
 faunísticamente faunísticamente RG # lt2
 favorablemente favorablemente RG # rae
+favorecedoramente favorecedoramente RG # de corpus
 feamente feamente RG # rae
 feblemente feblemente RG # lt
 febrilmente febrilmente RG # rae
@@ -1706,6 +2105,7 @@ fenomenalmente fenomenalmente RG # lt2
 fenomenológicamente fenomenológicamente RG # lt2
 fenoménicamente fenoménicamente RG # lt2
 fenotípicamente fenotípicamente RG # lt2
+ferazmente ferazmente RG # de corpus
 ferozmente ferozmente RG # rae
 ferroviariamente ferroviariamente RG # lt2
 fervientemente fervientemente RG # rae
@@ -1723,6 +2123,7 @@ figuradamente figuradamente RG # rae
 figurativamente figurativamente RG # rae
 fijamente fijamente RG # rae
 filantrópicamente filantrópicamente RG # lt2
+filatélicamente filatélicamente RG # de corpus
 filialmente filialmente RG # rae
 filogenéticamente filogenéticamente RG # lt2
 filogénicamente filogénicamente RG # lt2
@@ -1736,7 +2137,9 @@ financiariamente financiariamente RG # lt2
 financieramente financieramente RG # lt
 fingidamente fingidamente RG # rae
 finitamente finitamente RG # lt2
+finísimamente finísimamente RG # de corpus
 firmemente firmemente RG # rae
+firmísimamente firmísimamente RG # de corpus
 fiscalmente fiscalmente RG # rae
 fisgonamente fisgonamente RG # lt
 fisicoquímicamente fisicoquímicamente RG # lt2
@@ -1757,6 +2160,7 @@ floridamente floridamente RG # rae
 fluentemente fluentemente RG # lt2
 fluidamente fluidamente RG # lt
 fluorescentemente fluorescentemente RG # lt2
+fluoroscópicamente fluoroscópicamente RG # de corpus
 fluvialmente fluvialmente RG # lt2
 fláccidamente fláccidamente RG # lt2
 flácidamente flácidamente RG # lt2
@@ -1776,6 +2180,7 @@ forestalmente forestalmente RG # lt2
 formalmente formalmente RG # rae
 formativamente formativamente RG # lt2
 formidablemente formidablemente RG # lt2
+formulariamente formulariamente RG # de corpus
 fortuitamente fortuitamente RG # rae
 fortísimamente fortísimamente RG # lt
 forzadamente forzadamente RG # rae
@@ -1785,6 +2190,7 @@ foráneamente foráneamente RG # lt2
 foscamente foscamente RG # lt2
 fotoelásticamente fotoelásticamente RG # lt2
 fotográficamente fotográficamente RG # rae
+fotogénicamente fotogénicamente RG # de corpus
 fotolitográficamente fotolitográficamente RG # rae
 fotomecánicamente fotomecánicamente RG # lt2
 fotométricamente fotométricamente RG # lt2
@@ -1793,6 +2199,8 @@ fotosintéticamente fotosintéticamente RG # lt2
 fracasadamente fracasadamente RG # lt
 fraccionalmente fraccionalmente RG # lt2
 fraccionariamente fraccionariamente RG # lt
+fragantemente fragantemente RG # de corpus
+fragmentadamente fragmentadamente RG # de corpus
 fragmentariamente fragmentariamente RG # lt2
 fragorosamente fragorosamente RG # lt2
 frailunamente frailunamente RG # lt2
@@ -1808,11 +2216,13 @@ frecuentemente frecuentemente RG # rae
 frenéticamente frenéticamente RG # rae
 frescamente frescamente RG # rae
 freudianamente freudianamente RG # lt2
+frioleramente frioleramente RG # de corpus
 frondosamente frondosamente RG # lt2
 frontalmente frontalmente RG # lt
 fructuosamente fructuosamente RG # rae
 fructíferamente fructíferamente RG # rae
 frugalmente frugalmente RG # rae
+frustradamente frustradamente RG # de corpus
 frustrantemente frustrantemente RG # lt2
 frutalmente frutalmente RG # lt2
 frágilmente frágilmente RG # rae
@@ -1824,10 +2234,12 @@ fugazmente fugazmente RG # rae
 fugitivamente fugitivamente RG # lt2
 fulgurantemente fulgurantemente RG # lt2
 fulminantemente fulminantemente RG # lt
+fulmíneamente fulmíneamente RG # de corpus
 funcionalmente funcionalmente RG # lt
 fundacionalmente fundacionalmente RG # lt2
 fundadamente fundadamente RG # rae
 fundamentalmente fundamentalmente RG # rae
+funeralmente funeralmente RG # de corpus
 funerariamente funerariamente RG # lt2
 funestamente funestamente RG # rae
 furibundamente furibundamente RG # lt2
@@ -1838,6 +2250,7 @@ futuramente futuramente RG # lt2
 futurísticamente futurísticamente RG # lt2
 fácilmente fácilmente RG # rae
 fácticamente fácticamente RG # lt
+fáusticamente fáusticamente RG # de corpus
 férreamente férreamente RG # lt
 fértilmente fértilmente RG # lt2
 férvidamente férvidamente RG # lt2
@@ -1850,17 +2263,25 @@ fútilmente fútilmente RG # lt
 galanamente galanamente RG # rae
 galantemente galantemente RG # rae
 gallardamente gallardamente RG # rae
+galopantemente galopantemente RG # de corpus
+galvanoplásticamente galvanoplásticamente RG # de corpus
 galvánicamente galvánicamente RG # lt
+galácticamente galácticamente RG # de corpus
 gananciosamente gananciosamente RG # lt2
 gangosamente gangosamente RG # lt2
 ganosamente ganosamente RG # rae
+garantizadamente garantizadamente RG # de corpus
 garbosamente garbosamente RG # rae
 garrafalmente garrafalmente RG # lt2
 garridamente garridamente RG # rae
+gaseosamente gaseosamente RG # de corpus
 gastronómicamente gastronómicamente RG # lt2
 gatunamente gatunamente RG # lt
+gazmoñamente gazmoñamente RG # de corpus
+gelatinosamente gelatinosamente RG # de corpus
 genealógicamente genealógicamente RG # lt2
 generacionalmente generacionalmente RG # lt2
+generalizadamente generalizadamente RG # de corpus
 generalmente generalmente RG # rae
 generativamente generativamente RG # lt2
 generosamente generosamente RG # rae
@@ -1886,8 +2307,11 @@ geotrópicamente geotrópicamente RG # lt2
 geotécnicamente geotécnicamente RG # lt2
 geotérmicamente geotérmicamente RG # lt2
 gerencialmente gerencialmente RG # lt2
+geriátricamente geriátricamente RG # de corpus
 germinalmente germinalmente RG # lt2
+germánicamente germánicamente RG # de corpus
 gesticulantemente gesticulantemente RG # lt
+gestualmente gestualmente RG # de corpus
 gigantemente gigantemente RG # lt2
 gigantescamente gigantescamente RG # lt2
 gimnásticamente gimnásticamente RG # lt2
@@ -1895,11 +2319,15 @@ ginecológicamente ginecológicamente RG # lt2
 giroscópicamente giroscópicamente RG # lt2
 gitanamente gitanamente RG # lt
 glacialmente glacialmente RG # rae
+glamourosamente glamourosamente RG # de corpus
+glamurosamente glamurosamente RG # de corpus
 globalmente globalmente RG # lt
 gloriosamente gloriosamente RG # rae
+gloriosísimamente gloriosísimamente RG # de corpus
 glotonamente glotonamente RG # rae
 gnoseológicamente gnoseológicamente RG # lt2
 golosamente golosamente RG # rae
+gordamente gordamente RG # de corpus
 gozosamente gozosamente RG # rae
 graciosamente graciosamente RG # rae
 gradualmente gradualmente RG # rae
@@ -1909,20 +2337,28 @@ grandemente grandemente RG # rae
 grandilocuentemente grandilocuentemente RG # lt2
 grandiosamente grandiosamente RG # rae
 graníticamente graníticamente RG # lt2
+grasamente grasamente RG # de corpus
+grasientamente grasientamente RG # de corpus
 gratamente gratamente RG # rae
+gratificantemente gratificantemente RG # de corpus
 gratuitamente gratuitamente RG # rae
 gravemente gravemente RG # rae
 gravimétricamente gravimétricamente RG # lt2
 gravitacionalmente gravitacionalmente RG # lt
 gravitatoriamente gravitatoriamente RG # lt2
+gravosamente gravosamente RG # de corpus
+gravísimamente gravísimamente RG # de corpus
 gregariamente gregariamente RG # lt2
 gremialmente gremialmente RG # lt2
+grosamente grosamente RG # de corpus
 groseramente groseramente RG # rae
 grotescamente grotescamente RG # rae
 gruesamente gruesamente RG # rae
 grupalmente grupalmente RG # lt2
+gruñonamente gruñonamente RG # de corpus
 grácilmente grácilmente RG # lt2
 gráficamente gráficamente RG # rae
+grávidamente grávidamente RG # de corpus
 guapamente guapamente RG # rae
 guarramente guarramente RG # lt
 guasonamente guasonamente RG # lt2
@@ -1935,32 +2371,43 @@ guturalmente guturalmente RG # lt
 gárrulamente gárrulamente RG # lt2
 gélidamente gélidamente RG # lt2
 génicamente génicamente RG # lt2
+góticamente góticamente RG # de corpus
 habaneramente habaneramente RG # lt2
 habilidosamente habilidosamente RG # lt2
+habilísimamente habilísimamente RG # de corpus
 habitualmente habitualmente RG # rae
 hacendosamente hacendosamente RG # lt2
+hagiográficamente hagiográficamente RG # de corpus
 halagadoramente halagadoramente RG # lt2
 halagüeñamente halagüeñamente RG # rae
 hambrientamente hambrientamente RG # lt
 harmoniosamente harmoniosamente RG # lt2
 harmónicamente harmónicamente RG # lt
 hartamente hartamente RG # rae
+hastiadamente hastiadamente RG # de corpus
 hastiosamente hastiosamente RG # lt
 hazañosamente hazañosamente RG # rae
 hebdomadariamente hebdomadariamente RG # rae
+hechiceramente hechiceramente RG # de corpus
 hediondamente hediondamente RG # rae
 hegelianamente hegelianamente RG # lt2
 hegemónicamente hegemónicamente RG # lt2
+heladamente heladamente RG # de corpus
+heladoramente heladoramente RG # de corpus
 helicoidalmente helicoidalmente RG # lt2
+helvéticamente helvéticamente RG # de corpus
 hemisféricamente hemisféricamente RG # lt2
 hepáticamente hepáticamente RG # lt2
+hercúleamente hercúleamente RG # de corpus
 hereditariamente hereditariamente RG # lt
 hermanablemente hermanablemente RG # rae
 hermenéuticamente hermenéuticamente RG # lt2
 hermosamente hermosamente RG # rae
+hermosísimamente hermosísimamente RG # de corpus
 herméticamente herméticamente RG # rae
 heroicamente heroicamente RG # rae
 heráldicamente heráldicamente RG # lt2
+heréticamente heréticamente RG # de corpus
 heterodoxamente heterodoxamente RG # lt2
 heterogéneamente heterogéneamente RG # lt2
 heterosexualmente heterosexualmente RG # lt2
@@ -1973,6 +2420,7 @@ hidrogeológicamente hidrogeológicamente RG # lt2
 hidrográficamente hidrográficamente RG # lt2
 hidrolíticamente hidrolíticamente RG # lt2
 hidrológicamente hidrológicamente RG # lt2
+hidropónicamente hidropónicamente RG # de corpus
 hidrostáticamente hidrostáticamente RG # lt2
 hidrotermalmente hidrotermalmente RG # lt2
 hidrotérmicamente hidrotérmicamente RG # lt2
@@ -1984,9 +2432,11 @@ hinchadamente hinchadamente RG # rae
 hiperbólicamente hiperbólicamente RG # rae
 hipertróficamente hipertróficamente RG # lt2
 hipnóticamente hipnóticamente RG # lt2
+hipodérmicamente hipodérmicamente RG # de corpus
 hipostáticamente hipostáticamente RG # rae
 hipotéticamente hipotéticamente RG # rae
 hipócritamente hipócritamente RG # rae
+hirientemente hirientemente RG # de corpus
 hispánicamente hispánicamente RG # lt2
 histológicamente histológicamente RG # lt2
 historialmente historialmente RG # rae
@@ -1999,6 +2449,8 @@ holgazanamente holgazanamente RG # lt2
 holográficamente holográficamente RG # lt2
 holísticamente holísticamente RG # lt2
 homeopáticamente homeopáticamente RG # rae
+homeostáticamente homeostáticamente RG # de corpus
+homicidamente homicidamente RG # de corpus
 homogéneamente homogéneamente RG # rae
 homosexualmente homosexualmente RG # lt2
 homólogamente homólogamente RG # lt2
@@ -2016,13 +2468,17 @@ horrendamente horrendamente RG # rae
 horriblemente horriblemente RG # rae
 horripilantemente horripilantemente RG # lt2
 horrorosamente horrorosamente RG # rae
+horrísonamente horrísonamente RG # de corpus
 hoscamente hoscamente RG # lt2
 hospitalariamente hospitalariamente RG # rae
 hostilmente hostilmente RG # rae
 huecamente huecamente RG # lt2
+huidizamente huidizamente RG # de corpus
 humanamente humanamente RG # rae
 humanitariamente humanitariamente RG # lt2
+humanísimamente humanísimamente RG # de corpus
 humanísticamente humanísticamente RG # lt2
+humeantemente humeantemente RG # de corpus
 humildemente humildemente RG # rae
 humilladamente humilladamente RG # rae
 humillantemente humillantemente RG # lt
@@ -2031,11 +2487,15 @@ huracanadamente huracanadamente RG # lt2
 hurañamente hurañamente RG # rae
 hurtadamente hurtadamente RG # rae
 hábilmente hábilmente RG # rae
+híbridamente híbridamente RG # de corpus
 hídricamente hídricamente RG # lt2
+hórridamente hórridamente RG # de corpus
 húmedamente húmedamente RG # lt2
 iconográficamente iconográficamente RG # lt2
 ictiológicamente ictiológicamente RG # lt2
 icónicamente icónicamente RG # lt2
+idamente idamente RG # de corpus
+idealistamente idealistamente RG # de corpus
 idealmente idealmente RG # rae
 identificablemente identificablemente RG # lt2
 identificativamente identificativamente RG # lt
@@ -2052,12 +2512,15 @@ idílicamente idílicamente RG # lt2
 idóneamente idóneamente RG # lt
 ignominiosamente ignominiosamente RG # rae
 ignorantemente ignorantemente RG # rae
+igualitamente igualitamente RG # de corpus
 igualitariamente igualitariamente RG # lt
 igualmente igualmente RG # rae
 ilegalmente ilegalmente RG # rae
+ilegiblemente ilegiblemente RG # de corpus
 ilegítimamente ilegítimamente RG # rae
 ilimitadamente ilimitadamente RG # rae
 ilusamente ilusamente RG # rae
+ilusionadamente ilusionadamente RG # de corpus
 ilusoriamente ilusoriamente RG # lt2
 ilustrativamente ilustrativamente RG # lt2
 ilustremente ilustremente RG # rae
@@ -2094,8 +2557,11 @@ impertinentemente impertinentemente RG # rae
 imperturbablemente imperturbablemente RG # rae
 impertérritamente impertérritamente RG # lt2
 impetuosamente impetuosamente RG # rae
+impiadosamente impiadosamente RG # de corpus
 implacablemente implacablemente RG # rae
+implorantemente implorantemente RG # de corpus
 implícitamente implícitamente RG # rae
+impolutamente impolutamente RG # de corpus
 impolíticamente impolíticamente RG # rae
 imponderablemente imponderablemente RG # rae
 imponentemente imponentemente RG # lt
@@ -2104,12 +2570,14 @@ importunadamente importunadamente RG # rae
 importunamente importunamente RG # rae
 imposiblemente imposiblemente RG # rae
 impositivamente impositivamente RG # lt2
+impostadamente impostadamente RG # de corpus
 impotentemente impotentemente RG # lt2
 impracticablemente impracticablemente RG # lt2
 imprecisamente imprecisamente RG # lt2
 impredeciblemente impredeciblemente RG # lt2
 impremeditadamente impremeditadamente RG # lt2
 imprescindiblemente imprescindiblemente RG # lt2
+impresentablemente impresentablemente RG # de corpus
 impresionantemente impresionantemente RG # lt2
 imprevisiblemente imprevisiblemente RG # lt2
 imprevistamente imprevistamente RG # lt2
@@ -2117,10 +2585,12 @@ improbablemente improbablemente RG # rae
 improcedentemente improcedentemente RG # lt2
 improductivamente improductivamente RG # lt2
 impropiamente impropiamente RG # rae
+improrrogablemente improrrogablemente RG # de corpus
 improvisadamente improvisadamente RG # rae
 improvisamente improvisamente RG # rae
 imprudentemente imprudentemente RG # rae
 impudentemente impudentemente RG # lt2
+impudorosamente impudorosamente RG # de corpus
 impulsivamente impulsivamente RG # lt
 impunemente impunemente RG # rae
 impuntualmente impuntualmente RG # lt2
@@ -2144,15 +2614,18 @@ inalteradamente inalteradamente RG # lt2
 inalámbricamente inalámbricamente RG # lt2
 inamoviblemente inamoviblemente RG # lt2
 inanemente inanemente RG # lt2
+inanimadamente inanimadamente RG # de corpus
 inapelablemente inapelablemente RG # lt2
 inaplazablemente inaplazablemente RG # lt2
 inapreciablemente inapreciablemente RG # lt2
 inapropiadamente inapropiadamente RG # lt2
 inarticuladamente inarticuladamente RG # lt2
+inasequiblemente inasequiblemente RG # de corpus
 inaudiblemente inaudiblemente RG # lt2
 inauditamente inauditamente RG # lt2
 inauguralmente inauguralmente RG # lt2
 incalculablemente incalculablemente RG # lt2
+incandescentemente incandescentemente RG # de corpus
 incansablemente incansablemente RG # rae
 incasablemente incasablemente RG # lt2
 incautamente incautamente RG # rae
@@ -2165,6 +2638,8 @@ incidentemente incidentemente RG # rae
 inciertamente inciertamente RG # rae
 incipientemente incipientemente RG # lt2
 incisivamente incisivamente RG # lt2
+incitadoramente incitadoramente RG # de corpus
+incitantemente incitantemente RG # de corpus
 incivilmente incivilmente RG # lt
 inclementemente inclementemente RG # lt2
 inclusivamente inclusivamente RG # rae
@@ -2182,6 +2657,7 @@ inconcusamente inconcusamente RG # rae
 incondicionalmente incondicionalmente RG # rae
 inconexamente inconexamente RG # lt2
 inconfesablemente inconfesablemente RG # lt2
+inconfesadamente inconfesadamente RG # de corpus
 inconfundiblemente inconfundiblemente RG # lt2
 incongruamente incongruamente RG # rae
 incongruentemente incongruentemente RG # rae
@@ -2205,6 +2681,8 @@ incontrolablemente incontrolablemente RG # lt2
 incontroladamente incontroladamente RG # lt2
 incontrovertiblemente incontrovertiblemente RG # lt2
 inconvenientemente inconvenientemente RG # lt2
+incorporalmente incorporalmente RG # de corpus
+incorpóreamente incorpóreamente RG # de corpus
 incorrectamente incorrectamente RG # rae
 incorregiblemente incorregiblemente RG # rae
 incorruptiblemente incorruptiblemente RG # lt2
@@ -2225,11 +2703,13 @@ indecisamente indecisamente RG # lt2
 indeclinablemente indeclinablemente RG # lt2
 indecorosamente indecorosamente RG # rae
 indefectiblemente indefectiblemente RG # rae
+indefensamente indefensamente RG # de corpus
 indefiniblemente indefiniblemente RG # lt2
 indefinidamente indefinidamente RG # rae
 indeleblemente indeleblemente RG # rae
 indeliberadamente indeliberadamente RG # rae
 independientemente independientemente RG # rae
+indescifrablemente indescifrablemente RG # de corpus
 indescriptiblemente indescriptiblemente RG # lt2
 indeseablemente indeseablemente RG # lt2
 indeseadamente indeseadamente RG # lt2
@@ -2239,16 +2719,22 @@ indicativamente indicativamente RG # lt2
 indiciariamente indiciariamente RG # lt2
 indiferenciadamente indiferenciadamente RG # lt2
 indiferentemente indiferentemente RG # rae
+indignadamente indignadamente RG # de corpus
 indignamente indignamente RG # rae
+indignantemente indignantemente RG # de corpus
 indirectamente indirectamente RG # rae
+indisciplinadamente indisciplinadamente RG # de corpus
 indiscretamente indiscretamente RG # rae
 indiscriminadamente indiscriminadamente RG # rae
 indisculpablemente indisculpablemente RG # lt2
 indiscutiblemente indiscutiblemente RG # lt
 indiscutidamente indiscutidamente RG # lt2
+indisimuladamente indisimuladamente RG # de corpus
+indisociablemente indisociablemente RG # de corpus
 indisolublemente indisolublemente RG # rae
 indispensablemente indispensablemente RG # rae
 indisputablemente indisputablemente RG # rae
+indistinguiblemente indistinguiblemente RG # de corpus
 indistintamente indistintamente RG # rae
 individualistamente individualistamente RG # lt2
 individualmente individualmente RG # rae
@@ -2258,6 +2744,8 @@ indivisiblemente indivisiblemente RG # rae
 indoctamente indoctamente RG # rae
 indolentemente indolentemente RG # rae
 indoloramente indoloramente RG # lt2
+indomablemente indomablemente RG # de corpus
+indominablemente indominablemente RG # de corpus
 indubitablemente indubitablemente RG # rae
 indubitadamente indubitadamente RG # rae
 inductivamente inductivamente RG # lt2
@@ -2270,6 +2758,7 @@ inefablemente inefablemente RG # rae
 inefectivamente inefectivamente RG # lt2
 ineficazmente ineficazmente RG # rae
 ineficientemente ineficientemente RG # lt2
+inelegantemente inelegantemente RG # de corpus
 ineluctablemente ineluctablemente RG # lt2
 ineludiblemente ineludiblemente RG # rae
 inelásticamente inelásticamente RG # lt2
@@ -2295,6 +2784,7 @@ inexpugnablemente inexpugnablemente RG # lt2
 inextinguiblemente inextinguiblemente RG # lt2
 inextricablemente inextricablemente RG # lt2
 infaliblemente infaliblemente RG # rae
+infaltablemente infaltablemente RG # de corpus
 infamantemente infamantemente RG # lt2
 infamemente infamemente RG # rae
 infantilmente infantilmente RG # lt2
@@ -2313,6 +2803,7 @@ influyentemente influyentemente RG # lt2
 informacionalmente informacionalmente RG # lt2
 informalmente informalmente RG # rae
 informativamente informativamente RG # lt2
+informemente informemente RG # de corpus
 informáticamente informáticamente RG # lt2
 infortunadamente infortunadamente RG # rae
 infraestructuralmente infraestructuralmente RG # lt2
@@ -2325,6 +2816,7 @@ ingenuamente ingenuamente RG # rae
 ingratamente ingratamente RG # rae
 ingrávidamente ingrávidamente RG # lt2
 ingénitamente ingénitamente RG # lt
+inhabitualmente inhabitualmente RG # de corpus
 inherentemente inherentemente RG # lt
 inhonestamente inhonestamente RG # rae
 inhumanamente inhumanamente RG # rae
@@ -2333,6 +2825,7 @@ inicialmente inicialmente RG # rae
 inicuamente inicuamente RG # rae
 inigualablemente inigualablemente RG # lt2
 inimaginablemente inimaginablemente RG # lt2
+inimitablemente inimitablemente RG # de corpus
 ininteligiblemente ininteligiblemente RG # lt2
 ininterrumpidamente ininterrumpidamente RG # rae
 injuriosamente injuriosamente RG # rae
@@ -2340,6 +2833,7 @@ injustamente injustamente RG # rae
 injustificablemente injustificablemente RG # lt2
 injustificadamente injustificadamente RG # rae
 inmaculadamente inmaculadamente RG # rae
+inmaduramente inmaduramente RG # de corpus
 inmanentemente inmanentemente RG # lt2
 inmaterialmente inmaterialmente RG # lt2
 inmediatamente inmediatamente RG # rae
@@ -2347,6 +2841,7 @@ inmejorablemente inmejorablemente RG # rae
 inmemorablemente inmemorablemente RG # lt
 inmemorialmente inmemorialmente RG # lt2
 inmensamente inmensamente RG # rae
+inmensurablemente inmensurablemente RG # de corpus
 inmerecidamente inmerecidamente RG # rae
 inminentemente inminentemente RG # lt2
 inmisericordemente inmisericordemente RG # lt2
@@ -2356,17 +2851,21 @@ inmodestamente inmodestamente RG # rae
 inmoralmente inmoralmente RG # lt2
 inmortalmente inmortalmente RG # rae
 inmotivadamente inmotivadamente RG # rae
+inmundamente inmundamente RG # de corpus
 inmunemente inmunemente RG # lt2
 inmunitariamente inmunitariamente RG # lt2
 inmunológicamente inmunológicamente RG # lt2
 inmutablemente inmutablemente RG # lt2
 innatamente innatamente RG # lt2
+innaturalmente innaturalmente RG # de corpus
 innecesariamente innecesariamente RG # rae
 innegablemente innegablemente RG # rae
 innoblemente innoblemente RG # lt
+innombrablemente innombrablemente RG # de corpus
 innominadamente innominadamente RG # lt2
 innovadoramente innovadoramente RG # lt2
 innumerablemente innumerablemente RG # rae
+inobjetablemente inobjetablemente RG # de corpus
 inocentemente inocentemente RG # rae
 inocuamente inocuamente RG # lt2
 inocultablemente inocultablemente RG # lt2
@@ -2381,6 +2880,7 @@ inquietantemente inquietantemente RG # lt2
 inquisidoramente inquisidoramente RG # lt2
 inquisitivamente inquisitivamente RG # lt2
 inquisitorialmente inquisitorialmente RG # lt2
+inquisitoriamente inquisitoriamente RG # de corpus
 insaciablemente insaciablemente RG # rae
 insalubremente insalubremente RG # lt
 insalvablemente insalvablemente RG # lt2
@@ -2395,11 +2895,16 @@ insidiosamente insidiosamente RG # rae
 insignemente insignemente RG # rae
 insignificantemente insignificantemente RG # lt2
 insinceramente insinceramente RG # lt2
+insinuadoramente insinuadoramente RG # de corpus
 insinuantemente insinuantemente RG # lt2
 insistentemente insistentemente RG # rae
+insobornablemente insobornablemente RG # de corpus
+insocialmente insocialmente RG # de corpus
 insolentemente insolentemente RG # rae
 insolidariamente insolidariamente RG # lt2
+insolublemente insolublemente RG # de corpus
 insondablemente insondablemente RG # lt2
+insonoramente insonoramente RG # de corpus
 insoportablemente insoportablemente RG # lt2
 insoslayablemente insoslayablemente RG # lt2
 insospechablemente insospechablemente RG # lt2
@@ -2421,6 +2926,7 @@ insustancialmente insustancialmente RG # lt
 insípidamente insípidamente RG # rae
 insólitamente insólitamente RG # lt
 intachablemente intachablemente RG # lt2
+intangiblemente intangiblemente RG # de corpus
 integradoramente integradoramente RG # lt2
 integralmente integralmente RG # rae
 intelectivamente intelectivamente RG # lt2
@@ -2433,6 +2939,7 @@ intencionadamente intencionadamente RG # rae
 intencionalmente intencionalmente RG # rae
 intensamente intensamente RG # rae
 intensivamente intensivamente RG # rae
+intensísimamente intensísimamente RG # de corpus
 interactivamente interactivamente RG # lt2
 intercambiablemente intercambiablemente RG # lt2
 intercelularmente intercelularmente RG # lt2
@@ -2454,12 +2961,16 @@ internamente internamente RG # rae
 interpersonalmente interpersonalmente RG # lt2
 interpoladamente interpoladamente RG # rae
 interpretativamente interpretativamente RG # rae
+interrogantemente interrogantemente RG # de corpus
 interrogativamente interrogativamente RG # rae
 interrumpidamente interrumpidamente RG # rae
 intersubjetivamente intersubjetivamente RG # lt2
 interurbanamente interurbanamente RG # lt2
 intervocálicamente intervocálicamente RG # lt2
 intestinalmente intestinalmente RG # lt2
+intimidadoramente intimidadoramente RG # de corpus
+intimidantemente intimidantemente RG # de corpus
+intimidatoriamente intimidatoriamente RG # de corpus
 intolerablemente intolerablemente RG # lt2
 intolerantemente intolerantemente RG # lt2
 intraarticularmente intraarticularmente RG # lt2
@@ -2467,11 +2978,16 @@ intracelularmente intracelularmente RG # lt2
 intradérmicamente intradérmicamente RG # lt2
 intramolecularmente intramolecularmente RG # lt2
 intramuscularmente intramuscularmente RG # lt2
+intranquilamente intranquilamente RG # de corpus
+intranquilizadoramente intranquilizadoramente RG # de corpus
 intransferiblemente intransferiblemente RG # lt2
 intransigentemente intransigentemente RG # lt2
 intransitivamente intransitivamente RG # lt2
+intrascendentemente intrascendentemente RG # de corpus
+intratablemente intratablemente RG # de corpus
 intrauterinamente intrauterinamente RG # lt2
 intravenosamente intravenosamente RG # lt2
+intricadamente intricadamente RG # de corpus
 intrigantemente intrigantemente RG # lt2
 intrincadamente intrincadamente RG # rae
 introspectivamente introspectivamente RG # lt
@@ -2484,8 +3000,10 @@ inusitadamente inusitadamente RG # rae
 inusualmente inusualmente RG # lt
 invariablemente invariablemente RG # rae
 invariantemente invariantemente RG # lt2
+invasivamente invasivamente RG # de corpus
 invasoramente invasoramente RG # lt2
 invenciblemente invenciblemente RG # rae
+inventivamente inventivamente RG # de corpus
 invernalmente invernalmente RG # lt2
 inverosímilmente inverosímilmente RG # rae
 inversamente inversamente RG # rae
@@ -2495,9 +3013,12 @@ inviolablemente inviolablemente RG # rae
 invisiblemente invisiblemente RG # rae
 invitadoramente invitadoramente RG # lt2
 involuntariamente involuntariamente RG # rae
+invulnerablemente invulnerablemente RG # de corpus
 inválidamente inválidamente RG # rae
 inéditamente inéditamente RG # lt2
 inútilmente inútilmente RG # rae
+iracundamente iracundamente RG # de corpus
+irasciblemente irasciblemente RG # de corpus
 irracionalmente irracionalmente RG # rae
 irrazonablemente irrazonablemente RG # lt2
 irrealmente irrealmente RG # lt2
@@ -2525,7 +3046,10 @@ irreprensiblemente irreprensiblemente RG # rae
 irreprimiblemente irreprimiblemente RG # lt2
 irreprochablemente irreprochablemente RG # lt2
 irresistiblemente irresistiblemente RG # rae
+irresolublemente irresolublemente RG # de corpus
+irresolutamente irresolutamente RG # de corpus
 irrespetuosamente irrespetuosamente RG # rae
+irrespirablemente irrespirablemente RG # de corpus
 irresponsablemente irresponsablemente RG # lt2
 irrestrictamente irrestrictamente RG # lt2
 irreverentemente irreverentemente RG # rae
@@ -2533,6 +3057,7 @@ irreversiblemente irreversiblemente RG # lt2
 irrevocablemente irrevocablemente RG # rae
 irrisoriamente irrisoriamente RG # rae
 irritablemente irritablemente RG # lt2
+irritadamente irritadamente RG # de corpus
 irritantemente irritantemente RG # lt2
 irónicamente irónicamente RG # rae
 islámicamente islámicamente RG # lt2
@@ -2547,9 +3072,12 @@ iterativamente iterativamente RG # lt2
 itinerantemente itinerantemente RG # lt2
 iónicamente iónicamente RG # lt2
 jactanciosamente jactanciosamente RG # rae
+jadeantemente jadeantemente RG # de corpus
 jerárquicamente jerárquicamente RG # rae
 jesuíticamente jesuíticamente RG # lt
 jocosamente jocosamente RG # rae
+jocundamente jocundamente RG # de corpus
+jodidamente jodidamente RG # de corpus
 jovialmente jovialmente RG # rae
 jubilosamente jubilosamente RG # rae
 judaicamente judaicamente RG # lt2
@@ -2565,6 +3093,7 @@ justamente justamente RG # rae
 justicieramente justicieramente RG # lt
 justificablemente justificablemente RG # lt2
 justificadamente justificadamente RG # rae
+justísimamente justísimamente RG # de corpus
 juvenilmente juvenilmente RG # lt
 kantianamente kantianamente RG # lt2
 laberínticamente laberínticamente RG # lt2
@@ -2574,12 +3103,15 @@ laborablemente laborablemente RG # lt2
 laboralmente laboralmente RG # lt2
 laboriosamente laboriosamente RG # rae
 laceradamente laceradamente RG # lt
+laciamente laciamente RG # de corpus
 lacrimosamente lacrimosamente RG # rae
 lacónicamente lacónicamente RG # rae
+ladeadamente ladeadamente RG # de corpus
 ladinamente ladinamente RG # rae
 ladronamente ladronamente RG # rae
 laicamente laicamente RG # lt2
 lamentablemente lamentablemente RG # rae
+lamentosamente lamentosamente RG # de corpus
 lapidariamente lapidariamente RG # lt2
 largamente largamente RG # rae
 larvadamente larvadamente RG # lt2
@@ -2598,9 +3130,11 @@ laudatoriamente laudatoriamente RG # lt2
 lautamente lautamente RG # rae
 laxamente laxamente RG # lt2
 lealmente lealmente RG # rae
+lechosamente lechosamente RG # de corpus
 ledamente ledamente RG # rae
 legalmente legalmente RG # rae
 legamente legamente RG # lt2
+legañosamente legañosamente RG # de corpus
 legendariamente legendariamente RG # lt2
 legiblemente legiblemente RG # lt2
 legislativamente legislativamente RG # lt2
@@ -2608,24 +3142,30 @@ legítimamente legítimamente RG # rae
 lejanamente lejanamente RG # rae
 lenemente lenemente RG # lt2
 lentamente lentamente RG # rae
+lentísimamente lentísimamente RG # de corpus
 lerdamente lerdamente RG # rae
 lesivamente lesivamente RG # lt2
 letalmente letalmente RG # lt2
 letárgicamente letárgicamente RG # lt2
 levantadamente levantadamente RG # rae
 levemente levemente RG # rae
+levísimamente levísimamente RG # de corpus
 lexicalmente lexicalmente RG # lt2
 lexicográficamente lexicográficamente RG # lt2
+lexicológicamente lexicológicamente RG # de corpus
+liberadamente liberadamente RG # de corpus
 liberalmente liberalmente RG # rae
 libertariamente libertariamente RG # lt2
 libertinamente libertinamente RG # lt2
 libidinosamente libidinosamente RG # rae
 libremente libremente RG # rae
+librescamente librescamente RG # de corpus
 libérrimamente libérrimamente RG # lt2
 licantrópicamente licantrópicamente RG # lt
 licenciosamente licenciosamente RG # rae
 licántropamente licántropamente RG # lt
 ligeramente ligeramente RG # rae
+ligerísimamente ligerísimamente RG # de corpus
 limitadamente limitadamente RG # rae
 limitativamente limitativamente RG # lt2
 limnológicamente limnológicamente RG # lt2
@@ -2652,6 +3192,7 @@ llenamente llenamente RG # rae
 lleneramente lleneramente RG # rae
 llorosamente llorosamente RG # rae
 loablemente loablemente RG # rae
+lobunamente lobunamente RG # de corpus
 localmente localmente RG # lt
 locamente locamente RG # rae
 locuazmente locuazmente RG # lt
@@ -2668,6 +3209,7 @@ lujosamente lujosamente RG # rae
 lujuriosamente lujuriosamente RG # rae
 luminosamente luminosamente RG # rae
 lumínicamente lumínicamente RG # lt2
+lustralmente lustralmente RG # de corpus
 lustrosamente lustrosamente RG # rae
 lábilmente lábilmente RG # lt2
 lácticamente lácticamente RG # lt2
@@ -2678,6 +3220,7 @@ lícitamente lícitamente RG # rae
 límpidamente límpidamente RG # lt2
 líquidamente líquidamente RG # rae
 líricamente líricamente RG # lt2
+lívidamente lívidamente RG # de corpus
 lóbregamente lóbregamente RG # lt2
 lógicamente lógicamente RG # rae
 lúbricamente lúbricamente RG # rae
@@ -2708,10 +3251,14 @@ maldadosamente maldadosamente RG # rae
 maldicientemente maldicientemente RG # rae
 malditamente malditamente RG # rae
 maleducadamente maleducadamente RG # lt2
+malevolentemente malevolentemente RG # de corpus
 malhabladamente malhabladamente RG # lt
+malhadadamente malhadadamente RG # de corpus
+malhumoradamente malhumoradamente RG # de corpus
 maliciosamente maliciosamente RG # rae
 malignamente malignamente RG # rae
 malintencionadamente malintencionadamente RG # lt2
+malmente malmente RG # de corpus
 malsanamente malsanamente RG # lt2
 malsonantemente malsonantemente RG # lt
 malvadamente malvadamente RG # rae
@@ -2730,12 +3277,16 @@ manualmente manualmente RG # rae
 maníacamente maníacamente RG # lt2
 maquiavélicamente maquiavélicamente RG # lt2
 maquinalmente maquinalmente RG # rae
+maravilladamente maravilladamente RG # de corpus
 maravillosamente maravillosamente RG # rae
 marcadamente marcadamente RG # rae
 marcialmente marcialmente RG # lt2
+mareantemente mareantemente RG # de corpus
 marginalmente marginalmente RG # rae
 maridablemente maridablemente RG # rae
 maritalmente maritalmente RG # lt2
+marmóreamente marmóreamente RG # de corpus
+marrulleramente marrulleramente RG # de corpus
 marítimamente marítimamente RG # lt
 masculinamente masculinamente RG # lt2
 masivamente masivamente RG # lt
@@ -2746,6 +3297,7 @@ materialistamente materialistamente RG # lt2
 materialmente materialmente RG # rae
 maternalmente maternalmente RG # rae
 matinalmente matinalmente RG # lt
+matizadamente matizadamente RG # de corpus
 matreramente matreramente RG # rae
 matricialmente matricialmente RG # lt2
 matrilinealmente matrilinealmente RG # lt2
@@ -2769,10 +3321,12 @@ medidamente medidamente RG # rae
 medievalmente medievalmente RG # lt2
 medioambientalmente medioambientalmente RG # lt2
 mediocremente mediocremente RG # rae
+meditadamente meditadamente RG # de corpus
 meditativamente meditativamente RG # lt2
 mediáticamente mediáticamente RG # lt2
 medrosamente medrosamente RG # rae
 medularmente medularmente RG # lt2
+mefistofélicamente mefistofélicamente RG # de corpus
 melancólicamente melancólicamente RG # rae
 melifluamente melifluamente RG # rae
 melindrosamente melindrosamente RG # rae
@@ -2828,6 +3382,7 @@ microscópicamente microscópicamente RG # lt2
 miedosamente miedosamente RG # lt2
 milagrosamente milagrosamente RG # rae
 milenariamente milenariamente RG # lt2
+milimétricamente milimétricamente RG # de corpus
 militantemente militantemente RG # lt2
 militarmente militarmente RG # rae
 millonariamente millonariamente RG # lt2
@@ -2842,6 +3397,7 @@ minutamente minutamente RG # lt2
 minúsculamente minúsculamente RG # lt2
 miopemente miopemente RG # lt2
 miraculosamente miraculosamente RG # rae
+miríficamente miríficamente RG # de corpus
 miserablemente miserablemente RG # rae
 misericordiosamente misericordiosamente RG # rae
 misioneramente misioneramente RG # lt2
@@ -2860,6 +3416,7 @@ modosamente modosamente RG # lt2
 modularmente modularmente RG # lt2
 modélicamente modélicamente RG # lt2
 mojadamente mojadamente RG # lt
+mojigatamente mojigatamente RG # de corpus
 molarmente molarmente RG # lt2
 molecularmente molecularmente RG # lt2
 molestamente molestamente RG # rae
@@ -2879,10 +3436,12 @@ monotónicamente monotónicamente RG # lt2
 monstruosamente monstruosamente RG # rae
 monumentalmente monumentalmente RG # lt2
 monárquicamente monárquicamente RG # lt2
+monásticamente monásticamente RG # de corpus
 monótonamente monótonamente RG # rae
 moralmente moralmente RG # rae
 morbosamente morbosamente RG # lt2
 mordazmente mordazmente RG # rae
+mordientemente mordientemente RG # de corpus
 morfológicamente morfológicamente RG # lt
 morfométricamente morfométricamente RG # lt2
 morfosintácticamente morfosintácticamente RG # lt2
@@ -2897,6 +3456,7 @@ mudamente mudamente RG # rae
 muellemente muellemente RG # rae
 muestralmente muestralmente RG # lt2
 mujerilmente mujerilmente RG # rae
+mullidamente mullidamente RG # de corpus
 multicolormente multicolormente RG # lt2
 multidireccionalmente multidireccionalmente RG # lt2
 multidisciplinariamente multidisciplinariamente RG # lt2
@@ -2904,9 +3464,11 @@ multifuncionalmente multifuncionalmente RG # lt2
 multilateralmente multilateralmente RG # lt2
 multiplicativamente multiplicativamente RG # lt2
 multitudinariamente multitudinariamente RG # lt2
+mundanalmente mundanalmente RG # de corpus
 mundanamente mundanamente RG # rae
 mundialmente mundialmente RG # rae
 municipalmente municipalmente RG # lt2
+muníficamente muníficamente RG # de corpus
 muscularmente muscularmente RG # lt2
 musculosamente musculosamente RG # lt2
 museológicamente museológicamente RG # lt2
@@ -2926,16 +3488,19 @@ míticamente míticamente RG # lt2
 módicamente módicamente RG # rae
 mórbidamente mórbidamente RG # lt2
 múltiplemente múltiplemente RG # lt2
+nacidamente nacidamente RG # de corpus
 nacionalistamente nacionalistamente RG # lt2
 nacionalmente nacionalmente RG # rae
 narcisistamente narcisistamente RG # lt
 narcisistamente narcisistamente RG # lt2
+narcóticamente narcóticamente RG # de corpus
 narrativamente narrativamente RG # lt2
 nasalmente nasalmente RG # lt2
 natalmente natalmente RG # lt2
 nativamente nativamente RG # lt2
 naturalistamente naturalistamente RG # lt2
 naturalmente naturalmente RG # rae
+nauseabundamente nauseabundamente RG # de corpus
 navalmente navalmente RG # lt
 navideñamente navideñamente RG # lt2
 neblinosamente neblinosamente RG # lt
@@ -2958,13 +3523,16 @@ nescientemente nescientemente RG # rae
 netamente netamente RG # rae
 neumáticamente neumáticamente RG # lt2
 neuralmente neuralmente RG # lt2
+neurofisiológicamente neurofisiológicamente RG # de corpus
 neurológicamente neurológicamente RG # lt2
 neuronalmente neuronalmente RG # lt2
 neurálgicamente neurálgicamente RG # lt2
 neuróticamente neuróticamente RG # lt2
 neutralmente neutralmente RG # lt2
+neutramente neutramente RG # de corpus
 nimiamente nimiamente RG # rae
 nobiliariamente nobiliariamente RG # lt2
+nobilísimamente nobilísimamente RG # de corpus
 noblemente noblemente RG # rae
 nocivamente nocivamente RG # lt2
 nocturnamente nocturnamente RG # lt
@@ -2973,6 +3541,7 @@ nombradamente nombradamente RG # rae
 nominalmente nominalmente RG # rae
 nominativamente nominativamente RG # lt2
 normalmente normalmente RG # rae
+normalísimamente normalísimamente RG # de corpus
 normativamente normativamente RG # lt2
 nostálgicamente nostálgicamente RG # lt2
 notablemente notablemente RG # rae
@@ -2984,6 +3553,7 @@ novelescamente novelescamente RG # lt
 novelísticamente novelísticamente RG # lt2
 noéticamente noéticamente RG # lt2
 nuclearmente nuclearmente RG # lt
+nucleónicamente nucleónicamente RG # de corpus
 nudamente nudamente RG # rae
 nuevamente nuevamente RG # rae
 nulamente nulamente RG # rae
@@ -2991,6 +3561,7 @@ numantinamente numantinamente RG # rae
 numeralmente numeralmente RG # lt2
 numerosamente numerosamente RG # rae
 numéricamente numéricamente RG # rae
+nupcialmente nupcialmente RG # de corpus
 nutricionalmente nutricionalmente RG # rae
 nutritivamente nutritivamente RG # lt2
 náuticamente náuticamente RG # lt2
@@ -3008,6 +3579,8 @@ obsecuentemente obsecuentemente RG # lt2
 obsequiosamente obsequiosamente RG # rae
 observablemente observablemente RG # lt2
 observacionalmente observacionalmente RG # lt2
+obsesionadamente obsesionadamente RG # de corpus
+obsesionantemente obsesionantemente RG # de corpus
 obsesivamente obsesivamente RG # lt2
 obsoletamente obsoletamente RG # lt2
 obstinadamente obstinadamente RG # rae
@@ -3026,20 +3599,27 @@ ocupacionalmente ocupacionalmente RG # lt2
 odiosamente odiosamente RG # rae
 ofensivamente ofensivamente RG # rae
 oficialmente oficialmente RG # rae
+oficinescamente oficinescamente RG # de corpus
 oficiosamente oficiosamente RG # rae
 oftalmológicamente oftalmológicamente RG # lt2
 oftalmoscópicamente oftalmoscópicamente RG # lt2
+ofuscadamente ofuscadamente RG # de corpus
 oleoneumáticamente oleoneumáticamente RG # lt2
 olfativamente olfativamente RG # lt
+olfatoriamente olfatoriamente RG # de corpus
 oligárquicamente oligárquicamente RG # lt2
 olorosamente olorosamente RG # lt2
+olvidadamente olvidadamente RG # de corpus
 olímpicamente olímpicamente RG # rae
 ominosamente ominosamente RG # lt2
 omnipotentemente omnipotentemente RG # rae
 omnímodamente omnímodamente RG # rae
+oncológicamente oncológicamente RG # de corpus
+onduladamente onduladamente RG # de corpus
 ondulantemente ondulantemente RG # lt2
 onerosamente onerosamente RG # lt2
 onomatopéyicamente onomatopéyicamente RG # lt2
+onomásticamente onomásticamente RG # de corpus
 ontogénicamente ontogénicamente RG # lt2
 ontológicamente ontológicamente RG # lt2
 oníricamente oníricamente RG # lt2
@@ -3058,6 +3638,7 @@ optimistamente optimistamente RG # lt2
 opuestamente opuestamente RG # rae
 opulentamente opulentamente RG # rae
 opíparamente opíparamente RG # rae
+oracularmente oracularmente RG # de corpus
 oralmente oralmente RG # rae
 oratoriamente oratoriamente RG # rae
 orbicularmente orbicularmente RG # rae
@@ -3088,20 +3669,25 @@ ortogonalmente ortogonalmente RG # lt2
 ortográficamente ortográficamente RG # lt2
 ortopédicamente ortopédicamente RG # lt2
 osadamente osadamente RG # rae
+oscilantemente oscilantemente RG # de corpus
 oscuramente oscuramente RG # lt
 osmóticamente osmóticamente RG # lt2
 ostensiblemente ostensiblemente RG # rae
 ostensivamente ostensivamente RG # lt2
+ostentativamente ostentativamente RG # de corpus
 ostentatoriamente ostentatoriamente RG # lt
 ostentosamente ostentosamente RG # rae
 otramente otramente RG # rae
 ovejunamente ovejunamente RG # lt2
+ovinamente ovinamente RG # de corpus
 oxidativamente oxidativamente RG # lt2
 pacatamente pacatamente RG # lt2
 pacientemente pacientemente RG # rae
+pacienzudamente pacienzudamente RG # de corpus
 pacíficamente pacíficamente RG # rae
 paganamente paganamente RG # lt2
 paisajísticamente paisajísticamente RG # lt2
+palaciegamente palaciegamente RG # de corpus
 paladinamente paladinamente RG # rae
 paleográficamente paleográficamente RG # lt2
 paleontológicamente paleontológicamente RG # lt2
@@ -3110,16 +3696,20 @@ paliadamente paliadamente RG # rae
 paliativamente paliativamente RG # lt2
 palmariamente palmariamente RG # rae
 palpablemente palpablemente RG # rae
+palpitantemente palpitantemente RG # de corpus
 pandémicamente pandémicamente RG # lt
 panfletariamente panfletariamente RG # lt2
 panorámicamente panorámicamente RG # lt2
 papalmente papalmente RG # rae
 parabólicamente parabólicamente RG # lt2
 paradigmáticamente paradigmáticamente RG # lt2
+paradisíacamente paradisíacamente RG # de corpus
+paradojalmente paradojalmente RG # de corpus
 paradógicamente paradógicamente RG # lt2
 paradójicamente paradójicamente RG # lt
 parafrásticamente parafrásticamente RG # rae
 paralelamente paralelamente RG # rae
+paralizadoramente paralizadoramente RG # de corpus
 paramagnéticamente paramagnéticamente RG #medical
 paramilitarmente paramilitarmente RG # lt2
 paramétricamente paramétricamente RG # lt2
@@ -3128,6 +3718,7 @@ parasitariamente parasitariamente RG # lt2
 parasíticamente parasíticamente RG # lt2
 parcamente parcamente RG # rae
 parcialmente parcialmente RG # rae
+parecidamente parecidamente RG # de corpus
 parejamente parejamente RG # rae
 parentalmente parentalmente RG # lt2
 parigualmente parigualmente RG # lt2
@@ -3161,12 +3752,14 @@ paternalmente paternalmente RG # rae
 patibulariamente patibulariamente RG # lt2
 patogénicamente patogénicamente RG # lt2
 patológicamente patológicamente RG # lt
+patosamente patosamente RG # de corpus
 patriarcalmente patriarcalmente RG # lt2
 patrilinealmente patrilinealmente RG # lt2
 patrimonialmente patrimonialmente RG # lt2
 patrióticamente patrióticamente RG # lt2
 patéticamente patéticamente RG # rae
 paulatinamente paulatinamente RG # rae
+paulinamente paulinamente RG # de corpus
 paupérrimamente paupérrimamente RG # lt2
 pausadamente pausadamente RG # rae
 pavorosamente pavorosamente RG # rae
@@ -3181,18 +3774,24 @@ pedantemente pedantemente RG # lt2
 pedantescamente pedantescamente RG # rae
 pedestremente pedestremente RG # lt2
 pegajosamente pegajosamente RG # lt2
+peleadoramente peleadoramente RG # de corpus
+peleonamente peleonamente RG # de corpus
 peligrosamente peligrosamente RG # rae
 pelágicamente pelágicamente RG # lt2
 penalmente penalmente RG # rae
+pendientemente pendientemente RG # de corpus
 pendularmente pendularmente RG # lt2
 penetrantemente penetrantemente RG # lt2
 penitentemente penitentemente RG # lt2
 penosamente penosamente RG # lt
+penosísimamente penosísimamente RG # de corpus
 pensativamente pensativamente RG # lt2
 pequeñamente pequeñamente RG # rae
 perceptiblemente perceptiblemente RG # rae
 perceptivamente perceptivamente RG # lt2
+perceptualmente perceptualmente RG # de corpus
 perdidamente perdidamente RG # rae
+perdonablemente perdonablemente RG # de corpus
 perdurablemente perdurablemente RG # rae
 peregrinamente peregrinamente RG # rae
 perennalmente perennalmente RG # rae
@@ -3200,6 +3799,8 @@ perennemente perennemente RG # rae
 perentoriamente perentoriamente RG # rae
 perezosamente perezosamente RG # rae
 perfectamente perfectamente RG # rae
+perfectísimamente perfectísimamente RG # de corpus
+perfumadamente perfumadamente RG # de corpus
 pericialmente pericialmente RG # rae
 periclinalmente periclinalmente RG # lt2
 periféricamente periféricamente RG # lt2
@@ -3207,6 +3808,7 @@ perimetralmente perimetralmente RG # lt2
 perinatalmente perinatalmente RG # lt2
 periodísticamente periodísticamente RG # rae
 peripatéticamente peripatéticamente RG # lt2
+periscópicamente periscópicamente RG # de corpus
 periódicamente periódicamente RG # rae
 perjudicialmente perjudicialmente RG # rae
 permanentemente permanentemente RG # rae
@@ -3227,10 +3829,13 @@ pertinentemente pertinentemente RG # rae
 perturbadamente perturbadamente RG # rae
 perturbadoramente perturbadoramente RG # lt2
 perversamente perversamente RG # rae
+pervertidamente pervertidamente RG # de corpus
 pesadamente pesadamente RG # rae
 pesantemente pesantemente RG # lt2
+pesarosamente pesarosamente RG # de corpus
 pesimistamente pesimistamente RG # lt2
 pestilencialmente pestilencialmente RG # rae
+pestilentemente pestilentemente RG # de corpus
 pestíferamente pestíferamente RG # rae
 petrográficamente petrográficamente RG # lt2
 petrológicamente petrológicamente RG # lt2
@@ -3239,8 +3844,10 @@ peyorativamente peyorativamente RG # lt2
 piadosamente piadosamente RG # rae
 picantemente picantemente RG # lt
 picarescamente picarescamente RG # lt2
+picaronamente picaronamente RG # de corpus
 pictográficamente pictográficamente RG # lt2
 pictóricamente pictóricamente RG # rae
+piezoeléctricamente piezoeléctricamente RG # de corpus
 pinadamente pinadamente RG # lt2
 pingüemente pingüemente RG # lt2
 pinnadamente pinnadamente RG # lt2
@@ -3250,8 +3857,10 @@ piramidalmente piramidalmente RG # lt2
 pirotécnicamente pirotécnicamente RG # lt2
 pitagóricamente pitagóricamente RG # lt2
 placenteramente placenteramente RG # rae
+placidamente placidamente RG # de corpus
 planamente planamente RG # lt2
 planetariamente planetariamente RG # lt2
+planificadamente planificadamente RG # de corpus
 planimétricamente planimétricamente RG # lt2
 platónicamente platónicamente RG # rae
 plausiblemente plausiblemente RG # rae
@@ -3260,6 +3869,7 @@ plebiscitariamente plebiscitariamente RG # lt2
 plegadamente plegadamente RG # rae
 plenamente plenamente RG # rae
 plenariamente plenariamente RG # rae
+plenísimamente plenísimamente RG # de corpus
 pleonásticamente pleonásticamente RG # rae
 pletóricamente pletóricamente RG # lt2
 pluralmente pluralmente RG # lt2
@@ -3270,6 +3880,7 @@ plásticamente plásticamente RG # rae
 poblacionalmente poblacionalmente RG # lt2
 pobremente pobremente RG # rae
 poderosamente poderosamente RG # rae
+poderosísimamente poderosísimamente RG # de corpus
 podridamente podridamente RG # lt
 polarmente polarmente RG # lt2
 policialmente policialmente RG # lt2
@@ -3277,9 +3888,11 @@ policíacamente policíacamente RG # lt2
 polifónicamente polifónicamente RG # lt2
 poligonalmente poligonalmente RG # lt2
 poligínicamente poligínicamente RG # lt2
+polimórficamente polimórficamente RG # de corpus
 polinomialmente polinomialmente RG # lt2
 polinómicamente polinómicamente RG # lt2
 pollinarmente pollinarmente RG # rae
+polvorientamente polvorientamente RG # de corpus
 polémicamente polémicamente RG # lt2
 polínicamente polínicamente RG # lt2
 políticamente políticamente RG # rae
@@ -3295,6 +3908,7 @@ popularmente popularmente RG # rae
 populosamente populosamente RG # lt2
 porcentualmente porcentualmente RG # lt2
 porfiadamente porfiadamente RG # rae
+pormenorizadamente pormenorizadamente RG # de corpus
 pornográficamente pornográficamente RG # lt2
 portentosamente portentosamente RG # rae
 posesivamente posesivamente RG # lt2
@@ -3318,6 +3932,7 @@ precautoriamente precautoriamente RG # lt2
 precavidamente precavidamente RG # rae
 precedentemente precedentemente RG # lt2
 preceptivamente preceptivamente RG # rae
+preciadamente preciadamente RG # de corpus
 preciosamente preciosamente RG # rae
 preciosistamente preciosistamente RG # lt2
 precipitadamente precipitadamente RG # rae
@@ -3328,6 +3943,7 @@ preclaramente preclaramente RG # rae
 precozmente precozmente RG # lt
 precursoramente precursoramente RG # lt2
 predeciblemente predeciblemente RG # lt2
+predestinadamente predestinadamente RG # de corpus
 predicativamente predicativamente RG # lt2
 predictivamente predictivamente RG # lt2
 predominantemente predominantemente RG # rae
@@ -3347,15 +3963,19 @@ prenatalmente prenatalmente RG # lt2
 preocupadamente preocupadamente RG # rae
 preocupantemente preocupantemente RG # lt2
 preparatoriamente preparatoriamente RG # rae
+preponderadamente preponderadamente RG # de corpus
 preponderantemente preponderantemente RG # lt2
 prepotentemente prepotentemente RG # lt2
+presagiosamente presagiosamente RG # de corpus
 prescriptivamente prescriptivamente RG # lt2
 presencialmente presencialmente RG # rae
 presentemente presentemente RG # rae
 presentáneamente presentáneamente RG # rae
 prestamente prestamente RG # rae
 prestigiosamente prestigiosamente RG # lt2
+prestísimamente prestísimamente RG # de corpus
 presumiblemente presumiblemente RG # lt
+presumidamente presumidamente RG # de corpus
 presuntamente presuntamente RG # rae
 presuntivamente presuntivamente RG # rae
 presuntuosamente presuntuosamente RG # rae
@@ -3363,6 +3983,7 @@ presupuestalmente presupuestalmente RG # lt2
 presupuestariamente presupuestariamente RG # lt2
 presurosamente presurosamente RG # rae
 pretenciosamente pretenciosamente RG # lt2
+pretendidamente pretendidamente RG # de corpus
 preternaturalmente preternaturalmente RG # rae
 prevalecientemente prevalecientemente RG # lt2
 prevalentemente prevalentemente RG # lt2
@@ -3388,11 +4009,14 @@ prioritariamente prioritariamente RG # lt2
 privadamente privadamente RG # rae
 privativamente privativamente RG # rae
 privilegiadamente privilegiadamente RG # rae
+proactivamente proactivamente RG # de corpus
 probabilísticamente probabilísticamente RG # lt2
 probablemente probablemente RG # rae
+probadamente probadamente RG # de corpus
 problemáticamente problemáticamente RG # rae
 procazmente procazmente RG # lt2
 procedimentalmente procedimentalmente RG # lt2
+procelosamente procelosamente RG # de corpus
 procesalmente procesalmente RG # lt
 procesionalmente procesionalmente RG # rae
 prodigiosamente prodigiosamente RG # rae
@@ -3420,6 +4044,7 @@ promiscuamente promiscuamente RG # rae
 promisoriamente promisoriamente RG # lt2
 promocionalmente promocionalmente RG # lt2
 prontamente prontamente RG # rae
+pronunciadamente pronunciadamente RG # de corpus
 propagandísticamente propagandísticamente RG # lt2
 propiamente propiamente RG # rae
 propiciamente propiciamente RG # rae
@@ -3441,6 +4066,7 @@ provechosamente provechosamente RG # rae
 proverbialmente proverbialmente RG # rae
 providencialmente providencialmente RG # rae
 provincialmente provincialmente RG # lt2
+provincianamente provincianamente RG # de corpus
 provisionalmente provisionalmente RG # rae
 provisoriamente provisoriamente RG # lt
 provocadoramente provocadoramente RG # lt2
@@ -3463,6 +4089,7 @@ psicopatológicamente psicopatológicamente RG # lt2
 psicopáticamente psicopáticamente RG # lt2
 psicosociológicamente psicosociológicamente RG # lt2
 psicosomáticamente psicosomáticamente RG # lt2
+psicoterapéuticamente psicoterapéuticamente RG # de corpus
 psicóticamente psicóticamente RG # lt2
 psiquiátricamente psiquiátricamente RG # lt2
 psíquicamente psíquicamente RG # lt2
@@ -3480,27 +4107,35 @@ pundonorosamente pundonorosamente RG # rae
 punitivamente punitivamente RG # lt2
 puntillosamente puntillosamente RG # lt2
 puntualmente puntualmente RG # rae
+puntualísimamente puntualísimamente RG # de corpus
 punzantemente punzantemente RG # lt
 puramente puramente RG # rae
 puristamente puristamente RG # lt2
 puritanamente puritanamente RG # lt2
+pusilánimemente pusilánimemente RG # de corpus
 putamente putamente RG # lt2
 putativamente putativamente RG # lt2
+putrefactamente putrefactamente RG # de corpus
+putísimamente putísimamente RG # de corpus
 puñeteramente puñeteramente RG # lt2
 pálidamente pálidamente RG # lt2
 pánicamente pánicamente RG # lt2
 pérfidamente pérfidamente RG # rae
 pésimamente pésimamente RG # rae
+pétreamente pétreamente RG # de corpus
 píamente píamente RG # rae
 pícaramente pícaramente RG # rae
 pírricamente pírricamente RG # lt2
 póstumamente póstumamente RG # lt
 públicamente públicamente RG # rae
 púdicamente púdicamente RG # rae
+quebradamente quebradamente RG # de corpus
+quedadamente quedadamente RG # de corpus
 quedamente quedamente RG # rae
 quejosamente quejosamente RG # rae
 quejumbrosamente quejumbrosamente RG # lt2
 querellosamente querellosamente RG # rae
+querúbicamente querúbicamente RG # de corpus
 quevedescamente quevedescamente RG # lt2
 quietamente quietamente RG # rae
 quijotescamente quijotescamente RG # rae
@@ -3527,10 +4162,14 @@ radiográficamente radiográficamente RG # lt2
 radiológicamente radiológicamente RG # lt2
 radiométricamente radiométricamente RG # lt2
 raigalmente raigalmente RG # lt2
+ralamente ralamente RG # de corpus
 ramplonamente ramplonamente RG # lt2
 ranciamente ranciamente RG # lt2
+rapazmente rapazmente RG # de corpus
+rapidísimamente rapidísimamente RG # de corpus
 raquíticamente raquíticamente RG # lt2
 raramente raramente RG # rae
+rarísimamente rarísimamente RG # de corpus
 rasamente rasamente RG # rae
 rasantemente rasantemente RG # lt2
 rasposamente rasposamente RG # lt2
@@ -3545,8 +4184,10 @@ reactivamente reactivamente RG # lt2
 realistamente realistamente RG # lt2
 realmente realmente RG # rae
 rebeldemente rebeldemente RG # lt2
+rebuscadamente rebuscadamente RG # de corpus
 recalcadamente recalcadamente RG # rae
 recalcitrantemente recalcitrantemente RG # lt
+recargadamente recargadamente RG # de corpus
 recatadamente recatadamente RG # rae
 recelosamente recelosamente RG # lt2
 receptivamente receptivamente RG # lt2
@@ -3555,10 +4196,13 @@ reciamente reciamente RG # rae
 recientemente recientemente RG # rae
 recogidamente recogidamente RG # rae
 recomendablemente recomendablemente RG # rae
+reconcentradamente reconcentradamente RG # de corpus
+recondenadamente recondenadamente RG # de corpus
 reconfortantemente reconfortantemente RG # lt2
 reconociblemente reconociblemente RG # lt
 reconocidamente reconocidamente RG # rae
 recreativamente recreativamente RG # lt2
+recriminatoriamente recriminatoriamente RG # de corpus
 rectalmente rectalmente RG # lt2
 rectamente rectamente RG # rae
 rectangularmente rectangularmente RG # lt2
@@ -3573,9 +4217,12 @@ reductivamente reductivamente RG # lt2
 redundantemente redundantemente RG # lt2
 referencialmente referencialmente RG # lt2
 referentemente referentemente RG # lt2
+refinadamente refinadamente RG # de corpus
 reflejamente reflejamente RG # lt2
 reflexivamente reflexivamente RG # rae
+refrescadamente refrescadamente RG # de corpus
 refrescantemente refrescantemente RG # lt2
+refulgentemente refulgentemente RG # de corpus
 regaladamente regaladamente RG # rae
 regiamente regiamente RG # rae
 regionalmente regionalmente RG # lt2
@@ -3584,38 +4231,50 @@ regladamente regladamente RG # rae
 reglamentariamente reglamentariamente RG # rae
 regocijadamente regocijadamente RG # rae
 regresivamente regresivamente RG # lt2
+reguladamente reguladamente RG # de corpus
 regularmente regularmente RG # rae
 reiteradamente reiteradamente RG # rae
 reiterativamente reiterativamente RG # lt2
 reivindicativamente reivindicativamente RG # lt2
 relacionalmente relacionalmente RG # lt2
 relajadamente relajadamente RG # rae
+relamidamente relamidamente RG # de corpus
+relampagueantemente relampagueantemente RG # de corpus
 relativamente relativamente RG # rae
 relativistamente relativistamente RG # lt2
 relevantemente relevantemente RG # lt2
 religiosamente religiosamente RG # rae
+relucientemente relucientemente RG # de corpus
 reluctantemente reluctantemente RG # lt2
 remarcablemente remarcablemente RG # lt2
+remarcadamente remarcadamente RG # de corpus
 rematadamente rematadamente RG # rae
 remilgadamente remilgadamente RG # rae
+reminiscentemente reminiscentemente RG # de corpus
 remisamente remisamente RG # rae
 remisivamente remisivamente RG # rae
+remolonamente remolonamente RG # de corpus
 remotamente remotamente RG # rae
 remunerativamente remunerativamente RG # lt2
 renalmente renalmente RG # lt2
 rencorosamente rencorosamente RG # rae
 rendidamente rendidamente RG # rae
+renombradamente renombradamente RG # de corpus
+renovadamente renovadamente RG # de corpus
 rentablemente rentablemente RG # lt2
 renuentemente renuentemente RG # lt2
 reológicamente reológicamente RG # lt2
 reparadoramente reparadoramente RG # lt2
 repartidamente repartidamente RG # rae
+repelentemente repelentemente RG # de corpus
 repentinamente repentinamente RG # rae
 repetidamente repetidamente RG # rae
 repetitivamente repetitivamente RG # lt2
 reposadamente reposadamente RG # rae
+reprensiblemente reprensiblemente RG # de corpus
 representativamente representativamente RG # lt2
 represivamente represivamente RG # lt2
+reprimidamente reprimidamente RG # de corpus
 reprobadamente reprobadamente RG # rae
 reprobadoramente reprobadoramente RG # lt2
 reprobatoriamente reprobatoriamente RG # lt2
@@ -3623,6 +4282,8 @@ reproductivamente reproductivamente RG # lt
 republicanamente republicanamente RG # lt2
 repugnantemente repugnantemente RG # rae
 repulsivamente repulsivamente RG # lt2
+reputadamente reputadamente RG # de corpus
+resentidamente resentidamente RG # de corpus
 reservadamente reservadamente RG # rae
 residencialmente residencialmente RG # lt2
 residentemente residentemente RG # rae
@@ -3637,10 +4298,12 @@ resonantemente resonantemente RG # lt2
 respectivamente respectivamente RG # rae
 respetablemente respetablemente RG # lt2
 respetuosamente respetuosamente RG # rae
+resplandecientemente resplandecientemente RG # de corpus
 respondidamente respondidamente RG # rae
 respondonamente respondonamente RG # lt
 responsablemente responsablemente RG # rae
 restrictivamente restrictivamente RG # rae
+restringidamente restringidamente RG # de corpus
 resueltamente resueltamente RG # rae
 resumidamente resumidamente RG # rae
 retadoramente retadoramente RG # lt2
@@ -3649,13 +4312,17 @@ reticentemente reticentemente RG # lt2
 reticuladamente reticuladamente RG # lt2
 reticularmente reticularmente RG # lt2
 retiradamente retiradamente RG # rae
+retorcidamente retorcidamente RG # de corpus
 retoricadamente retoricadamente RG # rae
+retozonamente retozonamente RG # de corpus
+retraídamente retraídamente RG # de corpus
 retroactivamente retroactivamente RG # lt2
 retrospectivamente retrospectivamente RG # lt2
 retrógradamente retrógradamente RG # lt2
 retóricamente retóricamente RG # rae
 reveladoramente reveladoramente RG # lt2
 reverencialmente reverencialmente RG # lt2
+reverenciosamente reverenciosamente RG # de corpus
 reverentemente reverentemente RG # rae
 reversiblemente reversiblemente RG # lt2
 revocablemente revocablemente RG # rae
@@ -3676,9 +4343,14 @@ ritualmente ritualmente RG # lt2
 robustamente robustamente RG # rae
 robóticamente robóticamente RG # lt2
 rocambolescamente rocambolescamente RG # lt
+rocosamente rocosamente RG # de corpus
+rojamente rojamente RG # de corpus
+rojizamente rojizamente RG # de corpus
+romanamente romanamente RG # de corpus
 romboidalmente romboidalmente RG # lt2
 románticamente románticamente RG # lt2
 roncamente roncamente RG # rae
+rosadamente rosadamente RG # de corpus
 rosamente rosamente RG # lt2
 rostralmente rostralmente RG # lt2
 rotacionalmente rotacionalmente RG # lt2
@@ -3701,13 +4373,16 @@ rígidamente rígidamente RG # rae
 ríspidamente ríspidamente RG # lt2
 rítmicamente rítmicamente RG # lt
 rústicamente rústicamente RG # rae
+sabedoramente sabedoramente RG # de corpus
 sabiamente sabiamente RG # rae
+sabidamente sabidamente RG # de corpus
 sabiondamente sabiondamente RG # lt
 sabrosamente sabrosamente RG # rae
 sacerdotalmente sacerdotalmente RG # lt2
 sacralmente sacralmente RG # lt2
 sacramentalmente sacramentalmente RG # rae
 sacramente sacramente RG # rae
+sacrificadamente sacrificadamente RG # de corpus
 sacrosantamente sacrosantamente RG # rae
 sacrílegamente sacrílegamente RG # rae
 sacudidamente sacudidamente RG # rae
@@ -3716,6 +4391,7 @@ sagitalmente sagitalmente RG # lt2
 sagradamente sagradamente RG # rae
 saladamente saladamente RG # rae
 salarialmente salarialmente RG # lt2
+salazmente salazmente RG # de corpus
 salientemente salientemente RG # lt
 salomónicamente salomónicamente RG # lt2
 saludablemente saludablemente RG # rae
@@ -3735,6 +4411,7 @@ santificadamente santificadamente RG # lt
 santurronamente santurronamente RG # lt2
 santísimamente santísimamente RG # lt
 sapientemente sapientemente RG # lt2
+saprofíticamente saprofíticamente RG # de corpus
 sarcásticamente sarcásticamente RG # rae
 sardónicamente sardónicamente RG # lt
 sarnosamente sarnosamente RG # lt
@@ -3755,6 +4432,7 @@ secundariamente secundariamente RG # rae
 sedentariamente sedentariamente RG # lt2
 sedicentemente sedicentemente RG # lt2
 sediciosamente sediciosamente RG # rae
+sedientamente sedientamente RG # de corpus
 sedosamente sedosamente RG # lt2
 seductivamente seductivamente RG # lt2
 seductoramente seductoramente RG # lt2
@@ -3774,6 +4452,8 @@ semejantemente semejantemente RG # rae
 semestralmente semestralmente RG # rae
 semiautomáticamente semiautomáticamente RG # lt2
 semicircularmente semicircularmente RG # lt2
+semiinconscientemente semiinconscientemente RG # de corpus
+seminalmente seminalmente RG # de corpus
 semioficialmente semioficialmente RG # lt2
 semiológicamente semiológicamente RG # lt2
 semipermanentemente semipermanentemente RG # lt2
@@ -3782,11 +4462,13 @@ semióticamente semióticamente RG # lt2
 sempiternamente sempiternamente RG # rae
 semánticamente semánticamente RG # lt2
 sencillamente sencillamente RG # rae
+sencillísimamente sencillísimamente RG # de corpus
 senilmente senilmente RG # lt2
 sensacionalistamente sensacionalistamente RG # lt
 sensacionalmente sensacionalmente RG # lt2
 sensatamente sensatamente RG # rae
 sensiblemente sensiblemente RG # rae
+sensibleramente sensibleramente RG # de corpus
 sensitivamente sensitivamente RG # lt2
 sensorialmente sensorialmente RG # lt
 sensualmente sensualmente RG # rae
@@ -3820,6 +4502,7 @@ señeramente señeramente RG # lt2
 señorialmente señorialmente RG # lt2
 señorilmente señorilmente RG # rae
 sibaríticamente sibaríticamente RG # lt
+sibilantemente sibilantemente RG # de corpus
 sibilinamente sibilinamente RG # lt2
 sicoanalíticamente sicoanalíticamente RG # lt2
 sicológicamente sicológicamente RG # lt2
@@ -3829,7 +4512,10 @@ sigmoideamente sigmoideamente RG # lt2
 significantemente significantemente RG # lt2
 significativamente significativamente RG # rae
 siguientemente siguientemente RG # lt2
+silenciadamente silenciadamente RG # de corpus
 silenciosamente silenciosamente RG # rae
+silentemente silentemente RG # de corpus
+silogísticamente silogísticamente RG # de corpus
 silvestremente silvestremente RG # lt2
 silábicamente silábicamente RG # lt2
 simbióticamente simbióticamente RG # lt2
@@ -3838,6 +4524,7 @@ simiescamente simiescamente RG # lt2
 similarmente similarmente RG # lt
 simoniacamente simoniacamente RG # rae
 simplemente simplemente RG # rae
+simplicísimamente simplicísimamente RG # de corpus
 simplistamente simplistamente RG # lt2
 simpáticamente simpáticamente RG # rae
 simuladamente simuladamente RG # rae
@@ -3845,11 +4532,14 @@ simultáneamente simultáneamente RG # rae
 simétricamente simétricamente RG # rae
 sinceramente sinceramente RG # rae
 sincopadamente sincopadamente RG # rae
+sincronizadamente sincronizadamente RG # de corpus
 sincréticamente sincréticamente RG # lt2
 sincrónicamente sincrónicamente RG # lt2
 sindicalmente sindicalmente RG # lt2
+sinergéticamente sinergéticamente RG # de corpus
 sinfónicamente sinfónicamente RG # lt2
 singularmente singularmente RG # rae
+singularísimamente singularísimamente RG # de corpus
 siniestramente siniestramente RG # rae
 sintagmáticamente sintagmáticamente RG # lt2
 sintomáticamente sintomáticamente RG # lt2
@@ -3869,12 +4559,15 @@ soberbiamente soberbiamente RG # rae
 soberbiosamente soberbiosamente RG # rae
 sobradamente sobradamente RG # rae
 sobreabundantemente sobreabundantemente RG # rae
+sobrecargadamente sobrecargadamente RG # de corpus
 sobrecogedoramente sobrecogedoramente RG # lt2
 sobrehumanamente sobrehumanamente RG # lt2
 sobrenaturalmente sobrenaturalmente RG # rae
 sobresalientemente sobresalientemente RG # lt
+sobresaltadamente sobresaltadamente RG # de corpus
 sobriamente sobriamente RG # rae
 socarronamente socarronamente RG # rae
+sociablemente sociablemente RG # de corpus
 socialmente socialmente RG # lt
 societariamente societariamente RG # lt2
 socioculturalmente socioculturalmente RG # lt2
@@ -3884,6 +4577,8 @@ sociológicamente sociológicamente RG # lt2
 sociopolíticamente sociopolíticamente RG # lt2
 sodomíticamente sodomíticamente RG # lt2
 soezmente soezmente RG # lt2
+sofisticadamente sofisticadamente RG # de corpus
+sofocadamente sofocadamente RG # de corpus
 sofocantemente sofocantemente RG # lt2
 sofísticamente sofísticamente RG # rae
 solamente solamente RG # rae
@@ -3897,18 +4592,26 @@ solventemente solventemente RG # lt2
 solícitamente solícitamente RG # rae
 sombríamente sombríamente RG # lt
 someramente someramente RG # rae
+somnolientamente somnolientamente RG # de corpus
 somáticamente somáticamente RG # lt2
 sonoramente sonoramente RG # rae
 sonrientemente sonrientemente RG # lt2
 sonámbulamente sonámbulamente RG # lt2
+sopesadamente sopesadamente RG # de corpus
 soportablemente soportablemente RG # lt2
+soporíferamente soporíferamente RG # de corpus
 sordamente sordamente RG # rae
 sorprendentemente sorprendentemente RG # lt
+sorprendidamente sorprendidamente RG # de corpus
 sorpresivamente sorpresivamente RG # lt
 sosamente sosamente RG # rae
 sosegadamente sosegadamente RG # rae
+soslayadamente soslayadamente RG # de corpus
+sospechadamente sospechadamente RG # de corpus
 sospechosamente sospechosamente RG # rae
 sosteniblemente sosteniblemente RG # lt2
+sostenidamente sostenidamente RG # de corpus
+soterradamente soterradamente RG # de corpus
 soñadoramente soñadoramente RG # lt2
 soñolientamente soñolientamente RG # rae
 suavemente suavemente RG # rae
@@ -3920,6 +4623,7 @@ subcutáneamente subcutáneamente RG # lt2
 subidamente subidamente RG # rae
 subitáneamente subitáneamente RG # rae
 subjetivamente subjetivamente RG # lt
+subjuntivamente subjuntivamente RG # de corpus
 sublimemente sublimemente RG # rae
 subliminalmente subliminalmente RG # lt2
 submarinamente submarinamente RG # lt
@@ -3946,9 +4650,11 @@ sufridamente sufridamente RG # lt
 sugerentemente sugerentemente RG # lt2
 sugestivamente sugestivamente RG # lt2
 suicidamente suicidamente RG # lt2
+sumadamente sumadamente RG # de corpus
 sumamente sumamente RG # rae
 sumarialmente sumarialmente RG # lt2
 sumariamente sumariamente RG # rae
+sumarísimamente sumarísimamente RG # de corpus
 sumisamente sumisamente RG # rae
 suntuosamente suntuosamente RG # rae
 superabundantemente superabundantemente RG # rae
@@ -3957,6 +4663,7 @@ superficialmente superficialmente RG # rae
 superfluamente superfluamente RG # rae
 superiormente superiormente RG # rae
 superlativamente superlativamente RG # rae
+supernaturalmente supernaturalmente RG # de corpus
 supersticiosamente supersticiosamente RG # rae
 supersónicamente supersónicamente RG # lt2
 supinamente supinamente RG # lt2
@@ -3965,7 +4672,9 @@ supletoriamente supletoriamente RG # lt2
 suplicantemente suplicantemente RG # lt2
 supremamente supremamente RG # rae
 supuestamente supuestamente RG # lt
+supuestísimamente supuestísimamente RG # de corpus
 surrealistamente surrealistamente RG # lt2
+surrealmente surrealmente RG # de corpus
 susceptiblemente susceptiblemente RG # lt2
 suspensivamente suspensivamente RG # lt2
 suspicazmente suspicazmente RG # rae
@@ -3973,8 +4682,11 @@ sustancialmente sustancialmente RG # lt
 sustanciosamente sustanciosamente RG # lt2
 sustantivamente sustantivamente RG # lt2
 sustentablemente sustentablemente RG # lt2
+sustitutivamente sustitutivamente RG # de corpus
+susurradamente susurradamente RG # de corpus
 susurrantemente susurrantemente RG # lt
 sutilmente sutilmente RG # rae
+sutilísimamente sutilísimamente RG # de corpus
 sádicamente sádicamente RG # lt2
 síncronamente síncronamente RG # lt2
 síquicamente síquicamente RG # lt2
@@ -3986,12 +4698,16 @@ súbitamente súbitamente RG # rae
 súpitamente súpitamente RG # lt2
 tacañamente tacañamente RG # rae
 taciturnamente taciturnamente RG # lt2
+taimadamente taimadamente RG # de corpus
 tajantemente tajantemente RG # lt
 talmente talmente RG # rae
+talmúdicamente talmúdicamente RG # de corpus
+talámicamente talámicamente RG # de corpus
 tamañamente tamañamente RG # rae
 tambaleantemente tambaleantemente RG # lt
 tangencialmente tangencialmente RG # lt
 tangiblemente tangiblemente RG # lt
+tapidamente tapidamente RG # de corpus
 taquigráficamente taquigráficamente RG # rae
 tardamente tardamente RG # lt2
 tardíamente tardíamente RG # rae
@@ -4009,10 +4725,12 @@ tediosamente tediosamente RG # lt2
 telefónicamente telefónicamente RG # rae
 telegráficamente telegráficamente RG # rae
 telemáticamente telemáticamente RG # lt2
+telemétricamente telemétricamente RG # de corpus
 teleológicamente teleológicamente RG # lt2
 telepáticamente telepáticamente RG # lt2
 telescópicamente telescópicamente RG # lt2
 televisivamente televisivamente RG # rae
+telúricamente telúricamente RG # de corpus
 temblorosamente temblorosamente RG # lt
 temerariamente temerariamente RG # rae
 temerosamente temerosamente RG # rae
@@ -4042,8 +4760,10 @@ tenuemente tenuemente RG # lt
 tenísticamente tenísticamente RG # lt2
 teocráticamente teocráticamente RG # lt2
 teológicamente teológicamente RG # rae
+teoréticamente teoréticamente RG # de corpus
 teosóficamente teosóficamente RG # lt2
 terapéuticamente terapéuticamente RG # rae
+teratológicamente teratológicamente RG # de corpus
 tercamente tercamente RG # rae
 terceramente terceramente RG # rae
 tergiversadamente tergiversadamente RG # lt
@@ -4072,11 +4792,14 @@ tetudamente tetudamente RG # lt
 textualmente textualmente RG # lt
 teóricamente teóricamente RG # rae
 tibiamente tibiamente RG # rae
+ticamente ticamente RG # de corpus
 tiernamente tiernamente RG # lt
+tiernísimamente tiernísimamente RG # de corpus
 tiesamente tiesamente RG # lt2
 tipográficamente tipográficamente RG # lt2
 tipológicamente tipológicamente RG # lt2
 tiranamente tiranamente RG # lt2
+tirantemente tirantemente RG # de corpus
 tiránicamente tiránicamente RG # rae
 titubeantemente titubeantemente RG # lt
 titularmente titularmente RG # lt2
@@ -4084,7 +4807,9 @@ titánicamente titánicamente RG # lt2
 tolerablemente tolerablemente RG # rae
 tolerantemente tolerantemente RG # lt2
 tonalmente tonalmente RG # lt2
+tonificantemente tonificantemente RG # de corpus
 tontamente tontamente RG # rae
+tontorronamente tontorronamente RG # de corpus
 topográficamente topográficamente RG # rae
 topológicamente topológicamente RG # lt2
 toponímicamente toponímicamente RG # lt2
@@ -4095,6 +4820,8 @@ torpemente torpemente RG # rae
 torrencialmente torrencialmente RG # lt2
 torticeramente torticeramente RG # rae
 tortuosamente tortuosamente RG # rae
+torturadamente torturadamente RG # de corpus
+torturadoramente torturadoramente RG # de corpus
 torvamente torvamente RG # lt
 toscamente toscamente RG # rae
 totalitariamente totalitariamente RG # lt2
@@ -4111,11 +4838,14 @@ tramposamente tramposamente RG # lt2
 tranquilamente tranquilamente RG # rae
 tranquilizadoramente tranquilizadoramente RG # lt2
 transcendentalmente transcendentalmente RG # lt2
+transcendentemente transcendentemente RG # de corpus
+transculturalmente transculturalmente RG # de corpus
 transgénicamente transgénicamente RG # lt2
 transicionalmente transicionalmente RG # lt2
 transitivamente transitivamente RG # lt2
 transitoriamente transitoriamente RG # rae
 translaticiamente translaticiamente RG # lt2
+translúcidamente translúcidamente RG # de corpus
 transnacionalmente transnacionalmente RG # lt2
 transoceánicamente transoceánicamente RG # lt2
 transparentemente transparentemente RG # lt2
@@ -4123,12 +4853,17 @@ transversalmente transversalmente RG # lt
 tranversalmente tranversalmente RG # lt2
 trascendentalmente trascendentalmente RG # lt2
 trascendentemente trascendentemente RG # lt2
+traslaticiamente traslaticiamente RG # de corpus
 traslúcidamente traslúcidamente RG # lt2
+trasnochadamente trasnochadamente RG # de corpus
+trastornadamente trastornadamente RG # de corpus
 trasudadamente trasudadamente RG # rae
 traumáticamente traumáticamente RG # lt2
 traviesamente traviesamente RG # lt2
 tremebundamente tremebundamente RG # lt2
 tremendamente tremendamente RG # lt
+tremendísimamente tremendísimamente RG # de corpus
+trepidantemente trepidantemente RG # de corpus
 triangularmente triangularmente RG # rae
 tribalmente tribalmente RG # lt2
 tributariamente tributariamente RG # lt2
@@ -4137,6 +4872,7 @@ trienalmente trienalmente RG # lt2
 trigonométricamente trigonométricamente RG # lt2
 trilateralmente trilateralmente RG # lt2
 trimestralmente trimestralmente RG # rae
+trinitariamente trinitariamente RG # de corpus
 tripartitamente tripartitamente RG # lt2
 triplemente triplemente RG # rae
 tristemente tristemente RG # rae
@@ -4152,9 +4888,11 @@ truncadamente truncadamente RG # rae
 trágicamente trágicamente RG # rae
 trémulamente trémulamente RG # rae
 trópicamente trópicamente RG # lt2
+tuberculosamente tuberculosamente RG # de corpus
 tumescentemente tumescentemente RG # lt2
 tumultuariamente tumultuariamente RG # rae
 tumultuosamente tumultuosamente RG # rae
+tupidamente tupidamente RG # de corpus
 turbadamente turbadamente RG # rae
 turbadoramente turbadoramente RG # lt2
 turbiamente turbiamente RG # rae
@@ -4185,6 +4923,7 @@ uniaxialmente uniaxialmente RG # lt2
 unidamente unidamente RG # rae
 unidimensionalmente unidimensionalmente RG # lt2
 unidireccionalmente unidireccionalmente RG # lt2
+unificadamente unificadamente RG # de corpus
 uniformemente uniformemente RG # rae
 unilateralmente unilateralmente RG # lt
 unipersonalmente unipersonalmente RG # lt2
@@ -4197,6 +4936,7 @@ unívocamente unívocamente RG # rae
 urbanamente urbanamente RG # rae
 urbanísticamente urbanísticamente RG # lt2
 urgentemente urgentemente RG # rae
+urgentísimamente urgentísimamente RG # de corpus
 urinariamente urinariamente RG # lt2
 usualmente usualmente RG # rae
 usurariamente usurariamente RG # rae
@@ -4214,12 +4954,14 @@ valerosamente valerosamente RG # rae
 valientemente valientemente RG # rae
 valiosamente valiosamente RG # lt
 valorativamente valorativamente RG # lt2
+vampíricamente vampíricamente RG # de corpus
 vanagloriosamente vanagloriosamente RG # lt
 vanamente vanamente RG # rae
 vandálicamente vandálicamente RG # lt2
 vanidosamente vanidosamente RG # lt
 vaporosamente vaporosamente RG # lt2
 variablemente variablemente RG # rae
+variadamente variadamente RG # de corpus
 variamente variamente RG # rae
 varonilmente varonilmente RG # rae
 vascularmente vascularmente RG # lt2
@@ -4232,8 +4974,10 @@ vegetativamente vegetativamente RG # lt2
 vehementemente vehementemente RG # rae
 vehicularmente vehicularmente RG # lt2
 vejatoriamente vejatoriamente RG # lt2
+veladamente veladamente RG # de corpus
 velazqueñamente velazqueñamente RG # lt2
 veleidosamente veleidosamente RG # lt2
+velocísimamente velocísimamente RG # de corpus
 velozmente velozmente RG # rae
 venenosamente venenosamente RG # lt2
 venerablemente venerablemente RG # rae
@@ -4247,6 +4991,7 @@ verbalmente verbalmente RG # rae
 verbosamente verbosamente RG # lt2
 verdaderamente verdaderamente RG # rae
 verdemente verdemente RG # lt2
+verdosamente verdosamente RG # de corpus
 vergonzantemente vergonzantemente RG # lt2
 vergonzosamente vergonzosamente RG # rae
 verificablemente verificablemente RG # lt2
@@ -4263,8 +5008,10 @@ vestigialmente vestigialmente RG # lt2
 veterinariamente veterinariamente RG # lt2
 vialmente vialmente RG # lt2
 vibrantemente vibrantemente RG # lt2
+vibratoriamente vibratoriamente RG # de corpus
 vicariamente vicariamente RG # lt2
 vicariantemente vicariantemente RG # lt2
+viciadamente viciadamente RG # de corpus
 viciosamente viciosamente RG # rae
 victoriosamente victoriosamente RG # rae
 vidriosamente vidriosamente RG # lt2
@@ -4273,8 +5020,11 @@ vigorosamente vigorosamente RG # rae
 vilipendiosamente vilipendiosamente RG # lt2
 villanamente villanamente RG # rae
 vilmente vilmente RG # rae
+vindicativamente vindicativamente RG # de corpus
 violentamente violentamente RG # rae
+violentísimamente violentísimamente RG # de corpus
 violetamente violetamente RG # lt2
+viperinamente viperinamente RG # de corpus
 viralmente viralmente RG # lt2
 virginalmente virginalmente RG # lt2
 virilmente virilmente RG # rae
@@ -4289,17 +5039,23 @@ vistosamente vistosamente RG # rae
 visualmente visualmente RG # rae
 vitaliciamente vitaliciamente RG # lt2
 vitalmente vitalmente RG # lt2
+vitriólicamente vitriólicamente RG # de corpus
 vituperiosamente vituperiosamente RG # rae
 vituperosamente vituperosamente RG # rae
 vivamente vivamente RG # rae
 vivazmente vivazmente RG # lt
 vivencialmente vivencialmente RG # lt2
+vividamente vividamente RG # de corpus
+vivísimamente vivísimamente RG # de corpus
 vocacionalmente vocacionalmente RG # lt2
 vocalmente vocalmente RG # rae
 vociferantemente vociferantemente RG # lt
+vocingleramente vocingleramente RG # de corpus
+voladamente voladamente RG # de corpus
 volcánicamente volcánicamente RG # lt
 volitivamente volitivamente RG # lt2
 volublemente volublemente RG # lt
+voluminosamente voluminosamente RG # de corpus
 volumétricamente volumétricamente RG # lt2
 voluntariamente voluntariamente RG # rae
 voluntariosamente voluntariosamente RG # rae
@@ -4323,8 +5079,10 @@ zumbonamente zumbonamente RG # lt2
 zurdamente zurdamente RG # lt2
 ácidamente ácidamente RG # lt
 ágilmente ágilmente RG # lt2
+áridamente áridamente RG # de corpus
 ásperamente ásperamente RG # lt
 áticamente áticamente RG # lt2
+átonamente átonamente RG # de corpus
 áureamente áureamente RG # lt2
 ávidamente ávidamente RG # lt
 épicamente épicamente RG # rae

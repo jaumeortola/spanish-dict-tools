@@ -8389,6 +8389,7 @@ Tiurana Tiurana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivenys Tivenys NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivissa Tivissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tiziano Tiziano NPMSSP0
+Tlaquepaque Tlaquepaque NPCSG00
 Tlaxcala Tlaxcala NPCSG00
 Tláhuac Tláhuac NPCSG00
 Tobarra Tobarra NPCNG00 # topònim-apertium-falta-gènere-nombre
