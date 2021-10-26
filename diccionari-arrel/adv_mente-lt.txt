@@ -17,6 +17,7 @@
 #méritamente méritamente RG # rae
 #pósteramente pósteramente RG # rae
 #respetosamente respetosamente RG # rae
+#vividamente vividamente RG # de corpus
 abandonadamente abandonadamente RG # lt
 abarrotadamente abarrotadamente RG # lt
 abastadamente abastadamente RG # rae
@@ -5045,7 +5046,6 @@ vituperosamente vituperosamente RG # rae
 vivamente vivamente RG # rae
 vivazmente vivazmente RG # lt
 vivencialmente vivencialmente RG # lt2
-vividamente vividamente RG # de corpus
 vivísimamente vivísimamente RG # de corpus
 vocacionalmente vocacionalmente RG # lt2
 vocalmente vocalmente RG # rae
