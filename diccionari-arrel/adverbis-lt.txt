@@ -44,6 +44,7 @@ aquende aquende RG
 aquí aquí RG
 arredro arredro RG
 arriba arriba RG
+asaz asaz RG
 asimismo asimismo RG
 asina así RG
 así así RG
