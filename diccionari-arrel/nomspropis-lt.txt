@@ -2883,6 +2883,7 @@ Davis Davis NPCNSP0 # wiki
 Davos Davos NPCSG00 # topònim-apertium
 Dawkins Dawkins NPCNSP0
 Dayana Dayana NPFSSP0
+Dayton Dayton NPCSG00
 Daza Daza NPCNSP0
 DeLorean DeLorean NPCNO00
 Deborah Deborah NPFSSP0
