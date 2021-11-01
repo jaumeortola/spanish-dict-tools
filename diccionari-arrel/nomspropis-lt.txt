@@ -1,3 +1,4 @@
+
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1926,6 +1927,7 @@ CAM CAM NPFSO00
 CAS CAS NPCNO00
 CBC CBC NPCNO00
 CCAA CCAA NPCNO00
+CCOO CCOO NPFPO00 # typographically incorrect
 CDC CDC NPCNO00
 CDE CDE NPCNO00
 CDMX CDMX NPFSG00
@@ -3081,6 +3083,7 @@ Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
 EAU EAU NPMPG00
 ECHO ECHO NPCNO00
 ECTS ECTS NPMSO00
+EEUU EEUU NPMPG00 # typographically incorrect
 ENAIRE ENAIRE NPCSO00
 ERC ERC NPCNO00
 ESA ESA NPFSO00
@@ -4721,6 +4724,8 @@ Iztapalapa Iztapalapa NPCSG00
 Iàtova Iàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iñaki Iñaki NPMSSP0
 Iósif Iósif NPMSSP0
+JJOO JJOO NPMPO00 # typographically incorrect
+JJPP JJPP NPMPO00 # typographically incorrect
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jacarilla Jacarilla NPCNG00 # topònim-apertium-falta-gènere-nombre
