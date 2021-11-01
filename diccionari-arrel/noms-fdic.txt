@@ -636,7 +636,6 @@ Cinquecento=categories: MS;fonts: italià;
 CoA=categories: FI;fonts: medical; #coenzima
 Corpus=categories: MI;fonts: dr;
 Cuasimodo=categories: MS;fonts: dr;
-DDHH=categories: MP;fonts: sigla;
 DDHH=categories: MP;fonts: typographically incorrect;
 DDT=categories: MS;fonts: dr;
 DG=categories: FI;fonts: sigla;
