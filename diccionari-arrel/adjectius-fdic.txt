@@ -14188,6 +14188,7 @@ infanticida=categories: A;fonts: LT;
 infantil=categories: A;fonts: LT;
 infantiloide=categories: A;fonts: LT;
 infantilísimo infantilísima=categories: A;fonts: superlative1;
+infantojuvenil=categories: A;fonts: dr;
 infanzonado infanzonada=categories: A;fonts: LT;
 infatigable=categories: A;fonts: LT;
 infausto infausta=categories: A;fonts: LT;
