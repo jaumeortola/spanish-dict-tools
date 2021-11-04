@@ -3332,6 +3332,7 @@ Ero Ero NPMSSP0 # avl
 Eros Eros NPCNG00 # topònim-apertium
 Eros Eros NPMSSP0 # avl
 Erquembaldo Erquembaldo NPMSSP0 # avl
+Errejón Errejón NPCNSP0
 Ervigio Ervigio NPMSSP0 # avl
 Esaú Esaú NPMSSP0 # avl
 Escalante Escalante NPCNSP0
