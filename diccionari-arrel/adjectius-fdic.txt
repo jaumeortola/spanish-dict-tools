@@ -714,6 +714,7 @@ afectable=categories: A;fonts: dr;
 afectador afectadora=categories: A;fonts: dr;
 afectadísimo afectadísima=categories: A;fonts: superlative;
 afectivo afectiva=categories: A;fonts: LT;
+afectivo-emocional=categories: A;fonts: derivat;
 afectivo-sexual=categories: A;fonts: derivat;
 afecto afecta=categories: A;fonts: LT;
 afectuoso afectuosa=categories: A;fonts: LT;
