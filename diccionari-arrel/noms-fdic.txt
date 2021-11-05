@@ -40903,6 +40903,7 @@ medicinante=categories: M;fonts: dr;
 medición=categories: F;fonts: LT;
 medicoforense=categories: MF;fonts: LT;
 medicucho=categories: M;fonts: LT;
+medicán==categories: M;fonts: dr;
 medida=categories: F;fonts: LT;
 medidor medidora=categories: MF;fonts: LT;
 mediero mediera=categories: MF;fonts: LT;
