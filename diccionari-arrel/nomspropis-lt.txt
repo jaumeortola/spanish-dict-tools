@@ -9276,3 +9276,6 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bolaños Bolaños NPCNSP0
+Bolaño Bolaño NPCNSP0
+Hermitage Hermitage NPMSO00
