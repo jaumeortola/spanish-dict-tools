@@ -1695,6 +1695,8 @@ Bogotá Bogotá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bohemia Bohemia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bohr Bohr NPCNSP0 # medical
 Bohórquez Bohórquez NPCNSP0
+Bolaño Bolaño NPCNSP0
+Bolaños Bolaños NPCNSP0
 Bolbait Bolbait NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bolbaite Bolbaite NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bolivia Bolivia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4422,6 +4424,7 @@ Hermindo Hermindo NPMSSP0 # avl
 Herminia Herminia NPFSSP0 # avl
 Herminio Herminio NPMSSP0 # avl
 Hermione Hermione NPFSSP0
+Hermitage Hermitage NPMSO00
 Hermosillo Hermosillo NPMSG00
 Hermógenes Hermógenes NPMSSP0 # avl
 Hernando Hernando NPMSSP0 # avl
@@ -9276,6 +9279,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Bolaños Bolaños NPCNSP0
-Bolaño Bolaño NPCNSP0
-Hermitage Hermitage NPMSO00
