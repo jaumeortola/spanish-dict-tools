@@ -2059,6 +2059,7 @@ compensar=categories: V;model:amar;fonts: LT;
 competer=categories: V;model:temer;fonts: LT;
 competir=categories: V;model:competir;fonts: LT;
 compilar=categories: V;model:amar;fonts: LT;
+compinchar=categories: V;model:amar;fonts: dr;
 complacer=categories: V;model:agradecer;fonts: LT;
 complejizar=categories: V;model:abalanzar;fonts: ap;
 complementar=categories: V;model:amar;fonts: LT;
