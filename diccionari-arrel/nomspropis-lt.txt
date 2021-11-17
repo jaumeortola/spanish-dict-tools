@@ -7560,6 +7560,7 @@ Rota Rota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rotglà Rotglà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roth Roth NPCNSP0 # medical
 Rothschild Rothschild NPCNSP0
+Rottenmeier Rottenmeier NPCNSP0
 Rousseau Rousseau NPCNSP0 # wiki
 Roussy-Levy Roussy-Levy NPCNSP0 # medical
 Rovira Rovira NPCNSP0

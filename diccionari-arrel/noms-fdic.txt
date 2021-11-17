@@ -57148,6 +57148,7 @@ segunda=categories: F;fonts: LT;
 segundero=categories: M;fonts: LT;
 segundilla=categories: F;fonts: LT;
 segundillo=categories: M;fonts: LT;
+segundo=categories: M;fonts: dr;
 segundogenitura=categories: F;fonts: LT;
 segundogénito segundogénita=categories: MF;fonts: LT;
 segundón=categories: M;fonts: LT;
