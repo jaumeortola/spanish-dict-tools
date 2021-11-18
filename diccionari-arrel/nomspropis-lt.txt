@@ -1144,6 +1144,7 @@ Ayamonte Ayamonte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aylin Aylin NPFSSP0
 Ayora Ayora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ayre Ayre NPCNSP0 # medical
+Ayreflor Ayreflor NPCNSP0
 Ayrton Ayrton NPMSSP0
 Ayuso Ayuso NPCNSP0
 Ayódar Ayódar NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7302,6 +7303,7 @@ Rambo Rambo NPMSSP0
 Rambos Rambo NPMPSP0
 Ramira Ramira NPFSSP0 # avl
 Ramiro Ramiro NPMSSP0 # avl
+Ramis Ramis NPCNSP0
 Ramona Ramona NPFSSP0 # avl
 Ramos Ramos NPCNSP0 # wiki common surnames
 Ramsay-Hunt Ramsay-Hunt NPCNSP0 # medical
