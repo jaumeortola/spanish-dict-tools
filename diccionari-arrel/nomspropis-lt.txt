@@ -1789,6 +1789,7 @@ Bratislava Bratislava NPCNG00 # topònim-apertium-falta-gènere-nombre
 Braulia Braulia NPFSSP0 # avl
 Braulio Braulio NPMSSP0 # avl
 Braun Braun NPCNSP0 # medical
+Braveheart Braveheart NPCNSP0
 Bravo Bravo NPCNSP0 # wiki common surnames
 Brazzaville Brazzaville NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brea Brea NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4109,6 +4110,7 @@ Godoy Godoy NPCNSP0 # wiki common surnames
 Goeckerman Goeckerman NPCNSP0 # medical
 Goethe Goethe NPMSSP0
 Gogh Gogh NPCNSP0 # wiki
+Goldfinger Goldfinger NPCNSP0
 Goldman Goldman NPCNSP0 # medical
 Goldman-Favre Goldman-Favre NPCNSP0 # medical
 Golgi Golgi NPCNSP0
@@ -5204,6 +5206,7 @@ Leonilo Leonilo NPMSSP0 # avl
 Leonor Leonor NPFSSP0 # avl
 Leontina Leontina NPFSSP0 # avl
 Leopard Leopard NPCNSP0 # medical
+Leopardi Leopardi NPCNSP0
 Leopold Leopold NPCNSP0 # medical
 Leopolda Leopolda NPFSSP0 # avl
 Leopoldo Leopoldo NPMSSP0 # avl
@@ -6509,6 +6512,7 @@ Oise Oise NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oix Oix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ojeda Ojeda NPCNSP0 # wiki common surnames
 Ojós Ojós NPCNG00 # topònim-apertium-falta-gènere-nombre
+Okavango Okavango NPMSG00
 Okazaki Okazaki NPCNSP0 # medical
 Okinawa Okinawa NPCSG00
 Oklahoma Oklahoma NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9023,6 +9027,7 @@ Whitney Whitney NPCNSP0
 Wickam Wickam NPCNSP0 # medical
 Wifreda Wifreda NPFSSP0 # avl
 Wifredo Wifredo NPMSSP0 # avl
+Wikileaks Wikileaks NPMNO00
 Wikipedia Wikipedia NPFSO00
 Wikipedias Wikipedia NPFPO00
 Wikisource Wikisource NPCNO00 # wiki
@@ -9185,6 +9190,7 @@ Zuloaga Zuloaga NPCNSP0 # wiki
 Zumbush Zumbush NPCNSP0 # medical
 Zumpano Zumpano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zungri Zungri NPCNG00 # topònim-apertium-falta-gènere-nombre
+Zurbarán Zurbarán NPCNSP0
 Zárate Zárate NPCNSP0
 Zósima Zósima NPFSSP0 # avl
 Zósimo Zósimo NPMSSP0 # avl
