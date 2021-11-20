@@ -12485,6 +12485,7 @@ guedejado guedejada=categories: A;fonts: LT;
 guedejoso guedejosa=categories: A;fonts: LT;
 guedejudo guedejuda=categories: A;fonts: LT;
 guedejón guedejona=categories: A;fonts: LT;
+guerracivilista=categories: A;fonts: derivat;
 guerreador guerreadora=categories: A;fonts: LT;
 guerrerense=categories: A;fonts: dr;
 guerrero guerrera=categories: A;fonts: LT;

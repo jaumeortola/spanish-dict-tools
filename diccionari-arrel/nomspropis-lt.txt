@@ -9027,7 +9027,7 @@ Whitney Whitney NPCNSP0
 Wickam Wickam NPCNSP0 # medical
 Wifreda Wifreda NPFSSP0 # avl
 Wifredo Wifredo NPMSSP0 # avl
-Wikileaks Wikileaks NPMNO00
+WikiLeaks WikiLeaks NPMNO00
 Wikipedia Wikipedia NPFSO00
 Wikipedias Wikipedia NPFPO00
 Wikisource Wikisource NPCNO00 # wiki
