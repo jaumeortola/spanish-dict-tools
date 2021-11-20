@@ -460,6 +460,7 @@ Alcanó Alcanó NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcaraz Alcaraz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcarràs Alcarràs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcatel Alcatel NPCNO00
+Alcatraz Alcatraz NPCSG00
 Alcañiz Alcañiz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcestes Alcestes NPMSSP0 # avl
 Alcibíades Alcibíades NPMSSP0 # avl
