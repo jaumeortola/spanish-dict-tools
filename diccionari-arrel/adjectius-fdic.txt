@@ -24729,6 +24729,7 @@ superlindo superlinda=categories: A;fonts: derivat;
 superlíquido superlíquida=categories: A;fonts: LT;
 supermasculino supermasculina=categories: A;fonts: derivat;
 supermercadista=categories: A;fonts: dr;
+supermoderno supermoderna=categories: A;fonts: derivat;
 supernatural=categories: A;fonts: derivat;
 supernecesario supernecesaria=categories: A;fonts: derivat;
 superno superna=categories: A;fonts: dr;
