@@ -15128,6 +15128,7 @@ cibercondría=categories: F;fonts: wiki;
 ciberdelincuente=categories: MF;fonts: user;
 ciberdemocracia=categories: F;fonts: LT;
 ciberespacio=categories: M;fonts: LT;
+ciberlunes=categories: MI;fonts: derivat;
 cibernauta=categories: MF;fonts: dr;
 cibernética=categories: F;fonts: LT;
 ciberocupación=categories: F;fonts: fundeu;
