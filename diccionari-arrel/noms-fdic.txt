@@ -688,6 +688,7 @@ IMEI=categories: MI;fonts: sigla;
 IMV=categories: MI;fonts: sigla;
 IP=categories: FI;fonts: dr;
 IPC=categories: MFI;fonts: dr;
+IPREM=categories: MI;fonts: fundeu;
 IRPF=categories: MI;fonts: dr;
 ISBN=categories: MI;fonts: dr;
 ISP=categories: MI;fonts: sigla;
