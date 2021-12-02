@@ -8378,6 +8378,7 @@ Tietze Tietze NPCNSP0 # medical
 Tiffany Tiffany NPCNO00
 Tiffeneau Tiffeneau NPCNSP0 # medical
 Tigris Tigris NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tigré Tigré NPCSG00
 Tijuana Tijuana NPCSG00
 TikTok TikTok NPCNO00
 Tikal Tikal NPCNSP0 # wiki
