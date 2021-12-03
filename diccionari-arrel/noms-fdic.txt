@@ -62080,6 +62080,7 @@ tojino=categories: M;fonts: LT;
 tojo=categories: M;fonts: LT;
 tojosita=categories: F;fonts: dr;
 tokamak=categories: M;fonts: dr;
+token [pl. tókenes]==categories: M;fonts: fundeu;
 tola=categories: F;fonts: dr;
 tolano=categories: M;fonts: LT;
 tolazamida=categories: F;fonts: medical;
