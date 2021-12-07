@@ -59652,6 +59652,7 @@ superpolímero=categories: M;fonts: LT;
 superposición=categories: F;fonts: LT;
 superpotencia=categories: F;fonts: LT;
 superproducción=categories: F;fonts: LT;
+superrealidad=categories: F;fonts: derivat;
 superrealismo=categories: M;fonts: LT;
 superrebaja=categories: F;fonts: derivat;
 superregeneración=categories: F;fonts: LT;
