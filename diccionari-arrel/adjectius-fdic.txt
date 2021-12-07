@@ -24776,6 +24776,7 @@ superlíquido superlíquida=categories: A;fonts: LT;
 supermalo supermala=categories: A;fonts: derivat;
 supermasculino supermasculina=categories: A;fonts: derivat;
 supermasivo supermasiva=categories: A;fonts: derivat;
+supermatizado supermatizada=categories: A;fonts: derivat;
 supermercadista=categories: A;fonts: dr;
 supermillonario supermillonaria=categories: A;fonts: derivat;
 superminucioso superminuciosa=categories: A;fonts: derivat;

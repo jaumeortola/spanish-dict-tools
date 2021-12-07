@@ -6937,6 +6937,7 @@ Peyer Peyer NPCNSP0 # medical
 Peyronie Peyronie NPCNSP0 # medical
 Peña Peña NPCNSP0 # wiki common surnames
 Peñafiel Peñafiel NPCNSP0
+Peñaloza Peñaloza NPCNSP0
 Peñíscola Peñíscola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peülha Peülha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pfannenstiel Pfannenstiel NPCNSP0 # medical
@@ -7231,6 +7232,7 @@ Querétaro Querétaro NPCSG00
 Quesa Quesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quesnay Quesnay NPCNSP0
 Quetelet Quetelet NPCNSP0 # medical
+Quetzalcóatl Quetzalcóatl NPCSSP0
 Quevedo Quevedo NPCNSP0 # wiki
 Queyrat Queyrat NPCNSP0 # medical
 Quica Quica NPFSSP0 # avl
@@ -7986,6 +7988,7 @@ Sintra Sintra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sipple Sipple NPCNSP0 # medical
 Sira Sira NPFSSP0 # avl
 Siracusa Siracusa NPCSG00
+Siri Siri NPCSSP0
 Siria Siria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siro Siro NPMSSP0 # avl
 Sitges Sitges NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8410,6 +8413,7 @@ Tivenys Tivenys NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tivissa Tivissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tiziano Tiziano NPMSSP0
 Tlaquepaque Tlaquepaque NPCSG00
+Tlatelolco Tlatelolco NPCSG00
 Tlaxcala Tlaxcala NPCSG00
 Tláhuac Tláhuac NPCSG00
 Tobarra Tobarra NPCNG00 # topònim-apertium-falta-gènere-nombre
