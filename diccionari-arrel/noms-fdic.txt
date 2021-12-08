@@ -35466,7 +35466,6 @@ inflexión=categories: F;fonts: LT;
 inflorescencia=categories: F;fonts: LT;
 influencer [pl. influencers]=categories: MF;fonts: LT;
 influencia=categories: F;fonts: LT;
-influenciabilitat=categories: F;fonts: derivat;
 influente=categories: MF;fonts: fundeu;
 influenza=categories: F;fonts: LT;
 influjo=categories: M;fonts: LT;
