@@ -59717,6 +59717,7 @@ superrealidad=categories: F;fonts: derivat;
 superrealismo=categories: M;fonts: LT;
 superrebaja=categories: F;fonts: derivat;
 superregeneración=categories: F;fonts: LT;
+superresistencia=categories: F;fonts: derivat;
 supersaturación=categories: F;fonts: LT;
 supersensibilidad=categories: F;fonts: medical;
 superservicio=categories: M;fonts: LT;
