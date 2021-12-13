@@ -59729,6 +59729,7 @@ supersónico=categories: M;fonts: LT;
 supertelescopio=categories: M;fonts: derivat;
 supertienda=categories: F;fonts: derivat;
 supertifón=categories: M;fonts: derivat;
+supertormenta=categories: F;fonts: derivat;
 supertraje=categories: M;fonts: derivat;
 supertónica=categories: F;fonts: LT;
 superusuario=categories: M;fonts: LT;

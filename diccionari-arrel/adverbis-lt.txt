@@ -173,6 +173,8 @@ sobremodo sobremodo RG
 solo solo RG
 superbién superbién RG
 supermal supermal RG
+superpronto superpronto RG
+supertarde supertarde RG
 supra supra RG
 suso suso RG
 sí sí RG
