@@ -59695,6 +59695,7 @@ supermujer=categories: F;fonts: LT;
 supermódulo=categories: M;fonts: derivat;
 supernova=categories: F;fonts: LT;
 supernumerario supernumeraria=categories: MF;fonts: LT;
+superoferta=categories: F;fonts: derivat;
 superorden [pl. superórdenes]=categories: M;fonts: LT;
 superordenación=categories: F;fonts: wiki;
 superordenador=categories: M;fonts: LT;
