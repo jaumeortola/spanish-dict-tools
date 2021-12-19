@@ -41555,6 +41555,7 @@ metatonía=categories: F;fonts: LT;
 metatálamo=categories: M;fonts: LT;
 metatórax=categories: MI;fonts: LT;
 metavanadato=categories: M;fonts: LT;
+metaverso=categories: M;fonts: termcat;
 metazoario=categories: M;fonts: LT;
 metazoo=categories: M;fonts: LT;
 meteco=categories: M;fonts: LT;
