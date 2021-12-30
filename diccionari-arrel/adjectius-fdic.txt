@@ -27850,3 +27850,6 @@ zíngaro zíngara=categories: A;fonts: LT;
 úrsido úrsida=categories: A;fonts: LT;
 útero-placentario útero-placentaria=categories: A;fonts: medical;
 útil=categories: A;fonts: LT;
+superparecido superparecida=categories: A;fonts: derivat;
+supernovedoso supernovedosa=categories: A;fonts: derivat;
+superelitista=categories: A;fonts: derivat;
