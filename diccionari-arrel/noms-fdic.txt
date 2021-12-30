@@ -258,6 +258,7 @@
 #hot-dog [pl. hot-dogs]=categories: M;fonts: LT;
 #hot-jazz=categories: MS;fonts: LT;
 #inositol-1,4,5-trisfosfato=categories: M;fonts: medical;
+#insanía=categories: F;fonts: LT;
 #interface=categories: FMS;fonts: english;
 #interposita persona=categories: F;fonts: dr;
 #intima=categories: F;fonts: LT;
@@ -35719,7 +35720,6 @@ insaculador=categories: M;fonts: dr;
 insalivación=categories: F;fonts: LT;
 insalubridad=categories: F;fonts: LT;
 insania=categories: F;fonts: LT;
-insanía=categories: F;fonts: LT;
 insatisfacción=categories: F;fonts: LT;
 insaturación=categories: F;fonts: LT;
 inscripción=categories: F;fonts: LT;
