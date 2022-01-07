@@ -84,6 +84,7 @@
 #Jordà Jordà NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Jun #Jun NPCNSP0 # medical
 #Kalimantán Kalimantán NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Kazajstán Kazajstán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lesotho Lesotho NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Liège Liège NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lombardia Lombardia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4978,7 +4979,6 @@ Kaufman Kaufman NPCNSP0 # medical
 Kawasaki Kawasaki NPCNSP0 # medical
 Kayser-Fleischer Kayser-Fleischer NPCNSP0 # medical
 Kazajistán Kazajistán NPCNG00 # topònim-apertium-falta-gènere-nombre
-Kazajstán Kazajstán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kearns-Sayre Kearns-Sayre NPCNSP0 # medical
 Keeling Keeling NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kehr Kehr NPCNSP0 # medical
@@ -6446,6 +6446,7 @@ Nulles Nulles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Numancia Numancia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nuria Nuria NPFSG00 # topònim-apertium
 Nuria Nuria NPFSSP0 # avl
+Nursultán Nursultán NPCSG00
 Nuuk Nuuk NPCNG00
 Nuña Nuña NPFSSP0 # avl
 Nuño Nuño NPMSSP0 # avl
