@@ -38,6 +38,7 @@
 #infelice=categories: A;fonts: dr;
 #inmérito inmérita=categories: A;fonts: dr;
 #jeda=categories: A;fonts: dr; unusual Cantabria
+#kazakhstano kazakhstana=categories: A;fonts: LT;
 #len [pl. lenes]=categories: A;fonts: LT;
 #len=categories: A;fonts: dr;
 #lene=categories: A;fonts: LT;
@@ -15454,7 +15455,6 @@ kantiano kantiana=categories: A;fonts: LT;
 karakul=categories: A;fonts: LT;
 kastila=categories: A;fonts: dr;
 kazajo kazaja=categories: A;fonts: dr;
-kazakhstano kazakhstana=categories: A;fonts: LT;
 kazako kazaka=categories: A;fonts: dr;
 kbyte=categories: AMS;fonts: LT;
 keniano keniana=categories: A;fonts: LT;
