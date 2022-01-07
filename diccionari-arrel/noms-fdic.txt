@@ -58220,6 +58220,7 @@ sinterización=categories: F;fonts: LT;
 sintetasa=categories: F;fonts: medical;
 sintetismo=categories: M;fonts: LT;
 sintetizador=categories: M;fonts: LT;
+sintiencia=categories: F;fonts: fundeu;
 sintomatología=categories: F;fonts: LT;
 sintonismo=categories: M;fonts: LT;
 sintonizabilidad=categories: F;fonts: LT;

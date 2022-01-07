@@ -24177,6 +24177,7 @@ sistólico sistólica=categories: A;fonts: LT;
 sisón sisona=categories: A;fonts: LT;
 sitiador sitiadora=categories: A;fonts: LT;
 sitibundo sitibunda=categories: A;fonts: dr;
+sitiente=categories: A;fonts: fundeu;
 sito sita=categories: A;fonts: LT;
 situable=categories: A;fonts: LT;
 situacional=categories: A;fonts: LT;
