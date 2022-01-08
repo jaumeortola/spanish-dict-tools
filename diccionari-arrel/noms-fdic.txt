@@ -29276,6 +29276,7 @@ fluosilicato=categories: M;fonts: LT;
 fluoteno=categories: M;fonts: LT;
 fluoxetina=categories: F;fonts: LT;
 fluoximesterona=categories: F;fonts: medical;
+flurona=categories: FS;fonts: fundeu;
 flutamida=categories: F;fonts: medical;
 fluvisol=categories: M;fonts: LT;
 fluviómetro=categories: M;fonts: dr;
