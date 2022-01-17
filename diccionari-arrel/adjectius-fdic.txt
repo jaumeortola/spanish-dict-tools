@@ -13385,6 +13385,7 @@ hurgón hurgona=categories: A;fonts: LT;
 hurtador hurtadora=categories: A;fonts: LT;
 husita=categories: A;fonts: LT;
 husmeador husmeadora=categories: A;fonts: LT;
+hutí [pl. hutís o hutíes]=categories: A;fonts: LT;
 huérfano huérfana=categories: A;fonts: LT;
 hábil=categories: A;fonts: LT;
 háplico háplica=categories: A;fonts: LT;
