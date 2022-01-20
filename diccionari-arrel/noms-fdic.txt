@@ -18884,6 +18884,7 @@ cricket=categories: MS;fonts: dr;
 cricoides=categories: MI;fonts: LT;
 cricotomía=categories: F;fonts: LT;
 crimen [pl. crímenes]=categories: M;fonts: LT;
+cibercrimen [pl. cibercrímenes]=categories: M;fonts: derivat;
 criminación=categories: F;fonts: LT;
 criminal=categories: MF;fonts: LT;
 criminalidad=categories: F;fonts: LT;
