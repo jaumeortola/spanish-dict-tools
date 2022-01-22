@@ -2490,6 +2490,7 @@ Claudia Claudia NPFSSP0 # avl
 Claudina Claudina NPFSSP0 # avl
 Claudino Claudino NPMSSP0 # avl
 Claudio Claudio NPMSSP0 # avl
+Clausewitz Clausewitz NPCNSP0
 Claverol Claverol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Clavijo Clavijo NPCNSP0
 Clayton Clayton NPCNSP0 # wiki
