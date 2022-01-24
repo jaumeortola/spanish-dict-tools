@@ -2939,6 +2939,7 @@ Denysse Denysse NPCNSP0
 Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
 Dercum Dercum NPCNSP0 # medical
+Derrida Derrida NPCNSP0
 Desamparados Desamparados NPFSSP0 # avl
 Desamparados Desamparados NPMPSP0 # Virgen de
 Desdémona Desdémona NPFSSP0 # avl
@@ -3837,6 +3838,7 @@ Fukushima Fukushima NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fulberto Fulberto NPMSSP0 # avl
 Fulgencia Fulgencia NPFSSP0 # avl
 Fulgencio Fulgencio NPMSSP0 # avl
+Fullbright Fullbright NPCNSP0
 Fulleda Fulleda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fulvia Fulvia NPFSSP0 # avl
 Fulvio Fulvio NPMSSP0 # avl
@@ -5081,6 +5083,7 @@ LOMCE LMOCE NPFSO00
 Labbé Labbé NPCNSP0 # medical
 Labiano Labiano NPMSSP0 # avl
 Labrador Labrador NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lacan Lacan NPCNSP0
 Lacio Lacio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lactancia Lactancia NPFSSP0 # avl
 Lactancio Lactancio NPMSSP0 # avl
