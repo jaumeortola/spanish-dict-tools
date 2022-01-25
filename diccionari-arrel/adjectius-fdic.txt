@@ -20179,6 +20179,7 @@ persa=categories: A;fonts: LT;
 persecutor persecutora=categories: A;fonts: dr;
 persecutorio persecutoria=categories: A;fonts: LT;
 perseguible=categories: A;fonts: LT;
+perseguido perseguida=categories: A;fonts: derivat;
 perseverante=categories: A;fonts: LT;
 persiano persiana=categories: A;fonts: LT;
 persistente=categories: A;fonts: LT;
