@@ -3836,9 +3836,9 @@ Fujimori Fujimori NPCNSP0 # wiki
 Fukala Fukala NPCNSP0 # medical
 Fukushima Fukushima NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fulberto Fulberto NPMSSP0 # avl
+Fulbright Fulbright NPCNSP0
 Fulgencia Fulgencia NPFSSP0 # avl
 Fulgencio Fulgencio NPMSSP0 # avl
-Fullbright Fullbright NPCNSP0
 Fulleda Fulleda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fulvia Fulvia NPFSSP0 # avl
 Fulvio Fulvio NPMSSP0 # avl
