@@ -2942,6 +2942,7 @@ Dercum Dercum NPCNSP0 # medical
 Derrida Derrida NPCNSP0
 Desamparados Desamparados NPFSSP0 # avl
 Desamparados Desamparados NPMPSP0 # Virgen de
+Descartes Descartes NPCNSP0
 Desdémona Desdémona NPFSSP0 # avl
 Desideria Desideria NPFSSP0 # avl
 Desiderio Desiderio NPMSSP0 # avl
