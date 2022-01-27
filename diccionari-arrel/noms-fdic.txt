@@ -29131,6 +29131,7 @@ flebotomiano flebotomiana=categories: MF;fonts: LT;
 flebotomía=categories: F;fonts: LT;
 flebotrombectomía=categories: F;fonts: medical;
 flebotrombosis=categories: FI;fonts: medical;
+flebótomo=categories: M;fonts: termcat;
 flecainida=categories: F;fonts: medical;
 flecha=categories: F;fonts: LT;
 flechador=categories: M;fonts: dr;
