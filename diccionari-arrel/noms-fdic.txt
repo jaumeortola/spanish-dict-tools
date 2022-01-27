@@ -7163,6 +7163,7 @@ autorrealización=categories: F;fonts: dr;
 autorregresión=categories: F;fonts: LT;
 autorregulación=categories: F;fonts: LT;
 autorrelajación=categories: F;fonts: dr;
+autorrenovación=categories: F;fonts: LT;
 autorretención=categories: F;fonts: LT;
 autorretrato=categories: M;fonts: LT;
 autorrevelación=categories: F;fonts: medical;
