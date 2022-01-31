@@ -14998,6 +14998,7 @@ chunchucuyo=categories: M;fonts: dr;
 chunchul=categories: M;fonts: dr;
 chunchullo=categories: M;fonts: dr;
 chunga=categories: F;fonts: LT;
+chupa-chups=categories: MI;fonts: dr;
 chupa=categories: F;fonts: LT;
 chupacabras=categories: MI;fonts: dr;
 chupachups=categories: MI;fonts: dr;

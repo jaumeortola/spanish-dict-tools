@@ -5041,10 +5041,12 @@ Kock Kock NPCNSP0 # medical
 Kodak Kodak NPCNO00
 Koeman Koeman NPCNSP0
 Koeppe Koeppe NPCNSP0 # medical
+Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kojewnikow Kojewnikow NPCNSP0 # medical
 Komodo Komodo NPMSG00
 Konrad Konrad NPCNSP0
+Koolhaas Koolhaas NPCNSP0
 Korsakoff Korsakoff NPCNSP0 # medical
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Krabbe Krabbe NPCNSP0 # medical

@@ -11494,6 +11494,7 @@ francmasónico francmasónica=categories: A;fonts: LT;
 franco franca=categories: A;fonts: LT;
 franco-alemán franco-alemana=categories: A;fonts: LT;
 francoalemán francoalemana=categories: A;fonts: derivat;
+francobelga=categories: A;fonts: derivat;
 francocanadiense=categories: A;fonts: dr;
 francoiraní [pl. francoiraníes o francoiranís]=categories: A;fonts: LT;
 francolino francolina=categories: A;fonts: dr;
