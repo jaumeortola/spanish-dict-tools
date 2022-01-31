@@ -44317,6 +44317,7 @@ nerviosismo=categories: M;fonts: LT;
 nervosidad=categories: F;fonts: LT;
 nervura=categories: F;fonts: LT;
 nerón=categories: M;fonts: LT;
+nescafé=categories: M;fonts: dr;
 nesciencia=categories: F;fonts: LT;
 nesga=categories: F;fonts: LT;
 nesidioblastosis=categories: FI;fonts: medical;
