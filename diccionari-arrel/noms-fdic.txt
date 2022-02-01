@@ -714,6 +714,7 @@ MP3=categories: MI;fonts: sigla;
 MP4=categories: MI;fonts: sigla;
 MXN=categories: MI;fonts: sigla;
 Mazagatos=categories: FI;fonts: dr;
+NFT=categories: MI;fonts: sigla;
 NIE=categories: MI;fonts: sigla;
 NIF=categories: MI;fonts: sigla;
 NN=categories: MFI;fonts: dr;
