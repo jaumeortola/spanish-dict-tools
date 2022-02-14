@@ -153,6 +153,7 @@
 #Tránsito Tránsito NPFSSP0 # avl
 #Unna #Unna NPCNSP0 # medical
 #València València NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Vich Vich NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Vinarós Vinarós NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Virtudes Virtudes NPFSSP0 # avl
 #Zimbabwe Zimbabwe NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8832,7 +8833,6 @@ Vic Vic NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vicen Vicen NPFSSP0 # avl
 Vicenta Vicenta NPFSSP0 # avl
 Vicente Vicente NPMSSP0 # avl
-Vich Vich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vichada Vichada NPCSG00
 Vichy Vichy NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vicky Vicky NPFSSP0

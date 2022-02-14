@@ -8197,6 +8197,7 @@ barrancada=categories: F;fonts: dr;
 barrancal=categories: M;fonts: LT;
 barranco=categories: M;fonts: LT;
 barranquera=categories: F;fonts: LT;
+barranquillero barranquillera=categories: MF;fonts: dr;
 barranquismo=categories: M;fonts: LT;
 barraquismo=categories: M;fonts: dr;
 barraquista=categories: MF;fonts: dr;
