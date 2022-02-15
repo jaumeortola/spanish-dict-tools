@@ -387,6 +387,7 @@ los lo PP3MPA00
 luego luego CS
 lx lx NCMN000
 m m NCMN000
+mAh mAh NCMN000
 malhayas malhayas I
 mamola mamola I
 mas mas CC
