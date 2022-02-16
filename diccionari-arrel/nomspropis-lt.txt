@@ -5988,6 +5988,7 @@ Miller Miller NPCNSP0 # wiki
 Miller-Fisher Miller-Fisher NPCNSP0 # medical
 Millán Millán NPCSG00 # topònim-apertium
 Millán Millán NPMSSP0 # avl
+Millán-Astray Millán-Astray NPCNSP0
 Milton Milton NPCNSP0
 Milwaukee Milwaukee NPCNG00 # topònim-apertium-falta-gènere-nombre
 Milán Milán NPCNG00 # topònim-apertium-falta-gènere-nombre
