@@ -7082,6 +7082,7 @@ cricoides=categories: AI;fonts: LT;
 cricotiroideo cricotiroidea=categories: A;fonts: LT;
 cricotraqueal=categories: A;fonts: LT;
 cricovocal=categories: A;fonts: LT;
+crimeo crimea=categories: A;fonts: LT;
 criminal=categories: A;fonts: LT;
 criminalista=categories: A;fonts: LT;
 criminalizador criminalizadora=categories: A;fonts: dr;
