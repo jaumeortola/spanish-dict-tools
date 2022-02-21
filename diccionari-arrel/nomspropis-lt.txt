@@ -7838,7 +7838,7 @@ Seagate Seagate NPCNO00
 Seattle Seattle NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sebastiana Sebastiana NPFSSP0 # avl
 Sebastián Sebastián NPMSSP0 # avl
-Sebastopol Sebastopol NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sebastopol Sebastopol NPCSG00 # topònim-apertium
 Secundina Secundina NPFSSP0 # avl
 Secundino Secundino NPMSSP0 # avl
 Sedaví Sedaví NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7979,6 +7979,7 @@ Silvino Silvino NPMSSP0 # avl
 Silvio Silvio NPMSSP0 # avl
 Simeona Simeona NPFSSP0 # avl
 Simeón Simeón NPMSSP0 # avl
+Simferópol Simferópol NPCSG00
 Simona Simona NPFSSP0 # avl
 Simonds Simonds NPCNSP0 # medical
 Simplicia Simplicia NPFSSP0 # avl
