@@ -31694,6 +31694,7 @@ gouache=categories: M;fonts: LT;
 goulash=categories: MS;fonts: dr;
 gourde=categories: M;fonts: LT;
 gourmet [pl. gourmets]=categories: MF;fonts: LT;
+goya=categories: M;fonts: fundeu;
 gozadera=categories: F;fonts: dr;
 gozne=categories: M;fonts: LT;
 gozo=categories: M;fonts: LT;
