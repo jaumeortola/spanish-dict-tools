@@ -50951,6 +50951,7 @@ preanestesia=categories: F;fonts: LT;
 preanomen [pl. preanómenes]=categories: M;fonts: LT;
 preanuncio=categories: M;fonts: LT;
 preanálisis=categories: MI;fonts: LT;
+preapertura=categories: F;fonts: fundeu;
 preaviso=categories: M;fonts: LT;
 prebenda=categories: F;fonts: LT;
 prebendado=categories: M;fonts: LT;

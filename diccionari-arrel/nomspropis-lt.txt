@@ -1548,6 +1548,7 @@ Berguedà Berguedà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berkeley Berkeley NPCSG00
 Berlandina Berlandina NPFSSP0 # avl
 Berlandino Berlandino NPMSSP0 # avl
+Berlinale Berlinale NPFSO00
 Berloke Berloke NPCNSP0 # medical
 Berlusconi Berlusconi NPCNSP0
 Berlín Berlín NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2389,6 +2390,7 @@ Chert Chert NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cherubini Cherubini NPCNSP0 # wiki
 Cheshire Cheshire NPCSG00
 Cheste Cheste NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chesterton Chesterton NPCNSP0
 Cheyenne Cheyenne NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cheyne-Stokes Cheyne-Stokes NPCNSP0 # medical
 Chiapas Chiapas NPCNG00 # topònim-apertium-falta-gènere-nombre
