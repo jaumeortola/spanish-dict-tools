@@ -3003,6 +3003,7 @@ Dolomitas Dolomitas NPCPG00
 Dolores Dolores NPCNG00 # topònim-apertium
 Dolores Dolores NPFSSP0 # avl
 Domanico Domanico NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dombás Dombás NPMSG00
 Domenyo Domenyo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Domeño Domeño NPCNG00 # topònim-apertium-falta-gènere-nombre
 Domiciano Domiciano NPMSSP0 # avl
@@ -3018,6 +3019,7 @@ Donata Donata NPFSSP0 # avl
 Donatello Donatello NPCNSP0
 Donath-Landsteiner Donath-Landsteiner NPCNSP0 # medical
 Donato Donato NPMSSP0 # avl
+Donetsk Donetsk NPCSG00
 Donné Donné NPCNSP0 # medical
 Donoso Donoso NPCNSP0 # wiki common surnames
 Donosti Donosti NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4937,6 +4939,7 @@ Juvencia Juvencia NPFSSP0 # avl
 Juvencio Juvencio NPMSSP0 # avl
 Juventus Juventus NPCSO00
 Juárez Juárez NPCNSP0 # wiki common surnames
+Járkov Járkov NPCSG00
 Játiva Játiva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jávea Jávea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jénifer Jénifer NPFSSP0 # avl
@@ -5469,6 +5472,7 @@ Ludovina Ludovina NPFSSP0 # avl
 Ludovino Ludovino NPMSSP0 # avl
 Ludwig Ludwig NPCNSP0 # wiki
 Lugano Lugano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lugansk Lugansk NPCSG00
 Lugo Lugo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luigi Luigi NPCNSP0 # wiki
 Luis Luis NPMSSP0 # avl
