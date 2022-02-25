@@ -2997,6 +2997,8 @@ Divina Divina NPFSSP0 # avl
 Dizzy Dizzy NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
 Djokovic Djokovic NPCNSP0
+Dmitri Dmitri NPMSSP0
+Dniéper Dniéper NPMSG00
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dolomitas Dolomitas NPCPG00
@@ -5474,6 +5476,7 @@ Ludwig Ludwig NPCNSP0 # wiki
 Lugano Lugano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lugansk Lugansk NPCSG00
 Lugo Lugo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Luhansk Luhansk NPCSG00
 Luigi Luigi NPCNSP0 # wiki
 Luis Luis NPMSSP0 # avl
 Luisa Luisa NPFSSP0 # avl
@@ -5861,6 +5864,7 @@ Medina Medina NPCNSP0 # wiki common surnames
 Medinyà Medinyà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mediona Mediona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mediterráneo Mediterráneo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Medvédev Medvédev NPCNSP0
 Medín Medín NPMSSP0 # avl
 Meesmann Meesmann NPCNSP0 # medical
 Meet Meet NPCNSP0
@@ -8984,6 +8988,7 @@ Voldemort Voldemort NPMSSP0
 Volga Volga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Volkmann Volkmann NPCNSP0 # medical
 Volkswagen Volkswagen NPCNSP0 # wiki
+Volodímir Volodímir NPMSSP0
 Volta Volta NPCNSP0
 Voltaire Voltaire NPCNSP0 # wiki
 Volvo Volvo NPCNSP0
@@ -9124,6 +9129,7 @@ Yaiza Yaiza NPFSSP0 # avl
 Yakarta Yakarta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yalta Yalta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yamusukro Yamusukro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Yanukóvich Yanukóvich NPCNSP0
 Yasmina Yasmina NPFSSP0 # avl
 Yaundé Yaundé NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yecla Yecla NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9181,6 +9187,7 @@ Zaíra Zaíra NPFSSP0 # avl
 Zebedeo Zebedeo NPMSSP0 # avl
 Zeiss Zeiss NPCNSP0 # medical
 Zelaya Zelaya NPCNSP0
+Zelenski Zelenski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
 Zenaida Zenaida NPFSSP0 # avl
 Zenes Zenes NPMSSP0 # avl
