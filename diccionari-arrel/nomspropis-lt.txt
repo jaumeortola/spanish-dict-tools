@@ -6250,6 +6250,7 @@ Myanmar Myanmar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mycobacterium Mycobacterium NPCNSP0 # medical
 Myriam Myriam NPFSSP0
 Málaga Málaga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Márkov Márkov NPCNSP0
 Márquez Márquez NPCNSP0
 Máxima Máxima NPFSSP0 # avl
 Máximo Máximo NPMSSP0 # avl

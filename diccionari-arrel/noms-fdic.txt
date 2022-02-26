@@ -741,6 +741,7 @@ PYME=categories: FI;fonts: LT;
 Paracleto=categories: MS;fonts: dr;
 Paráclito=categories: MS;fonts: dr;
 Pentecostés=categories: MI;fonts: dr;
+Preeuropeo=categories: MS;fonts: derivat;
 Quattrocento=categories: MS;fonts: italià;
 RAM=categories: FI;fonts: sigla;
 RDSI=categories: FI;fonts: dr;
