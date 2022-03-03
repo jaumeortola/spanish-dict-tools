@@ -50,6 +50,7 @@
 #mejicano mejicana=categories: A;fonts: LT;
 #minuto minuta=categories: A;fonts: LT;
 #misero misera=categories: A;fonts: LT;
+#moldovo moldova=categories: A;fonts: LT;
 #monocolor=categories: AI;fonts: LT;
 #muchisisísimo muchisisísima=categories: A;fonts: superlative;
 #muchííísimo muchííísima=categories: A;fonts: superlative;
@@ -17490,7 +17491,6 @@ moldavo moldava=categories: A;fonts: LT;
 moldeable=categories: A;fonts: LT;
 moldeador moldeadora=categories: A;fonts: LT;
 moldista=categories: A;fonts: dr;
-moldovo moldova=categories: A;fonts: LT;
 molecular=categories: A;fonts: LT;
 moledero moledera=categories: A;fonts: LT;
 moledor moledora=categories: A;fonts: LT;

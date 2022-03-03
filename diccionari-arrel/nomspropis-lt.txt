@@ -2412,6 +2412,7 @@ Chimo Chimo NPMSSP0 # avl
 China China NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chipre Chipre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chirivella Chirivella NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chisináu Chisináu NPCSG00
 Chiva Chiva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chodos Chodos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chomsky Chomsky NPCNSP0
@@ -6065,7 +6066,7 @@ Moisés Moisés NPMSSP0 # avl
 Moixent Moixent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moià Moià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moldava Moldava NPCSG00
-Moldavia Moldavia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Moldavia Moldavia NPFSG00 # topònim-apertium
 Moleskine Moleskine NPCNO00
 Molina Molina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Molina Molina NPCNSP0 # wiki common surnames
