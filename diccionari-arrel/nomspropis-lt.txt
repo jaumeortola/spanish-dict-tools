@@ -5555,6 +5555,7 @@ Madremanya Madremanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madrid Madrid NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madrona Madrona NPFSSP0 # avl
 Maestre Maestre NPCNSP0 # medical
+Maeterlinck Maeterlinck NPCNSP0
 Mafalda Mafalda NPFSSP0 # avl
 Mafucci Mafucci NPCNSP0 # medical
 Magallanes Magallanes NPCNSP0
@@ -6265,6 +6266,7 @@ Mérope Mérope NPFSSP0 # avl
 México México NPCSG00 # topònim-apertium
 Míriam Míriam NPFSSP0 # avl
 Módena Módena NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mólotov Mólotov NPCNSP0
 Mónaco Mónaco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mónica Mónica NPFSSP0 # avl
 Mónico Mónico NPMSSP0 # avl
@@ -7442,6 +7444,7 @@ Ribadesella Ribadesella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ribagorza Ribagorza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ribagorça Ribagorça NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ribarroja Ribarroja NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ribbentrop Ribbentrop NPCNSP0
 Ribelles Ribelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ribesalbes Ribesalbes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ricadi Ricadi NPCNG00 # topònim-apertium-falta-gènere-nombre
