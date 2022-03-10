@@ -3000,6 +3000,7 @@ Diógenes Diógenes NPMSSP0 # avl
 Djokovic Djokovic NPCNSP0
 Dmitri Dmitri NPMSSP0
 Dniéper Dniéper NPMSG00
+Dniéster Dniéster NPMSG00
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dolomitas Dolomitas NPCPG00
@@ -5154,6 +5155,7 @@ Laredo Laredo NPCSG00
 Larios Larios NPCNSP0
 Larmor Larmor NPCNSP0 # medical
 Laron Laron NPCNSP0 # medical
+Larousse Larousse NPCNO00
 Larra Larra NPCNSP0
 Larraun Larraun NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larraya Larraya NPCNG00 # topònim-apertium-falta-gènere-nombre
