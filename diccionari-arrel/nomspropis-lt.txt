@@ -5727,6 +5727,7 @@ Marivent Marivent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marián Marián NPFSSP0 # avl
 Mariño Mariño NPCNSP0
 Marión Marión NPFSSP0 # avl
+Mariúpol Mariúpol NPCSG00
 Mark Mark NPCNSP0 # wiki
 Mark Mark NPMSSP0
 Marlene Marlene NPFSSP0
@@ -8169,6 +8170,7 @@ Sulpicio Sulpicio NPMSSP0 # avl
 Sumacàrcer Sumacàrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sumi Sumi NPCSG00
 Superliga Superliga NPFSO00
 Superman Superman NPMSSP0
 Sur Sur NPCNG00 # topònim-apertium-falta-gènere-nombre
