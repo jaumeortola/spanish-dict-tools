@@ -25483,6 +25483,7 @@ terminativo terminativa=categories: A;fonts: LT;
 terminológico terminológica=categories: A;fonts: LT;
 termiónico termiónica=categories: A;fonts: LT;
 termoalgésico termoalgésica=categories: A;fonts: medical;
+termobárico termobárica=categories: A;fonts: derivat;
 termocatalítico termocatalítica=categories: A;fonts: LT;
 termocontraíble=categories: A;fonts: derivat;
 termocroico termocroica=categories: A;fonts: LT;
