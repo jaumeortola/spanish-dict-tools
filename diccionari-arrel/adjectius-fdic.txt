@@ -1793,6 +1793,7 @@ antevocálico antevocálica=categories: A;fonts: dr;
 anteúltimo anteúltima=categories: A;fonts: dr;
 anti-COVID-19=categories: AI;fonts: fundeu;
 anti-COVID=categories: AI;fonts: fundeu;
+anti-spam=categories: AI;fonts: English;
 anti=categories: AI;fonts: LT;
 antiabolicionista=categories: A;fonts: LT;
 antiabortista=categories: A;fonts: dr;
