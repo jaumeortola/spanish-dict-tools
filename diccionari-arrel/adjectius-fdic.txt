@@ -92,6 +92,7 @@
 2D=categories: AI;fonts: user;
 3D=categories: AI;fonts: user;
 AAA=categories: AI;fonts: LT;
+Anti-Spam=categories: AI;fonts: English;
 B2B=categories: AI;fonts: wiki;
 CMYK=categories: AI;fonts: sigla;
 DAFO=categories: AI;fonts: sigla;
