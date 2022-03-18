@@ -6011,6 +6011,7 @@ Mina Mina NPFSSP0 # avl
 Minecraft Minecraft NPCNO00
 Minerva Minerva NPFSSP0 # avl
 Minervo Minervo NPMSSP0 # avl
+Ming Ming NPCNSP0
 Minga Minga NPFSSP0 # avl
 Mingo Mingo NPMSSP0 # avl
 Mingote Mingote NPMSSP0 # avl
@@ -9098,6 +9099,7 @@ Wolpe Wolpe NPCNSP0 # medical
 WooCommerce WooCommerce NPCNO00
 Wood Wood NPCNSP0 # medical
 Woody Woody NPCNSP0
+Wordle Wordle NPMSO00
 Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 Wright Wright NPCNSP0 # wiki
 Wuhan Wuhan NPCSG00
