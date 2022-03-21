@@ -1279,6 +1279,7 @@ Barcheta Barcheta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barcino Barcino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barcoo Barcoo NPCNSP0 # medical
 Bardo Bardo NPMSSP0 # avl
+Barenboim Barenboim NPCNSP0
 Barents Barents NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bari Bari NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baricauba Baricauba NPCNG00 # topònim-apertium-falta-gènere-nombre
