@@ -37374,6 +37374,7 @@ lacrimación=categories: F;fonts: LT;
 lacrimal=categories: M;fonts: LT;
 lacrimatorio=categories: M;fonts: dr;
 lacrimotomía=categories: F;fonts: LT;
+lacrosse=categories: MS;fonts; wiki;
 lactación=categories: F;fonts: LT;
 lactalbúmina=categories: F;fonts: LT;
 lactama=categories: F;fonts: LT;

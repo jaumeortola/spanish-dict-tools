@@ -5099,6 +5099,7 @@ Labiano Labiano NPMSSP0 # avl
 Labrador Labrador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lacan Lacan NPCNSP0
 Lacio Lacio NPCNG00 # topònim-apertium-falta-gènere-nombre
+Laclau Laclau NPCNSP0
 Lactancia Lactancia NPFSSP0 # avl
 Lactancio Lactancio NPMSSP0 # avl
 Ladd Ladd NPCNSP0 # medical
@@ -5201,6 +5202,7 @@ Leeds Leeds NPCNG00 # topònim-apertium-falta-gènere-nombre
 Leganés Leganés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Leguizamón Leguizamón NPCNSP0 # wiki common surnames
 Leibniz Leibniz NPCNSP0 # wiki
+Leicester Leicester NPCSG00
 Leigh Leigh NPCNSP0 # medical
 Leila Leila NPFSSP0 # avl
 Leinher Leinher NPCNSP0 # medical
@@ -5528,6 +5530,7 @@ Löffler Löffler NPCNSP0 # medical
 Lübeck Lübeck NPCNG00 # topònim-apertium-falta-gènere-nombre
 MIES MIES NPMSO00
 MIR MIR NPCNO00
+MWC MWC NPMSO00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mabel Mabel NPFSSP0 # avl
 Mac Mac NPCNO00 # wiki
