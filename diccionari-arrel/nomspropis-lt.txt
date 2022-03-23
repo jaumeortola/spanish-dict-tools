@@ -4112,6 +4112,7 @@ Glenn Glenn NPCNSP0
 Gliceria Gliceria NPFSSP0 # avl
 Glicerio Glicerio NPMSSP0 # avl
 Glisson Glisson NPCNSP0 # medical
+Gloucester Gloucester NPCSG00
 Glovo Glovo NPCNSP0
 Gluck Gluck NPCNSP0 # wiki
 Go Go NPCNSP0 # wiki
@@ -7835,6 +7836,7 @@ Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lantermann Schmidt-Lantermann NPCNSP0 # medical
 Schneider Schneider NPCNSP0
+Scholz Scholz NPCNSP0
 Schopenhauer Schopenhauer NPCNSP0
 Schröder Schröder NPCNSP0
 Schubert Schubert NPCNSP0 # wiki
