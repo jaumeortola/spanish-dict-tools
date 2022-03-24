@@ -31162,6 +31162,7 @@ gibón=categories: M;fonts: LT;
 giga=categories: M;fonts: LT;
 gigabit [pl. gigabits]=categories: M;fonts: LT;
 gigabyte=categories: M;fonts: LT;
+gigafactoría=categories: F;fonts: derivat;
 gigahercio=categories: M;fonts: LT;
 gigahertz=categories: MI;fonts: LT;
 gigante [fem. giganta]=categories: MF;fonts: LT;
