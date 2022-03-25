@@ -4237,6 +4237,7 @@ Guantánamo Guantánamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guardamar Guardamar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guatemala Guatemala NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guayana Guayana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guayas Guayas NPMSG00
 Guedel Guedel NPCNSP0 # medical
 Guernica Guernica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guernsey Guernsey NPCNG00 # topònim-apertium-falta-gènere-nombre
