@@ -3192,7 +3192,7 @@ Eleázaro Eleázaro NPCSSP0 # avl
 Elfa Elfa NPFSSP0 # avl
 Elfo Elfo NPMSSP0 # avl
 Elga Elga NPFSSP0 # avl
-Eli Eli NPMSSP0 # avl
+Eli Eli NPCSSP0 # avl
 Elia Elia NPFSSP0 # avl
 Eliana Eliana NPFSSP0 # avl
 Elidús Elidús NPMSSP0 # avl
@@ -8218,7 +8218,6 @@ Sófocles Sófocles NPMSSP0 # avl
 Sóller Sóller NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sóstenes Sóstenes NPMSSP0 # avl
 Súria Súria NPCNG00 # topònim-apertium-falta-gènere-nombre
-TC TC NPMSO00
 TEDH TEDH NPMSO00
 TGSS TGSS NPFSO00
 TV1 TV1 NPCSO00

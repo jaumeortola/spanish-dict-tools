@@ -1914,6 +1914,7 @@ antidrómico antidrómica=categories: A;fonts: medical;
 antieconómico antieconómica=categories: A;fonts: LT;
 antiedad=categories: AI;fonts: derivat;
 antielitista=categories: A;fonts: derivat;
+ecofeminista=categories: A;fonts: derivat;
 antiemético antiemética=categories: A;fonts: dr;
 antiepiléptico antiepiléptica=categories: A;fonts: dr;
 antierosivo antierosiva=categories: A;fonts: LT;
