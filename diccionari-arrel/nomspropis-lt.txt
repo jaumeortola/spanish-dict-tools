@@ -3803,6 +3803,7 @@ Fred Fred NPCNSP0 # wiki
 Freddie Freddie NPMSSP0
 Freddy Freddy NPCNSP0
 Frederick Frederick NPCNSP0 # wiki
+FreeHand FreeHand NPMSO00
 Freetown Freetown NPCNG00 # topònim-apertium-falta-gènere-nombre
 Freginals Freginals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Frei Frei NPCNSP0 # medical
@@ -6022,6 +6023,7 @@ Minga Minga NPFSSP0 # avl
 Mingo Mingo NPMSSP0 # avl
 Mingote Mingote NPMSSP0 # avl
 Minneapolis Minneapolis NPCNG00 # topònim-apertium-falta-gènere-nombre
+Minnelli Minnelli NPCNSP0
 Minnesota Minnesota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsk Minsk NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsky Minsky NPCNSP0
@@ -9019,6 +9021,7 @@ Vázquez Vázquez NPCNSP0 # wiki common surnames
 Vélez Vélez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vélez-Málaga Vélez-Málaga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Víctor Víctor NPMSSP0 # avl
+W3C W3C NPMSO00
 WHATSAPP WHATSAPP NPCNO00
 WWE WWE NPCNO00
 Wada Wada NPCNSP0 # medical
