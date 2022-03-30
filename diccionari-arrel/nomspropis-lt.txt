@@ -212,6 +212,7 @@ Abjasia Abjasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abraham Abraham NPMSSP0 # avl
 Abrahán Abrahán NPMSSP0 # avl
 Abram Abram NPMSSP0 # avl
+Abramovich Abramovich NPCNSP0
 Abrera Abrera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abruzos Abruzos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abrán Abrán NPMSSP0 # avl
