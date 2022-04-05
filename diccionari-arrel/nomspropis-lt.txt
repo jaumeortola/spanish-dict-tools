@@ -9052,6 +9052,7 @@ Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Wegener Wegener NPCNSP0
 Welander Welander NPCNSP0 # medical
 Wellington Wellington NPCNG00 # topònim-apertium-falta-gènere-nombre
+Wembley Wembley NPCSG00
 Wenceslao Wenceslao NPMSSP0 # avl
 Wenceslava Wenceslava NPFSSP0 # avl
 Wendy Wendy NPFSSP0
