@@ -1750,6 +1750,7 @@ Borja Borja NPCNSP0
 Borja Borja NPMSSP0 # avl
 Bornemisza Bornemisza NPCNSP0
 Borneo Borneo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Borodianka Borodianka NPCSG00
 Borodín Borodín NPCNSP0 # wiki
 Borrassà Borrassà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Borredà Borredà NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1859,6 +1860,7 @@ Brígida Brígida NPFSSP0 # avl
 Bucaramanga Bucaramanga NPCSG00
 Bucarest Bucarest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bucay Bucay NPCNSP0
+Bucha Bucha NPCSG00
 Buchenwald Buchenwald NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buckingham Buckingham NPCNG00
 Buda Buda NPMSSP0 # avl
