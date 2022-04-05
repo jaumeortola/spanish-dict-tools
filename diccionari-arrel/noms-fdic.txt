@@ -59720,6 +59720,7 @@ supermanzana=categories: F;fonts: derivat;
 supermartes=categories: MI;fonts: derivat;
 supermedicamento=categories: M;fonts: derivat;
 supermercado=categories: M;fonts: LT;
+supermicrobio=categories: M;fonts: fundeu;
 supermicroordenador=categories: M;fonts: LT;
 superminiordenador=categories: M;fonts: LT;
 supermodelo=categories: MF;fonts: dr;
