@@ -9064,6 +9064,7 @@ Wernicke Wernicke NPCNSP0 # medical
 Wernicke-Korsakoff Wernicke-Korsakoff NPCNSP0 # medical
 Wertheim-Meigs Wertheim-Meigs NPCNSP0 # medical
 Weschler Weschler NPCNSP0 # medical
+Wesley Wesley NPCNSP0
 West West NPCNSP0 # wiki
 Western Western NPCNSP0 # medical
 Westfalia Westfalia NPCNG00 # topònim-apertium-falta-gènere-nombre
