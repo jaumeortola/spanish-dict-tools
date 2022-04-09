@@ -65272,6 +65272,7 @@ vexilólogo vexilóloga=categories: MF;fonts: dr;
 vez=categories: F;fonts: LT;
 veza=categories: F;fonts: LT;
 viabilidad=categories: F;fonts: LT;
+viacrucis=categories: MI;fonts: dr;
 viada=categories: F;fonts: LT;
 viadera=categories: F;fonts: dr;
 viador=categories: M;fonts: LT;
