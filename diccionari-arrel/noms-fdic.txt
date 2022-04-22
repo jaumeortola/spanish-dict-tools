@@ -40517,6 +40517,7 @@ marrón=categories: M;fonts: LT;
 marsellés marsellesa=categories: MF;fonts: LT;
 marsileácea=categories: F;fonts: LT;
 marsopa=categories: F;fonts: LT;
+marsopeo=categories: MS;fonts: fundeu;
 marsopla=categories: F;fonts: dr;
 marsupial=categories: M;fonts: LT;
 marsupio=categories: M;fonts: LT;

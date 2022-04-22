@@ -1989,6 +1989,7 @@ Caicedo Caicedo NPCSG00
 Caifás Caifás NPMSSP0 # avl
 Cairo Cairo NPCNG00 # topònim-apertium-falta-gènere-nombre
 CaixaBank CaixaBank NPCNO00
+CaixaForum CaixaForum NPMNO00
 Cajal Cajal NPCNSP0
 Cajamarca Cajamarca NPCSG00
 Calabria Calabria NPCNG00 # topònim-apertium-falta-gènere-nombre
