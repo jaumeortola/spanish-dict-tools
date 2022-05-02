@@ -1059,6 +1059,7 @@ Astorga Astorga NPCNSP0 # wiki
 Astrakhan Astrakhan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Astrid Astrid NPFSSP0
 Asturias Asturias NPCNG00 # topònim-apertium-falta-gènere-nombre
+Astérix Astérix NPMSSP0
 Astún Astún NPCNG00 # topònim-apertium-falta-gènere-nombre
 Asunción Asunción NPCSG00 # topònim-apertium
 Asunción Asunción NPFSSP0 # avl
@@ -6520,6 +6521,7 @@ Obdulio Obdulio NPMSSP0 # avl
 Oberta Oberta NPFSSP0 # avl
 Oberto Oberto NPMSSP0 # avl
 Obregón Obregón NPCNSP0
+Obélix Obélix NPMSSP0
 Ocampo Ocampo NPCNSP0
 Ocaña Ocaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Occidente Occidente NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7185,6 +7187,7 @@ Prisco Prisco NPMSSP0 # avl
 Pristina Pristina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Procmes Procmes NPMSSP0 # avl
 Procopio Procopio NPMSSP0 # avl
+Prokófiev Prokófiev NPCNSP0
 Prometeo Prometeo NPMSSP0 # avl
 Proserpina Proserpina NPFSSP0 # avl
 Protasia Protasia NPFSSP0 # avl
@@ -7830,6 +7833,7 @@ Saúl Saúl NPMSSP0 # avl
 Scalea Scalea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scandale Scandale NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scanzoni Scanzoni NPCNSP0 # medical
+Scarlatti Scarlatti NPCNSP0
 Scarlett Scarlett NPFSSP0
 Schauta Schauta NPCNSP0 # medical
 Schengen Schengen NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7927,6 +7931,7 @@ Serbia Serbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Serena Serena NPFSSP0 # avl
 Sereno Sereno NPMSSP0 # avl
 Sergio Sergio NPMSSP0 # avl
+Serguéi Serguéi NPMSSP0
 Serinyà Serinyà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Serpis Serpis NPCNG00 # topònim-apertium-falta-gènere-nombre
 Serra Serra NPCNG00 # topònim-apertium-falta-gènere-nombre

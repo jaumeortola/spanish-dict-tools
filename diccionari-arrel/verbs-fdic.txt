@@ -7369,6 +7369,7 @@ revertir=categories: V;model:convertir;fonts: LT;
 revestir=categories: V;model:vestir;fonts: LT;
 revigorizar=categories: V;model:abalanzar;fonts: LT;
 revisar=categories: V;model:amar;fonts: LT;
+revisitar=categories: V;model:amar;fonts: derivat;
 revistar=categories: V;model:amar;fonts: LT;
 revitalizar=categories: V;model:abalanzar;fonts: LT;
 revivificar=categories: V;model:abarcar;fonts: LT;
