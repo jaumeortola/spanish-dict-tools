@@ -59164,6 +59164,7 @@ subcampeón subcampeona=categories: MF;fonts: LT;
 subcampo=categories: M;fonts: LT;
 subcanal=categories: M;fonts: LT;
 subcarbonato=categories: M;fonts: LT;
+subcaso=categories: M;fonts: derivat;
 subcategorización=categories: F;fonts: LT;
 subcategoría=categories: F;fonts: LT;
 subcatálogo=categories: M;fonts: LT;

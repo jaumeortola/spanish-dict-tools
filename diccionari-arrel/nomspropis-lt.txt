@@ -6894,6 +6894,7 @@ Pedret Pedret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedro Pedro NPMSSP0 # avl
 Pedroza Pedroa NPCNSP0
 Pegaso Pegaso NPMSSP0 # avl
+Pegasus Pegasus NPMSSP0
 Pego Pego NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peitau Peitau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pekín Pekín NPCNG00 # topònim-apertium-falta-gènere-nombre
