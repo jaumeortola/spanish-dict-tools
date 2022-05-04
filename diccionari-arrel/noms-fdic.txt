@@ -39429,6 +39429,7 @@ macronutriente=categories: M;fonts: LT;
 macronúcleo=categories: M;fonts: LT;
 macroordenador=categories: M;fonts: LT;
 macroorquidismo=categories: M;fonts: medical;
+macroplan=categories: M;fonts: derivat;
 macroplanta=categories: F;fonts: derivat;
 macroprocesador=categories: M;fonts: LT;
 macroprogramación=categories: F;fonts: LT;
