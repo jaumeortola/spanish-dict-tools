@@ -2079,6 +2079,7 @@ antirrevolucionario antirrevolucionaria=categories: A;fonts: LT;
 antirrobo=categories: AI;fonts: LT;
 antirrojo antirroja=categories: A;fonts: LT;
 antirrotatorio antirrotatoria=categories: A;fonts: LT;
+antirruso antirrusa=categories: A;fonts: fundeu;
 antirrábico antirrábica=categories: A;fonts: LT;
 antisatélite=categories: A;fonts: dr;
 antiscio antiscia=categories: A;fonts: LT;
