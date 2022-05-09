@@ -39384,6 +39384,7 @@ macrocinética=categories: FS;fonts: LT;
 macrocito=categories: M;fonts: LT;
 macrocitosis=categories: FI;fonts: LT;
 macroclima=categories: M;fonts: LT;
+macrocomplejo=categories: M;fonts: derivat;
 macrocomportamiento=categories: M;fonts: LT;
 macroconcierto=categories: M;fonts: dr;
 macroconexión=categories: F;fonts: LT;
