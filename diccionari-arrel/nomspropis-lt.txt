@@ -5027,7 +5027,7 @@ Kevin Kevin NPCNSP0
 Keynes Keynes NPCNSP0
 Khartum Khartum NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kierkegaard Kierkegaard NPCNSP0
-Kiev Kiev NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kiev Kiev NPCSG00 # topònim-apertium
 Kigali Kigali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kilimanjaro Kilimanjaro NPMSG00
 Kim Kim NPCNSP0 # wiki
@@ -5096,6 +5096,7 @@ Kveim Kveim NPCNSP0 # medical
 Kwashriorkor Kwashriorkor NPCNSP0 # medical
 Kwin Kwin NPCNSP0 # medical
 Kyelland Kyelland NPCNSP0 # medical
+Kyiv Kyiv NPCSG00
 Kyoto Kyoto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kyrle Kyrle NPCNSP0 # medical
 Kárpov Kárpov NPCNSP0
