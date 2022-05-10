@@ -9323,6 +9323,7 @@ blinda=categories: F;fonts: LT;
 blindado=categories: M;fonts: LT;
 blindaje=categories: M;fonts: LT;
 blinis=categories: MI;fonts: dr;
+blitzkrieg=categories: MFI;fonts: German;
 bloc [pl. blocs]=categories: M;fonts: LT;
 bloca=categories: F;fonts: LT;
 blocador blocadora=categories: MF;fonts: LT;
