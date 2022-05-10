@@ -10450,6 +10450,7 @@ europeizante=categories: A;fonts: dr;
 europeo europea=categories: A;fonts: LT;
 europeísta=categories: A;fonts: LT;
 eurosiberiano eurosiberiana=categories: A;fonts: LT;
+eurovisivo eurovisiva=categories: A;fonts: derivat;
 eurítmico eurítmica=categories: A;fonts: LT;
 euscalduna=categories: A;fonts: dr;
 euscaldún=categories: A;fonts: dr;
