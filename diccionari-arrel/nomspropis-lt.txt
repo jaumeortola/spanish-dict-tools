@@ -7122,6 +7122,7 @@ Pontmarnock Pontmarnock NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pontons Pontons NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ponts Ponts NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pontós Pontós NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ponzi Ponzi NPCNSP0
 Popayán Popayán NPCSG00
 Popea Popea NPFSSP0 # avl
 Popper Popper NPCNSP0
