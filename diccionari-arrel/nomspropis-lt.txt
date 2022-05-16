@@ -7678,6 +7678,7 @@ SEP SEP NPCNO00
 SEPE SEPE NPMSO00
 SER SER NPCSO00
 SIGGRAPH SIGGRAPH NPCNO00
+SNP SNP NPMSO00
 Saavedra Saavedra NPCNSP0
 Saavedra Saavedra NPCNSP0 # wiki common surnames
 Sabadell Sabadell NPCNG00 # topònim-apertium-falta-gènere-nombre
