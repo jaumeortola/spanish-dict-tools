@@ -7671,6 +7671,7 @@ Ródano Ródano NPMSG00 # wiki
 Rómulo Rómulo NPMSSP0 # avl
 Róterdam Róterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rótova Rótova NPCNG00 # topònim-apertium-falta-gènere-nombre
+S&P S&P NPCNO00
 SAT SAT NPCNO00
 SEAT SEAT NPCNO00 # wiki
 SENA SENA NPMSO00 # topònim-apertium-falta-gènere-nombre
