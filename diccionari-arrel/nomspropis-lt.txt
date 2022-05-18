@@ -2263,6 +2263,7 @@ Castro Castro NPCNSP0 # wiki common surnames
 Castroregio Castroregio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Castrovillari Castrovillari NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catadau Catadau NPCNG00 # topònim-apertium-falta-gènere-nombre
+Catalangate Catalangate NPMSO00
 Catalina Catalina NPFSSP0 # avl
 Catalino Catalino NPMSSP0 # avl
 Cataluña Cataluña NPFSG00
