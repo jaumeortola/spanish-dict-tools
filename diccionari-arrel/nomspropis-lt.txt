@@ -3490,6 +3490,8 @@ Euro-Collins Euro-Collins NPCNSP0 # medical
 Euroasia Euroasia NPFSG00
 Eurofestival Eurofestival NPMSO00
 Eurogrupo Eurogrupo NPMSO00
+Euroliga Euroliga NPFSO00
+Euroligas Euroliga NPFPO00
 Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Euroregión Euroregión NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eurosia Eurosia NPFSSP0 # avl
