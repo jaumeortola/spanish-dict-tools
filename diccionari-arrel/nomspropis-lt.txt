@@ -1236,6 +1236,7 @@ Balenyà Balenyà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balerdi Balerdi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bali Bali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balint Balint NPCNSP0 # medical
+Ballester Ballester NPCNSP0
 Balma Balma NPFSSP0 # avl
 Balmes Balmes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balones Balones NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1357,6 +1358,7 @@ Bautista Bautista NPMSSP0 # avl
 Baviera Baviera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bayardo Bayardo NPMSSP0
 Bayardo Bayardo NPMSSP0 # avl
+Bayer Bayer NPCNO00
 Bayern Bayern NPCSO00
 Bayes Bayes NPCNSP0 # medical
 Bayley Bayley NPCNSP0 # medical
@@ -1708,6 +1710,7 @@ Bogotá Bogotá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bohemia Bohemia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bohr Bohr NPCNSP0 # medical
 Bohórquez Bohórquez NPCNSP0
+Bojayá Bojayá NPCSG00
 Bolaño Bolaño NPCNSP0
 Bolaños Bolaños NPCNSP0
 Bolbait Bolbait NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1922,6 +1925,7 @@ Butera Butera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Button Button NPCNSP0
 Bután Bután NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buñol Buñol NPCNG00 # topònim-apertium-falta-gènere-nombre
+Buñuel Buñuel NPCNSP0
 Byant Byant NPCNSP0 # medical
 Byron Byron NPCNSP0
 Byron Byron NPCNSP0 # wiki
@@ -2045,6 +2049,7 @@ Calpurnio Calpurnio NPMSSP0 # avl
 Caltagirone Caltagirone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calve Calve NPCNSP0 # medical
 Calvin Calvin NPMSSP0
+Calvino Calvino NPMSSP0
 Calvià Calvià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calviño Calviño NPCNSP0
 Calvo-Sotelo Calvo-Sotelo NPCNSP0
@@ -2072,6 +2077,7 @@ Camila Camila NPFSSP0 # avl
 Camilo Camilo NPMSSP0 # avl
 Camiña Camiña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camp Camp NPCNG00 # topònim-apertium-falta-gènere-nombre
+Campalans Campalans NPCNSP0
 Campanario Campanario NPFSSP0 # avl
 Campanet Campanet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campania Campania NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2413,6 +2419,7 @@ Chiari-Frommel Chiari-Frommel NPCNSP0 # medical
 Chiba Chiba NPCNSP0 # medical
 Chicago Chicago NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chiclana Chiclana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chiclayo Chiclayo NPCSG00
 Chihuahua Chihuahua NPCSG00
 Chilches Chilches NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chile Chile NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2934,6 +2941,7 @@ Delhi Delhi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Delia Delia NPFSG00 # topònim-apertium
 Delia Delia NPFSSP0 # avl
 Delianuova Delianuova NPCNG00 # topònim-apertium-falta-gènere-nombre
+Delibes Delibes NPCNSP0
 Delio Delio NPMSSP0 # avl
 Dell Dell NPCNO00
 Delmira Delmira NPFSSP0 # avl
@@ -2956,6 +2964,7 @@ Denver Denver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Denysse Denysse NPCNSP0
 Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
+Depp Depp NPCNSP0
 Dercum Dercum NPCNSP0 # medical
 Derrida Derrida NPCNSP0
 Desamparados Desamparados NPFSSP0 # avl
@@ -4151,6 +4160,7 @@ Goicoechea Goicoechea NPCNSP0
 Goldfinger Goldfinger NPCNSP0
 Goldman Goldman NPCNSP0 # medical
 Goldman-Favre Goldman-Favre NPCNSP0 # medical
+Goldstein Goldstein NPCNSP0
 Golgi Golgi NPCNSP0
 Goliat Goliat NPMSSP0 # avl
 Golmés Golmés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4701,6 +4711,7 @@ Inocencio Inocencio NPMSSP0 # avl
 Inocenta Inocenta NPFSSP0 # avl
 Inocente Inocente NPMSSP0 # avl
 Intel Intel NPCNO00 # wiki
+Interbank Interbank NPCNO00
 Interpol Interpol NPFSO00
 Inés Inés NPFSSP0 # avl
 Ion Ion NPMSSP0 # avl
@@ -4920,6 +4931,7 @@ Josefina Josefina NPFSSP0 # avl
 Josefino Josefino NPMSSP0 # avl
 Joselito Joselito NPMSSP0
 Joseph Joseph NPMSSP0 # wiki
+Joshua Joshua NPMSSP0
 Josué Josué NPMSSP0 # avl
 José José NPMSSP0 # avl
 Josías Josías NPMSSP0 # avl
@@ -4995,6 +5007,8 @@ Kamala Kamala NPFSSP0
 Kampala Kampala NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kampuchea Kampuchea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kandahar Kandahar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kandinski Kandinski NPCNSP0
+Kandinsky Kandinsky NPCNSP0
 Kansas Kansas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kant Kant NPCNSP0 # wiki
 Kaplan Kaplan NPCNSP0 # medical
@@ -5030,6 +5044,7 @@ Kehr Kehr NPCNSP0 # medical
 Keitel Keitel NPCNSP0
 Keith-Flack Keith-Flack NPCNSP0 # medical
 Kelly Kelly NPCNSP0 # wiki
+Kelsen Kelsen NPCNSP0
 Ken Ken NPCNSP0 # wiki
 Kenia Kenia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kennedy Kennedy NPCNSP0
@@ -5339,6 +5354,7 @@ Ligoria Ligoria NPFSSP0 # avl
 Ligorio Ligorio NPMSSP0 # avl
 Liguria Liguria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Likud Likud NPMSO00
+Lilian Lilian NPFSSP0
 Liliana Liliana NPFSSP0 # avl
 Liliano Liliano NPMSSP0 # avl
 Lilit Lilit NPFSSP0 # avl
@@ -5688,6 +5704,7 @@ Manlleu Manlleu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manola Manola NPFSSP0 # avl
 Manolete Manolete NPMSSP0
 Manoli Manoli NPFSSP0
+Manolita Manolita NPFSSP0
 Manolo Manolo NPMSSP0 # avl
 Manresa Manresa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manrique Manrique NPMSSP0 # avl
@@ -5746,6 +5763,7 @@ Marianas Marianas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marianela Marianela NPFSSP0
 Mariano Mariano NPMSSP0 # avl
 Maribel Maribel NPFSSP0 # avl
+Maricruz Maricruz NPFSSP0
 Marie-Fox-Alajouanine Marie-Fox-Alajouanine NPCNSP0 # medical
 Mariela Mariela NPFSSP0
 Marilyn Marilyn NPFSSP0
@@ -6556,6 +6574,7 @@ Occidente Occidente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Occitania Occitania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oceanía Oceanía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ochoa Ochoa NPCNSP0
+Ockham Ockham NPCNSP0
 Octavia Octavia NPFSSP0 # avl
 Octaviana Octaviana NPFSSP0 # avl
 Octaviano Octaviano NPMSSP0 # avl
@@ -7729,6 +7748,7 @@ Safo Safo NPFSSP0 # avl
 Safor Safor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sagan Sagan NPCNSP0 # wiki
 Sagarra Sagarra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sagasta Sagasta NPCNSP0
 Sagra Sagra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sagrario Sagrario NPCSSP0 # avl
 Sagrera Sagrera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7851,6 +7871,7 @@ Saray Saray NPFSSP0 # avl
 Sarral Sarral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sarriá Sarriá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sarthe Sarthe NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sartre Sartre NPCNSP0
 Sassari Sassari NPCNG00 # topònim-apertium-falta-gènere-nombre
 Satriano Satriano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saturia Saturia NPFSSP0 # avl
@@ -8435,6 +8456,7 @@ Tessier Tessier NPCNSP0 # medical
 Tetis Tetis NPFSSP0 # avl
 Tetuán Tetuán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Teulada Teulada NPCNG00 # topònim-apertium-falta-gènere-nombre
+Teusaquillo Teusaquillo NPCSG00
 Texas Texas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Texcoco Texcoco NPCSG00
 Teócrito Teócrito NPMSSP0 # avl
