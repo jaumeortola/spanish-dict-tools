@@ -27768,6 +27768,7 @@ exlideresa=categories: F;fonts: fundeu;
 exlíder=categories: MF;fonts: LT;
 exmandatario exmandataria=categories: MF;fonts: derivat;
 exmarido=categories: M;fonts: derivat;
+exmiembro=categories: MF;fonts: derivat;
 exministro exministra=categories: MF;fonts: LT;
 exmonarca=categories: MF;fonts: LT;
 exmonarca=categories: MF;fonts: derivat;

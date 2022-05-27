@@ -1096,6 +1096,7 @@ Audacia Audacia NPFSSP0 # avl
 Audacity Audacity NPCNO00
 Audaz Audaz NPMSSP0 # avl
 Aude Aude NPCNG00 # topònim-apertium-falta-gènere-nombre
+Audenis Audenis NPCNSP0
 Auer Auer NPCNSP0 # medical
 Auerbach Auerbach NPCNSP0 # medical
 Augsburgo Augsburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1710,6 +1711,7 @@ Bogotá Bogotá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bohemia Bohemia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bohr Bohr NPCNSP0 # medical
 Bohórquez Bohórquez NPCNSP0
+Boileau Boileau NPCNSP0
 Bojayá Bojayá NPCSG00
 Bolaño Bolaño NPCNSP0
 Bolaños Bolaños NPCNSP0
@@ -3557,7 +3559,7 @@ Ezequiel Ezequiel NPMSSP0 # avl
 Ezequías Ezequías NPMSSP0 # avl
 FAD FAD NPCSO00
 FAO FAO NPFSO00 # wiki
-FARC FARC NPFPO00
+FARC FARC NPFNO00
 FAS FAS NPCNO00
 FBI FBI NPMSO00 # wiki
 FEDER FEDER NPMNO00
@@ -3600,6 +3602,7 @@ Fanzara Fanzara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Farache Farache NPMSSP0 # avl
 Faraday Faraday NPCNSP0
 Farber Farber NPCNSP0 # medical
+Farc Farc NPFNO00
 Farias Farias NPCNSP0 # wiki common surnames
 Farid Farid NPMSSP0 # avl
 Farnborough Farnborough NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5273,6 +5276,7 @@ Leonel Leonel NPMSSP0
 Leonila Leonila NPFSSP0 # avl
 Leonilo Leonilo NPMSSP0 # avl
 Leonor Leonor NPFSSP0 # avl
+Leonora Leonora NPFSSP0
 Leontina Leontina NPFSSP0 # avl
 Leopard Leopard NPCNSP0 # medical
 Leopardi Leopardi NPCNSP0
@@ -7421,6 +7425,7 @@ Randolfa Randolfa NPFSSP0 # avl
 Randolfo Randolfo NPMSSP0 # avl
 Rangún Rangún NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ranvier Ranvier NPCNSP0 # medical
+Rapunzel Rapunzel NPFSSP0
 Raquel Raquel NPFSSP0 # avl
 Rashkind Rashkind NPCNSP0 # medical
 Rasmussen Rasmussen NPCNSP0 # medical
@@ -7673,6 +7678,7 @@ Rousseau Rousseau NPCNSP0 # wiki
 Roussy-Levy Roussy-Levy NPCNSP0 # medical
 Rovira Rovira NPCNSP0
 Rovito Rovito NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rowling Rowling NPCNSP0
 Roxana Roxana NPFSSP0 # avl
 Roy Roy NPCNSP0 # wiki
 Ruan Ruan NPCSG00
