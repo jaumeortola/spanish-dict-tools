@@ -4185,6 +4185,7 @@ Gordon Gordon NPCNSP0 # wiki
 Goreti Goreti NPFSSP0 # avl
 Gorga Gorga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Goro Goro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gosling Gosling NPCNSP0
 Gotemburgo Gotemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gouda Gouda NPCSG00
 Gowers Gowers NPCNSP0 # medical
