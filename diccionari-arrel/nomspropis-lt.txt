@@ -5238,6 +5238,7 @@ Lausana Lausana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lavansa Lavansa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lavinia Lavinia NPFSSP0 # avl
 Lavoisier Lavoisier NPCNSP0
+Lavrov Lavrov NPCNSP0
 Lawrence Lawrence NPCNSP0 # wiki
 Lawrence-Moon-Bield Lawrence-Moon-Bield NPCNSP0 # medical
 LeVeen LeVeen NPCNSP0 # medical
