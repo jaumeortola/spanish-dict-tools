@@ -12,6 +12,7 @@
 #dolar=categories: V;model:volar;fonts: LT; 
 #enfatuar=categories: V;model:enfatuar;fonts: ??;
 #extruir=categories: V;model:construir;fonts: ap;
+#fallir=categories: V;model:mullir;fonts: LT;
 #fruir=categories: V;model:fluir;fonts: LT;
 #garuar=categories: V;model:actuar;fonts: LT; defectiu!!
 #grafiar=categories: V;model:enviar;fonts: ap;
@@ -4814,7 +4815,6 @@ falcar=categories: V;model:abarcar;fonts: ap;
 faldear=categories: V;model:amar;fonts: LT;
 fallar=categories: V;model:amar;fonts: LT;
 fallecer=categories: V;model:agradecer;fonts: LT;
-fallir=categories: V;model:mullir;fonts: LT;
 falsar=categories: V;model:amar;fonts: dr; 
 falsear=categories: V;model:amar;fonts: LT;
 falsificar=categories: V;model:abarcar;fonts: LT;
