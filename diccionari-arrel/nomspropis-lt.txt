@@ -1,3 +1,4 @@
+
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2774,6 +2775,7 @@ Cropalati Cropalati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crosia Crosia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crouzon Crouzon NPCNSP0 # medical
 Crucoli Crucoli NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cruise Cruise NPCNSP0
 Crusoe Crusoe NPCNSP0
 Cruz Cruz NPCNSP0 # wiki common surnames
 Cruïlles Cruïlles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5069,6 +5071,7 @@ Kierkegaard Kierkegaard NPCNSP0
 Kiev Kiev NPCSG00 # topònim-apertium
 Kigali Kigali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kilimanjaro Kilimanjaro NPMSG00
+Kilmer Kilmer NPCNSP0
 Kim Kim NPCNSP0 # wiki
 Kimberly Kimberly NPCNSP0
 Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
@@ -5885,6 +5888,7 @@ Maurina Maurina NPFSSP0 # avl
 Maurino Maurino NPMSSP0 # avl
 Mauritania Mauritania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mauro Mauro NPMSSP0 # avl
+Maverick Maverick NPCNSP0
 Mavi Mavi NPFSSP0 # avl
 Max Max NPMSSP0 # avl
 Maximiana Maximiana NPFSSP0 # avl
