@@ -58403,6 +58403,7 @@ ska=categories: M;fonts: LT;
 skateboard [pl. skateboards]=categories: M;fonts: LT;
 sketch [pl. sketches]=categories: M;fonts: LT;
 skuterudita=categories: F;fonts: LT;
+skyline=categories: M;fonts: English;
 slang=categories: MS;fonts: LT;
 slapshot [pl. slapshots]=categories: M;fonts: LT;
 smartphone=categories: M;fonts: english;

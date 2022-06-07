@@ -6905,6 +6905,7 @@ Pascasia Pascasia NPFSSP0 # avl
 Pascasio Pascasio NPMSSP0 # avl
 Pascual Pascual NPMSSP0 # avl
 Pascuala Pascuala NPFSSP0 # avl
+Pasolini Pasolini NPCNSP0
 Pasquali Pasquali NPCNO00
 Passanant Passanant NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pastaza Pastaza NPCSG00
