@@ -3137,6 +3137,7 @@ averrugado averrugada=categories: A;fonts: LT;
 averso aversa=categories: A;fonts: dr;
 avetado avetada=categories: A;fonts: dr;
 aviador aviadora=categories: A;fonts: LT;
+aviar=categories: A;fonts: dr;
 aviario aviaria=categories: A;fonts: LT;
 avidísimo avidísima=categories: A;fonts: superlative;
 avieso aviesa=categories: A;fonts: LT;
