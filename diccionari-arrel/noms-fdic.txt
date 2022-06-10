@@ -15154,6 +15154,7 @@ ciberdelincuente=categories: MF;fonts: user;
 ciberdelito=categories: M;fonts: derivat;
 ciberdemocracia=categories: F;fonts: LT;
 ciberespacio=categories: M;fonts: LT;
+ciberespionaje=categories: M;fonts: termcat;
 ciberlunes=categories: MI;fonts: derivat;
 cibernauta=categories: MF;fonts: dr;
 cibernética=categories: F;fonts: LT;
