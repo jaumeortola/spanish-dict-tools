@@ -8604,6 +8604,7 @@ disciplinable=categories: A;fonts: dr;
 disciplinadísimo disciplinadísima=categories: A;fonts: superlative;
 disciplinal=categories: A;fonts: LT;
 disciplinante=categories: A;fonts: LT;
+disciplinar=categories: A;fonts: LT; # but rare -> disciplinario
 disciplinario disciplinaria=categories: A;fonts: LT;
 discipular=categories: A;fonts: dr;
 discográfico discográfica=categories: A;fonts: LT;
