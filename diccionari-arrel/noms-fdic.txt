@@ -7169,6 +7169,7 @@ autorradio=categories: M;fonts: LT;
 autorradiografía=categories: F;fonts: LT;
 autorradiólisis=categories: FI;fonts: LT;
 autorrealización=categories: F;fonts: dr;
+autorreflexión=categories: F;fonts: derivat;
 autorregresión=categories: F;fonts: LT;
 autorregulación=categories: F;fonts: LT;
 autorrelajación=categories: F;fonts: dr;

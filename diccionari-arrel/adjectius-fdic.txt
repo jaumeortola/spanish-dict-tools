@@ -14656,6 +14656,7 @@ interbancario interbancaria=categories: A;fonts: LT;
 interbibliotecario interbibliotecaria=categories: A;fonts: LT;
 intercadente=categories: A;fonts: LT;
 intercalador intercaladora=categories: A;fonts: LT;
+intercalar=categories: A;fonts: dr;
 intercambiable=categories: A;fonts: LT;
 intercambiador intercambiadora=categories: A;fonts: LT;
 intercanino intercanina=categories: A;fonts: LT;
