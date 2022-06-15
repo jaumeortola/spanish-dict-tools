@@ -8121,6 +8121,7 @@ Sixto Sixto NPMSSP0 # avl
 Sjogren Sjogren NPCNSP0 # medical
 Skene Skene NPCNSP0 # medical
 Skopje Skopje NPCNG00 # topònim-apertium-falta-gènere-nombre
+Skriabin Skriabin NPCNSP0
 Skype Skype NPCNO00
 Sluder Sluder NPCNSP0 # medical
 Smith Smith NPCNSP0 # wiki
