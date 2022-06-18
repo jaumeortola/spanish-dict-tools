@@ -3021,6 +3021,7 @@ desenvolver=categories: V;model:volver;fonts: LT;
 desenzarzar=categories: V;model:abalanzar;fonts: LT;
 desequilibrar=categories: V;model:amar;fonts: LT;
 desertar=categories: V;model:amar;fonts: LT;
+desertificar=categories: V;model:abarcar;fonts: fundeu;
 desertizar=categories: V;model:abalanzar;fonts: dr;
 desescalar=categories: V;model:amar;fonts: LT;
 desescolarizar=categories: V;model:abalanzar;fonts: ap;
