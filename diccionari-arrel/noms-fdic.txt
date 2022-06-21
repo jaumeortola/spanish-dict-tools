@@ -45009,6 +45009,7 @@ numeración=categories: F;fonts: LT;
 numerador=categories: M;fonts: LT;
 numeral=categories: M;fonts: LT;
 numerario numeraria=categories: MF;fonts: LT;
+numerito=categories: M;fonts: dim;
 numerología=categories: F;fonts: dr;
 numerólogo numeróloga=categories: MF;fonts: dr;
 numisma=categories: M;fonts: LT;
