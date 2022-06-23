@@ -5026,7 +5026,7 @@ Karen Karen NPFSSP0 # avl
 Karenina Karenina NPCNSP0
 Karina Karina NPFSSP0
 Karl Karl NPCNSP0 # wiki
-Karla Karla NPFSSP
+Karla Karla NPFSSP0
 Karlsruhe Karlsruhe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Karman Karman NPCNSP0 # medical
 Karol Karol NPCSSP0
