@@ -10847,6 +10847,7 @@ faldudo falduda=categories: A;fonts: LT;
 falible=categories: A;fonts: LT;
 fallecedero fallecedera=categories: A;fonts: LT;
 fallero fallera=categories: A;fonts: LT;
+fallido fallida=categories: A;fonts: dr;
 fallo falla=categories: A;fonts: LT;
 falluto falluta=categories: A;fonts: dr;
 falocrático falocrática=categories: A;fonts: dr;

@@ -59144,6 +59144,7 @@ spray [pl. sprays]=categories: M;fonts: dr;
 sprint [pl. sprints]=categories: M;fonts: dr;
 squash=categories: MS;fonts: LT;
 squatter [pl. squatters]=categories: MF;fonts: LT;
+stablecoin [pl. stablecoins]=categories: M;fonts: user;
 staccato=categories: M;fonts: LT;
 staff=categories: MI;fonts: LT;
 stand [pl. stands]=categories: M;fonts: LT;
