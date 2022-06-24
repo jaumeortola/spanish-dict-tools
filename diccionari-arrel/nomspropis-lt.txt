@@ -1848,6 +1848,7 @@ Brooks Brooks NPCNSP0
 Brouardel Brouardel NPCNSP0 # medical
 Brown Brown NPCNSP0
 Brown-Séquard Brown-Séquard NPCNSP0 # medical
+Browning Browning NPCNSP0
 Bruck Bruck NPCNSP0 # medical
 Brudzinski Brudzinski NPCNSP0 # medical
 Brueghel Brueghel NPCNSP0
@@ -3153,6 +3154,7 @@ Edelberta Edelberta NPFSSP0 # avl
 Edelberto Edelberto NPMSSP0 # avl
 Edelmira Edelmira NPFSSP0 # avl
 Edelmiro Edelmiro NPMSSP0 # avl
+Edelvives Edelvives NPCNSP0
 Edesia Edesia NPFSSP0 # avl
 Edesio Edesio NPMSSP0 # avl
 Edgar Edgar NPMSSP0
@@ -7631,6 +7633,7 @@ Roland Roland NPCNSP0
 Rolando Rolando NPMSSP0 # avl
 Roldán Roldán NPCNSP0 # wiki common surnames
 Roldán Roldán NPMSSP0 # avl
+Rolling Rolling NPCNSP0
 Rolls-Royce Rolls-Royce NPCNSP0
 Roma Roma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Romagnosi Romagnosi NPCNSP0
@@ -8400,6 +8403,7 @@ Tbilisi Tbilisi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tchad Tchad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Teams Teams NPCNO00
 Teaneck Teaneck NPCSG00
+Tebaida Tebaida NPFSG00
 Tebas Tebas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tecla Tecla NPFSSP0 # avl
 Tegucigalpa Tegucigalpa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8767,6 +8771,7 @@ Umbertina Umbertina NPFSSP0 # avl
 Umbertino Umbertino NPMSSP0 # avl
 Umberto Umberto NPMSSP0 # avl
 Umbriatico Umbriatico NPCNG00 # topònim-apertium-falta-gènere-nombre
+Umtiti Umtiti NPCNSP0
 Unamuno Unamuno NPCNSP0 # wiki
 Unarre Unarre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Unesco Unesco NPFSO00 # wiki
