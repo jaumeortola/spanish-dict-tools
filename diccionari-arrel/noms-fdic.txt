@@ -7958,6 +7958,7 @@ bancocracia=categories: F;fonts: LT;
 bancón=categories: M;fonts: LT;
 banda=categories: F;fonts: LT;
 bandada=categories: F;fonts: LT;
+bandana=categories: F;fonts: termcat;
 bandarra=categories: MF;fonts: dr;
 bandarria=categories: F;fonts: dr;
 bandazo=categories: M;fonts: LT;

@@ -447,6 +447,7 @@ acontecedero acontecedera=categories: A;fonts: dr;
 aconítico aconítica=categories: A;fonts: LT;
 acopetado acopetada=categories: A;fonts: dr;
 acopiador acopiadora=categories: A;fonts: dr;
+acoplable=categories: A;fonts: derivat;
 acorazonado acorazonada=categories: A;fonts: LT;
 acordable=categories: A;fonts: LT;
 acorde=categories: A;fonts: LT;
