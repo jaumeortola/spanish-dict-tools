@@ -33,6 +33,7 @@
 #Bufalí Bufalí NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Burjasot Burjasot NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Camino Camino NPFSSP0 # avl
+#Campanario Campanario NPFSSP0 # avl
 #Castillo Castillo NPFSSP0 # avl
 #Catalunya Catalunya NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Cataluña Cataluña NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2082,7 +2083,6 @@ Camilo Camilo NPMSSP0 # avl
 Camiña Camiña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camp Camp NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campalans Campalans NPCNSP0
-Campanario Campanario NPFSSP0 # avl
 Campanet Campanet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campania Campania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campbell Campbell NPCNSP0 # wiki
