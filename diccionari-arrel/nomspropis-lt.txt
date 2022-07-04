@@ -5489,7 +5489,8 @@ Lorena Lorena NPFSG00 # topònim-apertium
 Lorena Lorena NPFSSP0 # avl
 Lorenza Lorenza NPFSSP0 # avl
 Lorenzo Lorenzo NPMSSP0 # avl
-Loreto Loreto NPFSSP0 # avl
+Loreto Loreto NPCSG00
+Loreto Loreto NPCSSP0
 Loriguilla Loriguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lorquí Lorquí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Loseta Loseta NPCSSP0 # avl
