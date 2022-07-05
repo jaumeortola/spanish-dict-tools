@@ -8743,6 +8743,7 @@ UNIX UNIX NPCNO00 # wiki
 UOC UOC NPFSO00
 UPC UPC NPFSO00
 URSS URSS NPFSG00 # topònim-apertium
+USA USA NPMPG00 # anglicism
 USAID USAID NPCSO00
 UV UV NPCNO00
 Uagadugú Uagadugú NPCNG00 # topònim-apertium-falta-gènere-nombre
