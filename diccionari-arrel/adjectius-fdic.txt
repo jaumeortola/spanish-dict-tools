@@ -85,6 +85,7 @@
 #usurero usurera=categories: A;fonts: LT;
 #veintavo veintava=categories: AO;fonts: LT, desus;
 #verso versa=categories: A;fonts: LT;
+#web=categories: AI;fonts: LT;
 #zanquivano zanquivana=categories: A;fonts: LT, desus;
 #zaragocí=categories: A;fonts: dr;
 #éntico éntica=categories: A;fonts: LT;
@@ -27532,7 +27533,6 @@ wagneriano wagneriana=categories: A;fonts: LT;
 wahabita=categories: A;fonts: dr;
 wahabí [pl. wahabís o wahabíes]=categories: A;fonts: dr;
 washingtoniano washingtoniana=categories: A;fonts: LT;
-web=categories: AI;fonts: LT;
 weimarés weimaresa=categories: A;fonts: dr;
 welter=categories: AI;fonts: LT;
 westfaliano westfaliana=categories: A;fonts: LT;
