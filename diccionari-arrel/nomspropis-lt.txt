@@ -3139,6 +3139,7 @@ Eadie-Hoffstee Eadie-Hoffstee NPCNSP0 # medical
 Eagle-Barre Eagle-Barre NPCNSP0 # medical
 Eales Eales NPCNSP0 # medical
 Eastwood Eastwood NPCNSP0
+EasyFly EasyFly NPCNO00
 Eaton-Lambert Eaton-Lambert NPCNSP0 # medical
 Ebo Ebo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ebro Ebro NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4636,6 +4637,7 @@ Hérault Hérault NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hércules Hércules NPMSSP0 # avl
 Hünner Hünner NPCNSP0 # medical
 Hürthle Hürthle NPCNSP0 # medical
+IAG IAG NPCNO00
 IBM IBM NPCNO00 # wiki
 ICANN ICANN NPFSO00
 ICETEX ICETEX NPMSO00
@@ -9350,6 +9352,7 @@ Zúrich Zúrich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zúñiga Zúñiga NPCNSP0 # wiki common surnames
 al-Ándalus al-Ándalus NPMSG00
 d'Alembert d'Alembert NPCNSP0
+easyJet easyJet NPCNO00
 iTunes iTunes NPCNO00
 l'Alacantí l'Alacantí NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Albagés l'Albagés NPCNG00 # topònim-apertium-falta-gènere-nombre
