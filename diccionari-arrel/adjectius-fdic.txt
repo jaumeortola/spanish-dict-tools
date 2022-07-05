@@ -1902,6 +1902,7 @@ antidemócrata=categories: A;fonts: LT;
 antideportivo antideportiva=categories: A;fonts: LT;
 antiderrapante=categories: A;fonts: LT;
 antidesahucios=categories: AI;fonts: derivat;
+antidesinformación=categories: AI; fonts: fundeu;
 antideslizante=categories: A;fonts: LT;
 antideslumbrante=categories: A;fonts: LT;
 antidesvanecedor antidesvanecedora=categories: A;fonts: LT;

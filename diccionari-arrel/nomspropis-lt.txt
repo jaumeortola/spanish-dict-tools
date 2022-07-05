@@ -3900,6 +3900,7 @@ Félix Félix NPMSSP0 # avl
 Fénix Fénix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fígols Fígols NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fórnols Fórnols NPCNG00 # topònim-apertium-falta-gènere-nombre
+GAFAM GAFAM NPFPO00
 GAL GAL NPMPO00
 GDPR GDPR NPMSO00
 GPL GPL NPCNO00 # wiki
