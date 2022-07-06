@@ -22085,6 +22085,7 @@ racemoso racemosa=categories: A;fonts: LT;
 racero=categories: A;fonts: dr;
 racheado racheada=categories: A;fonts: LT;
 racial=categories: A;fonts: LT;
+racializado racializada=categories: A;fonts: derivat;
 racimal=categories: A;fonts: dr;
 racimoso racimosa=categories: A;fonts: LT;
 racimudo racimuda=categories: A;fonts: LT;

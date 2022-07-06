@@ -53065,6 +53065,7 @@ racel=categories: M;fonts: LT;
 racemización=categories: F;fonts: LT;
 racer=categories: M;fonts: LT;
 racha=categories: F;fonts: LT;
+racialización=categories: F;fonts: derivat;
 racima=categories: F;fonts: LT;
 racimo=categories: M;fonts: LT;
 raciocinación=categories: F;fonts: LT;
