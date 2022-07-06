@@ -6979,7 +6979,6 @@ Paráclito Paráclito NPMSSP0 # avl
 París París NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pascasia Pascasia NPFSSP0 # avl
 Pascasio Pascasio NPMSSP0 # avl
-Pasco  Pasco NPCSG00 # Perú
 Pasco Pasco NPCSG00 # Perú
 Pascual Pascual NPMSSP0 # avl
 Pascuala Pascuala NPFSSP0 # avl
