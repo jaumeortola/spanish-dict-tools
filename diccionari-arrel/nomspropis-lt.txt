@@ -170,6 +170,7 @@ AFIP AFIP NPFSO00
 AFP AFP NPCNO00
 AI AI NPFSO00
 AIReF AIReF NPFSO00
+ALCA ALCA NPFSO00
 AMLO AMLO NPMSSP0
 AMS-800 AMS-800 NPCNSP0 # medical
 ANSES ANSES NPFSO00
@@ -766,6 +767,7 @@ Angie Angie NPFSSP0
 Angle Angle NPCNSP0 # medical
 Anglesola Anglesola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anglès Anglès NPCNG00 # topònim-apertium-falta-gènere-nombre
+Angol Angol NPCSG00 # Chile
 Angola Angola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anguila Anguila NPCNG00 # topònim-apertium-falta-gènere-nombre
 Angulema Angulema NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -891,6 +893,7 @@ Arantxa Arantxa NPFSSP0 # avl
 Aranyuel Aranyuel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aras Aras NPCNG00
 Arauca Arauca NPCSG00
+Araucanía Araucanía NPCSG00 # Chile
 Arauco Arauco NPCSG00
 Araujo Araujo NPCNSP0
 Aravell Aravell NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1161,6 +1164,7 @@ Ayora Ayora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ayre Ayre NPCNSP0 # medical
 Ayreflor Ayreflor NPCNSP0
 Ayrton Ayrton NPMSSP0
+Aysén Aysén NPCSG00 # Chile
 Ayuso Ayuso NPCNSP0
 Ayódar Ayódar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Azael Azael NPMSSP0
@@ -1657,6 +1661,7 @@ Bingen Bingen NPCSG00
 Binissalem Binissalem NPCNG00 # topònim-apertium-falta-gènere-nombre
 Binswanger Binswanger NPCNSP0 # medical
 Binéfar Binéfar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Biobío Biobío NPCSG00 # Chile
 Bioko Bioko NPCNG00 # topònim-apertium-falta-gènere-nombre
 Biosca Biosca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Birbeck Birbeck NPCNSP0 # medical
@@ -1899,6 +1904,7 @@ Buendía Buendía NPCSG00
 Buerger Buerger NPCNSP0 # medical
 Bufali Bufali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bugarra Bugarra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Buin Buin NPCSG00 # Chile
 Buitrago Buitrago NPCSG00
 Bujumbura Bujumbura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulgaria Bulgaria NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2312,6 +2318,7 @@ Catí Catí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catón Catón NPMSSP0 # avl
 Caudiel Caudiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caulonia Caulonia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cauquenes Cauquenes NPCSG00 # Chile
 Cava Cava NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cavare-Westphal Cavare-Westphal NPCNSP0
 Cavendish Cavendish NPCNSP0
@@ -2452,6 +2459,7 @@ Chilches Chilches NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chile Chile NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chilecito Chilecito NPCSG00 # Argentina
 Chilexpress Chilexpress NPCNSP0
+Chillán Chillán NPCSG00 # Chile
 Chilpancingo Chilpancingo NPCSG00
 Chima Chima NPFSSP0 # avl
 Chimborazo Chimborazo NPMSG00
@@ -2692,6 +2700,7 @@ Copparo Copparo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copperfield Copperfield NPCNSP0
 Copra Copra NPCNSP0 # medical
 Copérnico Copérnico NPMSSP0
+Coquimbo Coquimbo NPCSG00 # Chile
 Cora Cora NPFSSP0 # avl
 Coracora Coracora NPCSG00 # Perú
 Coral Coral NPFSSP0 # avl
@@ -2748,6 +2757,7 @@ Couvelaire Couvelaire NPCNSP0 # medical
 Covadonga Covadonga NPFSSP0 # avl
 Cover Cover NPCNSP0 # medical
 Cox Cox NPCNG00 # topònim-apertium-falta-gènere-nombre
+Coyhaique Coyhaique NPCSG00 # Chile
 Coyoacán Coyoacán NPCSG00
 Cozumel Cozumel NPCSG00
 Cracovia Cracovia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2845,6 +2855,7 @@ Curcia Curcia NPFSSP0 # avl
 Curcio Curcio NPMSSP0 # avl
 Curdistán Curdistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Curial Curial NPMSSP0 # avl
+Curicó Curicó NPCSG00 # Chile
 Curra Curra NPFSSP0 # avl
 Curro Curro NPMSSP0 # avl
 Curschmann Curschmann NPCNSP0 # medical
@@ -4773,6 +4784,7 @@ Inés Inés NPFSSP0 # avl
 Ion Ion NPMSSP0 # avl
 Ione Ione NPFSSP0 # avl
 Iowa Iowa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Iquique Iquique NPCSG00 # Chile
 Iquitos Iquitos NPCSG00 # Perú
 Iraida Iraida NPFSSP0 # avl
 Irak Irak NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5429,6 +5441,7 @@ Lilliput Lilliput NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lilly Lilly NPCNO00
 Lilongwe Lilongwe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lima Lima NPCNG00 # topònim-apertium-falta-gènere-nombre
+Limache Limache NPCSG00 # Chile
 Limberg Limberg NPCNSP0 # medical
 Limoges Limoges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lina Lina NPFSSP0 # avl
@@ -5939,6 +5952,7 @@ Matt Matt NPCNSP0 # wiki
 Matthew Matthew NPCNSP0 # wiki
 Matusalén Matusalén NPMSSP0 # avl
 Matías Matías NPMSSP0 # avl
+Maule Maule NPCSG00 # Chile
 Maura Maura NPFSSP0 # avl
 Maurice Maurice NPCNSP0 # wiki
 Mauricia Mauricia NPFSSP0 # avl
@@ -6025,6 +6039,7 @@ Melilla Melilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melina Melina NPFSSP0 # avl
 Melinda Melinda NPFSSP0 # avl
 Melino Melino NPMSSP0 # avl
+Melipilla Melipilla NPCSG00 # Chile
 Melisa Melisa NPFSSP0 # avl
 Melisenda Melisenda NPFSSP0 # avl
 Melissa Melissa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6814,6 +6829,7 @@ Oslo Oslo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osona Osona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osor Osor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osorio Osorio NPMSSP0 # avl
+Osorno Osorno NPCSG00 # Chile
 Ospina Ospina NPCNSP0
 Ostellato Ostellato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ostia Ostia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6833,6 +6849,7 @@ Ottawa Ottawa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Otto Otto NPCNSP0 # medical
 Otón Otón NPMSSP0 # avl
 Ourense Ourense NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ovalle Ovalle NPCSG00 # Chile
 Ovidia Ovidia NPFSSP0 # avl
 Ovidio Ovidio NPMSSP0 # avl
 Oviedo Oviedo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6872,6 +6889,7 @@ Padilla Padilla NPCNSP0
 Padua Padua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paganini Paganini NPCNSP0
 Paget Paget NPCNSP0 # medical
+Paine Paine NPCSG00 # Chile
 Paiporta Paiporta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paita Paita NPCSG00 # Perú
 Pakistán Pakistán NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6956,6 +6974,7 @@ Paredes Paredes NPCNSP0 # wiki common surnames
 Pareto Pareto NPCNSP0
 Parets Parets NPCNG00 # topònim-apertium-falta-gènere-nombre
 Parghelia Parghelia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Parinacota Parinacota NPCSG00 # Chile
 Parinaud Parinaud NPCNSP0 # medical
 Paris Paris NPMSSP0 # avl
 Park Park NPCNSP0 # wiki
@@ -7119,6 +7138,7 @@ Peyer Peyer NPCNSP0 # medical
 Peyronie Peyronie NPCNSP0 # medical
 Peña Peña NPCNSP0 # wiki common surnames
 Peñafiel Peñafiel NPCNSP0
+Peñaflor Peñaflor NPCSG00 # Chile
 Peñaloza Peñaloza NPCNSP0
 Peñíscola Peñíscola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peülha Peülha NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8425,10 +8445,12 @@ Taiwán Taiwán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taià Taià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tajo Tajo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Takayasu Takayasu NPCNSP0 # medical
+Talagante Talagante NPCSG00 # Chile
 Talamanca Talamanca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Talara Talara NPCSG00 # Perú
 Talarn Talarn NPCNG00 # topònim-apertium-falta-gènere-nombre
 Talavera Talavera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Talca Talca NPCSG00 # Chile
 Tales Tales NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tallin Tallin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Talltendre Talltendre NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8522,6 +8544,7 @@ Telma Telma NPFSSP0 # avl
 Telmex Telmex NPCNO00
 Telmo Telmo NPMSSP0 # avl
 Telémaco Telémaco NPMSSP0 # avl
+Temuco Temuco NPCSG00 # Chile
 Tenerife Tenerife NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tennessee Tennessee NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tennison-Randall Tennison-Randall NPCNSP0 # medical
@@ -8974,6 +8997,7 @@ Vallejo Vallejo NPCNSP0
 Vallejos Vallejos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallelonga Vallelonga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallelunga Vallelunga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vallenar Vallenar NPCSG00 # Chile
 Vallgorguina Vallgorguina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallibona Vallibona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vallirana Vallirana NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9150,6 +9174,7 @@ Villanueva Villanueva NPCSG00
 Villapiana Villapiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Villar Villar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Villarreal Villarreal NPCNG00 # topònim-apertium-falta-gènere-nombre
+Villarrica Villarrica NPCSG00 # Chile
 Villarrobledo Villarrobledo NPCSG00
 Villarroel Villarroel NPCNSP0
 Villavicencio Villavicencio NPCSG00
@@ -9553,6 +9578,7 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ío Ío NPFSSP0 # avl
 Íquer Íquer NPMSSP0 # avl
 Íñigo Íñigo NPMSSP0 # avl
+Ñuble Ñuble NPCSG00 # Chile
 Òdena Òdena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Òrrius Òrrius NPCNG00 # topònim-apertium-falta-gènere-nombre
 Óptima Óptima NPFSSP0 # avl
