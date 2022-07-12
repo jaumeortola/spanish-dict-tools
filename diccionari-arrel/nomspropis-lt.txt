@@ -8877,6 +8877,7 @@ Uagadugú Uagadugú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ubaldesca Ubaldesca NPFSSP0 # avl
 Ubaldina Ubaldina NPFSSP0 # avl
 Ubaldo Ubaldo NPMSSP0 # avl
+Uber Uber NPCNO00
 Ubertina Ubertina NPFSSP0 # avl
 Ubertino Ubertino NPMSSP0 # avl
 Ubierna Ubierna NPCNG00 # topònim-apertium-falta-gènere-nombre
