@@ -4633,6 +4633,7 @@ Hostalric Hostalric NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hostalrich Hostalrich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hotmart Hotmart NPCNSP0
 Houdini Houdini NPCNSP0
+Houellebecq Houellebecq NPCNSP0
 Houston Houston NPCNG00 # topònim-apertium-falta-gènere-nombre
 Howard Howard NPCNSP0 # wiki
 Howship Howship NPCNSP0 # medical
@@ -7657,6 +7658,7 @@ Rieger Rieger NPCNSP0 # medical
 Riells Riells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riesi Riesi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rieti Rieti NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rif Rif NPMSG00
 Riga Riga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rigalda Rigalda NPFSSP0 # avl
 Rigaldo Rigaldo NPMSSP0 # avl

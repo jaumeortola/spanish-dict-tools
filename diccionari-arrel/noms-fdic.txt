@@ -5010,6 +5010,7 @@ antihistamina=categories: F;fonts: LT;
 antihistamínico=categories: M;fonts: LT;
 antihistona=categories: F;fonts: medical;
 antihormona=categories: F;fonts: LT;
+antihumanismo=categories: M;fonts: derivat;
 antihéroe antiheroína=categories: MF;fonts: derivat;
 antiidiotipo=categories: M;fonts: LT;
 antiidiotopo=categories: M;fonts: LT;
