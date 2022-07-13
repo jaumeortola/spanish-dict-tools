@@ -7487,6 +7487,7 @@ RFA RFA NPFSG00
 RFC RFC NPCNO00
 RFEF RFEF NPFSO00
 RGPD RGPD NPMSO00
+RIF RIF NPMNO00
 RTVE RTVE NPFSO00
 RTVV RTVV NPFSO00
 RUT RUT NPMNO00
@@ -8203,6 +8204,7 @@ Silvia Silvia NPFSSP0 # avl
 Silvina Silvina NPFSSP0 # avl
 Silvino Silvino NPMSSP0 # avl
 Silvio Silvio NPMSSP0 # avl
+Simca Simca NPCNSP0
 Simeona Simeona NPFSSP0 # avl
 Simeón Simeón NPMSSP0 # avl
 Simferópol Simferópol NPCSG00
