@@ -6059,6 +6059,7 @@ Mencio Mencio NPMSSP0 # avl
 Mencía Mencía NPFSSP0 # avl
 Menda Menda NPFSSP0 # avl
 Mendel Mendel NPCNSP0
+Mendeléyev Mendeléyev NPCNO00
 Mendicino Mendicino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mendieta Mendieta NPCNSP0
 Mendo Mendo NPMSSP0 # avl
@@ -9242,6 +9243,7 @@ Vladímir Vladímir NPCNG00 # topònim-apertium-falta-gènere-nombre
 Voghiera Voghiera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vogt Vogt NPCNSP0 # medical
 Vogt-Koyanagi-Harada Vogt-Koyanagi-Harada NPCNSP0 # medical
+Vogue Vogue NPCNO00
 Vohwinkel Vohwinkel NPCNSP0 # medical
 Voivodina Voivodina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Voldemort Voldemort NPMSSP0

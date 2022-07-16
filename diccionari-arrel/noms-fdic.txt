@@ -59416,6 +59416,7 @@ subsecretario subsecretaria=categories: MF;fonts: LT;
 subsecretaría=categories: F;fonts: LT;
 subsector=categories: M;fonts: LT;
 subserosa=categories: F;fonts: LT;
+subservicio=categories: M;fonts: derivat;
 subsidencia=categories: F;fonts: LT;
 subsidiaria=categories: F;fonts: LT;
 subsidiaridad=categories: F;fonts: dr;
