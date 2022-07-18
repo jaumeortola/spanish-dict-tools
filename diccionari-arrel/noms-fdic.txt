@@ -14210,6 +14210,7 @@ chancaca=categories: F;fonts: LT;
 chancadora=categories: F;fonts: dr;
 chancaquita=categories: F;fonts: LT;
 chancay [pl. chancáis]=categories: M;fonts: dr;
+chance=categories: MF;fonts: dr;
 chancha=categories: F;fonts: LT;
 chanchada=categories: F;fonts: dr;
 chanchero chanchera=categories: MF;fonts: dr;
