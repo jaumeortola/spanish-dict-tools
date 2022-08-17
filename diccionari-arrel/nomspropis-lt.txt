@@ -3823,6 +3823,7 @@ FARC FARC NPFNO00
 FAS FAS NPCNO00
 FBI FBI NPMSO00 # wiki
 FEDER FEDER NPMNO00
+FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00 # wiki
 FMI FMI NPMSO00
 FROB FROB NPMSO00
@@ -8785,6 +8786,7 @@ Soverato Soverato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soyuz Soyuz NPCNSP0 # wiki
 Spa Spa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Spanish Spanish NPCNO00 # English
+Spaski Spaski NPCNSP0
 Spasski Spasski NPCNSP0
 Spencer Spencer NPCNSP0
 Spiegel Spiegel NPCNSP0 # medical
