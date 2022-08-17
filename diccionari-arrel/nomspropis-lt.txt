@@ -1767,6 +1767,8 @@ Blaquerna Blaquerna NPMSSP0 # avl
 Blas Blas NPMSSP0 # avl
 Blasa Blasa NPFSSP0 # avl
 Blasco Blasco NPMSSP0 # avl
+Blogger Blogger NPMSO00
+Blogspot Blogspot NPMSO00
 Blois Blois NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bloom Bloom NPCNSP0
 Bloomberg Bloomberg NPCNSP0
@@ -4059,6 +4061,7 @@ Fortunato Fortunato NPMSSP0 # avl
 Forès Forès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foster Foster NPCNSP0
 Foster-Kennedy Foster-Kennedy NPCNSP0 # medical
+Fotolog Fotolog NPMSO00
 Foucault Foucault NPCNSP0
 Fourier Fourier NPCNSP0
 Fournier Fournier NPCNSP0

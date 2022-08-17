@@ -176,6 +176,7 @@
 #desfacedor desfacedora=categories: M;fonts: dr;
 #deus ex machina=categories: M;fonts: dr;
 #dies irae=categories: M;fonts: dr;
+#diesel=categories: MS;fonts: LT;
 #distalis=categories: FI;fonts: medical;
 #disyunto disyunta=categories: M;fonts: dr;
 #dolora=categories: F;fonts: LT;
@@ -22416,7 +22417,6 @@ dienestrol=categories: M;fonts: LT;
 dieno=categories: M;fonts: LT;
 dientazo=categories: M;fonts: dr;
 diente=categories: M;fonts: LT;
-diesel=categories: MS;fonts: LT;
 diesi=categories: F;fonts: LT;
 diesis=categories: FI;fonts: LT;
 diestra=categories: F;fonts: LT;
