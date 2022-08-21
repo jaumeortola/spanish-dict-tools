@@ -32456,6 +32456,7 @@ guillote=categories: M;fonts: LT;
 guillotina=categories: F;fonts: LT;
 guimbalete=categories: M;fonts: LT;
 guimbarda=categories: F;fonts: LT;
+guinche=categories: M;fonts: dr;
 guinchero guinchera=categories: MF;fonts: dr;
 guincho=categories: M;fonts: LT;
 guinchón=categories: M;fonts: LT;
