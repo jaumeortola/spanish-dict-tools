@@ -16058,6 +16058,7 @@ clérigo=categories: M;fonts: LT;
 clíbano=categories: M;fonts: dr;
 clímax=categories: MI;fonts: LT;
 clínex=categories: MI;fonts: dr;
+clínic [pl. clínics]=categories: M;fonts: English;
 clínica=categories: F;fonts: LT;
 clínico=categories: M;fonts: LT;
 clínker=categories: M;fonts: dr;
