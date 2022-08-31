@@ -4461,6 +4461,7 @@ González González NPCNSP0 # wiki common surnames
 Goodman Goodman NPCNSP0
 Goodpasture Goodpasture NPCNSP0 # medical
 Google Google NPCNO00 # wiki
+Gorbachov Gorbachov NPCNSP0
 Gordiano Gordiano NPMSSP0 # avl
 Gordillo Gordillo NPCNSP0
 Gordon Gordon NPCNSP0 # wiki
@@ -10195,4 +10196,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Gorbachov Gorbachov NPCNSP0
