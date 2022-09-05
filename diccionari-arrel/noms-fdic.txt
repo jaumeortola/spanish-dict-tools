@@ -228,6 +228,7 @@
 #gil=categories: M;fonts: LT;
 #giley [pl. giléis]=categories: M;fonts: dr;
 #ginkgoal=categories: F;fonts: LT;
+#girón=categories: M;fonts: LT;
 #globero globera=categories: M;fonts: dr;
 #glucosa-1,6-bisfosfato=categories: M;fonts: medical;
 #granujado granujada=categories: F;fonts: dr;
@@ -31303,7 +31304,6 @@ giroscopio=categories: M;fonts: LT;
 girotrón=categories: M;fonts: LT;
 girándula=categories: F;fonts: LT;
 girómetro=categories: M;fonts: LT;
-girón=categories: M;fonts: LT;
 giróscopo=categories: M;fonts: LT;
 giróstato=categories: M;fonts: LT;
 giróvago=categories: M;fonts: LT;

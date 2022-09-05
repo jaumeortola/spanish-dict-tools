@@ -252,6 +252,7 @@ Aceves Aceves NPCNSP0
 Achacachi Achacachi NPCSG00 # Bolivia
 Achaguas Achaguas NPCSG00 # Venezuela
 Achocalla Achocalla NPCSG00 # Bolivia
+Achúcarro Achúcarro NPCNSP0
 Aciscla Aciscla NPFSSP0 # avl
 Acisclo Acisclo NPMSSP0 # avl
 Aconcagua Aconcagua NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1625,6 +1626,7 @@ Berenguela Berenguela NPFSSP0 # avl
 Berenice Berenice NPFSSP0 # avl
 Beret Beret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berga Berga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Berganza Berganza NPCNSP0
 Bergey Bergey NPCNSP0 # medical
 Bergman Bergman NPCNSP0
 Bergoglio Bergoglio NPCNSP0
@@ -2078,6 +2080,7 @@ Caaguazú Caaguazú NPCSG00 # Paraguay
 Caapucú Caapucú NPCSG00 # Paraguay
 Caazapá Caazapá NPCSG00 # Paraguay
 Cabacés Cabacés NPCNG00 # topònim-apertium-falta-gènere-nombre
+Caballé Caballé NPCNSP0
 Cabanabona Cabanabona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cabanelles Cabanelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cabanes Cabanes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5592,6 +5595,7 @@ Larousse Larousse NPCNO00
 Larra Larra NPCNSP0
 Larraun Larraun NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larraya Larraya NPCNG00 # topònim-apertium-falta-gènere-nombre
+Larrocha Larrocha NPCNSP0
 Larry Larry NPCNSP0 # wiki
 Lasarte Lasarte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lascano Lascano NPCSG00 # Uruguay
