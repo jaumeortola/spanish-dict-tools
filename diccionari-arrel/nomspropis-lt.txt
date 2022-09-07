@@ -1690,6 +1690,7 @@ Betty Betty NPFSSP0
 Betxí Betxí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beuda Beuda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bevan Bevan NPCNSP0 # medical
+Bezos Bezos NPCNSP0
 Biancavilla Biancavilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Biar Biar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bibiana Bibiana NPFSSP0 # avl
@@ -1976,6 +1977,7 @@ Buckingham Buckingham NPCNG00
 Buda Buda NPMSSP0 # avl
 Budapest Budapest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Budd-Chiari Budd-Chiari NPCNSP0 # medical
+Buenafuente Buenafuente NPCNSP0
 Buenamiga Buenamiga NPFSSP0 # avl
 Buenamigo Buenamigo NPMSSP0 # avl
 Buenanueva Buenanueva NPFSSP0 # avl
@@ -5217,6 +5219,7 @@ Jaén Jaén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jean-Baptiste Jean-Baptiste NPMSSP0
 Jean-Paul Jean-Paul NPMSSP0
 Jefferson Jefferson NPCNSP0 # wiki
+Jeffrey Jeffrey NPMSSP0
 Jehová Jehová NPMSSP0
 Jekyll Jekyll NPCNSP0
 Jenara Jenara NPFSSP0 # avl
