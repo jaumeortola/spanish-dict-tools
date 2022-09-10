@@ -4324,6 +4324,7 @@ Genoveva Genoveva NPFSSP0 # avl
 Genovevo Genovevo NPMSSP0 # avl
 Genovés Genovés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gentil Gentil NPMSSP0 # avl
+Geoffrey Geoffrey NPMSSP0
 Georg Georg NPCNSP0 # wiki
 George George NPMSSP0 # wiki
 Georges Georges NPCNSP0 # wiki
@@ -7275,6 +7276,7 @@ Paciana Paciana NPFSSP0 # avl
 Paciano Paciano NPMSSP0 # avl
 Paciencia Paciencia NPFSSP0 # avl
 Pacini Pacini NPCNSP0 # medical
+Pacino Pacino NPCNSP0
 Paco Paco NPMSSP0 # avl
 Pacomia Pacomia NPFSSP0 # avl
 Pacomio Pacomio NPMSSP0 # avl
@@ -9907,6 +9909,7 @@ Wimbledon Wimbledon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Winchester Winchester NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windhoek Windhoek NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windows Windows NPCNO00 # wiki
+Windsor Windsor NPCNSP0
 Wisconsin Wisconsin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wiscott-Aldrich Wiscott-Aldrich NPCNSP0 # medical
 Witiza Witiza NPMSSP0 # avl
