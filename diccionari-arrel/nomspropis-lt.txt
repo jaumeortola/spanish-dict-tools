@@ -1301,6 +1301,7 @@ Balint Balint NPCNSP0 # medical
 Ballester Ballester NPCNSP0
 Balma Balma NPFSSP0 # avl
 Balmes Balmes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Balmoral Balmoral NPCSG00
 Balones Balones NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balsareny Balsareny NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balta Balta NPMSSP0 # avl
@@ -4877,6 +4878,8 @@ Holanda Holanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hollywood Hollywood NPCNG00 # topònim-apertium-falta-gènere-nombre
 Holmes Holmes NPCNSP0 # wiki
 Holofernes Holofernes NPMSSP0 # avl
+Holyrood Holyrood NPCSG00
+Holyroodhouse Holyroodhouse NPCSG00
 Homero Homero NPMSSP0 # avl
 Honda Honda NPCNO00
 Hondones Hondones NPCNG00 # topònim-apertium-falta-gènere-nombre
