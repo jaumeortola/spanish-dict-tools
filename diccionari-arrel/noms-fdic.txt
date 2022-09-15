@@ -8156,6 +8156,7 @@ baria=categories: F;fonts: LT;
 baricentro=categories: M;fonts: LT;
 bario=categories: M;fonts: LT;
 barisfera=categories: F;fonts: LT;
+barista=categories: MF;fonts: fundeu;
 barita=categories: F;fonts: LT;
 baritina=categories: F;fonts: LT;
 baritosis=categories: FI;fonts: medical;

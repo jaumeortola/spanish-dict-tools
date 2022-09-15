@@ -5034,6 +5034,7 @@ Ilíada Ilíada NPFSO00
 Imanol Imanol NPMSSP0 # avl
 Imataca Imataca NPCSG00 # Venezuela
 Imelda Imelda NPFSSP0 # avl
+Imserso Imserso NPMSO00
 Inca Inca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inclán Inclán NPCNSP0 # wiki
 Indalecia Indalecia NPFSSP0 # avl
@@ -9433,6 +9434,7 @@ Ubertino Ubertino NPMSSP0 # avl
 Ubierna Ubierna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ucayali Ucayali NPCSG00 # Perú
 Ucrania Ucrania NPCNG00 # topònim-apertium-falta-gènere-nombre
+Uffizi Uffizi NPMPO00
 Uganda Uganda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ugarte Ugarte NPCNSP0
 Uhthoff Uhthoff NPCNSP0 # medical
