@@ -4146,6 +4146,7 @@ Fuchs Fuchs NPCNSP0 # medical
 Fuengirola Fuengirola NPCSG00
 Fuenlabrada Fuenlabrada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fuensanta Fuensanta NPFSSP0 # avl
+Fuenterrabía Fuenterrabía NPCSG00
 Fuenterrobles Fuenterrobles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fuentes Fuentes NPCNSP0 # wiki common surnames
 Fuerteventura Fuerteventura NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4882,6 +4883,7 @@ Holyrood Holyrood NPCSG00
 Holyroodhouse Holyroodhouse NPCSG00
 Homero Homero NPMSSP0 # avl
 Honda Honda NPCNO00
+Hondarribia Hondarribia NPCSG00
 Hondones Hondones NPCNG00 # topònim-apertium-falta-gènere-nombre
 Honduras Honduras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Honesto Honesto NPMSSP0 # avl
