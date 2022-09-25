@@ -1270,6 +1270,7 @@ Bagur Bagur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bagà Bagà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bahamas Bahamas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bahamonde Bahamonde NPCNSP0
+Baikal Baikal NPMSG00
 Baikiri Baikiri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bailén Bailén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bainbridge Bainbridge NPCNSP0 # medical
@@ -6099,6 +6100,7 @@ Mallorca Mallorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malmö Malmö NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malpigio Malpigio NPCNSP0 # medical
 Malpàs Malpàs NPCNG00 # topònim-apertium-falta-gènere-nombre
+Malraux Malraux NPCNSP0
 Malta Malta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malva Malva NPFSSP0 # avl
 Malvarrosa Malvarrosa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8541,6 +8543,7 @@ Schwartz-Bartter Schwartz-Bartter NPCNSP0 # medical
 Schwarzenegger Schwarzenegger NPCNSP0
 Schweppes Schweppes NPCNO00
 Schönlein-Henoch Schönlein-Henoch NPCNSP0 # medical
+Sciascia Sciascia NPCNSP0
 Scido Scido NPCNG00 # topònim-apertium-falta-gènere-nombre
 Science Science NPFSO00
 Scigliano Scigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
