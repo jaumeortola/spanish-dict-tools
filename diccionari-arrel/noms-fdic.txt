@@ -60035,6 +60035,7 @@ ságoma=categories: F;fonts: dr;
 ságula=categories: F;fonts: dr;
 sámago=categories: M;fonts: LT;
 sámara=categories: F;fonts: LT;
+sámpler=categories: M;fonts: English;
 sándalo=categories: M;fonts: LT;
 sándwich [pl. sándwiches]=categories: M;fonts: dr;
 sánguche=categories: M;fonts: dr;
