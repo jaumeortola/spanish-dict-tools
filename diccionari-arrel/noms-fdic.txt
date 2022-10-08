@@ -46149,6 +46149,7 @@ ostugo=categories: M;fonts: dr;
 osífraga=categories: F;fonts: dr;
 osífrago=categories: M;fonts: dr;
 otacusta=categories: M;fonts: dr;
+otaku=categories: MF;fonts: japonés;
 otalgia=categories: F;fonts: LT;
 otario otaria=categories: MF;fonts: LT;
 otatal=categories: M;fonts: dr;
