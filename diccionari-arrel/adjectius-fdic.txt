@@ -23049,6 +23049,7 @@ rogatorio rogatoria=categories: A;fonts: LT;
 rohinyá [pl. rohinyás]=categories: A;fonts: fundeu;
 rojal=categories: A;fonts: LT;
 rojiblanco rojiblanca=categories: A;fonts: LT;
+rojillo rojilla=categories: A;fonts: dr;
 rojiverde=categories: A;fonts: LT;
 rojizo rojiza=categories: A;fonts: LT;
 rojo roja [sup. rojísimo]=categories: A;fonts: LT;
