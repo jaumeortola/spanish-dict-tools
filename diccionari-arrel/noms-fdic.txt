@@ -7385,6 +7385,7 @@ ayaco=categories: M;fonts: dr;
 ayacote=categories: M;fonts: dr;
 ayahuasca=categories: F;fonts: dr;
 ayate=categories: M;fonts: dr;
+ayatola=categories: M;fonts: LT;
 ayatollah [pl. ayatollahs]=categories: M;fonts: LT;
 ayatolá=categories: M;fonts: LT;
 ayeaye=categories: M;fonts: dr;
