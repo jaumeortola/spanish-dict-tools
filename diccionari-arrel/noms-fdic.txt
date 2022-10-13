@@ -51186,6 +51186,7 @@ preincubación=categories: F;fonts: derivat;
 preinmunización=categories: F;fonts: LT;
 preinscripción=categories: F;fonts: LT;
 preinversión=categories: F;fonts: LT;
+preinvitación=categories: F;fonts: derivat, fundeu;
 prejubilación=categories: F;fonts: LT;
 prejudicialidad=categories: F;fonts: LT;
 prejuicio=categories: M;fonts: LT;
