@@ -31,6 +31,7 @@
 #remugar=categories: V;model:cargar;fonts: ap;
 #retroferbular=categories: V;model:amar;fonts: ap;
 #triar=categories: V;model:piar;fonts: LT;
+NAS=categories; MI;fonts: sigla;
 abajar=categories: V;model:amar;fonts: LT;
 abalanzar=categories: V;model:abalanzar;fonts: LT;
 abalaustrar=categories: V;model:amar;fonts: LT;
