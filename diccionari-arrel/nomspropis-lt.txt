@@ -5756,6 +5756,7 @@ Lida Lida NPFSSP0 # avl
 Liddle Liddle NPCNSP0 # medical
 Lidia Lidia NPFSG00 # topònim-apertium
 Lidia Lidia NPFSSP0 # avl
+Lidl Lidl NPMNO00
 Liduvina Liduvina NPFSSP0 # avl
 Liduvino Liduvino NPMSSP0 # avl
 Lidón Lidón NPFSSP0 # avl

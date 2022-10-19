@@ -23742,6 +23742,7 @@ semigraso semigrasa=categories: A;fonts: LT;
 semiheterotípico semiheterotípica=categories: A;fonts: LT;
 semiinconsciente=categories: A;fonts: dr;
 semiindirecto semiindirecta=categories: A;fonts: LT;
+semiindustrial=categories: A;fonts: derivat;
 semiinscrito semiinscrita=categories: A;fonts: LT;
 semiinvertido semiinvertida=categories: A;fonts: LT;
 semiletal=categories: A;fonts: LT;
