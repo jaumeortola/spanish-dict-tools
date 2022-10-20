@@ -57,6 +57,7 @@ ayuso ayuso RG
 aún aún RG
 bastante bastante RG
 bien bien RG
+bocarriba bocarriba RG
 caput caput RG
 casi casi RG
 cerca cerca RG

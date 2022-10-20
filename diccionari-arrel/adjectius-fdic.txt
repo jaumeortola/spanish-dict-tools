@@ -4989,6 +4989,7 @@ catabólico catabólica=categories: A;fonts: dr;
 catadióptrico catadióptrica=categories: A;fonts: LT;
 catafórico catafórica=categories: A;fonts: LT;
 catalanista=categories: A;fonts: LT;
+catalanoaragonés catalanoaragonesa=categories: A;fonts: derivat;
 catalanohablante=categories: A;fonts: LT;
 catalanoparlante=categories: A;fonts: LT;
 catalanófobo catalanófoba=categories: A;fonts: dr;

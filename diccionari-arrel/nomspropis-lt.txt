@@ -3240,6 +3240,7 @@ Dewey Dewey NPCNSP0
 Deyanira Deyanira NPFSSP0 # avl
 Deyá Deyá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Deífile Deífile NPFSSP0 # avl
+DiCaprio DiCaprio NPCNSP0
 DiDi DiDi NPCNO00
 Diafebo Diafebo NPMSSP0 # avl
 Diagonal Diagonal NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7589,6 +7590,7 @@ Picanya Picanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picasent Picasent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picassent Picassent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picasso Picasso NPCNSP0 # wiki
+Picassos Picasso NPMPSP0 
 Picaña Picaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picchu Picchu NPCNSP0 # wiki
 Pichanaqui Pichanaqui NPCSG00 # Perú

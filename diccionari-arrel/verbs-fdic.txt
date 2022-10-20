@@ -5567,6 +5567,7 @@ laboralizar=categories: V;model:abalanzar;fonts: fundeu;
 laborar=categories: V;model:amar;fonts: LT;
 laborear=categories: V;model:amar;fonts: LT;
 labrar=categories: V;model:amar;fonts: LT;
+lacar=categories: V;model:abarcar;fonts: dr;
 lacear=categories: V;model:amar;fonts: LT;
 lacerar=categories: V;model:amar;fonts: LT;
 lacrar=categories: V;model:amar;fonts: LT;

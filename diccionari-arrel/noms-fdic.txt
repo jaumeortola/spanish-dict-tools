@@ -668,6 +668,7 @@ ESO=categories: FS;fonts: sigla;
 Ertzaintza=categories: FS;fonts: dr;
 Ethernet=categories: FI;fonts: termcat;
 Eurobarómetro=categories: M;fonts: esadir;
+Eurocopa=categories: F;fonts: wiki;
 FAQ=categories: FP;fonts: english;
 FC=categories: MS;fonts: sigla;
 FM=categories: FI;fonts: sigla;
