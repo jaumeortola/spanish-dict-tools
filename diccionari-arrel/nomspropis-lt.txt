@@ -2515,6 +2515,7 @@ Celrà Celrà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Celsa Celsa NPFSSP0 # avl
 Celsius Celsius NPCNSP0
 Celso Celso NPMSSP0 # avl
+Celtics Celtics PMPO00
 Cenit Cenit NPMSSP0 # avl
 Cenobia Cenobia NPFSSP0 # avl
 Cenobio Cenobio NPMSSP0 # avl
@@ -2754,6 +2755,7 @@ Cleto Cleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleveland Cleveland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Clint Clint NPMSSP0
 Clinton Clinton NPCNSP0 # wiki
+Clippers Clippers NPMPO00
 Clipperton Clipperton NPCNG00
 Clitemnestra Clitemnestra NPFSSP0 # avl
 Cliza Cliza NPCSG00 # Bolivia
@@ -5402,6 +5404,7 @@ Kanasín Kanasín NPCSG00 # México
 Kandahar Kandahar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kandinski Kandinski NPCNSP0
 Kandinsky Kandinsky NPCNSP0
+Kane Kane NPCNSP0
 Kansas Kansas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kant Kant NPCNSP0 # wiki
 Kaplan Kaplan NPCNSP0 # medical
@@ -5566,6 +5569,7 @@ Lahuachaca Lahuachaca NPCSG00 # Bolivia
 Laia Laia NPFSSP0
 Laino Laino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lairisa Lairisa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lakers Lakers NPMPO00
 Lambaré Lambaré NPCSG00 # Paraguay
 Lambayeque Lambayeque NPCSG00 # Perú
 Lamberta Lamberta NPFSSP0 # avl
