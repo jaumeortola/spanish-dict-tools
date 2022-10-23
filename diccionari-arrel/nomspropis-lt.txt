@@ -2515,7 +2515,7 @@ Celrà Celrà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Celsa Celsa NPFSSP0 # avl
 Celsius Celsius NPCNSP0
 Celso Celso NPMSSP0 # avl
-Celtics Celtics PMPO00
+Celtics Celtics NPMPO00
 Cenit Cenit NPMSSP0 # avl
 Cenobia Cenobia NPFSSP0 # avl
 Cenobio Cenobio NPMSSP0 # avl
@@ -5556,6 +5556,7 @@ Ladoga Ladoga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ladrón Ladrón NPMSSP0 # avl
 Laertes Laertes NPMSSP0 # avl
 Lafora Lafora NPCNSP0 # medical
+Lafuente Lafuente NPCNSP0
 Laganadi Laganadi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lagat Lagat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lagos Lagos NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5603,6 +5604,7 @@ Laos Laos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laplace Laplace NPCNSP0
 Laponia Laponia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lappano Lappano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lapuente Lapuente NPCNSP0
 Laquedivas Laquedivas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laquesis Laquesis NPFSSP0 # avl
 Lara Lara NPFSSP0 # avl
@@ -6426,6 +6428,7 @@ Melitona Melitona NPFSSP0 # avl
 Melitón Melitón NPMSSP0 # avl
 Melkersson-Rosenthal Melkersson-Rosenthal NPCNSP0
 Melo Melo NPCSG00 # Uruguay
+Meloni Meloni NPCNSP0
 Melquisedec Melquisedec NPMSSP0 # avl
 Melquíades Melquíades NPMSSP0 # avl
 Melville Melville NPCNSP0
@@ -7275,6 +7278,7 @@ PAC PAC NPCNO00
 PC PC NPCNSP0 # wiki
 PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00 # wiki
+PCI PCI NPMSO00
 PE PE NPCNO00
 PEN PEN NPMSO00
 PET PET NPCNO00
@@ -9955,6 +9959,7 @@ Wunderlich Wunderlich NPCNSP0 # medical
 Wyoming Wyoming NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wálter Wálter NPMSSP0 # avl
 Württemberg Württemberg NPCNG00 # topònim-apertium-falta-gènere-nombre
+X-Men X-Men NPCNO00
 Xacarella Xacarella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xalans Xalans NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xalapa Xalapa NPCSG00 # México

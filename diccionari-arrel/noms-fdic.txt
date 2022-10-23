@@ -52045,6 +52045,7 @@ pseudodiálogo=categories: M;fonts: derivat;
 pseudoesfera=categories: F;fonts: LT;
 pseudofita=categories: F;fonts: LT;
 pseudogén=categories: M;fonts: LT;
+pseudohistoria=categories: F;fonts: dr;
 pseudología=categories: F;fonts: LT;
 pseudomorfo=categories: M;fonts: LT;
 pseudorreferendo=categories: M;fonts: fundeu;
