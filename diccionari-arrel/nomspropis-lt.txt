@@ -4665,6 +4665,7 @@ Güigüe Güigüe NPCSG00 # Venezuela
 Güiria Güiria NPCSG00 # Venezuela
 Günther Günther NPCNSP0 # medical
 Gürtel Gürtel NPFSO00
+HAL HAL NPMSSP0
 HBO HBO NPCNSP0
 Haab Haab NPCNSP0 # medical
 Habacuc Habacuc NPMSSP0 # avl
@@ -8167,6 +8168,7 @@ Riposto Riposto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riquelme Riquelme NPCNSP0 # wiki common surnames
 Riquerio Riquerio NPMSSP0 # avl
 Risaralda Risaralda NPCSG00
+Rishi Rishi NPMSSP0
 Rita Rita NPFSSP0 # avl
 Ritz Ritz NPCNSP0
 Riudarenes Riudarenes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8422,6 +8424,7 @@ Salvador Salvador NPMSG00 # topònim-apertium
 Salvador Salvador NPMSSP0 # avl
 Salvadora Salvadora NPFSSP0 # avl
 Salvia Salvia NPFSSP0 # avl
+Salvini Salvini NPCNSP0
 Salvio Salvio NPMSSP0 # avl
 Salzburgo Salzburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Salzmann Salzmann NPCNSP0 # medical
@@ -8817,6 +8820,7 @@ Soto Soto NPCNSP0 # wiki common surnames
 Sotomayor Sotomayor NPCNSP0
 Sotos Sotos NPCNSP0 # medical
 South South NPCNSP0 # wiki
+Southampton Southampton NPCSG00
 Southern Southern NPCNSP0 # medical
 Soverato Soverato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soyuz Soyuz NPCNSP0 # wiki
@@ -8903,6 +8907,7 @@ Sumacàrcer Sumacàrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumi Sumi NPCSG00
+Sunak Sunak NPCNSP0
 Superliga Superliga NPFSO00
 Superman Superman NPMSSP0
 Sur Sur NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9360,6 +9365,7 @@ Troyes Troyes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trujillo Trujillo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Truman Truman NPCNSP0 # wiki
 Trump Trump NPCNSP0 # wiki
+Truss Truss NPCNSP0
 Tréveris Tréveris NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trípoli Trípoli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trófima Trófima NPFSSP0 # avl
