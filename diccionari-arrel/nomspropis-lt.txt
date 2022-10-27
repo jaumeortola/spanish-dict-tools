@@ -5271,6 +5271,7 @@ Jimena Jimena NPFSSP0 # avl
 Jimeno Jimeno NPMSSP0 # avl
 Jimmy Jimmy NPCNSP0 # wiki
 Jiménez Jiménez NPCNSP0 # wiki common surnames
+Jinping Jinping NPMSSP0
 Jira Jira NPCSO00
 Jirán Jirán NPMSSP0 # avl
 Jiutepec Jiutepec NPCSG00 # México
@@ -7018,6 +7019,7 @@ Noroeste Noroeste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Norte Norte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Norteamérica Norteamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 North North NPCNSP0 # wiki
+Northampton Northampton NPCSG00
 Northern Northern NPCNSP0 # medical
 Noruega Noruega NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nostradamus Nostradamus NPMSSP0
@@ -9982,6 +9984,7 @@ Xert Xert NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xerta Xerta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xest Xest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xestalgar Xestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Xi Xi NPCNSP0
 Xico Xico NPCSG00 # México
 Xilxes Xilxes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ximena Ximena NPFSSP0
