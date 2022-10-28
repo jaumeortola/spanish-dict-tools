@@ -8877,6 +8877,7 @@ Strachan Strachan NPCNSP0 # medical
 Strassmann Strassmann NPCNSP0 # medical
 Strauss Strauss NPCNSP0
 Strauss-Kahn Strauss-Kahn NPCNSP0
+Streisand Streisand NPCNSP0
 Struthers Struthers NPCNSP0 # medical
 Stuart Stuart NPCNSP0
 Stuart-Power Stuart-Power NPCNSP0 # medical
