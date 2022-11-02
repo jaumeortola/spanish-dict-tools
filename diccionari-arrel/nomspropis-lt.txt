@@ -2595,6 +2595,7 @@ Chella Chella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chelo Chelo NPCSSP0 # avl
 Chelsea Chelsea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chelva Chelva NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chenoa Chenoa NPFSSP0
 Chepén Chepén NPCSG00 # Perú
 Chequia Chequia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chera Chera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6639,6 +6640,7 @@ Moncófar Moncófar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monday Monday NPCSG00 # Paraguay
 Mondor Mondor NPCNSP0 # medical
 Mondragón Mondragón NPCSG00
+Mondrian Mondrian NPCNSP0
 Mondúber Mondúber NPMSSP0 # avl
 Monells Monells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monet Monet NPCNSP0 # wiki
