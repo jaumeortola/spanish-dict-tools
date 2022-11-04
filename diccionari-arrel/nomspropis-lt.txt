@@ -3747,6 +3747,7 @@ Ethan Ethan NPMSSP0
 Ethel Ethel NPFSSP0 # avl
 Etiopía Etiopía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Etna Etna NPCNG00 # topònim-apertium-falta-gènere-nombre
+Eto'o Eto'o NPCNSP0
 Etxano Etxano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Etxarri Etxarri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eucadio Eucadio NPMSSP0 # avl
@@ -9418,6 +9419,8 @@ Turén Turén NPCSG00 # Venezuela
 Turín Turín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turís Turís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tusquets Tusquets NPCNO00
+Tutankamon Tutankamon NPMSSP0
+Tutankamón Tutankamón NPMSSP0
 Tuvalu Tuvalu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tuxtepec Tuxtepec NPCSG00 # México
 Tuxtla Tuxtla NPCSG00 # México
