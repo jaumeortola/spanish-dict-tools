@@ -785,6 +785,7 @@ TEA=categories: MI;fonts: sigla;
 TEDAX=categories: MI;fonts: fundeu;
 TFM=categories: MI;fonts: sigla;
 TIC=categories: FP;fonts: fundeu;
+TIN=categories: MI;fonts: sigla;
 TNT=categories: MI;fonts: dr;
 TV=categories: MFI;fonts: sigla;
 UCI=categories: FI;fonts: dr;

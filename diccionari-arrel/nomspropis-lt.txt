@@ -3274,6 +3274,7 @@ Dionisia Dionisia NPFSSP0 # avl
 Dionisio Dionisio NPMSSP0 # avl
 Diosdado Diosdado NPMSSP0 # avl
 Dipignano Dipignano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Discord Discord NPMSO00
 Discovery Discovery NPCNSP0 # wiki
 Disney Disney NPCNO00 # wiki
 Disneyland Disneyland NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6315,6 +6316,7 @@ Massanet Massanet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massoteres Massoteres NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massou Massou NPCNSP0 # medical
 MasterChef MasterChef NPCNO00
+Mastodon Mastondon NPCNSP0
 Matadepera Matadepera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mataró Mataró NPCNG00 # topònim-apertium-falta-gènere-nombre
 Matatías Matatías NPMSSP0 # avl
@@ -6680,6 +6682,7 @@ Monteagudo Monteagudo NPCSG00 # Bolivia
 Montebello Montebello NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montecasino Montecasino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montecristi Montecristi NPCSG00 # Ecuador
+Montecristo Montecristo NPCNSP0
 Montedoro Montedoro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monteggia Monteggia NPCNSP0 # medical
 Montegiordano Montegiordano NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7076,6 +7079,7 @@ Obdulio Obdulio NPMSSP0 # avl
 Oberta Oberta NPFSSP0 # avl
 Oberto Oberto NPMSSP0 # avl
 Oberá Oberá NPCSG00 # Argentina
+Objective-C Objective-C NPMSO00
 Obregón Obregón NPCNSP0
 Obélix Obélix NPMSSP0
 Ocampo Ocampo NPCNSP0
