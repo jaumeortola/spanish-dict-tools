@@ -26472,6 +26472,7 @@ trufador trufadora=categories: A;fonts: dr;
 truhan truhana=categories: A;fonts: dr;
 truhanesco truhanesca=categories: A;fonts: LT;
 trujillano trujillana=categories: A;fonts: dr;
+trumpista=categories: A;fonts: derivat;
 trunco trunca=categories: A;fonts: LT;
 trágico trágica=categories: A;fonts: LT;
 trémulo trémula=categories: A;fonts: LT;
