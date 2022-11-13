@@ -37022,7 +37022,6 @@ jubillo=categories: M;fonts: dr;
 jubo=categories: M;fonts: dr;
 jubonero jubonera=categories: MF;fonts: LT;
 jubón=categories: M;fonts: LT;
-judaismo=categories: M;fonts: LT;
 judaización=categories: F;fonts: LT;
 judaizante=categories: MF;fonts: LT;
 judas=categories: MI;fonts: LT;
