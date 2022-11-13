@@ -97,6 +97,7 @@
 #Mar Mar NPFSSP0 # avl
 #Maravillas Maravillas NPFSSP0 # avl
 #Marcos Marcos NPMSSP0 # avl
+#Maria Maria NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Marolas Marolas NPFSSP0 # avl
 #Marraqués Marraqués NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Masalfasar Masalfasar NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -129,6 +130,7 @@
 #Puigcerdá Puigcerdá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rafa Rafa NPFSSP0 # avl
 #Refugio Refugio NPFSSP0 # avl
+#Reunion Reunion NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Reyes Reyes NPFSSP0 # avl
 #Rotglá Rotglá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rotterdam Rotterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2234,6 +2236,7 @@ Canals Canals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canarias Canarias NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canatro Canatro NPMSSP0 # avl
 Canavan Canavan NPCNSP0 # medical
+Canaán Canaán NPCSG00
 Canberra Canberra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cancún Cancún NPCNG00 # topònim-apertium-falta-gènere-nombre
 Candanchú Candanchú NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3443,6 +3446,7 @@ Edwards Edwards NPCNSP0
 Edwin Edwin NPCNSP0 # wiki
 Efebo Efebo NPMSSP0 # avl
 Efesia Efesia NPFSSP0 # avl
+Efraím Efraím NPMSSP0
 Efraín Efraín NPMSSP0 # avl
 Efrén Efrén NPMSSP0 # avl
 Egea Egea NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3670,6 +3674,7 @@ Escolástica Escolástica NPFSSP0 # avl
 Escolástico Escolástico NPMSSP0 # avl
 Escorca Escorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Escorial Escorial NPCNG00 # topònim-apertium-falta-gènere-nombre
+Escrivá Escrivá NPCNSP0
 Escudellers Escudellers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Esculapio Esculapio NPMSSP0 # avl
 Escunhau Escunhau NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5323,6 +5328,7 @@ Josefa Josefa NPFSSP0 # avl
 Josefina Josefina NPFSSP0 # avl
 Josefino Josefino NPMSSP0 # avl
 Joselito Joselito NPMSSP0
+Josemaría Josemaría NPMSSP0
 Joseph Joseph NPMSSP0 # wiki
 Joshua Joshua NPMSSP0
 Josué Josué NPMSSP0 # avl
@@ -6137,6 +6143,7 @@ Manacor Manacor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Managua Managua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manaldo Manaldo NPMSSP0 # avl
 Manama Manama NPCNG00 # topònim-apertium-falta-gènere-nombre
+Manasés Manasés NPMSSP0
 Manasés Manasés NPMSSP0 # avl
 Manaure Manaure NPCSG00 # Colombia
 Manaén Manaén NPMSSP0 # avl
@@ -6214,7 +6221,6 @@ Margaret Margaret NPFSSP0 # wiki
 Margarita Margarita NPFSSP0 # avl
 Margot Margot NPFSSP0
 Mari Mari NPFSSP0 # avl
-Maria Maria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mariana Mariana NPFSSP0 # avl
 Marianas Marianas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marianela Marianela NPFSSP0
@@ -8113,7 +8119,6 @@ Restituta Restituta NPFSSP0 # avl
 Restituto Restituto NPMSSP0 # avl
 Restrepo Restrepo NPCNSP0
 Resurrección Resurrección NPFSSP0 # avl
-Reunion Reunion NPCNG00 # topònim-apertium-falta-gènere-nombre
 Reus Reus NPCNG00 # topònim-apertium-falta-gènere-nombre
 Reye Reye NPCNSP0 # medical
 Reyes Reyes NPCNSP0 # wiki common surnames
