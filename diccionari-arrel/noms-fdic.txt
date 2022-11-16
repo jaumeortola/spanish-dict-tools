@@ -29124,6 +29124,7 @@ fitotrón=categories: M;fonts: LT;
 fitófago fitófaga=categories: MF;fonts: LT;
 fitógrafo fitógrafa=categories: MF;fonts: LT;
 fitónimo=categories: M;fonts: dr;
+fixture=categories: M;fonts: english;
 fiyuela=categories: F;fonts: dr;
 fizón=categories: M;fonts: dr;
 fiñana=categories: F;fonts: LT;
