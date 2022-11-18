@@ -153,6 +153,7 @@ online online RG
 otraño otraño RG
 otrora otrora RG
 otrosí otrosí RG
+outdoor outdoor RG #english
 peor peor RG
 poco poco RG
 primero primero RG
@@ -162,6 +163,7 @@ pues pues RG
 pássim pássim RG
 quizá quizá RG
 quizás quizás RG
+random random RG #english
 recién recién RG
 requetebién requetebién RG
 seguro seguro RG
