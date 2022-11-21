@@ -60955,6 +60955,7 @@ tecnofinanzas=categories: FP;fonts: derivat;
 tecnografía=categories: F;fonts: dr;
 tecnologización=categories: F;fonts: dr;
 tecnología=categories: F;fonts: LT;
+tecnoutopía=categories: F;fonts: derivat;
 tecnígrafo=categories: M;fonts: LT;
 tecnócrata=categories: MF;fonts: LT;
 tecnólogo tecnóloga=categories: MF;fonts: LT;
