@@ -3854,6 +3854,7 @@ blanquiazul=categories: A;fonts: LT;
 blanquillo blanquilla=categories: A;fonts: LT;
 blanquinegro blanquinegra=categories: A;fonts: LT;
 blanquinoso blanquinosa=categories: A;fonts: LT;
+blanquirrojo blanquirroja=categories: A;fonts: derivat;
 blanquizco blanquizca=categories: A;fonts: dr;
 blanquísimo blanquísima=categories: A;fonts: superlative;
 blao=categories: A;fonts: dr;
