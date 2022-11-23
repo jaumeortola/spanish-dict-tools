@@ -52010,7 +52010,6 @@ provocación=categories: F;fonts: LT;
 proxemiología=categories: F;fonts: LT;
 proxeneta=categories: MF;fonts: LT;
 proxenetismo=categories: M;fonts: LT;
-proxenitismo=categories: M;fonts: LT;
 proximidad=categories: F;fonts: LT;
 proyeccionista=categories: MF;fonts: dr;
 proyección=categories: F;fonts: LT;
