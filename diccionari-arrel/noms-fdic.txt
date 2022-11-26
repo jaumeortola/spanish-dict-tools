@@ -59258,6 +59258,7 @@ stilb=categories: MI;fonts: LT;
 stock [pl. stocks]=categories: M;fonts: LT;
 stokes=categories: MI;fonts: LT;
 stop [pl. stops]=categories: M;fonts: LT;
+storytelling=categories: MS;fonts: english;
 stracciatella=categories: FS;fonts: wiki, italià;
 streaming [pl. streamings]=categories: M;fonts: user;
 striptease=categories: MI;fonts: dr, English;

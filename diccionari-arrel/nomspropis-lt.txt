@@ -7394,6 +7394,7 @@ Panettieri Panettieri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pangea Pangea NPFSG00
 Pangui Pangui NPCSG00 # Ecuador
 Paniagua Paniagua NPCNSP0
+Panini Panini NPCNSP0
 Panjab Panjab NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pantaleón Pantaleón NPMSSP0 # avl
 Pantelaria Pantelaria NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9624,6 +9625,7 @@ Valparaíso Valparaíso NPCSG00
 Valsalva Valsalva NPCNSP0 # medical
 Valvanera Valvanera NPFSSP0 # avl
 Valverde Valverde NPCNSP0
+Valéry Valéry NPCNSP0
 Vancouver Vancouver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vandellòs Vandellòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vanegas Vanegas NPCNSP0
