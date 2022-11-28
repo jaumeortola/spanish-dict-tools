@@ -9171,6 +9171,7 @@ Teóforo Teóforo NPMSSP0 # avl
 Thais Thais NPFSSP0 # avl
 Thaís Thaís NPFSSP0 # avl
 Theodor Theodor NPCNSP0 # wiki
+Theresienstadt Theresienstadt NPCSG00
 Thiessen Thiessen NPCNSP0
 Thimbu Thimbu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Thomas Thomas NPCNSP0
