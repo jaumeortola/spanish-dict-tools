@@ -20704,6 +20704,7 @@ pobladísimo pobladísima=categories: A;fonts: superlative;
 poblano poblana=categories: A;fonts: dr;
 poblatísimo poblatísima=categories: A;fonts: superlative;
 pobre=categories: A;fonts: LT;
+pobrecillo pobrecilla=categories: A;fonts: derivat;
 pobrecito pobrecita=categories: A;fonts: dr;
 pobrete pobreta=categories: A;fonts: LT;
 pobretón pobretona=categories: A;fonts: LT;
