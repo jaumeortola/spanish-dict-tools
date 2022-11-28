@@ -52518,6 +52518,7 @@ pátera=categories: F;fonts: LT;
 pátina=categories: F;fonts: LT;
 pécari [pl. pécaries o pécaris]=categories: M;fonts: LT;
 pécora=categories: F;fonts: LT;
+pélet [pl. pélets]=categories: M;fonts: fundeu;
 péndola=categories: F;fonts: LT;
 péndulo=categories: M;fonts: LT;
 pénfigo=categories: M;fonts: LT;

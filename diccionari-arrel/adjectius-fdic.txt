@@ -21240,6 +21240,7 @@ premiadísimo premiadísima=categories: A;fonts: superlative;
 premicótico premicótica=categories: A;fonts: medical;
 premioso premiosa=categories: A;fonts: LT;
 premiso premisa=categories: A;fonts: LT;
+premium=categories: AI;fonts: English;
 premolar=categories: A;fonts: LT;
 premonitor premonitora=categories: A;fonts: LT;
 premonitorio premonitoria=categories: A;fonts: LT;
