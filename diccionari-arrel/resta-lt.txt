@@ -167,9 +167,11 @@ cualquier cualquiera DI0CS0
 cualquiera cualquiera PI0CS000
 cuando cuando CS
 cuando cuando PR000000
+cuanta cuanto DI0FS0
 cuanta cuanto PR0FS000
 cuantas cuanto DI0FP0
 cuantas cuanto PR0FP000
+cuanto cuanto DI0MS0
 cuanto cuanto PR0MS000
 cuantos cuanto DI0MP0
 cuantos cuanto PR0MP000
