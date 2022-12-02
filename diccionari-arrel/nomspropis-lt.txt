@@ -1728,6 +1728,7 @@ Billeneta Billeneta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Billings Billings NPCNSP0 # medical
 Billroth Billroth NPCNSP0 # medical
 Billy Billy NPCNSP0 # wiki
+Bimbo Bimbo NPCNO00
 Bingen Bingen NPCSG00
 Binissalem Binissalem NPCNG00 # topònim-apertium-falta-gènere-nombre
 Binswanger Binswanger NPCNSP0 # medical
@@ -3972,6 +3973,7 @@ Figline Figline NPCNG00 # topònim-apertium-falta-gènere-nombre
 Figueras Figueras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Figueres Figueres NPCNG00 # topònim-apertium-falta-gènere-nombre
 Figueroa Figueroa NPCNSP0 # wiki common surnames
+Figuerola Figuerola NPCNSP0
 Figueroles Figueroles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiji Fiji NPCNG00 # topònim-apertium-falta-gènere-nombre
 Filadelfia Filadelfia NPFSG00 # topònim-apertium

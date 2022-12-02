@@ -3772,6 +3772,7 @@ biométrico biométrica=categories: A;fonts: LT;
 biomórfico biomórfica=categories: A;fonts: LT;
 bionda=categories: A;fonts: dr;
 biopsicológico biopsicológica=categories: A;fonts: medical;
+biopsicosocial=categories: A;fonts: wiki;
 bioquímico bioquímica=categories: A;fonts: LT;
 biotecnológico biotecnológica=categories: A;fonts: LT;
 biotipológico biotipológica=categories: A;fonts: LT;
