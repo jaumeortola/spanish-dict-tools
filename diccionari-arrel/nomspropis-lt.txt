@@ -5720,6 +5720,7 @@ Lepe Lepe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lepromin Lepromin NPCNSP0 # medical
 Leriana Leriana NPFSSP0 # avl
 Leriano Leriano NPMSSP0 # avl
+Lerma Lerma NPCNSP0
 Lermoyez Lermoyez NPCNSP0 # medical
 Lesch-Nyhan Lesch-Nyhan NPCNSP0 # medical
 Leslie Leslie NPCNSP0
@@ -7746,6 +7747,7 @@ Ponciana Ponciana NPFSSP0 # avl
 Ponciano Ponciano NPMSSP0 # avl
 Poncio Poncio NPMSSP0 # avl
 Ponferrada Ponferrada NPCSG00
+Pons Pons NPCNSP0
 Pontevedra Pontevedra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pontils Pontils NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pontmarnock Pontmarnock NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8895,6 +8897,7 @@ Strassmann Strassmann NPCNSP0 # medical
 Strauss Strauss NPCNSP0
 Strauss-Kahn Strauss-Kahn NPCNSP0
 Streisand Streisand NPCNSP0
+Strindberg Strindberg NPCNSP0
 Struthers Struthers NPCNSP0 # medical
 Stuart Stuart NPCNSP0
 Stuart-Power Stuart-Power NPCNSP0 # medical

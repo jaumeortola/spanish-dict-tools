@@ -44518,6 +44518,7 @@ neurohipofisaria=categories: F;fonts: medical;
 neurohipófisis=categories: FI;fonts: LT;
 neurohormona=categories: F;fonts: medical;
 neurohumor=categories: M;fonts: medical;
+neuroimagen [pl. neuroimágenes]=categories: F;fonts: termcat;
 neuroinmunología=categories: F;fonts: medical;
 neuroleptoanestesia=categories: F;fonts: medical;
 neurolisis=categories: FI;fonts: medical;
