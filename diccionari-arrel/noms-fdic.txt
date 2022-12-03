@@ -30845,6 +30845,7 @@ gasfitería=categories: F;fonts: dr;
 gasificación=categories: F;fonts: LT;
 gasificador=categories: M;fonts: LT;
 gasista=categories: MF;fonts: LT;
+gaslighting==categories: MS;fonts: english;
 gasodoméstico=categories: M;fonts: derivat;
 gasoducto=categories: M;fonts: LT;
 gasohol=categories: M;fonts: LT;
