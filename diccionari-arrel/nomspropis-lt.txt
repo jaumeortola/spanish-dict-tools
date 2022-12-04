@@ -4983,6 +4983,7 @@ Huxley Huxley NPCNSP0
 Huánuco Huánuco NPCSG00
 Hyde Hyde NPCNSP0
 Hyperwallet Hyperwallet NPCNO00
+Häagen-Dazs Häagen-Dazs NPCNO00
 Händel Händel NPCNSP0
 Hébridas Hébridas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Héctor Héctor NPMSSP0 # avl
