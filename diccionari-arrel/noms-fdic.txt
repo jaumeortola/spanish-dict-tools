@@ -45500,6 +45500,7 @@ ojete=categories: M;fonts: LT;
 ojetera=categories: F;fonts: LT;
 ojetillo=categories: M;fonts: dr;
 ojibwa=categories: MF;fonts: LT;
+ojillo=categories: M;fonts: dim;
 ojimel=categories: M;fonts: LT;
 ojimiel=categories: M;fonts: LT;
 ojito=categories: M;fonts: LT;

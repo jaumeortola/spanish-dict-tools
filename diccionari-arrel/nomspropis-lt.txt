@@ -199,6 +199,9 @@ Abdelazís Abdelazís NPMSSP0 # avl
 Abderramán Abderramán NPMSSP0 # avl
 Abderramán Abderramán NPMSSP0 # wiki
 Abdul Abdul NPMSSP0 # avl
+Abdulah Abdulah NPMSSP0
+Abdulaziz Abdulaziz NPMSSP0
+Abdulkader Abdulkader NPMSSP0
 Abdénago Abdénago NPMSSP0 # avl
 Abdías Abdías NPMSSP0 # avl
 Abdón Abdón NPMSSP0 # avl
@@ -1617,6 +1620,7 @@ Benlloc Benlloc NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benlloch Benlloch NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bennett Bennett NPCNSP0 # medical
 Bentham Bentham NPCNSP0
+Benyedid Benyedid NPCNSP0
 Benz Benz NPCNO00
 Benín Benín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benítez Benítez NPCNSP0 # wiki common surnames
@@ -6799,7 +6803,7 @@ Muchamiel Muchamiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mucia Mucia NPFSSP0 # avl
 Mucio Mucio NPMSSP0 # avl
 Mucuchíes Mucuchíes NPCSG00 # Venezuela
-Muhammad Muhammad NPCNSP0 # wiki
+Muhamad Muhamad NPCNSP0 # wiki
 Muisne Muisne NPCSG00 # Ecuador
 Mula Mula NPCNG00 # topònim-apertium-falta-gènere-nombre
 Muller Muller NPCNSP0
@@ -7982,6 +7986,7 @@ Quirós Quirós NPCNSP0
 Quiteria Quiteria NPFSSP0 # avl
 Quiterio Quiterio NPMSSP0 # avl
 Quito Quito NPCNG00 # topònim-apertium-falta-gènere-nombre
+Qumrán Qumrán NPMSG00
 Quyquyhó Quyquyhó NPCSG00 # Paraguay
 RDA RDA NPFSG00
 RENFE RENFE NPCNO00
@@ -8009,6 +8014,7 @@ Rafelbunyol Rafelbunyol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelbuñol Rafelbuñol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelcofer Rafelcofer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelguaraf Rafelguaraf NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rafsanyani Rafsanyani NPCNSP0
 Ragalna Ragalna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rahola Rahola NPCNSP0
 Raimunda Raimunda NPFSSP0 # avl
