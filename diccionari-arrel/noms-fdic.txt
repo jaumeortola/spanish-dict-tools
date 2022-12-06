@@ -23327,6 +23327,7 @@ dracma=categories: MF;fonts: LT;
 dracontiasis=categories: FI;fonts: LT;
 dracunculosis=categories: FI;fonts: LT;
 draft=categories: M;fonts: english;
+drag-queen=categories: F;fonts: LT;
 draga=categories: F;fonts: LT;
 dragado=categories: M;fonts: LT;
 dragador=categories: M;fonts: LT;
