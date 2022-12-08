@@ -9396,6 +9396,7 @@ Trousseau Trousseau NPCNSP0 # medical
 Trouvé Trouvé NPCNSP0
 Troya Troya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Troyes Troyes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Trueba Trueba NPCNSP0
 Trujillo Trujillo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Truman Truman NPCNSP0 # wiki
 Trump Trump NPCNSP0 # wiki

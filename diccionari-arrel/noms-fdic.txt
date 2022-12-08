@@ -5083,6 +5083,7 @@ antipolilla=categories: M;fonts: dr;
 antipontificado=categories: M;fonts: dr;
 antipressing [pl. antipressings]=categories: M;fonts: LT;
 antiprotón=categories: M;fonts: LT;
+antipujolismo=categories: M;fonts: derivat;
 antirracionalismo=categories: M;fonts: dr;
 antirracismo=categories: M;fonts: LT;
 antirresonancia=categories: F;fonts: LT;

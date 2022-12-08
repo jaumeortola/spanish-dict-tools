@@ -16286,6 +16286,7 @@ macanudo macanuda=categories: A;fonts: LT;
 macareno macarena=categories: A;fonts: dr;
 macarrónico macarrónica=categories: A;fonts: LT;
 macartista=categories: A;fonts: LT;
+macartista=categories: A;fonts: derivat;
 macedonio macedonia=categories: A;fonts: LT;
 macedón macedona=categories: A;fonts: LT;
 macedónico macedónica=categories: A;fonts: LT;
