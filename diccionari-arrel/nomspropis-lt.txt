@@ -7628,6 +7628,7 @@ Picassent Picassent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picasso Picasso NPCNSP0 # wiki
 Picassos Picasso NPMPSP0 
 Picaña Picaña NPCNG00 # topònim-apertium-falta-gènere-nombre
+Piccadilly Piccadilly NPCNG00
 Picchu Picchu NPCNSP0 # wiki
 Pichanaqui Pichanaqui NPCSG00 # Perú
 Pichincha Pichincha NPCNO00
