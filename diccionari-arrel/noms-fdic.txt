@@ -4735,6 +4735,7 @@ animalario=categories: M;fonts: dr;
 animalero=categories: M;fonts: dr;
 animalidad=categories: F;fonts: LT;
 animalismo=categories: M;fonts: dr;
+animalista=categories: MF;fonts: dr;
 animalito=categories: M;fonts: derivat;
 animalización=categories: F;fonts: LT;
 animalucho=categories: M;fonts: dr;
