@@ -2412,6 +2412,7 @@ damnificar=categories: V;model:abarcar;fonts: LT;
 danzar=categories: V;model:abalanzar;fonts: LT;
 dar=categories: V;model:dar;fonts: LT;
 datar=categories: V;model:amar;fonts: LT;
+datificar=categories: V;model:abarcar;fonts: LT;
 dañar=categories: V;model:amar;fonts: LT;
 deambular=categories: V;model:amar;fonts: LT;
 debatir=categories: V;model:partir;fonts: LT;
