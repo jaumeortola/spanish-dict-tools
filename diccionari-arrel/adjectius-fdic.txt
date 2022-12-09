@@ -69,6 +69,7 @@
 #plebiscitar=categories: A;fonts: LT;
 #poch=categories: A;fonts: dr;
 #poco poca=categories: A;fonts: LT; millor com a determinant
+#postre=categories: A;fonts: LT; wrong?
 #presago presaga=categories: A;fonts: LT;
 #producto producta=categories: A;fonts: LT;
 #quindécimo quindécima=categories: A;fonts: LT, desus;
@@ -21064,7 +21065,6 @@ postquirúrgico postquirúrgica=categories: A;fonts: derivat;
 postrador postradora=categories: A;fonts: LT;
 postransfusional=categories: A;fonts: LT;
 postraumático postraumática=categories: A;fonts: wiki;
-postre=categories: A;fonts: LT;
 postremero postremera=categories: A;fonts: dr;
 postremo postrema=categories: A;fonts: LT;
 postrer=categories: AI;fonts: LT;
