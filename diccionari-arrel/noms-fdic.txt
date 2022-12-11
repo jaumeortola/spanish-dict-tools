@@ -13580,6 +13580,7 @@ celtibérico celtibérica=categories: MF;fonts: LT;
 celtismo=categories: M;fonts: LT;
 celtista=categories: MF;fonts: LT;
 celtíbero celtíbera=categories: MF;fonts: LT;
+celular=categories: M;fonts: adj, teléfono;
 celulasa=categories: F;fonts: LT;
 celulitis=categories: FI;fonts: LT;
 celuloide=categories: M;fonts: LT;
