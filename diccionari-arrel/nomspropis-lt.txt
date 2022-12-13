@@ -1792,6 +1792,7 @@ Boadilla Boadilla NPCSG00
 Boari Boari NPCNSP0 # medical
 Boateng Boateng NPCNSP0
 Bobadilla Bobadilla NPCSG00
+Bobbio Bobbio NPCNSP0
 Bobby Bobby NPCNSP0 # wiki
 Bobby Bobby NPMSSP0
 Bobures Bobures NPCSG00 # Venezuela
