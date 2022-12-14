@@ -7748,6 +7748,7 @@ Pompe Pompe NPCNSP0 # medical
 Pompeya Pompeya NPFSG00 # topònim-apertium
 Pompeya Pompeya NPFSSP0 # avl
 Pompeyo Pompeyo NPMSSP0 # avl
+Pompidou Pompidou NPCNSP0
 Ponce Ponce NPCNSP0 # wiki
 Ponce Ponce NPCNSP0 # wiki common surnames
 Poncia Poncia NPFSSP0 # avl
