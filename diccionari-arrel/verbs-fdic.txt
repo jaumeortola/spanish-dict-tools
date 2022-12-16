@@ -5097,6 +5097,7 @@ grecizar=categories: V;model:abalanzar;fonts: LT;
 greguizar=categories: V;model:abalanzar;fonts: dr;
 grietar=categories: V;model:amar;fonts: LT;
 grillar=categories: V;model:amar;fonts: LT;
+gripalizar=categories: V;model:abalanzar;fonts: fundeu;
 gritar=categories: V;model:amar;fonts: LT;
 grujir=categories: V;model:partir;fonts: LT;
 gruñir=categories: V;model:mullir;fonts: LT;

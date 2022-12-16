@@ -24020,6 +24020,7 @@ sexagesimotercero sexagesimotercera=categories: AO;fonts: LT;
 sexagonal=categories: A;fonts: LT;
 sexagésimo sexagésima=categories: AO;fonts: LT;
 sexcentésimo sexcentésima=categories: AO;fonts: LT;
+sexdopado sexdopada=categories: A;fonts: fundeu;
 sexenal=categories: A;fonts: dr;
 sexi=categories: A;fonts: LT;
 sexista=categories: A;fonts: LT;
