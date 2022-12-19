@@ -1,3 +1,4 @@
+
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -704,6 +705,7 @@ Ambrosiana Ambrosiana NPFSSP0 # avl
 Ambrosiano Ambrosiano NPMSSP0 # avl
 Ambrosio Ambrosio NPMSSP0 # avl
 Amed Amed NPMSSP0 # avl
+Amedo Amedo NPCNSP0
 Amelia Amelia NPFSSP0 # avl
 Amendolara Amendolara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amer Amer NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1387,6 +1389,7 @@ Barreiro Barreiro NPCSG00
 Barreto Barreto NPCSG00 # Paraguay
 Barrett Barrett NPCNSP0 # medical
 Barrientos Barrientos NPCNSP0
+Barrionuevo Barrionuevo NPCNSP0
 Barrios Barrios NPCNSP0 # wiki common surnames
 Barruera Barruera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barry Barry NPCNSP0 # wiki
@@ -6400,6 +6403,7 @@ McCormick McCormick NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McKay McKay NPCNSP0
 McLeod McLeod NPCNSP0 # medical
+Meatpacking Meatpacking NPCSG00
 Mecenas Mecenas NPMSSP0 # avl
 Meckel Meckel NPCNSP0 # medical
 Mecklemburgo Mecklemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7627,7 +7631,7 @@ Picanya Picanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picasent Picasent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picassent Picassent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Picasso Picasso NPCNSP0 # wiki
-Picassos Picasso NPMPSP0 
+Picassos Picasso NPMPSP0
 Picaña Picaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Piccadilly Piccadilly NPCNG00
 Picchu Picchu NPCNSP0 # wiki
@@ -9472,6 +9476,7 @@ Tíbet Tíbet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tírig Tírig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tírvia Tírvia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
+UCD UCD NPFSO00
 UCR UCR NPFSO00 # Universidad de Costa Rica, University of California...
 UD UD NPCNO00
 UDEF UDEF NPFSO00

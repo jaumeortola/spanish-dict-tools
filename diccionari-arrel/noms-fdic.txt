@@ -730,6 +730,7 @@ NIE=categories: MI;fonts: sigla;
 NIF=categories: MI;fonts: sigla;
 NN=categories: MFI;fonts: dr;
 Novichok=categories: MS;fonts: wiki;
+ODT=categories: MI;fonts: wiki;
 ONG=categories: FI;fonts: derivat;
 O₂=categories: MS;fonts: simbol;
 PBI=categories: MI;fonts: sigla;
