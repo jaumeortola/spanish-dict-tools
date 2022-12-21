@@ -7033,6 +7033,7 @@ Noemí Noemí NPFSSP0 # avl
 Nogoyá Nogoyá NPCSG00 # Argentina LO
 Noguera Noguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nohemí Nohemí NPFSSP0 # avl
+Nolan Nolan NPCNSP0
 Nolasco Nolasco NPMSSP0 # avl
 Noonan Noonan NPCNSP0 # medical
 Nora Nora NPFSSP0 # avl
@@ -8431,6 +8432,7 @@ Saldívar Saldívar NPCSG00 # Paraguay
 Salem Salem NPCSG00 # topònim-apertium
 Salem Salem NPMSSP0 # avl
 Salerno Salerno NPCNG00 # topònim-apertium-falta-gènere-nombre
+Salgari Salgari NPCNSP0
 Salient Salient NPCNG00 # topònim-apertium-falta-gènere-nombre
 Salieri Salieri NPCNSP0 # wiki
 Salinas Salinas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9925,6 +9927,7 @@ Walthard Walthard NPCNSP0 # medical
 Wamba Wamba NPMSSP0 # avl
 Wanda Wanda NPCSSP0 # avl
 Warhol Warhol NPCNSP0
+Warner Warner NPCNO00
 Warnes Warnes NPCSG00 # Bolivia
 Warnock Warnock NPCNSP0 # medical
 Warren Warren NPCNSP0 # wiki
