@@ -1144,6 +1144,7 @@ Atlántida Atlántida NPFSG00
 Atocha Atocha NPFSG00 # topònim-apertium
 Atocha Atocha NPFSSP0 # avl
 Atuntaqui Atuntaqui NPCSG00 # Ecuador
+Atwood Atwood NPCNSP0
 Atyrá Atyrá NPCSG00 # Paraguay
 Atzúbia Atzúbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Atón Atón NPMSSP0 # avl
