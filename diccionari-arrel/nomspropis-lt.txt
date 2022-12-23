@@ -1,4 +1,3 @@
-
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5604,6 +5603,7 @@ Lamberto Lamberto NPMSSP0 # avl
 Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lancaster Lancaster NPCSG00
 Lancelino Lancelino NPMSSP0 # avl
 Landas Landas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Landau-Klegffner Landau-Klegffner NPCNSP0 # medical
@@ -5902,6 +5902,7 @@ Llívia Llívia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Locke Locke NPCNSP0
 Locri Locri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lodz Lodz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Logan Logan NPCNSP0
 Logroño Logroño NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lohmann Lohmann NPCNSP0
 Loir Loir NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6902,6 +6903,7 @@ Narciso Narciso NPMSSP0 # avl
 Nariño Nariño NPCSG00
 Narnia Narnia NPFSG00
 Narváez Narváez NPCNSP0
+Nash Nash NPCNSP0
 Nashville Nashville NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nasáu Nasáu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Natacha Natacha NPFSSP0 # avl
@@ -8065,6 +8067,7 @@ Rasputín Rasputín NPMSSP0
 Rasquera Rasquera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rathke Rathke NPCNSP0 # medical
 Ratisbona Ratisbona NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ratzinger Ratzinger NPCNSP0
 Rauscher Rauscher NPCNSP0
 Ravena Ravena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rawson Rawson NPCSG00 # Argentina
@@ -8603,6 +8606,7 @@ Science Science NPFSO00
 Scigliano Scigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Scott Scott NPCNSP0 # wiki
 Scrabble Scrabble NPCNO00
+Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
 Seagate Seagate NPCNO00
 Seattle Seattle NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8719,6 +8723,7 @@ Sheehan Sheehan NPCNSP0 # medical
 Sheila Sheila NPFSSP0 # avl
 Sheraton Sheraton NPCNO00
 Sherlock Sherlock NPMSSP0
+Sherwood Sherwood NPCNSP0
 Shinahota Shinahota NPCSG00 # Bolivia
 Shirley Shirley NPFSSP0
 Shirodkar Shirodkar NPCNSP0 # medical
@@ -8904,6 +8909,7 @@ Steven Steven NPCNSP0 # wiki
 Stevens-Johnson Stevens-Johnson NPCNSP0 # medical
 Stewart Stewart NPCNSP0 # wiki
 Stewart-Holmes Stewart-Holmes NPCNSP0 # medical
+Stiglitz Stiglitz NPCNSP0
 Stignano Stignano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Still Still NPCNSP0 # medical
 Stilo Stilo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9463,6 +9469,7 @@ Tuxtepec Tuxtepec NPCSG00 # México
 Tuxtla Tuxtla NPCSG00 # México
 Tuy Tuy NPCSG00 # Venezuela
 Tuéjar Tuéjar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tyler Tyler NPCNSP0
 Tyndall Tyndall NPCNSP0 # medical
 Tàrbena Tàrbena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tàrrega Tàrrega NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10032,6 +10039,7 @@ Xerta Xerta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xest Xest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xestalgar Xestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xi Xi NPCNSP0
+Xiaoping Xiaoping NPCNSP0
 Xico Xico NPCSG00 # México
 Xilxes Xilxes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ximena Ximena NPFSSP0
