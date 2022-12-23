@@ -7752,6 +7752,7 @@ Polo Polo NPMSSP0 # avl
 Polonia Polonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Polop Polop NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pomerania Pomerania NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pompadour Pompadour NPCNSP0
 Pompe Pompe NPCNSP0 # medical
 Pompeya Pompeya NPFSG00 # topònim-apertium
 Pompeya Pompeya NPFSSP0 # avl
