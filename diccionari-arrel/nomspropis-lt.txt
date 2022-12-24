@@ -1782,6 +1782,7 @@ Blaquerna Blaquerna NPMSSP0 # avl
 Blas Blas NPMSSP0 # avl
 Blasa Blasa NPFSSP0 # avl
 Blasco Blasco NPMSSP0 # avl
+Blender Blender NPMSO00
 Blogger Blogger NPMSO00
 Blogspot Blogspot NPMSO00
 Blois Blois NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5603,6 +5604,7 @@ Lamberto Lamberto NPMSSP0 # avl
 Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lancashire Lancashire NPCSG00
 Lancaster Lancaster NPCSG00
 Lancelino Lancelino NPMSSP0 # avl
 Landas Landas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5619,6 +5621,7 @@ Langers Langers NPCNSP0 # medical
 Langman Langman NPCNSP0 # medical
 Languedoc Languedoc NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lanjarón Lanjarón NPCSG00
+Lannister Lannister NPCNSP0
 Lanzarote Lanzarote NPCSG00 # topònim-apertium
 Lanzarote Lanzarote NPMSSP0 # avl
 Lanús Lanús NPCSG00 # Argentina LO
