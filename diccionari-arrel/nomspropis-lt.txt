@@ -5499,6 +5499,7 @@ King King NPCNSP0 # wiki
 Kingston Kingston NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kinshasa Kinshasa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kioto Kioto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kipling Kipling NPCNSP0
 Kirchner Kirchner NPCNSP0 # wiki
 Kirguistán Kirguistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kirguizistán Kirguizistán NPCNG00 # topònim-apertium-falta-gènere-nombre

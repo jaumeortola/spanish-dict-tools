@@ -21699,6 +21699,7 @@ prúsico prúsica=categories: A;fonts: LT;
 psamófilo psamófila=categories: A;fonts: LT;
 pseudo=categories: AI;fonts: LT;
 pseudoaccidental=categories: A;fonts: LT;
+pseudoagustiniano pseudoagustiniana=categories: A;fonts: dr;
 pseudoaleatorio pseudoaleatoria=categories: A;fonts: LT;
 pseudoalveolar=categories: A;fonts: LT;
 pseudoartístico pseudoartística=categories: A;fonts: derivat;
