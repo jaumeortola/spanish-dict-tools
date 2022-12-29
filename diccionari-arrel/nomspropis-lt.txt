@@ -1890,6 +1890,7 @@ Bovalino Bovalino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bovary Bovary NPCNSP0
 Bovera Bovera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bowen Bowen NPCNSP0 # medical
+Bowie Bowie NPCNSP0
 Bowman Bowman NPCNSP0 # medical
 Boyacá Boyacá NPCSG00
 Boyden Boyden NPCNSP0 # medical
