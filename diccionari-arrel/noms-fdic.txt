@@ -50829,6 +50829,7 @@ poscomunismo=categories: M;fonts: dr;
 poscomunión=categories: F;fonts: LT;
 posconcilio=categories: M;fonts: dr;
 posdata=categories: F;fonts: LT;
+posdoctorado=categories: M;fonts: termcat;
 posdorso=categories: M;fonts: dr;
 pose=categories: F;fonts: LT;
 poseedor poseedora=categories: MF;fonts: LT;

@@ -7092,6 +7092,10 @@ Nínive Nínive NPCNG00 # topònim-apertium-falta-gènere-nombre
 Níobe Níobe NPFSSP0 # avl
 Núremberg Núremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Núñez Núñez NPCNSP0 # wiki common surnames
+O'Brien O'Brien NPCNSP0
+O'Connor O'Connor NPCNSP0
+O'Donnell O'Donnell NPCNSP0
+O'Neill O'Neill NPCNSP0
 O'Sullivan O'Sullivan NPCNSP0
 OCASA OCASA NPCNO00
 OCDE OCDE NPFSO00
@@ -8427,6 +8431,7 @@ Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saint-Beuve Saint-Beuve NPCNSP0
 Saint-Exupéry Saint-Exupéry NPCNSP0
 Saint-Malo Saint-Malo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Saint-Martin Saint-Martin NPCSG00
 Sainz Sainz NPCNSP0
 Saix Saix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sajonia Sajonia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9935,6 +9940,7 @@ Waldenströn Waldenströn NPCNSP0 # medical
 Waldo Waldo NPMSSP0 # avl
 Walker Walker NPCNSP0 # wiki
 Wallace Wallace NPCNSP0 # wiki
+Walser Walser NPCNSP0
 Walt Walt NPCNSP0 # wiki
 Walter Walter NPCNSP0 # wiki
 Walthard Walthard NPCNSP0 # medical
