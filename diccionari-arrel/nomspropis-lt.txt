@@ -100,6 +100,7 @@
 #Maria Maria NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Marolas Marolas NPFSSP0 # avl
 #Marraqués Marraqués NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Martin Martin NPCNSP0 # medical
 #Masalfasar Masalfasar NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mayor Mayor NPMSSP0 # avl
 #Medusa Medusa NPCNSP0 # medical
@@ -6294,7 +6295,6 @@ Marta Marta NPFSSP0 # avl
 Marte Marte NPMSG00 # topònim-apertium
 Marte Marte NPMSSP0 # avl
 Martha Martha NPFSSP0
-Martin Martin NPCNSP0 # medical
 Martina Martina NPFSSP0 # avl
 Martinet Martinet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martiniana Martiniana NPFSSP0 # avl
