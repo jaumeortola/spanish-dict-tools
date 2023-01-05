@@ -5463,6 +5463,7 @@ internalizar=categories: V;model:abalanzar;fonts: ap;
 internar=categories: V;model:amar;fonts: LT;
 interpaginar=categories: V;model:amar;fonts: LT;
 interpelar=categories: V;model:amar;fonts: LT;
+interpenetrar=categories: V;model:amar;fonts: LT;
 interpolar=categories: V;model:amar;fonts: LT;
 interponer=categories: V;model:componer;fonts: LT;
 interpretar=categories: V;model:amar;fonts: LT;
