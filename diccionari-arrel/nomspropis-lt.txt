@@ -6312,6 +6312,7 @@ Martín Martín NPCNS00 # wiki common surnames FIXME!!!
 Martínez Martínez NPCNSP0 # wiki common surnames
 Maruja Maruja NPFSSP0 # avl
 Marvel Marvel NPCNO00
+Marvin Marvin NPMSSP0
 Marx Marx NPCNSP0 # wiki
 Mary Mary NPFSSP0 # wiki
 Maryland Maryland NPCNG00 # topònim-apertium-falta-gènere-nombre
