@@ -2404,6 +2404,7 @@ cursar=categories: V;model:amar;fonts: LT;
 curtir=categories: V;model:partir;fonts: LT;
 curvar=categories: V;model:amar;fonts: LT;
 custodiar=categories: V;model:amar;fonts: LT;
+customizar=categories: V;model:abalanzar;fonts: English;
 cuñar=categories: V;model:amar;fonts: ap;
 dactilografiar=categories: V;model:enviar;fonts: LT;
 dallar=categories: V;model:amar;fonts: LT;

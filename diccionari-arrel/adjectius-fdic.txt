@@ -11302,6 +11302,7 @@ flexibilizador flexibilizadora=categories: A;fonts: dr;
 flexible=categories: A;fonts: LT;
 flexionable=categories: A;fonts: LT;
 flexional=categories: A;fonts: LT;
+flexitariano flexitariana=categories: A;fonts: termcat;
 flexivo flexiva=categories: A;fonts: LT;
 flexor flexora=categories: A;fonts: LT;
 flexuoso flexuosa=categories: A;fonts: LT;
