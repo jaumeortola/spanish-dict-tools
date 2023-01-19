@@ -19925,6 +19925,7 @@ cusnaca=categories: F;fonts: dr;
 cuspa=categories: F;fonts: dr;
 custodia=categories: F;fonts: LT;
 custodio=categories: M;fonts: LT;
+customización=categories: F;fonts: English;
 cusubé=categories: M;fonts: dr;
 cusuco=categories: M;fonts: dr;
 cusul=categories: M;fonts: dr;
