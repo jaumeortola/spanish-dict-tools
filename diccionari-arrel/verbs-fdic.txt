@@ -30,6 +30,7 @@
 #reestablecer=categories: V;model:agradecer;fonts: LT; # Error: restablecer
 #remugar=categories: V;model:cargar;fonts: ap;
 #retroferbular=categories: V;model:amar;fonts: ap;
+#sobrerepresentar=categories: V;model:amar;fonts: ap;
 #triar=categories: V;model:piar;fonts: LT;
 NAS=categories; MI;fonts: sigla;
 abajar=categories: V;model:amar;fonts: LT;
@@ -7638,7 +7639,6 @@ sobrepasar=categories: V;model:amar;fonts: LT;
 sobrepintar=categories: V;model:amar;fonts: LT;
 sobreponer=categories: V;model:componer;fonts: LT;
 sobrepujar=categories: V;model:amar;fonts: LT;
-sobrerepresentar=categories: V;model:amar;fonts: ap;
 sobrerrepresentar=categories: V;model:amar;fonts: ap;
 sobresalir=categories: V;model:salir;fonts: LT;
 sobresaltar=categories: V;model:amar;fonts: LT;
