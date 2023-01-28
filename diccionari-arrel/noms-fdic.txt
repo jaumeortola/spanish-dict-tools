@@ -61966,6 +61966,7 @@ tijuca=categories: F;fonts: LT;
 tijuil=categories: M;fonts: dr;
 tijul=categories: M;fonts: dr;
 tiktok [pl. tiktoks]=categories: M;fonts: fundeu;
+tiktoker [pl. tiktokers]=categories: MF;fonts: English;
 tila=categories: F;fonts: LT;
 tilapia=categories: F;fonts: dr;
 tilde=categories: F;fonts: LT;
