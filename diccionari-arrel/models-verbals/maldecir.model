@@ -1,9 +1,9 @@
 r r ir VMN0000 # maldecir
 ecir iciendo ir VMG0000 # maldiciendo
-ecir ito ir VMP00SM # maldito
-ecir ita ir VMP00SF # maldita
-ecir itos ir VMP00PM # malditos
-ecir itas ir VMP00PF # malditas
+#ecir ito ir VMP00SM # maldito
+#ecir ita ir VMP00SF # maldita
+#ecir itos ir VMP00PM # malditos
+#ecir itas ir VMP00PF # malditas
 r do ir VMP00SM # maldecido
 r da ir VMP00SF # maldecida
 r dos ir VMP00PM # maldecidos
