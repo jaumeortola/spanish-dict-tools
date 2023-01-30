@@ -7541,6 +7541,7 @@ senderear=categories: V;model:amar;fonts: LT;
 sensibilizar=categories: V;model:abalanzar;fonts: LT;
 sentar=categories: V;model:alentar;fonts: LT;
 sentenciar=categories: V;model:amar;fonts: LT;
+sentimentalizar=categories: V;model:abalanzar;fonts: derivat;
 sentir=categories: V;model:sentir;fonts: LT;
 separar=categories: V;model:amar;fonts: LT;
 septuplicar=categories: V;model:abarcar;fonts: LT;

@@ -2600,6 +2600,7 @@ Charlie Charlie NPCNSP0 # wiki
 Charlotte Charlotte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Charo Charo NPFSSP0 # avl
 Chascomús Chascomús NPCSG00 # Argentina
+ChatGPT ChatGPT NPMSO00
 Chaves Chaves NPCNSP0
 Che Che NPCSSP0
 Chechenia Chechenia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4209,6 +4210,7 @@ GAFAM GAFAM NPFPO00
 GAL GAL NPMPO00
 GDPR GDPR NPMSO00
 GPL GPL NPCNO00 # wiki
+GPT-3 GPT-3 NPMSO00
 GSM GSM NPCNO00
 GSMA GSMA NPFSO00
 Gabarda Gabarda NPCNG00 # topònim-apertium-falta-gènere-nombre
