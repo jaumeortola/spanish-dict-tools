@@ -8011,6 +8011,7 @@ Quiterio Quiterio NPMSSP0 # avl
 Quito Quito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Qumrán Qumrán NPMSG00
 Quyquyhó Quyquyhó NPCSG00 # Paraguay
+RAE RAE NPFSO00
 RDA RDA NPFSG00
 RENFE RENFE NPCNO00
 RFA RFA NPFSG00
