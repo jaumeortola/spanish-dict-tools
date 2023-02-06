@@ -51247,6 +51247,7 @@ prehnita=categories: F;fonts: LT;
 prehniteno=categories: M;fonts: LT;
 preimpresión=categories: F;fonts: LT;
 preimpulso=categories: M;fonts: LT;
+preinauguración=categories: F;fonts: derivat;
 preincubación=categories: F;fonts: derivat;
 preinmunización=categories: F;fonts: LT;
 preinscripción=categories: F;fonts: LT;

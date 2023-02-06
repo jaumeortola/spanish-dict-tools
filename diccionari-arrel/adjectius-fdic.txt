@@ -21222,6 +21222,7 @@ prehispánico prehispánica=categories: A;fonts: LT;
 prehispánico prehispánica=categories: A;fonts: fundeu;
 prehistórico prehistórica=categories: A;fonts: LT;
 prehomínido prehomínida=categories: A;fonts: dr;
+preinaugural=categories: A;fonts: derivat;
 preincaico preincaica=categories: A;fonts: dr;
 preindustrial=categories: A;fonts: dr;
 preinserto preinserta=categories: A;fonts: LT;
