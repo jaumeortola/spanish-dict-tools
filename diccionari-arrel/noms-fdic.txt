@@ -21307,6 +21307,7 @@ desdoblamiento=categories: M;fonts: LT;
 desdoble=categories: M;fonts: dr;
 desdoro=categories: M;fonts: LT;
 desdramatización=categories: F;fonts: dr;
+desduplicación=categories: F;fonts: derivat;
 desdén=categories: M;fonts: LT;
 dese desa=categories: MF;fonts: dr;
 deseabilidad=categories: F;fonts: dr;

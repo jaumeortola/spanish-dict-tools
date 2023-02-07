@@ -7500,6 +7500,7 @@ Patau Patau NPCNSP0 # medical
 Paterna Paterna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Patiño Patiño NPCNSP0
 Patmos Patmos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Patreon Patreon NPMSO00
 Patricia Patricia NPFSSP0 # avl
 Patricio Patricio NPMSSP0 # avl
 Patrick Patrick NPCNSP0 # wiki
