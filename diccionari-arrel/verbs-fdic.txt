@@ -2351,6 +2351,7 @@ criticar=categories: V;model:abarcar;fonts: LT;
 croar=categories: V;model:amar;fonts: LT;
 crocitar=categories: V;model:amar;fonts: LT;
 cromar=categories: V;model:amar;fonts: LT;
+cronificar=categories: V;model:abarcar;fonts: dr;
 cronometrar=categories: V;model:amar;fonts: LT;
 croquizar=categories: V;model:abalanzar;fonts: ap;
 croscitar=categories: V;model:amar;fonts: LT;
