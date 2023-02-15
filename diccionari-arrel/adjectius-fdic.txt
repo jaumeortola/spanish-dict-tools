@@ -26682,6 +26682,7 @@ ultimísimo ultimísima=categories: AO;fonts: LT;
 ultra=categories: A;fonts: LT;
 ultraacústico ultraacústica=categories: A;fonts: LT;
 ultraalto ultraalta=categories: A;fonts: LT;
+ultrabajo ultrabaja=categories: A;fonts: derivado;
 ultrabásico ultrabásica=categories: A;fonts: LT;
 ultraconservador ultraconservadora=categories: A;fonts: LT;
 ultracorrectísimo ultracorrectísima=categories: A;fonts: superlative1;
