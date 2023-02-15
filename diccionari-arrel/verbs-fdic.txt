@@ -2245,6 +2245,7 @@ contrapunzar=categories: V;model:abalanzar;fonts: LT;
 contrargumentar=categories: V;model:amar;fonts: LT;
 contrariar=categories: V;model:enviar;fonts: LT;
 contrarrestar=categories: V;model:amar;fonts: LT;
+contrarrotar=categories: V;model:amar;fonts: derivado;
 contrasellar=categories: V;model:amar;fonts: LT;
 contrastar=categories: V;model:amar;fonts: LT;
 contratar=categories: V;model:amar;fonts: LT;

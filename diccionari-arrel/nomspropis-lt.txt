@@ -2511,6 +2511,7 @@ Ceferina Ceferina NPFSSP0 # avl
 Ceferino Ceferino NPMSSP0 # avl
 Cehegín Cehegín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ceilán Ceilán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Celac Celac NPFSO00
 Celaya Celaya NPCNSP0
 Celaya Celaya NPCSG00
 Celaá Celaá NPCNSP0
@@ -5638,6 +5639,7 @@ Laodicea Laodicea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laos Laos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laplace Laplace NPCNSP0
 Laponia Laponia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Laporta Laporta NPCNSP0
 Lappano Lappano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lapuente Lapuente NPCNSP0
 Laquedivas Laquedivas NPCNG00 # topònim-apertium-falta-gènere-nombre
