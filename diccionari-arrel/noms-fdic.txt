@@ -33577,6 +33577,7 @@ hidrocución=categories: F;fonts: LT;
 hidrocultivo=categories: M;fonts: LT;
 hidrodesalquilación=categories: F;fonts: LT;
 hidrodinámica=categories: F;fonts: LT;
+hidroducto=categories: M;fonts: fundeu;
 hidroelectricidad=categories: F;fonts: LT;
 hidroextracción=categories: F;fonts: LT;
 hidroextractor=categories: M;fonts: LT;
