@@ -61073,6 +61073,7 @@ telangiectasia=categories: F;fonts: medical;
 telar=categories: M;fonts: LT;
 telaraña=categories: F;fonts: LT;
 telarquia=categories: F;fonts: medical;
+telc=categories: MI;fonts: abreviatura;
 tele=categories: F;fonts: LT;
 telealarma=categories: F;fonts: LT;
 teleapuntador=categories: M;fonts: LT;
