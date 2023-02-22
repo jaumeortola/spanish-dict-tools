@@ -9532,6 +9532,7 @@ Ubertina Ubertina NPFSSP0 # avl
 Ubertino Ubertino NPMSSP0 # avl
 Ubierna Ubierna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ucayali Ucayali NPCSG00 # Perú
+Uchida Uchida NPCNSP0
 Ucrania Ucrania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uffizi Uffizi NPMPO00
 Uganda Uganda NPCNG00 # topònim-apertium-falta-gènere-nombre
