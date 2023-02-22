@@ -7183,6 +7183,7 @@ autopullman [pl. autopullmans]=categories: M;fonts: LT;
 autopunición=categories: F;fonts: medical;
 autor autora=categories: MF;fonts: LT;
 autoreparación=categories: F;fonts: derivat;
+autoreserva=categories: F;fonts: derivat;
 autoridad=categories: F;fonts: LT;
 autoritario autoritaria=categories: MF;fonts: LT;
 autoritarismo=categories: M;fonts: LT;

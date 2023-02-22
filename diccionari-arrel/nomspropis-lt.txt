@@ -3631,6 +3631,7 @@ Eratóstenes Eratóstenes NPMSSP0 # avl
 Erberto Erberto NPMSSP0 # avl
 Ercio Ercio NPMSSP0 # avl
 Erecteo Erecteo NPMSSP0 # avl
+Eren Eren NPMSSP0
 Ereván Ereván NPCNG00 # topònim-apertium-falta-gènere-nombre
 Erfurt Erfurt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eribe Eribe NPCNG00 # topònim-apertium-falta-gènere-nombre
