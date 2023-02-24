@@ -63443,6 +63443,7 @@ tresdoble=categories: MF;fonts: LT;
 treses=categories: MP;fonts: pl. de tres;
 tresillista=categories: MF;fonts: LT;
 tresillo=categories: M;fonts: LT;
+tresmil=categories: M;fonts: derivado;
 tresnal=categories: M;fonts: dr;
 trespuños=categories: MI;fonts: dr;
 tresquilón=categories: M;fonts: dr;
