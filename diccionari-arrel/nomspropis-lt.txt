@@ -4130,6 +4130,7 @@ Franck Franck NPCNSP0
 Franco Franco NPCNSP0 # avl
 Franco Franco NPCNSP0 # wiki common surnames
 Frank Frank NPCNSP0 # wiki
+Frank Frank NPMSSP0
 Frankenstein Frankenstein NPCNSP0
 Frankfurt Frankfurt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Franz Franz NPCNSP0 # wiki
@@ -5757,6 +5758,7 @@ Letterer-Siwe Letterer-Siwe NPCNSP0 # medical
 Leuca Leuca NPFSSP0 # avl
 Leucipo Leucipo NPMSSP0 # avl
 Leuco Leuco NPMSSP0 # avl
+Levallois Levallois NPCNSP0
 Leviatana Leviatana NPFSSP0 # avl
 Leviatán Leviatán NPMSSP0 # avl
 Levina Levina NPFSSP0 # avl
@@ -6321,6 +6323,7 @@ Maruja Maruja NPFSSP0 # avl
 Marvel Marvel NPCNO00
 Marvin Marvin NPMSSP0
 Marx Marx NPCNSP0 # wiki
+Mary Mary NPFSSP0
 Mary Mary NPFSSP0 # wiki
 Maryland Maryland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marzà Marzà NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6431,6 +6434,7 @@ Mediapro Mediapro NPCNO00
 Medina Medina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Medina Medina NPCNSP0 # wiki common surnames
 Medinyà Medinyà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mediolanum Mediolanum NPMNO00
 Mediona Mediona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mediterráneo Mediterráneo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Medvédev Medvédev NPCNSP0
@@ -7617,6 +7621,7 @@ Petersburgo Petersburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peterson Peterson NPCNSP0 # wiki
 Petra Petra NPFSG00 # topònim-apertium
 Petra Petra NPFSSP0 # avl
+Petrarca Petrarca NPMSSP0
 Petrel Petrel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Petrer Petrer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Petrizzi Petrizzi NPCNG00 # topònim-apertium-falta-gènere-nombre
