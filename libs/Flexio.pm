@@ -2,7 +2,7 @@ package Flexio;
 use strict;
 use warnings;
 use utf8;
-use Text::Unaccent::PurePerl qw(unac_string);
+#use Text::Unaccent::PurePerl qw(unac_string);
 
 our $carac="[Å₂²³a-zA-ZûêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑáå·0-9'\-]";
 #our $number_exceptions="^(?i)(L2|P[345]|MP[34]|A[345]|goma-2|4x4|Covid-19|COVID-19|covid-19|SARS-CoV-2|N95|FFP2)\$";
@@ -109,8 +109,8 @@ sub desplega_femeni_amb_guionet {
         #$found=1;
     }
     else {
-        my $nTerm_fem=&unac_string($term_fem);
-        my $nMot_masc=&unac_string($mot_masc);
+        my $nTerm_fem=remove_diacritics($term_fem);
+        my $nMot_masc=remove_diacritics($mot_masc);
         $nTerm_fem =~ /^(.).*$/;
         my $firstLetterTerm=$1;
             #La terminació femenina s'ha d'afegir a partir de la vocal tònica.
@@ -123,7 +123,7 @@ sub desplega_femeni_amb_guionet {
         my $lenArrel=length($1);
         $mot_masc =~ /^(.{$lenArrel}).*$/; #recupera alguna dièresi (caïnià)
         $arrel=$1;
-        $mot_fem=$arrel.$term_fem;        
+        $mot_fem=$arrel.$term_fem;
         #$found=1;
             #Si la diferència entre masculí i femení és de més de dos caràcters.
             #Error probable.
@@ -426,6 +426,21 @@ sub verb_pronouns {
 
     return $result;
 
+}
+
+sub remove_diacritics {
+    my $word = @_;
+    $word =~ s/àáâ/a/g;
+    $word =~ s/èéê/e/g;
+    $word =~ s/íìïî/i/g;
+    $word =~ s/òóô/o/g;
+    $word =~ s/úùüû/u/g;
+    $word =~ s/ÀÁÂ/A/g;
+    $word =~ s/ÈÉÊ/E/g;
+    $word =~ s/ÍÌÏÎ/I/g;
+    $word =~ s/ÒÓÔ/O/g;
+    $word =~ s/ÚÙÜÛ/U/g;
+    return $word;
 }
 
 1;
