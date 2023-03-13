@@ -2,7 +2,6 @@ use strict;
 use warnings;
 use autodie;
 use utf8;
-use Switch;
 require "./libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
@@ -242,12 +241,10 @@ sub escriuFormatDiccionari {
 
             print $ofh "=categories: ";
 
-            switch ($originTag) {
-                case "NC"  { print $ofh "M"; }
-                case "AQ0" { print $ofh "AM"; }
-                case "AO0" { print $ofh "AOM"; }     #???
-                case "AQA" { print $ofh "AAM"; }     #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "M"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AM"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOM"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAM"; }     #???
 
             # invariable
             if ( $forma[0] =~ /^$forma[2]$/ && $forma[6] !~ /^.+$/ ) {
@@ -303,12 +300,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "F"; }
-                case "AQ0" { print $ofh "AF"; }
-                case "AO0" { print $ofh "AOF"; }    #???
-                case "AQA" { print $ofh "AAF"; }    #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "F"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AF"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOF"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAF"; }     #???
 
             # invariable
             if ( $forma[1] =~ /^$forma[3]$/ ) {
@@ -330,13 +325,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "MFS"; }
-                case "AQ0" { print $ofh "AS"; }
-                case "AO0" { print $ofh "AOS"; }    #???
-                case "AQA" { print $ofh "AAS"; }    #???
-            }
-
+            if ($originTag =~ /^NC$/)  { print $ofh "MFS"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AS"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOS"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAS"; }     #???
         }
         
         #nom masculí/femení plural
@@ -353,12 +345,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "MFP"; }
-                case "AQ0" { print $ofh "AP"; }
-                case "AO0" { print $ofh "AOP"; }    #???
-                case "AQA" { print $ofh "AAP"; }    #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "MFP"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AP"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOP"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAP"; }     #???
 
         }
 
@@ -439,13 +429,11 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "MF"; }
-                case "AQ0" { print $ofh "A"; }
-                case "AO0" { print $ofh "AO"; }
-                case "AQA" { print $ofh "AA"; }
-            }
-
+            if ($originTag =~ /^NC$/)  { print $ofh "MF"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "A"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AO"; }
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AA"; }
+            
             # invariable
             if ( $forma[0] =~ /^$forma[2]$/ ) {
                 print $ofh "I";
@@ -471,12 +459,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "MS"; }
-                case "AQ0" { print $ofh "AMS"; }
-                case "AO0" { print $ofh "AOMS"; }    #???
-                case "AQA" { print $ofh "AAMS"; }    #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "MS"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AMS"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOMS"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAMS"; }     #???
 
         }
         
@@ -501,12 +487,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "MP"; }
-                case "AQ0" { print $ofh "AMP"; }
-                case "AO0" { print $ofh "AOMP"; }    #???
-                case "AQA" { print $ofh "AAMP"; }    #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "MP"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AMP"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOMP"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAMP"; }     #???
 
         }
 
@@ -529,12 +513,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "FS"; }
-                case "AQ0" { print $ofh "AFS"; }
-                case "AO0" { print $ofh "AOFS"; }    #???
-                case "AQA" { print $ofh "AAFS"; }    #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "FS"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AFS"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOFS"; }     #???
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAFS"; }     #???
 
         }
 
@@ -557,12 +539,10 @@ sub escriuFormatDiccionari {
             }
 
             print $ofh "=categories: ";
-            switch ($originTag) {
-                case "NC"  { print $ofh "FP"; }
-                case "AQ0" { print $ofh "AFP"; }
-                case "AO0" { print $ofh "AOFP"; }    #???
-                case "AQA" { print $ofh "AAFP"; }    #???
-            }
+            if ($originTag =~ /^NC$/)  { print $ofh "FP"; }
+            elsif ($originTag =~ /^AQ0$/) { print $ofh "AFP"; }
+            elsif ($originTag =~ /^AO0$/) { print $ofh "AOFP"; }
+            elsif ($originTag =~ /^AQA$/) { print $ofh "AAFP"; }     #???
 
         }
         else {

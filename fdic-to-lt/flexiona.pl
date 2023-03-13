@@ -2,7 +2,6 @@ use strict;
 use warnings;
 use autodie;
 use utf8;
-use Switch;
 require "./libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
@@ -150,12 +149,11 @@ while ( my $line = <$fh> ) {
         #Imprimir formes etiquetades
         $tagbefore = "";
         $tagafter  = "";
-        switch ($categoria) {
-            case "MF" { $tagbefore = "NC";  $tagafter = "000"; }
-            case "A"  { $tagbefore = "AQ0"; $tagafter = "0"; }
-            case "AA" { $tagbefore = "AQA"; $tagafter = "0"; }
-            case "AO" { $tagbefore = "AO0"; $tagafter = "0"; }
-        }
+    
+        if ($categoria =~ /^MF$/) { $tagbefore = "NC";  $tagafter = "000"; }
+        elsif ($categoria =~ /^A$/)  { $tagbefore = "AQ0"; $tagafter = "0"; }
+        elsif ($categoria =~ /^AA$/) { $tagbefore = "AQA"; $tagafter = "0"; }
+        elsif ($categoria =~ /^AO$/) { $tagbefore = "AO0"; $tagafter = "0"; }    
 
         print $ofh "$mot_masc $mot_masc$numAccepcio $tagbefore" . "MS"
           . "$tagafter\n";
