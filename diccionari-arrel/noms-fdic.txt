@@ -26788,6 +26788,7 @@ espía=categories: MF;fonts: LT;
 espícula=categories: F;fonts: LT;
 espín=categories: M;fonts: LT;
 espíritu=categories: M;fonts: LT;
+espóiler=categories: M;fonts: english;
 espóndil=categories: M;fonts: LT;
 espóndilo=categories: M;fonts: LT;
 espónsor=categories: M;fonts: LT;
