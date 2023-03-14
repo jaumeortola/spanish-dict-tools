@@ -833,6 +833,7 @@ apagar=categories: V;model:cargar;fonts: LT;
 apalabrar=categories: V;model:amar;fonts: LT;
 apalancar=categories: V;model:abarcar;fonts: LT;
 apalear=categories: V;model:amar;fonts: LT;
+apalizar=categories: V;model:abalanzar;fonts: dr;
 apanar=categories: V;model:amar;fonts: LT;
 apandar=categories: V;model:amar;fonts: LT;
 apandillar=categories: V;model:amar;fonts: LT;
