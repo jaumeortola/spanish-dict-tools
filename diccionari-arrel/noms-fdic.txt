@@ -16247,6 +16247,7 @@ cocina=categories: F;fonts: LT;
 cocinero cocinera=categories: MF;fonts: LT;
 cocinería=categories: F;fonts: dr;
 cocinilla=categories: F;fonts: LT;
+cocinillas=categories: MFI;fonts: dr;
 cocinita=categories: F;fonts: dr;
 cocker [pl. cockers]=categories: M;fonts: LT;
 cockit [pl. cockites]=categories: M;fonts: LT;
