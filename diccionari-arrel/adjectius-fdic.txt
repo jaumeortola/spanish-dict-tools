@@ -15619,7 +15619,6 @@ lambucero lambucera=categories: A;fonts: dr;
 lambucio lambucia=categories: A;fonts: dr;
 lambuzo lambuza=categories: A;fonts: dr;
 lambón lambona=categories: A;fonts: dr;
-lamebotas=categories: AI;fonts: america;
 lamebotas=categories: AI;fonts: cuba;
 lameculos=categories: AI;fonts: dr;
 lamedor lamedora=categories: A;fonts: LT;
