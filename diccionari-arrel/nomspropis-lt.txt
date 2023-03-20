@@ -5776,6 +5776,7 @@ León León NPMSSP0 # avl
 Leónidas Leónidas NPFPG00
 Leónidas Leónidas NPMSSP0 # avl
 Lhermitte Lhermitte NPCNSP0 # medical
+Liam Liam NPMSSP0
 Liat Liat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Libarda Libarda NPFSSP0 # avl
 Libardo Libardo NPMSSP0 # avl
@@ -6498,6 +6499,7 @@ Menfis Menfis NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mengele Mengele NPCNSP0
 Menkes Menkes NPCNSP0 # medical
 Menorca Menorca NPCNG00 # topònim-apertium-falta-gènere-nombre
+Menuhin Menuhin NPCNSP0
 Menàrguens Menàrguens NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menéndez Menéndez NPCNSP0 # wiki
 Meoqui Meoqui NPCSG00 # México
@@ -8901,6 +8903,7 @@ Spencer Spencer NPCNSP0
 Spiegel Spiegel NPCNSP0 # medical
 Spielmeyer-Vogt Spielmeyer-Vogt NPCNSP0 # medical
 Spinoza Spinoza NPCNSP0
+Spohr Spohr NPCNSP0
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sport Sport NPMSO00
 Sputnik Sputnik NPCNO00
