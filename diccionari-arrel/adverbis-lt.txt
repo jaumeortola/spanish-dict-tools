@@ -142,6 +142,7 @@ máxime máxime RG
 nada nada RG
 nequáquam nequáquam RG
 nomás nomás RG
+non-stop non-stop RG
 norabuena norabuena RG
 noramala noramala RG
 nunca nunca RG
