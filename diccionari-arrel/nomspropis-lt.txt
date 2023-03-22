@@ -6318,7 +6318,7 @@ Martorell Martorell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martorelles Martorelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martos Martos NPCNSP0
 Martí Martí NPCNSP0 # wiki
-Martín Martín NPCNS00 # wiki common surnames FIXME!!!
+Martín Martín NPCNSP0 # wiki, common surnames
 Martínez Martínez NPCNSP0 # wiki common surnames
 Maruja Maruja NPFSSP0 # avl
 Marvel Marvel NPCNO00

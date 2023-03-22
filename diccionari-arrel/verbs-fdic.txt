@@ -1,5 +1,6 @@
-#abar=categories: V;model:amar;fonts: LT; defectiu!!
+#abar=categories: V;model:amar;fonts: LT; defectiu!
 #acachar=categories: V;model:amar;fonts: LT;
+#adir=categories: V;model:partir;fonts: LT;  infrequent ELIMINAR!
 #advocar=categories: V;model:abarcar;fonts: ap;
 #aluciar=categories: V;model:amar;fonts: LT; inusual
 #amarizar=categories: V;model:abalanzar;fonts: dr;
@@ -14,7 +15,7 @@
 #extruir=categories: V;model:construir;fonts: ap;
 #fallir=categories: V;model:mullir;fonts: LT;
 #fruir=categories: V;model:fluir;fonts: LT;
-#garuar=categories: V;model:actuar;fonts: LT; defectiu!!
+#garuar=categories: V;model:actuar;fonts: LT; defectiu!
 #grafiar=categories: V;model:enviar;fonts: ap;
 #gruir=categories: V;model:fluir;fonts: LT;
 #implotar=categories: V;model:amar;fonts: ap;
@@ -353,7 +354,6 @@ adicionar=categories: V;model:amar;fonts: LT;
 adiestrar=categories: V;model:amar;fonts: LT;
 adietar=categories: V;model:amar;fonts: LT;
 adinerar=categories: V;model:amar;fonts: LT;
-adir=categories: V;model:partir;fonts: LT;  infrequent ELIMINAR!!!
 adivinar=categories: V;model:amar;fonts: LT;
 adjetivar=categories: V;model:amar;fonts: LT;
 adjudicar=categories: V;model:abarcar;fonts: LT;
