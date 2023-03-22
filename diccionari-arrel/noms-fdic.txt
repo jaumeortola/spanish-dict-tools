@@ -7228,6 +7228,7 @@ autotransductor=categories: M;fonts: LT;
 autotransformador=categories: M;fonts: LT;
 autotransfusión=categories: F;fonts: dr;
 autotrasplante=categories: M;fonts: dr;
+autotune=categories: M;fonts: english;
 autotutela=categories: F;fonts: LT;
 autovacuna=categories: F;fonts: LT;
 autovalor=categories: M;fonts: LT;

@@ -8846,6 +8846,7 @@ Sogamoso Sogamoso NPCSG00 # Colombia
 Sogorb Sogorb NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soho Soho NPMSG00
 Sol Sol NPCSSP0 # avl
+Solbes Solbes NPCNSP0
 Soldati Soldati NPCSG00 # Argentina LO
 Soledad Soledad NPFSSP0 # avl
 Solera Solera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8868,6 +8869,7 @@ Song Song NPCNSP0 # wiki
 Sonia Sonia NPFSSP0 # avl
 Sonora Sonora NPCSG00
 Sonsoles Sonsoles NPFSSP0 # avl
+Sophie Sophie NPFSSP0
 Sora Sora NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soraya Soraya NPFSSP0 # avl
 Sorbona Sorbona NPCNG00 # topònim-apertium-falta-gènere-nombre
