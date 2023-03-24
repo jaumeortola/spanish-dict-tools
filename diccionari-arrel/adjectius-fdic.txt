@@ -49,6 +49,7 @@
 #mareomotor mareomotora=categories: A;fonts: LT;
 #mego mega=categories: A;fonts: LT;
 #mejicano mejicana=categories: A;fonts: LT;
+#metereológico metereológica=categories: A;fonts: LT; TYPO!!
 #minuto minuta=categories: A;fonts: LT;
 #misero misera=categories: A;fonts: LT;
 #moldovo moldova=categories: A;fonts: LT;
@@ -17195,7 +17196,6 @@ meteco meteca=categories: A;fonts: LT;
 metense=categories: A;fonts: dr;
 meteorológico meteorológica=categories: A;fonts: LT;
 meteorítico meteorítica=categories: A;fonts: LT;
-metereológico metereológica=categories: A;fonts: LT;
 meteórico meteórica=categories: A;fonts: LT;
 metiche=categories: A;fonts: dr;
 meticuloso meticulosa=categories: A;fonts: LT;
