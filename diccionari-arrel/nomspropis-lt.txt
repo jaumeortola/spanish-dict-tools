@@ -5422,6 +5422,7 @@ Jésica Jésica NPFSSP0 # avl
 Júcar Júcar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Júpiter Júpiter NPCSG00 # topònim-apertium
 Júpiter Júpiter NPMSSP0 # avl
+Jünger Jünger NPCNSP0
 KDE KDE NPCNO00 # wiki
 Kabul Kabul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaffir Kaffir NPCNSP0 # medical
@@ -10329,4 +10330,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Jünger Jünger NPCNSP0
