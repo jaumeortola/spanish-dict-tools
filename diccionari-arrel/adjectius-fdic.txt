@@ -26300,6 +26300,7 @@ trezavo trezava=categories: A;fonts: dr;
 triacal=categories: A;fonts: LT;
 trianero trianera=categories: A;fonts: dr;
 triangular=categories: A;fonts: dr;
+trianual=categories: A;fonts: derivat;
 triate=categories: A;fonts: dr;
 triatómico triatómica=categories: A;fonts: LT;
 triaxial=categories: A;fonts: LT;
