@@ -607,6 +607,7 @@ ADS=categories: MFI;fonts: LT;
 ADSL=categories: MI;fonts: dr;
 AI=categories: FS;fonts: LT;
 AM=categories: FS;fonts: dr;
+AMPA=categories: FI;fonts: sigla;
 APA=categories: FI;fonts: sigla;
 API=categories: FI;fonts: sigla;
 ARN=categories: MI;fonts: dr;

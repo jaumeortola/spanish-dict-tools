@@ -3126,6 +3126,8 @@ Cúcuta Cúcuta NPCSG00 # Colombia
 Cúpira Cúpira NPCSG00 # Venezuela
 D'aubuisson D'aubuisson NPCNSP0 # wiki common surnames
 DGT DGT NPFSO00
+DLE DLE NPMSO00
+DRAE DRAE NPMSO00
 DRV DRV NPCNO00
 Dabajuro Dabajuro NPCSG00 # Venezuela
 Dacca Dacca NPCNG00 # topònim-apertium-falta-gènere-nombre
