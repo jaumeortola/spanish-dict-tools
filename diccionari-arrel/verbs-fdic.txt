@@ -5670,6 +5670,7 @@ lincear=categories: V;model:amar;fonts: LT;
 linchar=categories: V;model:amar;fonts: LT;
 lindar=categories: V;model:amar;fonts: LT;
 linear=categories: V;model:amar;fonts: LT;
+linkear=categories: V;model:amar;fonts: english;
 liofilizar=categories: V;model:abalanzar;fonts: LT;
 liquidar=categories: V;model:amar;fonts: LT;
 lisiar=categories: V;model:amar;fonts: LT;
