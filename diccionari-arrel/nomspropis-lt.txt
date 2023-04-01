@@ -2474,6 +2474,7 @@ Catherine Catherine NPFSSP0
 Catia Catia NPFSSP0 # avl
 Catral Catral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catulo Catulo NPMSSP0 # avl
+Catán Catán NPMSO00
 Catí Catí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catón Catón NPMSSP0 # avl
 Caucagua Caucagua NPCSG00 # Venezuela
@@ -5465,6 +5466,7 @@ Kasabach Kasabach NPCNSP0 # medical
 Kasai Kasai NPCNSP0 # medical
 Kaspárov Kaspárov NPCNSP0 # wiki
 Kassel Kassel NPCNG00 # topònim-apertium-falta-gènere-nombre
+Katan Katan NPMSO00
 Kate Kate NPFSSP0
 Katherine Katherine NPFSSP0
 Katia Katia NPFSSP0 # avl
@@ -5553,6 +5555,7 @@ Krogius Krogius NPCNSP0 # medical
 Kronlein Kronlein NPCNSP0 # medical
 Krugman Krugman NPCNSP0
 Krukenberg Krukenberg NPCNSP0 # medical
+Kubala Kubala NPCNSP0
 Kubrick Kubrick NPCNSP0 # wiki
 Kufs Kufs NPCNSP0 # medical
 Kugelberg-Welander Kugelberg-Welander NPCNSP0 # medical
@@ -9575,6 +9578,7 @@ Umbú Umbú NPCSG00 # Paraguay
 Umtiti Umtiti NPCNSP0
 Unamuno Unamuno NPCNSP0 # wiki
 Unarre Unarre NPCNG00 # topònim-apertium-falta-gènere-nombre
+Unasur Unasur NPFSO00
 Unda Unda NPCSG00 # Venezuela
 Unesco Unesco NPFSO00 # wiki
 Unfredo Unfredo NPMSSP0 # avl
@@ -10005,6 +10009,7 @@ Westphal Westphal NPCNSP0
 Wharton Wharton NPCNSP0 # medical
 WhatsApp WhatsApp NPCNO00
 Whipple Whipple NPCNSP0 # medical
+Whisper Whisper NPMSO00
 Whisplash Whisplash NPCNSP0 # medical
 White White NPCNSP0 # wiki
 Whitney Whitney NPCNSP0
