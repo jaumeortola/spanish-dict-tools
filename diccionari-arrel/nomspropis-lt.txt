@@ -5466,7 +5466,6 @@ Kasabach Kasabach NPCNSP0 # medical
 Kasai Kasai NPCNSP0 # medical
 Kaspárov Kaspárov NPCNSP0 # wiki
 Kassel Kassel NPCNG00 # topònim-apertium-falta-gènere-nombre
-Katan Katan NPMSO00
 Kate Kate NPFSSP0
 Katherine Katherine NPFSSP0
 Katia Katia NPFSSP0 # avl
