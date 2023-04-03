@@ -4119,6 +4119,7 @@ Fram Fram NPCSG00 # Paraguay
 Framingham Framingham NPCNG00
 Fran Fran NPMSSP0 # avl
 France France NPCNSP0 # wiki
+Francesc Francesc NPMSSP0
 Franceschetti Franceschetti NPCNSP0 # medical
 Franceschetti-Thier Franceschetti-Thier NPCNSP0 # medical
 Francesco Francesco NPCNSP0 # wiki
