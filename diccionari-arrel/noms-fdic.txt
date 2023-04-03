@@ -3981,6 +3981,7 @@ amagadura=categories: F;fonts: LT;
 amagamiento=categories: M;fonts: dr;
 amagatorio=categories: M;fonts: dr;
 amago=categories: M;fonts: LT;
+amague=categories: M;fonts: dr,Latam;
 amainador=categories: M;fonts: dr;
 amalgama=categories: F;fonts: LT;
 amalgamación=categories: F;fonts: LT;
