@@ -6,9 +6,9 @@
 ###
 
 #directori LanguageTool
-#lt_tools=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.5-SNAPSHOT-jar-with-dependencies.jar
-#lt_tools=~/languagetool/languagetool.jar
-lt_tools=~/target-lt/languagetool.jar
+#lt_tools=~/target-lt/languagetool.jar
+lt_version=6.2-SNAPSHOT
+lt_tools=../../languagetool/languagetool-standalone/target/LanguageTool-${lt_version}/LanguageTool-${lt_version}/languagetool.jar
 
 # dump the tagger dictionary
 java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i es-ES.dict -o es-ES_lt.txt -info es-ES.info
