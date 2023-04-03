@@ -7643,6 +7643,7 @@ sobrentender=categories: V;model:entender;fonts: LT;
 sobrepasar=categories: V;model:amar;fonts: LT;
 sobrepintar=categories: V;model:amar;fonts: LT;
 sobreponer=categories: V;model:componer;fonts: LT;
+sobreproteger=categories: V;model:coger;fonts: derivat;
 sobrepujar=categories: V;model:amar;fonts: LT;
 sobrerrepresentar=categories: V;model:amar;fonts: ap;
 sobresalir=categories: V;model:salir;fonts: LT;
