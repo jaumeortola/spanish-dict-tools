@@ -24173,6 +24173,7 @@ embolada=categories: F;fonts: LT;
 embolado=categories: M;fonts: LT;
 embolador emboladora=categories: MF;fonts: dr;
 embolate=categories: M;fonts: dr;
+embole=categories: M;fonts: Argentina;
 embolectomía=categories: F;fonts: LT;
 embolia=categories: F;fonts: LT;
 embolismo=categories: M;fonts: LT;
