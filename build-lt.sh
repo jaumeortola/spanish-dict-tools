@@ -29,6 +29,11 @@ export LC_ALL=C && sort -u $dir_resultat/diccionari.txt > $dir_resultat/dicciona
 rm $dir_resultat/diccionari.txt
 mv $dir_resultat/diccionari_sorted.txt $dir_resultat/diccionari.txt
 
+if [ ! -f $dir_resultat/diccionari.old ]
+then
+    cp $dir_resultat/diccionari.txt $dir_resultat/diccionari.old
+fi
+
 diff $dir_resultat/diccionari.old $dir_resultat/diccionari.txt > $dir_resultat/diccionari.diff
 echo "Resultat en el directori $dir_resultat/diccionari.diff"
 echo "FET!"
