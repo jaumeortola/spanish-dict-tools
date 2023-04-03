@@ -55962,6 +55962,7 @@ rompehielos=categories: MI;fonts: LT;
 rompehuelgas=categories: MI;fonts: LT;
 rompenueces=categories: MI;fonts: LT;
 rompeolas=categories: MI;fonts: LT;
+romperreglas=categories: MF;fonts: derivat;
 rompesacos=categories: MI;fonts: dr;
 rompevientos=categories: MI;fonts: dr;
 rompevirutas=categories: MI;fonts: LT;
