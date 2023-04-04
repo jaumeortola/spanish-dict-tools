@@ -30674,6 +30674,7 @@ gandujado=categories: M;fonts: dr;
 gandul gandula=categories: MF;fonts: LT;
 gandulería=categories: F;fonts: LT;
 gandumbas=categories: MFI;fonts: LT;
+gane=categories: M;fonts: dr,Latam;
 ganeta=categories: F;fonts: dr;
 ganga=categories: F;fonts: LT;
 gangarilla=categories: F;fonts: dr;
