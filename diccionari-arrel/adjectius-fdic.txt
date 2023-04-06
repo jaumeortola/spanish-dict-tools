@@ -25326,6 +25326,7 @@ tartamudísimo tartamudísima=categories: A;fonts: superlative1;
 tartesio tartesia=categories: A;fonts: LT;
 tartáreo tartárea=categories: A;fonts: LT;
 tartárico tartárica=categories: A;fonts: LT;
+tartésico tartésica=categories: A;fonts: fundeu;
 tarumba=categories: A;fonts: colloquial;
 tasable=categories: A;fonts: LT;
 tasador tasadora=categories: A;fonts: LT;
