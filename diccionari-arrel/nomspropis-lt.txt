@@ -7961,6 +7961,7 @@ Pávlov Pávlov NPCNSP0
 Pénjamo Pénjamo NPCSG00 # México
 Pérez Pérez NPCNSP0 # wiki common surnames
 Pérgamo Pérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pésaj Pésaj NPMSO00
 Pía Pía NPFSSP0 # avl
 Píllaro Píllaro NPCSG00 # Ecuador
 Píndaro Píndaro NPMSSP0 # avl
@@ -10350,4 +10351,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
-Pésaj Pésaj NPMSO00
