@@ -691,6 +691,7 @@ Amantea Amantea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amapola Amapola NPFSSP0 # avl
 Amara Amara NPFSSP0 # avl
 Amaro Amaro NPMSSP0 # avl
+Amaru Amaru NPCSSP0
 Amatrice Amatrice NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amaya Amaya NPFSSP0 # avl
 Amayo Amayo NPMSSP0 # avl
@@ -4735,6 +4736,7 @@ Hamás Hamás NPCSO00
 Hamílcar Hamílcar NPMSSP0 # avl
 Hand-Schüller-Christian Hand-Schüller-Christian NPCNSP0 # medical
 Hangouts Hangouts NPCNO00
+Haniel Haniel NPMSSP0
 Hannah Hannah NPFSSP0
 Hannover Hannover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hans Hans NPCNSP0 # wiki
@@ -4986,6 +4988,7 @@ Huidobro Huidobro NPCNSP0
 Huixquilucan Huixquilucan NPCSG00
 Hulfo Hulfo NPMSSP0 # avl
 Humaitá Humaitá NPCSG00 # Paraguay
+Humbert Humbert NPMSSP0
 Humberta Humberta NPFSSP0 # avl
 Humbertina Humbertina NPFSSP0 # avl
 Humbertino Humbertino NPMSSP0 # avl
@@ -6265,6 +6268,7 @@ Margaret Margaret NPFSSP0 # wiki
 Margarita Margarita NPFSSP0 # avl
 Margot Margot NPFSSP0
 Mari Mari NPFSSP0 # avl
+Marian Marian NPFSSP0
 Mariana Mariana NPFSSP0 # avl
 Marianas Marianas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marianela Marianela NPFSSP0
