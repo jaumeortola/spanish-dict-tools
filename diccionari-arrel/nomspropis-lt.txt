@@ -1028,6 +1028,7 @@ Armonía Armonía NPFSSP0 # avl
 Armstrong Armstrong NPCNSP0
 Arnalda Arnalda NPFSSP0 # avl
 Arnaldo Arnaldo NPMSSP0 # avl
+Arnau Arnau NPMSSP0
 Arnedo Arnedo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arnes Arnes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arno Arno NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2192,6 +2193,7 @@ Calvino Calvino NPMSSP0
 Calvià Calvià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calviño Calviño NPCNSP0
 Calvo-Sotelo Calvo-Sotelo NPCNSP0
+Calzadilla Calzadilla NPCNG00
 Calígula Calígula NPMSSP0 # avl
 Calímaco Calímaco NPMSSP0 # avl
 Calíope Calíope NPFSSP0 # avl
@@ -2235,6 +2237,7 @@ Campillo Campillo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campins Campins NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campllong Campllong NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campmany Campmany NPCNG00 # topònim-apertium-falta-gènere-nombre
+Campoamor Campoamor NPCNSP0
 Campobasso Campobasso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campofranco Campofranco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camporotondo Camporotondo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3387,6 +3390,7 @@ Durango Durango NPCNG00 # topònim-apertium-falta-gènere-nombre
 Durango Durango NPCSG00
 Durkheim Durkheim NPCNSP0
 Durán Durán NPMSSP0 # avl
+Dusambé Dusambé NPCNG00
 Duschlander Duschlander NPCNSP0 # medical
 Dushanbe Dushanbe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Duvergie Duvergie NPCNSP0 # medical
@@ -5074,6 +5078,7 @@ Illinois Illinois NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ilo Ilo NPCSG00 # Perú
 Iluminada Iluminada NPFSSP0 # avl
 Iluminado Iluminado NPMSSP0 # avl
+Iluska Iluska NPFSSP0
 Ilíada Ilíada NPFSO00
 Imanol Imanol NPMSSP0 # avl
 Imataca Imataca NPCSG00 # Venezuela
@@ -5503,6 +5508,7 @@ Khartum Khartum NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kierkegaard Kierkegaard NPCNSP0
 Kiev Kiev NPCSG00 # topònim-apertium
 Kigali Kigali NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kilauea Kilauea NPCNG00
 Kilimanjaro Kilimanjaro NPMSG00
 Kilmer Kilmer NPCNSP0
 Kim Kim NPCNSP0 # wiki
@@ -5646,6 +5652,7 @@ Laocoonte Laocoonte NPMSSP0 # avl
 Laodamía Laodamía NPFSSP0 # avl
 Laodicea Laodicea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laos Laos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lapadula Lapadula NPCNSP0
 Laplace Laplace NPCNSP0
 Laponia Laponia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laporta Laporta NPCNSP0
@@ -7224,6 +7231,7 @@ Ondino Ondino NPMSSP0 # avl
 Onesífora Onesífora NPFSSP0 # avl
 Onesíforo Onesíforo NPMSSP0 # avl
 Onil Onil NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ono Ono NPCNSP0
 Onofre Onofre NPMSSP0 # avl
 Ontario Ontario NPCSG00 # wiki
 Onteniente Onteniente NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9115,6 +9123,9 @@ Tarsia Tarsia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tarsicia Tarsicia NPFSSP0 # avl
 Tarsicio Tarsicio NPMSSP0 # avl
 Tartagal Tartagal NPCSG00 # Argentina
+Tarteso Tarteso NPCNG00
+Tartesos Tartesos NPCNG00
+Tartéside Tartéside NPCNG00
 Tarui Tarui NPCNSP0 # medical
 Tascón Tascón NPCNSP0
 Taser Taser NPCNO00
@@ -9265,6 +9276,7 @@ Tierralta Tierralta NPCSG00 # Colombia
 Tietze Tietze NPCNSP0 # medical
 Tiffany Tiffany NPCNO00
 Tiffeneau Tiffeneau NPCNSP0 # medical
+Tiflis Tiflis NPCNG00
 Tigris Tigris NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tigré Tigré NPCSG00
 Tijuana Tijuana NPCSG00
@@ -9751,6 +9763,7 @@ Veracruz Veracruz NPCSG00
 Verarda Verarda NPFSSP0 # avl
 Verardo Verardo NPMSSP0 # avl
 Verbicaro Verbicaro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Verdasco Verdasco NPCNSP0
 Verdi Verdi NPCNSP0
 Verdú Verdú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vergara Vergara NPCNSP0 # wiki common surnames
