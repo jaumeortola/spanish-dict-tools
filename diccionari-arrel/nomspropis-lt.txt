@@ -4546,7 +4546,7 @@ Graham Graham NPCNSP0 # wiki
 Graham-Steell Graham-Steell NPCNSP0 # medical
 Gramenet Gramenet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grammichele Grammichele NPCNG00 # topònim-apertium-falta-gènere-nombre
-Grammy Grammy NPCNO00
+Grammy Grammy NPMNO00
 Granada Granada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granadinas Granadinas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granados Granados NPCNSP0 # wiki

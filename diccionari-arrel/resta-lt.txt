@@ -529,7 +529,7 @@ poquitos poquito PI0MP000
 por por SPS00
 porfa porfa RG # colloquial
 porque porque CS
-ppm ppm NCMN000
+ppm ppm NCFN000
 presente presente I
 pro pro SPS00
 pucha pucha I
