@@ -36437,6 +36437,7 @@ irritador irritadora=categories: MF;fonts: LT;
 irritamiento=categories: M;fonts: LT;
 irritante=categories: MF;fonts: LT;
 irrogación=categories: F;fonts: LT;
+irrreproducibilidad=categories: F;fonts: derivat;
 irrupción=categories: F;fonts: LT;
 irunés irunesa=categories: MF;fonts: LT;
 irupé=categories: M;fonts: dr;
