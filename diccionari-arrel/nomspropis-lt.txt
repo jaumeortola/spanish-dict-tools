@@ -8904,6 +8904,7 @@ Sorrentino Sorrentino NPCNSP0
 Sort Sort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sosa Sosa NPCNSP0 # wiki common surnames
 Soses Soses NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sotelo Sotelo NPCNSP0
 Sotera Sotera NPFSSP0 # avl
 Sotero Sotero NPMSSP0 # avl
 Sotillo Sotillo NPCSG00 # Venezuela
