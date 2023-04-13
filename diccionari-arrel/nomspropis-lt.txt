@@ -4415,6 +4415,7 @@ Gestalgar Gestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getafe Getafe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getulia Getulia NPFSSP0 # avl
 Getulio Getulio NPMSSP0 # avl
+Gewandhaus Gewandhaus NPFSO00
 Ghana Ghana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ghon Ghon NPCNSP0 # medical
 Gianni Gianni NPMSSP0
@@ -9547,6 +9548,7 @@ UDEF UDEF NPFSO00
 UE UE NPCNG00 # topònim-apertium-falta-gènere-nombre
 UEFA UEFA NPFSO00 # wiki
 UER UER NPFSO00
+UIMP UIMP NPFSO00
 UNAM UNAM NPFSO00
 UNED UNED NPFSO00
 UNESCO UNESCO NPFSO00 # wiki
