@@ -5764,6 +5764,7 @@ Leriana Leriana NPFSSP0 # avl
 Leriano Leriano NPMSSP0 # avl
 Lerma Lerma NPCNSP0
 Lermoyez Lermoyez NPCNSP0 # medical
+Lescaut Lescaut NPCNSP0
 Lesch-Nyhan Lesch-Nyhan NPCNSP0 # medical
 Leslie Leslie NPCNSP0
 Lesmes Lesmes NPCNSP0
@@ -6215,6 +6216,7 @@ Manolete Manolete NPMSSP0
 Manoli Manoli NPFSSP0
 Manolita Manolita NPFSSP0
 Manolo Manolo NPMSSP0 # avl
+Manon Manon NPFSSP0
 Manresa Manresa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manrique Manrique NPMSSP0 # avl
 Mansilla Mansilla NPCNSP0 # wiki common surnames
@@ -6369,6 +6371,7 @@ Massamagrell Massamagrell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massanassa Massanassa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massanes Massanes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massanet Massanet NPCNG00 # topònim-apertium-falta-gènere-nombre
+Massenet Massenet NPCNSP0
 Massoteres Massoteres NPCNG00 # topònim-apertium-falta-gènere-nombre
 Massou Massou NPCNSP0 # medical
 MasterChef MasterChef NPCNO00
