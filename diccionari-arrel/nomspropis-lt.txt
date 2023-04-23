@@ -2505,6 +2505,7 @@ Cañy Cañy NPCSG00 # Paraguay
 Ceballos Ceballos NPCNSP0
 Cebriana Cebriana NPFSSP0 # avl
 Cebrián Cebrián NPMSSP0 # avl
+Cecabank Cecabank NPMSO00
 Cecilia Cecilia NPFSSP0 # avl
 Cecilio Cecilio NPMSSP0 # avl
 Cedanya Cedanya NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8591,6 +8592,7 @@ Saramago Saramago NPCNSP0
 Sarare Sarare NPCSG00 # Venezuela
 Saravena Saravena NPCSG00 # Colombia
 Saray Saray NPFSSP0 # avl
+Sareb Sareb NPFSO00
 Sargentillo Sargentillo NPCSG00 # Ecuador
 Sarral Sarral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sarriá Sarriá NPCNG00 # topònim-apertium-falta-gènere-nombre
