@@ -26698,6 +26698,7 @@ ultraderechista=categories: A;fonts: dr;
 ultradirectivo ultradirectiva=categories: A;fonts: LT;
 ultraduradero ultraduradera=categories: A;fonts: derivat;
 ultraestable=categories: A;fonts: derivat;
+ultrafalseado=categories: A;fonts: fundeu;
 ultrafiltrado ultrafiltrada=categories: A;fonts: medical;
 ultrafino ultrafina=categories: A;fonts: LT;
 ultrainteligente=categories: A;fonts: derivat;

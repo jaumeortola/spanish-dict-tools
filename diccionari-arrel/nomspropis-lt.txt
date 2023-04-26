@@ -1699,6 +1699,7 @@ Betania Betania NPCSG00
 Betijoque Betijoque NPCSG00 # Venezuela
 Betis Betis NPMSO00
 Betlan Betlan NPCNG00 # topònim-apertium-falta-gènere-nombre
+Beto Beto NPMSSP0
 Betren Betren NPCNG00 # topònim-apertium-falta-gènere-nombre
 Betsabé Betsabé NPFSSP0 # avl
 Betty Betty NPFSSP0
@@ -1893,6 +1894,7 @@ Bova Bova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bovalino Bovalino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bovary Bovary NPCNSP0
 Bovera Bovera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bovolo Bovolo NPCNG00
 Bowen Bowen NPCNSP0 # medical
 Bowie Bowie NPCNSP0
 Bowman Bowman NPCNSP0 # medical
@@ -3317,6 +3319,7 @@ Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dolomitas Dolomitas NPCPG00
 Dolores Dolores NPCNG00 # topònim-apertium
 Dolores Dolores NPFSSP0 # avl
+Dolors Dolors NPFSSP0
 Domanico Domanico NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dombás Dombás NPMSG00
 Domenyo Domenyo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3422,6 +3425,7 @@ ERC ERC NPCNO00
 ESA ESA NPFSO00
 ESMUC ESMUC NPFSO00
 EUA EUA NPMPG00
+EURES EURES NPFNO00
 Eadie-Hoffstee Eadie-Hoffstee NPCNSP0 # medical
 Eagle-Barre Eagle-Barre NPCNSP0 # medical
 Eales Eales NPCNSP0 # medical
@@ -3874,6 +3878,7 @@ FBI FBI NPMSO00 # wiki
 FEDER FEDER NPMNO00
 FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00 # wiki
+FIL FIL NPFNO00
 FMI FMI NPMSO00
 FROB FROB NPMSO00
 Fabiana Fabiana NPFSSP0 # avl
@@ -5040,8 +5045,10 @@ INSS INSS NPMSO00
 IPCC IPCC NPCNO00
 IPS IPS NPCNO00
 IRA IRA NPMSO00
+ISE ISE NPFNO00
 ISIS ISIS NPCNO00
 ISO ISO NPCNO00 # wiki
+ITC ITC NPMNO00
 IU IU NPFSO00
 Ian Ian NPCNSP0 # wiki
 Ibagué Ibagué NPCSG00
@@ -6629,6 +6636,7 @@ Mirabello Mirabello NPCNG00 # topònim-apertium-falta-gènere-nombre
 Miraflor Miraflor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Miraflores Miraflores NPCNG00
 Miralcamp Miralcamp NPCNG00 # topònim-apertium-falta-gènere-nombre
+Miralles Miralles NPCNSP0
 Miramar Miramar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mirambell Mirambell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Miramón Miramón NPCNSP0
@@ -7139,6 +7147,7 @@ OIT OIT NPFSO00
 OLAF OLAF NPFSO00
 OMS OMS NPFSO00 # wiki
 ONU ONU NPFSO00
+OSCE OSCE NPFSO00
 OTAN OTAN NPFSO00 # wiki
 Oaxaca Oaxaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oaxaca Oaxaca NPCSG00
@@ -9553,6 +9562,7 @@ UDEF UDEF NPFSO00
 UE UE NPCNG00 # topònim-apertium-falta-gènere-nombre
 UEFA UEFA NPFSO00 # wiki
 UER UER NPFSO00
+UGT UGT NPFNO00
 UIMP UIMP NPFSO00
 UNAM UNAM NPFSO00
 UNED UNED NPFSO00
