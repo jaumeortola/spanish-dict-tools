@@ -710,6 +710,7 @@ ISP=categories: MI;fonts: sigla;
 ISSN=categories: MI;fonts: dr;
 ITV=categories: FI;fonts: sigla;
 IVA=categories: MI;fonts: dr;
+IVTM=categories: MI;fonts: sigla;
 IgA=categories: FI;fonts: medical;
 IgG=categories: FI;fonts: medical;
 IgM=categories: FI;fonts: medical;

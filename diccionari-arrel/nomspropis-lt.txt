@@ -4729,6 +4729,7 @@ Güigüe Güigüe NPCSG00 # Venezuela
 Güiria Güiria NPCSG00 # Venezuela
 Günther Günther NPCNSP0 # medical
 Gürtel Gürtel NPFSO00
+H&S H&S NPCNO00
 HAL HAL NPMSSP0
 HBO HBO NPCNSP0
 Haab Haab NPCNSP0 # medical
@@ -6546,6 +6547,7 @@ Mencio Mencio NPMSSP0 # avl
 Mencía Mencía NPFSSP0 # avl
 Menda Menda NPFSSP0 # avl
 Mendel Mendel NPCNSP0
+Mendelssohn Mendelssohn NPCNSP0
 Mendeléyev Mendeléyev NPCNO00
 Mendicino Mendicino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mendieta Mendieta NPCNSP0
@@ -8979,6 +8981,7 @@ Spinoza Spinoza NPCNSP0
 Spohr Spohr NPCNSP0
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sport Sport NPMSO00
+Springsteen Springsteen NPCNSP0
 Sputnik Sputnik NPCNO00
 Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Staiti Staiti NPCNG00 # topònim-apertium-falta-gènere-nombre
