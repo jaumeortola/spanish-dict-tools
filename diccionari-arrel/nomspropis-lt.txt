@@ -3883,6 +3883,7 @@ Exuperancio Exuperancio NPMSSP0 # avl
 Ezeiza Ezeiza NPCSG00 # Argentina LO
 Ezequiel Ezequiel NPMSSP0 # avl
 Ezequías Ezequías NPMSSP0 # avl
+Eötvös Eötvös NPCNSP0
 FAD FAD NPCSO00
 FAES FAES NPFSO00
 FAO FAO NPFSO00 # wiki
@@ -6921,6 +6922,7 @@ Márquez Márquez NPCNSP0
 Máxima Máxima NPFSSP0 # avl
 Máximo Máximo NPMSSP0 # avl
 Méjico Méjico NPCSG00 # topònim-apertium
+Mélenchon Mélenchon NPCNSP0
 Méndez Méndez NPCNSP0 # wiki common surnames
 Ménière Ménière NPCNSP0 # medical
 Méras Méras NPCNG00 # topònim-apertium-falta-gènere-nombre
