@@ -5350,7 +5350,7 @@ Jinping Jinping NPMSSP0
 Jira Jira NPCSO00
 Jirán Jirán NPMSSP0 # avl
 Jiutepec Jiutepec NPCSG00 # México
-Joan Joan NPMSSP0
+Joan Joan NPCSSP0
 Joanetes Joanetes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Joaquina Joaquina NPFSSP0 # avl
 Joaquín Joaquín NPMSSP0 # avl
