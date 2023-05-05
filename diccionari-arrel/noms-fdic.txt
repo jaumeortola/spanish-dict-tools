@@ -44159,6 +44159,7 @@ nasalización=categories: F;fonts: LT;
 nasamón=categories: M;fonts: LT;
 nasardo=categories: M;fonts: LT;
 nasciturus=categories: MI;fonts: llatí;
+naserismo=categories: M;fonts: wiki;
 nashi=categories: M;fonts: LT;
 nasión=categories: M;fonts: LT;
 naso=categories: M;fonts: LT;

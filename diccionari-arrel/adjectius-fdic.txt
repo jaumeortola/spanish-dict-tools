@@ -18182,6 +18182,7 @@ narrativo narrativa=categories: A;fonts: LT;
 narratológico narratológica=categories: A;fonts: dr;
 narratorio narratoria=categories: A;fonts: LT;
 nasal=categories: A;fonts: LT;
+naserista=categories: A;fonts: wiki;
 nasobasal=categories: A;fonts: LT;
 nasociliar=categories: A;fonts: LT;
 nasofaríngeo nasofaríngea=categories: A;fonts: LT;
