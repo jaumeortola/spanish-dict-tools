@@ -6891,6 +6891,7 @@ Muchamiel Muchamiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mucia Mucia NPFSSP0 # avl
 Mucio Mucio NPMSSP0 # avl
 Mucuchíes Mucuchíes NPCSG00 # Venezuela
+Muface Muface NPFSO00
 Muhamad Muhamad NPCNSP0 # wiki
 Muisne Muisne NPCSG00 # Ecuador
 Mula Mula NPCNG00 # topònim-apertium-falta-gènere-nombre
