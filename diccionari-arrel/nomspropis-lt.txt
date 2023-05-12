@@ -7990,7 +7990,8 @@ Punakha Punakha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Punata Punata NPCSG00 # Bolivia
 Punceres Punceres NPCSG00 # Venezuela
 Punilla Punilla NPCSG00 # Argentina
-Punjab Punjab NPCNG00 # topònim-apertium-falta-gènere-nombre
+Punjab Punjab NPMSG00 # topònim-apertium
+Punyab Punyab NPMSG00
 Pura Pura NPFSSP0 # avl
 Pureza Pureza NPFSSP0 # avl
 Purificación Purificación NPFSSP0 # avl
