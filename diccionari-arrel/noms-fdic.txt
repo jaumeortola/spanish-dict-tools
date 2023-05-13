@@ -788,6 +788,7 @@ SOS=categories: MI;fonts: dr;
 SROM=categories: MS;fonts: LT;
 SSD=categories: MFI;fonts: wiki;
 SSL=categories: MI;fonts: LT;
+STC=categories: FI;fonts: sigla;
 Supercopa=categories: F;fonts: LT;
 TAE=categories: MFI;fonts: sigla;
 TC=categories: MFI;fonts: sigla;
