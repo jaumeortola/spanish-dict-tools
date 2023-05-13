@@ -1292,6 +1292,7 @@ Baikiri Baikiri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bailén Bailén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bainbridge Bainbridge NPCNSP0 # medical
 Bairiki Bairiki NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bajmut Bajmut NPCSG00
 Baker Baker NPCNSP0 # wiki
 Bakú Bakú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balaam Balaam NPMSSP0 # avl
