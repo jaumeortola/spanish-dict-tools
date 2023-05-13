@@ -122,6 +122,7 @@
 #Orígenes Orígenes NPMSSP0 # avl
 #Ota #Ota NPCNSP0 # medical
 #Palas Palas NPFSSP0 # avl
+#Panjab Panjab NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Pap #Pap NPCNSP0 # medical
 #Paquistán Paquistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Penàguila Penàguila NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7504,7 +7505,6 @@ Pangea Pangea NPFSG00
 Pangui Pangui NPCSG00 # Ecuador
 Paniagua Paniagua NPCNSP0
 Panini Panini NPCNSP0
-Panjab Panjab NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pantaleón Pantaleón NPMSSP0 # avl
 Pantelaria Pantelaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pantidia Pantidia NPFSSP0 # avl
