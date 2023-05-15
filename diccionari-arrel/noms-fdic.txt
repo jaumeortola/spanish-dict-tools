@@ -30047,6 +30047,7 @@ friki=categories: MF;fonts: dr;
 frimario=categories: M;fonts: LT;
 fringilago=categories: M;fonts: dr;
 fringílido=categories: M;fonts: LT;
+friqui=categories: MF;fonts: dr;
 frisa=categories: F;fonts: LT;
 frisado=categories: M;fonts: LT;
 frisador frisadora=categories: MF;fonts: LT;
