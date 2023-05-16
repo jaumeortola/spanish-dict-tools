@@ -15207,6 +15207,7 @@ cibercriminalidad=categories: F;fonts: derivat;
 ciberdelincuente=categories: MF;fonts: user;
 ciberdelito=categories: M;fonts: derivat;
 ciberdemocracia=categories: F;fonts: LT;
+ciberdeporte=categories: M;fonts: twitterrae;
 ciberespacio=categories: M;fonts: LT;
 ciberespionaje=categories: M;fonts: termcat;
 ciberlunes=categories: MI;fonts: derivat;
