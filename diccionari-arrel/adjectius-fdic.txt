@@ -11565,6 +11565,7 @@ fraterno fraterna=categories: A;fonts: LT;
 fratricida=categories: A;fonts: LT;
 fraudulento fraudulenta=categories: A;fonts: LT;
 fraybentino fraybentina=categories: A;fonts: dr;
+freaky=categories: AI;font: English;
 frecuencial=categories: A;fonts: LT;
 frecuentador frecuentadora=categories: A;fonts: LT;
 frecuentadísimo frecuentadísima=categories: A;fonts: superlative;

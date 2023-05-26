@@ -29942,6 +29942,7 @@ fraustina=categories: F;fonts: LT;
 fray=categories: MS;fonts: LT;
 frazada=categories: F;fonts: LT;
 frazadero=categories: M;fonts: dr;
+freaky [pl. freakies]=categories: MF;font: English;
 frecuencia=categories: F;fonts: LT;
 frecuencímetro=categories: M;fonts: LT;
 frecuentación=categories: F;fonts: LT;
