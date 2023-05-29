@@ -24457,6 +24457,7 @@ sonriente=categories: A;fonts: LT;
 sonrientísimo sonrientísima=categories: A;fonts: superlative;
 sonrisueño sonrisueña=categories: A;fonts: dr;
 sonrojadísimo sonrojadísima=categories: A;fonts: superlative;
+sonrojante=categories: A;fonts: derivat;
 sonsacador sonsacadora=categories: A;fonts: LT;
 sonsonateco sonsonateca=categories: A;fonts: dr;
 sonto sonta=categories: A;fonts: dr;
