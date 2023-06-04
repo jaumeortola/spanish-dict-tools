@@ -1895,6 +1895,7 @@ Botarell Botarell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botticelli Botticelli NPCNSP0
 Bottrell Bottrell NPCSG00 # Paraguay
+Boulanger Boulanger NPCNSP0
 Bourdieu Bourdieu NPCNSP0
 Bourneville Bourneville NPCNSP0 # medical
 Bouvet Bouvet NPCSG00
