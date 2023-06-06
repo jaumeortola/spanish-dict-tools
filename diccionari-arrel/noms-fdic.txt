@@ -690,6 +690,7 @@ GnRH=categories: FI;fonts: medical;
 Génesis=categories: MI;fonts: wiki;
 H1N1=categories: MFI;fonts: termcat;
 HDD=categories: MFI;fonts: wiki;
+HFC=categories: MI;fonts: wiki;
 HTML=categories: MI;fonts: dr;
 HTTP=categories: MI;fonts: sigla;
 HTTPS=categories: MI;fonts: sigla;
