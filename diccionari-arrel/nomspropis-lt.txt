@@ -2058,6 +2058,7 @@ Busot Busot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bustamante Bustamante NPCNSP0 # wiki common surnames
 Bustos Bustos NPCNSP0 # wiki common surnames
 Butera Butera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Butler Butler NPCNSP0
 Button Button NPCNSP0
 Bután Bután NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buñol Buñol NPCNG00 # topònim-apertium-falta-gènere-nombre
