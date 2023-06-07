@@ -46309,6 +46309,7 @@ ouabaina=categories: F;fonts: medical;
 ouguiya=categories: F;fonts: LT;
 out=categories: MI;fonts: LT;
 outfit [pl. outfits]=categories: M;fonts: english;
+outlet [pl. outlets]=categories: M;fonts: English;
 output [pl. outputs]=categories: M;fonts: LT;
 outsourcing=categories: MS;fonts: English;
 ouzo=categories: M;fonts: LT;
