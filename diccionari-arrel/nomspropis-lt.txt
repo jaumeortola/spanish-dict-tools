@@ -3379,6 +3379,7 @@ Doubs Doubs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Douglas Douglas NPCNSP0 # wiki
 Dover Dover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Down Down NPCNSP0
+Doñana Doñana NPCSG00
 Draghi Draghi NPCNSP0
 Drapia Drapia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dresde Dresde NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4320,6 +4321,7 @@ Gandulfo Gandulfo NPMSSP0 # avl
 Gandía Gandía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ganser Ganser NPCNSP0 # medical
 Gante Gante NPCNG00 # topònim-apertium-falta-gènere-nombre
+Garajonay Garajonay NPCSG00
 Garay Garay NPCNSP0
 Garbí Garbí NPMSSP0 # avl
 Garcilaso Garcilaso NPCNSP0
@@ -6758,6 +6760,7 @@ Monells Monells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monet Monet NPCNSP0 # wiki
 Moneva Moneva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monforte Monforte NPCNG00 # topònim-apertium-falta-gènere-nombre
+Monfragüe Monfragüe NPCSG00
 Monge Monge NPCNSP0 # medical
 Mongiana Mongiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongolia Mongolia NPCNG00 # topònim-apertium-falta-gènere-nombre

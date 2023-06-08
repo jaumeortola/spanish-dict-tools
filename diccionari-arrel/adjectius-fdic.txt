@@ -24311,6 +24311,7 @@ sobrecelestial=categories: A;fonts: dr;
 sobrecerrado sobrecerrada=categories: A;fonts: dr;
 sobrecogedor sobrecogedora=categories: A;fonts: LT;
 sobredicho sobredicha=categories: A;fonts: LT;
+sobreelevado sobreelevada=categories: A;fonts: derivat;
 sobreescribible=categories: A;fonts: LT;
 sobreesdrújulo sobreesdrújula=categories: A;fonts: LT;
 sobreherido sobreherida=categories: A;fonts: LT;
