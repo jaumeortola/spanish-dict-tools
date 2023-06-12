@@ -39232,6 +39232,7 @@ lucubración=categories: F;fonts: LT;
 lucérnula=categories: F;fonts: dr;
 ludada=categories: F;fonts: dr;
 ludibrio=categories: M;fonts: LT;
+ludicidad=categories: F;fonts: derivat;
 ludificación=categories: F;fonts: fundeu;
 ludimiento=categories: M;fonts: LT;
 ludismo=categories: M;fonts: LT;
