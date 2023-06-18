@@ -2854,6 +2854,7 @@ Colin Colin NPCNSP0
 Coll Coll NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collado Collado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collbató Collbató NPCNG00 # topònim-apertium-falta-gènere-nombre
+Collboni Collboni NPCNSP0
 Colldejou Colldejou NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collegats Collegats NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colles Colles NPCNSP0 # medical
@@ -6347,6 +6348,7 @@ Marión Marión NPFSSP0 # avl
 Mariúpol Mariúpol NPCSG00
 Mark Mark NPCNSP0 # wiki
 Mark Mark NPMSSP0
+Marlaska Marlaska NPCNSP0
 Marlene Marlene NPFSSP0
 Marlon Marlon NPMSSP0
 Marlén Marlén NPFSSP0 # avl
@@ -7190,6 +7192,7 @@ OCDE OCDE NPFSO00
 OECO OECO NPFSO00
 OIT OIT NPFSO00
 OLAF OLAF NPFSO00
+OMC OMC NPFSO00
 OMS OMS NPFSO00 # wiki
 ONU ONU NPFSO00
 OSCE OSCE NPFSO00
@@ -9703,6 +9706,7 @@ Ursina Ursina NPFSSP0 # avl
 Ursino Ursino NPMSSP0 # avl
 Ursulina Ursulina NPFSSP0 # avl
 Ursulino Ursulino NPMSSP0 # avl
+Urtasun Urtasun NPCNSP0
 Urtx Urtx NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uruapan Uruapan NPCSG00 # México
 Uruguay Uruguay NPCNG00 # topònim-apertium-falta-gènere-nombre

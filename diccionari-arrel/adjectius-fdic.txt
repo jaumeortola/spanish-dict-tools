@@ -6766,6 +6766,7 @@ coordinador coordinadora=categories: A;fonts: LT;
 coordinante=categories: A;fonts: LT;
 coordinativo coordinativa=categories: A;fonts: LT;
 coordinatorio coordinatoria=categories: A;fonts: dr;
+coorganizador coorganizadora=categories: A;fonts: derivat;
 copacabaneño copacabaneña=categories: A;fonts: dr;
 copal=categories: A;fonts: LT;
 copaneco copaneca=categories: A;fonts: dr;
