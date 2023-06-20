@@ -1975,6 +1975,7 @@ Brown-Séquard Brown-Séquard NPCNSP0 # medical
 Browning Browning NPCNSP0
 Brownsville Brownsville NPCSG00 # México
 Bruck Bruck NPCNSP0 # medical
+Bruckner Bruckner NPCNSP0
 Brudzinski Brudzinski NPCNSP0 # medical
 Brueghel Brueghel NPCNSP0
 Bruguez Bruguez NPCSG00 # Paraguay
@@ -6168,6 +6169,7 @@ Magreb Magreb NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maguncia Maguncia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Magín Magín NPMSSP0 # avl
 Mahaim Mahaim NPCNSP0 # medical
+Mahler Mahler NPCNSP0
 Mahoma Mahoma NPMSSP0 # avl
 Mahón Mahón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maials Maials NPCNG00 # topònim-apertium-falta-gènere-nombre
