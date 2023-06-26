@@ -42460,6 +42460,7 @@ ministración=categories: F;fonts: dr;
 ministrante=categories: MF;fonts: LT;
 ministril=categories: M;fonts: LT;
 ministro ministra=categories: MF;fonts: LT;
+minisubmarino=categories: M;fonts: derivat;
 minisupermercado=categories: M;fonts: dr;
 minisúper=categories: MI;fonts: dr;
 miniteca=categories: F;fonts: dr;
