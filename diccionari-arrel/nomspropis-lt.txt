@@ -2076,6 +2076,7 @@ Bécquer Bécquer NPCNSP0
 Béjar Béjar NPCSG00
 Bélgica Bélgica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bélgida Bélgida NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bélgorod Bélgorod NPCSG00
 Bérgamo Bérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bétera Bétera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bòssost Bòssost NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8579,6 +8580,7 @@ Salvado Salvado NPMSSP0 # avl
 Salvador Salvador NPMSG00 # topònim-apertium
 Salvador Salvador NPMSSP0 # avl
 Salvadora Salvadora NPFSSP0 # avl
+Salvat Salvat NPCNSP0
 Salvia Salvia NPFSSP0 # avl
 Salvini Salvini NPCNSP0
 Salvio Salvio NPMSSP0 # avl
