@@ -2505,6 +2505,7 @@ Caudiel Caudiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caulonia Caulonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cauquenes Cauquenes NPCSG00 # Chile
 Cava Cava NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cavaliere Cavaliere NPMSSP0
 Cavare-Westphal Cavare-Westphal NPCNSP0
 Cavendish Cavendish NPCNSP0
 Caya Caya NPFSSP0 # avl
@@ -5482,6 +5483,7 @@ Kabul Kabul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaffir Kaffir NPCNSP0 # medical
 Kahlo Kahlo NPCNSP0
 Kahoot Kahoot NPCNO00
+Kajovka Kajovka NPFSG00
 Kalimantan Kalimantan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaliningrado Kaliningrado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kallio Kallio NPCNG00 # topònim-apertium-falta-gènere-nombre
