@@ -7299,6 +7299,7 @@ Onda Onda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ondara Ondara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ondina Ondina NPFSSP0 # avl
 Ondino Ondino NPMSSP0 # avl
+Oneguin Oneguin NPMSSP0
 Onesífora Onesífora NPFSSP0 # avl
 Onesíforo Onesíforo NPMSSP0 # avl
 Onil Onil NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7942,7 +7943,9 @@ Pretoria Pretoria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prezi Prezi NPMSO00
 Pribnow Pribnow NPCNSP0 # medical
 Priestley Priestley NPCNSP0
+Prigozhin Prigozhin NPMSSP0
 Prima Prima NPFSSP0 # avl
+Primakov Primakov NPMSSP0
 Primitiva Primitiva NPFSSP0 # avl
 Primitivo Primitivo NPMSSP0 # avl
 Primo Primo NPMSSP0 # avl
@@ -10232,6 +10235,7 @@ Yemen Yemen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yenny Yenny NPFSSP0
 Yenín Yenín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yeray Yeray NPMSSP0 # avl
+Yevgueni Yevgueni NPMSSP0
 Ygatimí Ygatimí NPCSG00 # Paraguay
 Yguazú Yguazú NPCSG00 # Paraguay
 Yhaguy Yhaguy NPCSG00 # Paraguay
