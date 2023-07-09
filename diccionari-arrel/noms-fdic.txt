@@ -670,6 +670,7 @@ ERE=categories: MI;fonts: LT;
 ERP=categories: MI;fonts: sigla;
 ERTE=categories: MI;fonts: LT;
 ESO=categories: FS;fonts: sigla;
+ESS=categories: MFI;fonts: sigla;
 ETT=categories: FI;fonts: sigla;
 Ertzaintza=categories: FS;fonts: dr;
 Ethernet=categories: FI;fonts: termcat;

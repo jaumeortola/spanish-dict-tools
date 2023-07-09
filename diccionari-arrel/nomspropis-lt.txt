@@ -2141,6 +2141,7 @@ Cadmo Cadmo NPMSSP0 # avl
 Cadwell Cadwell NPCNSP0 # medical
 Caen Caen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caffey Caffey NPCNSP0 # medical
+Cage Cage NPCNSP0
 Cagliari Cagliari NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cagua Cagua NPCSG00 # Venezuela
 Caguán Caguán NPCSG00 # Colombia
@@ -3153,6 +3154,7 @@ Cúa Cúa NPCSG00 # Venezuela
 Cúcuta Cúcuta NPCSG00 # Colombia
 Cúpira Cúpira NPCSG00 # Venezuela
 D'aubuisson D'aubuisson NPCNSP0 # wiki common surnames
+DGAIA DGAIA NPFSO00
 DGT DGT NPFSO00
 DLE DLE NPMSO00
 DRAE DRAE NPMSO00
@@ -3399,6 +3401,7 @@ Duarte Duarte NPCNSP0 # wiki common surnames
 Dubai Dubai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dubin-Johnson Dubin-Johnson NPCNSP0 # medical
 Dublín Dublín NPCNG00 # topònim-apertium-falta-gènere-nombre
+Duchamp Duchamp NPCNSP0
 Duchenne Duchenne NPCNSP0 # medical
 Duckett Duckett NPCNSP0 # medical
 Duero Duero NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4724,6 +4727,7 @@ Guzmán Guzmán NPCNSP0 # wiki common surnames
 Guzmán Guzmán NPMSSP0 # avl
 Guárico Guárico NPCSG00 # Venezuela
 Gyumri Gyumri NPCSG00
+György György NPMSSP0
 Gàtova Gàtova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gálvez Gálvez NPCNSP0
 Gátova Gátova NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5636,6 +5640,7 @@ Köebner Köebner NPCNSP0 # medical
 Königsberg Königsberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 L'Aquila L'Aquila NPCNG00 # topònim-apertium-falta-gènere-nombre
 LATAM LATAM NPFSG00
+LEC LEC NPFSO00
 LOMCE LMOCE NPFSO00
 Labbé Labbé NPCNSP0 # medical
 Labiano Labiano NPMSSP0 # avl
@@ -5877,6 +5882,7 @@ Lieberkühn Lieberkühn NPCNSP0 # medical
 Liechtenstein Liechtenstein NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lieja Lieja NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ligeas Ligeas NPMSSP0 # avl
+Ligeti Ligeti NPCNSP0
 Ligoria Ligoria NPFSSP0 # avl
 Ligorio Ligorio NPMSSP0 # avl
 Liguria Liguria NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7647,6 +7653,7 @@ Pelegrín Pelegrín NPMSSP0 # avl
 Peleo Peleo NPMSSP0 # avl
 Pelileo Pelileo NPCSG00 # Ecuador
 Peloponeso Peloponeso NPCNG00 # topònim-apertium-falta-gènere-nombre
+Penderecki Penderecki NPCNSP0
 Pendred Pendred NPCNSP0 # medical
 Penedès Penedès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penedés Penedés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9819,6 +9826,7 @@ Varinia Varinia NPFSSP0 # avl
 Varoufakis Varoufakis NPCNSP0
 Varradòs Varradòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Varsovia Varsovia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Varèse Varèse NPCNSP0
 Vasconcelos Vasconcelos NPCNSP0
 Vater Vater NPCNSP0 # medical
 Vaticano Vaticano NPCNG00 # topònim-apertium-falta-gènere-nombre
