@@ -10494,6 +10494,7 @@ burlería=categories: F;fonts: LT;
 burlete=categories: M;fonts: LT;
 burlote=categories: M;fonts: LT;
 burmita=categories: F;fonts: LT;
+burnout [pl. burnouts]=categories: M;fonts: English;
 buro=categories: M;fonts: dr;
 burocracia=categories: F;fonts: LT;
 burocratismo=categories: M;fonts: LT;
