@@ -1815,6 +1815,7 @@ antiabortivo antiabortiva=categories: A;fonts: dr;
 antiaborto=categories: A;fonts: dr;
 antiabrasivo antiabrasiva=categories: A;fonts: LT;
 antiacadémico antiacadémica=categories: A;fonts: LT;
+antiacoso=categories: AI;fonts: derivat;
 antiadherente=categories: A;fonts: LT;
 antiafrodisiaco antiafrodisiaca=categories: A;fonts: dr;
 antiafrodisíaco antiafrodisíaca=categories: A;fonts: dr;
