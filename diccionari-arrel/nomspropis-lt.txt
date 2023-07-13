@@ -8336,6 +8336,7 @@ Risaralda Risaralda NPCSG00
 Rishi Rishi NPMSSP0
 Rita Rita NPFSSP0 # avl
 Ritz Ritz NPCNSP0
+Ritz-Carlton Ritz-Carlton NPCSO00
 Riudarenes Riudarenes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riudaura Riudaura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riudecanyes Riudecanyes NPCNG00 # topònim-apertium-falta-gènere-nombre

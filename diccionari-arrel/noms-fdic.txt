@@ -8547,6 +8547,7 @@ bebetina=categories: F;fonts: dr;
 bebida=categories: F;fonts: LT;
 bebienda=categories: F;fonts: dr;
 bebistrajo=categories: M;fonts: LT;
+bebop=categories: MS;fonts: English;
 bebé [pl. bebés]=categories: MF;fonts: LT;
 beca=categories: F;fonts: LT;
 becacina=categories: F;fonts: dr;
