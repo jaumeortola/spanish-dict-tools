@@ -10313,6 +10313,7 @@ Zeiss Zeiss NPCNSP0 # medical
 Zelaya Zelaya NPCNSP0
 Zelenski Zelenski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
+Zemmour Zemmour NPCNSP0
 Zenaida Zenaida NPFSSP0 # avl
 Zenes Zenes NPMSSP0 # avl
 Zenit Zenit NPMSSP0 # avl
