@@ -67296,6 +67296,7 @@ zúa=categories: F;fonts: LT;
 ñor=categories: M;fonts: dr;
 ñora=categories: F;fonts: dr;
 ñorbo=categories: M;fonts: dr;
+PDA=categories: MFI;fonts: sigla;
 ñoñería=categories: F;fonts: LT;
 ñoñez=categories: F;fonts: LT;
 ñoño ñoña=categories: MF;fonts: LT;
