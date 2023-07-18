@@ -45339,6 +45339,7 @@ occipitalización=categories: F;fonts: medical;
 occipucio=categories: M;fonts: LT;
 occisión=categories: F;fonts: LT;
 occitano occitana=categories: MF;fonts: LT;
+oceanario=categories: M;fonts: termcat;
 oceanidad=categories: F;fonts: LT;
 oceanografía=categories: F;fonts: LT;
 oceanología=categories: F;fonts: LT;
