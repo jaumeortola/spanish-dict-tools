@@ -7956,6 +7956,7 @@ Primakov Primakov NPMSSP0
 Primitiva Primitiva NPFSSP0 # avl
 Primitivo Primitivo NPMSSP0 # avl
 Primo Primo NPMSSP0 # avl
+Prince Prince NPMSSP0
 Pringle Pringle NPCNSP0 # medical
 Prinzmetal Prinzmetal NPCNSP0
 Priorat Priorat NPCNG00 # topònim-apertium-falta-gènere-nombre
