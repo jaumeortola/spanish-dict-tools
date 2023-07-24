@@ -6903,6 +6903,7 @@ audio=categories: M;fonts: LT;
 audioanalgesia=categories: F;fonts: LT;
 audiocasete=categories: MF;fonts: dr;
 audioconferencia=categories: F;fonts: LT;
+audiodescripción=categories: F;fonts: derivat;
 audiofrecuencia=categories: F;fonts: LT;
 audiografía=categories: F;fonts: LT;
 audiograma=categories: M;fonts: LT;

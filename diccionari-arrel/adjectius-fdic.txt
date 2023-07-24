@@ -11117,6 +11117,7 @@ fetichista=categories: A;fonts: LT;
 feticida=categories: A;fonts: LT;
 fetén=categories: AI;fonts: LT;
 feudal=categories: A;fonts: LT;
+feudalizante=categories: A;fonts: derivat;
 feudatario feudataria=categories: A;fonts: LT;
 feérico feérica=categories: A;fonts: dr;
 feísimo feísima=categories: A;fonts: superlative;
