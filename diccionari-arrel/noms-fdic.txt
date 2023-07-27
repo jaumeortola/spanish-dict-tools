@@ -52250,6 +52250,7 @@ psitacosis=categories: FI;fonts: dr;
 psoas=categories: MI;fonts: LT;
 psofómetro=categories: M;fonts: LT;
 psoriasis=categories: FI;fonts: LT;
+pteranodonte=categories: M;fonts: fundeu;
 pteridófito=categories: M;fonts: LT;
 pterigio=categories: M;fonts: LT;
 pterigión=categories: M;fonts: medical;
