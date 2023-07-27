@@ -28603,6 +28603,7 @@ federación=categories: F;fonts: LT;
 federalidad=categories: F;fonts: LT;
 federalismo=categories: M;fonts: LT;
 federalista=categories: MF;fonts: LT;
+fediverso=categories: M;fonts: fundeu;
 feed-back=categories: MS;fonts: LT;
 feedback=categories: MS;fonts: LT;
 feeling [pl. feelings]=categories: M;fonts: LT;
