@@ -10277,6 +10277,7 @@ bruscadera=categories: F;fonts: LT;
 bruscate=categories: M;fonts: dr;
 brusela=categories: F;fonts: LT;
 bruselense=categories: MF;fonts: LT;
+bruselización=categories: F;fonts: wiki;
 brusquedad=categories: F;fonts: LT;
 brusquero=categories: M;fonts: dr;
 brutada=categories: F;fonts: dr;
