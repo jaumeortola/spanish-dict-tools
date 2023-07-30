@@ -8514,6 +8514,7 @@ SER SER NPCSO00
 SIGGRAPH SIGGRAPH NPCNO00
 SNP SNP NPMSO00
 SOFORT SOFORT NPCNO00
+Saatchi Saatchi NPCNSP0
 Saavedra Saavedra NPCNSP0
 Saavedra Saavedra NPCNSP0 # wiki common surnames
 Sabadell Sabadell NPCNG00 # topònim-apertium-falta-gènere-nombre
