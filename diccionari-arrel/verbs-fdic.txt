@@ -1246,6 +1246,7 @@ aturdir=categories: V;model:partir;fonts: LT;
 aturrullar=categories: V;model:amar;fonts: LT;
 aturullar=categories: V;model:amar;fonts: LT;
 atusar=categories: V;model:amar;fonts: LT;
+audiodescribir=categories: V;model:escribir;fonts: derivat;
 auditar=categories: V;model:amar;fonts: LT;
 augurar=categories: V;model:amar;fonts: LT;
 aullar=categories: V;model:aullar;fonts: LT;

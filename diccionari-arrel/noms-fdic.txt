@@ -62948,6 +62948,7 @@ tradición=categories: F;fonts: LT;
 traducción=categories: F;fonts: LT;
 traducianismo=categories: M;fonts: dr;
 traducibilidad=categories: F;fonts: LT;
+traductología=categories: F;fonts: wiki;
 traductor traductora=categories: MF;fonts: LT;
 traedor traedora=categories: MF;fonts: LT;
 traedura=categories: F;fonts: LT;

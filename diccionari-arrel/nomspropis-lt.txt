@@ -4656,6 +4656,7 @@ Guamote Guamote NPCSG00 # Ecuador
 Guanajuato Guanajuato NPCSG00
 Guanare Guanare NPCSG00 # Venezuela
 Guanarito Guanarito NPCSG00 # Venezuela
+Guangzhou Guangzhou NPCSG00
 Guanipa Guanipa NPCSG00 # Venezuela
 Guantánamo Guantánamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guarambaré Guarambaré NPCSG00 # Paraguay
@@ -7262,6 +7263,7 @@ Okazaki Okazaki NPCNSP0 # medical
 Okinawa Okinawa NPCSG00
 Oklahoma Oklahoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olaf Olaf NPMSSP0 # avl
+Olalla Olalla NPCNSP0
 Olao Olao NPMSSP0 # avl
 Olava Olava NPFSSP0 # avl
 Olavarría Olavarría NPCSG00 # Argentina
