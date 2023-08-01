@@ -6069,6 +6069,7 @@ Ludovico Ludovico NPMSSP0 # avl
 Ludovina Ludovina NPFSSP0 # avl
 Ludovino Ludovino NPMSSP0 # avl
 Ludwig Ludwig NPCNSP0 # wiki
+Luftwaffe Luftwaffe NPFSO00
 Lugano Lugano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lugansk Lugansk NPCSG00
 Lugo Lugo NPCNG00 # topònim-apertium-falta-gènere-nombre

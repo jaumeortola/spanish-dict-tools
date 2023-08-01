@@ -23810,6 +23810,7 @@ seminífero seminífera=categories: A;fonts: LT;
 seminívoro seminívora=categories: A;fonts: LT;
 semiobstruido semiobstruida=categories: A;fonts: LT;
 semioficial=categories: A;fonts: LT;
+semiolímpico semiolímpica=categories: A;fonts: derivat;
 semiológico semiológica=categories: A;fonts: LT;
 semioval=categories: A;fonts: LT;
 semipatinador semipatinadora=categories: A;fonts: LT;
