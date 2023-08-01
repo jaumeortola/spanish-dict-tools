@@ -7297,6 +7297,7 @@ Olocau Olocau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olost Olost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olot Olot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olt Olt NPCNG00 # topònim-apertium-falta-gènere-nombre
+Oltra Oltra NPCNSP0
 Olvan Olvan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olvido Olvido NPCSSP0 # avl
 Olèrdola Olèrdola NPCNG00 # topònim-apertium-falta-gènere-nombre
