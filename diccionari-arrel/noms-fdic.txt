@@ -46499,6 +46499,7 @@ pacotillero pacotillera=categories: MF;fonts: LT;
 pactante=categories: MF;fonts: LT;
 pactismo=categories: M;fonts: LT;
 pacto=categories: M;fonts: LT;
+pactómetro=categories: M;fonts: neologisme;
 pacumutu=categories: M;fonts: dr;
 pacón=categories: M;fonts: dr;
 pacú=categories: M;fonts: dr;
