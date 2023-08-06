@@ -7779,6 +7779,7 @@ Pilato Pilato NPMSSP0 # avl
 Pilatos Pilatos NPMSSP0 # avl
 Piles Piles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pili Pili NPFSSP0 # avl
+Pilos Pilos NPCSG00
 Pimampiro Pimampiro NPCSG00 # Ecuador
 Pimentel Pimentel NPCNSP0
 Pina Pina NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10461,4 +10462,4 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ørsted Ørsted NPCNSP0
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
-Łódź Łódź NPCNG00 # topònim-apertium-falta-gènere-nombre
+Łódź Łódź NPCSG00 # topònim-apertium
