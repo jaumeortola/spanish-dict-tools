@@ -4900,6 +4900,7 @@ Hermosillo Hermosillo NPMSG00
 Hermógenes Hermógenes NPMSSP0 # avl
 Hernandarias Hernandarias NPCSG00 # Paraguay
 Hernando Hernando NPMSSP0 # avl
+Hernangómez Hernangómez NPCNSP0
 Hernán Hernán NPMSSP0 # avl
 Hernández Hernández NPCNSP0 # wiki common surnames
 Hero Hero NPMSSP0 # avl
