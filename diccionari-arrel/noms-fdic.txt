@@ -8906,6 +8906,7 @@ bicicros=categories: MI;fonts: LT;
 bicicross=categories: MI;fonts: LT;
 bicimoto=categories: F;fonts: dr;
 bicipolicía=categories: MF;fonts: derivat;
+bicitaxi=categories: M;fonts: esadir;
 biciusuario biciusuaria=categories: MF;fonts: derivat;
 bicloruro=categories: M;fonts: LT;
 bicoca=categories: F;fonts: LT;
