@@ -6087,6 +6087,7 @@ neviscar=categories: V;model:abarcar;fonts: LT defectiu:3S;
 nidificar=categories: V;model:abarcar;fonts: LT;
 nielar=categories: V;model:amar;fonts: LT;
 nimbar=categories: V;model:amar;fonts: LT;
+ningufonear=categories: V;model:amar;fonts: fundeu;
 ningunear=categories: V;model:amar;fonts: ap;
 niquelar=categories: V;model:amar;fonts: LT;
 nitratar=categories: V;model:amar;fonts: LT;
