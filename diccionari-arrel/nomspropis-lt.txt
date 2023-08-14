@@ -8992,6 +8992,7 @@ Soria Soria NPCNSP0 # wiki common surnames
 Sorianello Sorianello NPCNG00 # topònim-apertium-falta-gènere-nombre
 Soriguera Soriguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sorita Sorita NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sorolla Sorolla NPCNSP0
 Soros Soros NPCNSP0
 Sorrentino Sorrentino NPCNSP0
 Sort Sort NPCNG00 # topònim-apertium-falta-gènere-nombre
