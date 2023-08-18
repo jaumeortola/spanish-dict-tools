@@ -11505,6 +11505,7 @@ fotorreceptor fotorreceptora=categories: A;fonts: LT;
 fotorrefractivo fotorrefractiva=categories: A;fonts: medical;
 fotorresistente=categories: A;fonts: dr;
 fotosensibilizador fotosensibilizadora=categories: A;fonts: dr;
+fotosensibilizante=categories: A;fonts: fundeu;
 fotosensible=categories: A;fonts: LT;
 fotosensitivo fotosensitiva=categories: A;fonts: medical;
 fotosférico fotosférica=categories: A;fonts: LT;
