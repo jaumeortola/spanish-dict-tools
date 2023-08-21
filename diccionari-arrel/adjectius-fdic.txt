@@ -8276,6 +8276,7 @@ despreciativo despreciativa=categories: A;fonts: LT;
 despreocupadísimo despreocupadísima=categories: A;fonts: superlative;
 desprevenido desprevenida=categories: A;fonts: LT;
 desprolijo desprolija=categories: A;fonts: dr;
+desproporcional=categories: A;fonts: LT;
 despropositado despropositada=categories: A;fonts: LT;
 despótico despótica=categories: A;fonts: LT;
 desquiciador desquiciadora=categories: A;fonts: LT;
