@@ -22013,6 +22013,7 @@ desprevención=categories: F;fonts: LT;
 desprivatización=categories: F;fonts: LT;
 desprolijidad=categories: F;fonts: dr;
 despropanizador=categories: M;fonts: LT;
+desproporcionalidad=categories: F;fonts: derivat;
 desproporción=categories: F;fonts: LT;
 despropósito=categories: M;fonts: LT;
 desprotección=categories: F;fonts: derivat;

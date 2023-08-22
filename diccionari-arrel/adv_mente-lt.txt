@@ -1443,6 +1443,7 @@ despreocupadamente despreocupadamente RG # lt
 desprevenidamente desprevenidamente RG # rae
 desprolijamente desprolijamente RG # rae
 desproporcionadamente desproporcionadamente RG # lt
+desproporcionalmente desproporcionalmente RG
 despóticamente despóticamente RG # lt
 desquiciadamente desquiciadamente RG # de corpus
 destacablemente destacablemente RG # lt2
