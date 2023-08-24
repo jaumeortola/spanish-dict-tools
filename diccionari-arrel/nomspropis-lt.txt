@@ -3206,6 +3206,7 @@ Danubio Danubio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Danzig Danzig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Darfur Darfur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Darier Darier NPCNSP0 # medical
+Darjeeling Darjeeling NPCSG00
 Darmstadt Darmstadt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Darnius Darnius NPCNG00 # topònim-apertium-falta-gènere-nombre
 Daroca Daroca NPCNG00 # topònim-apertium-falta-gènere-nombre
