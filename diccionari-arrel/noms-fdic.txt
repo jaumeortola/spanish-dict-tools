@@ -5786,6 +5786,7 @@ arconte=categories: M;fonts: LT;
 arcosa=categories: F;fonts: LT;
 arcoseno=categories: M;fonts: LT;
 arcosolio=categories: M;fonts: LT;
+arcotangente=categories: M;fonts: wiki;
 arcoíris=categories: MI;fonts: dr;
 arcuación=categories: F;fonts: dr;
 arcángel=categories: M;fonts: LT;
