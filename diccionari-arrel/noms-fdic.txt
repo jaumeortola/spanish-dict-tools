@@ -50584,6 +50584,7 @@ polocito=categories: M;fonts: LT;
 pololo=categories: M;fonts: LT;
 polonio=categories: M;fonts: LT;
 polonés polonesa=categories: MF;fonts: LT;
+poltergeist=categories: MI;fonts: english;
 poltrona=categories: F;fonts: LT;
 poltronería=categories: F;fonts: LT;
 polucita=categories: F;fonts: LT;

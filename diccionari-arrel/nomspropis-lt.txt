@@ -2371,6 +2371,7 @@ Carmina Carmina NPFSSP0 # avl
 Carmona Carmona NPCSG00
 Carnegie Carnegie NPCNSP0
 Carney Carney NPCNSP0 # medical
+Caro-Kann Caro-Kann NPCNSP0
 Carod-Rovira Carod-Rovira NPCNSP0
 Carol Carol NPFSSP0
 Carola Carola NPFSSP0 # avl
@@ -4474,6 +4475,7 @@ Gilles Gilles NPCNSP0 # medical
 Gillespie Gillespie NPCNSP0
 Gimenells Gimenells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gimigliano Gimigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gimnesias Gimnesias NPFPG00
 Giménez Giménez NPCNSP0 # wiki common surnames
 Gina Gina NPFSSP0 # avl
 Ginebra Ginebra NPFSG00 # topònim-apertium
@@ -9320,6 +9322,7 @@ Terencio Terencio NPMSSP0 # avl
 Teresa Teresa NPFSSP0 # avl
 Teresina Teresina NPFSSP0 # avl
 Teresita Teresita NPFSSP0
+Termópilas Termópilas NPFPG00
 Terra Terra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Terrades Terrades NPCNG00 # topònim-apertium-falta-gènere-nombre
 Terradets Terradets NPCNG00 # topònim-apertium-falta-gènere-nombre
