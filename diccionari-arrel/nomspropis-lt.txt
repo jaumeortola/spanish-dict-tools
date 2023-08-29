@@ -4632,6 +4632,7 @@ Guacara Guacara NPCSG00 # Venezuela
 Guadalajara Guadalajara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalaviar Guadalaviar NPCSG00
 Guadalest Guadalest NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guadalhorce Guadalhorce NPMSG00
 Guadalope Guadalope NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalquivir Guadalquivir NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalupe Guadalupe NPCSG00 # topònim-apertium
@@ -6922,6 +6923,7 @@ Muface Muface NPFSO00
 Muhamad Muhamad NPCNSP0 # wiki
 Muisne Muisne NPCSG00 # Ecuador
 Mula Mula NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mulhacén Mulhacén NPMSG00
 Muller Muller NPCNSP0
 Munson Munson NPCNSP0 # medical
 Muntanyola Muntanyola NPCNG00 # topònim-apertium-falta-gènere-nombre
