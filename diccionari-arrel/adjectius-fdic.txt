@@ -8222,6 +8222,7 @@ desolador desoladora=categories: A;fonts: LT;
 desollador desolladora=categories: A;fonts: LT;
 desopilante=categories: A;fonts: dr;
 desopilativo desopilativa=categories: A;fonts: dr;
+desorbitante=categories: A;fonts: fundeu;
 desordenadísimo desordenadísima=categories: A;fonts: superlative;
 desorganizador desorganizadora=categories: A;fonts: LT;
 desorientador desorientadora=categories: A;fonts: LT;
