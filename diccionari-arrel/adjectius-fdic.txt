@@ -1205,7 +1205,6 @@ alimentoso alimentosa=categories: A;fonts: dr;
 aliquebrado aliquebrada=categories: A;fonts: dr;
 alirrojo alirroja=categories: A;fonts: dr;
 alisador alisadora=categories: A;fonts: LT;
-alisio alisia=categories: A;fonts: LT;
 alismatáceo alismatácea=categories: A;fonts: dr;
 alismáceo alismácea=categories: A;fonts: dr;
 alistano alistana=categories: A;fonts: dr;
