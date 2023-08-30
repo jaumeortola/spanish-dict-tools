@@ -1346,6 +1346,7 @@ Bankart Bankart NPCNSP0 # medical
 Bankia Bankia NPFSO00
 Banyalbufar Banyalbufar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banyoles Banyoles NPCNG00 # topònim-apertium-falta-gènere-nombre
+Baquedano Baquedano NPCNSP0
 Baqueira Baqueira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baquerizo Baquerizo NPCSG00 # Ecuador
 Barac Barac NPMSSP0 # avl
@@ -3469,6 +3470,7 @@ Echeverri Echeverri NPCSG00
 Echeverría Echeverría NPCNSP0
 Eclesiastés Eclesiastés NPMSO00
 Economo Economo NPCNSP0 # medical
+Ecopetrol Ecopetrol NPFSO00
 Ecuador Ecuador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Edda Edda NPFSSP0 # avl
 Edebé Edebé NPCNO00
@@ -9454,6 +9456,7 @@ Tolstói Tolstói NPCNSP0
 Toluca Toluca NPCSG00
 Tom Tom NPMSSP0 # wiki
 Tomasa Tomasa NPFSSP0 # avl
+Tomatina Tomatina NPFSO00
 Tomelloso Tomelloso NPCSG00
 Tomás Tomás NPMSSP0 # avl
 Tona Tona NPCSG00 # topònim-apertium
