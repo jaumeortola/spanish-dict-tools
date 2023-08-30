@@ -9456,7 +9456,6 @@ Tolstói Tolstói NPCNSP0
 Toluca Toluca NPCSG00
 Tom Tom NPMSSP0 # wiki
 Tomasa Tomasa NPFSSP0 # avl
-Tomatina Tomatina NPFSO00
 Tomelloso Tomelloso NPCSG00
 Tomás Tomás NPMSSP0 # avl
 Tona Tona NPCSG00 # topònim-apertium
