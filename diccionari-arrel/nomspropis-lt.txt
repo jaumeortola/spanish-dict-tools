@@ -5496,6 +5496,7 @@ KDE KDE NPCNO00 # wiki
 Kabul Kabul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaffir Kaffir NPCNSP0 # medical
 Kahlo Kahlo NPCNSP0
+Kahneman Kahneman NPCNSP0
 Kahoot Kahoot NPCNO00
 Kajovka Kajovka NPFSG00
 Kalimantan Kalimantan NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9633,6 +9634,7 @@ Tuxtepec Tuxtepec NPCSG00 # México
 Tuxtla Tuxtla NPCSG00 # México
 Tuy Tuy NPCSG00 # Venezuela
 Tuéjar Tuéjar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tversky Tversky NPCNSP0
 Tyler Tyler NPCNSP0
 Tyndall Tyndall NPCNSP0 # medical
 Tàrbena Tàrbena NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10466,7 +10468,7 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ñuble Ñuble NPCSG00 # Chile
 Ñum Ñum NPCSG00 # Paraguay
 Òdena Òdena NPCNG00 # topònim-apertium-falta-gènere-nombre
-Òrrius Òrrius NPCNG00 # topònim-apertium-falta-gènere-nombre
+Òrrius Òrrius NPCSG00 # topònim-apertium-falta-gènere-nombre
 Óptima Óptima NPFSSP0 # avl
 Óptimo Óptimo NPMSSP0 # avl
 Óscar Óscar NPMNO00
