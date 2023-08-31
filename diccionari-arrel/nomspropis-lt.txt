@@ -4994,6 +4994,7 @@ Honoria Honoria NPFSSP0 # avl
 Honorio Honorio NPMSSP0 # avl
 Honrubia Honrubia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hopkins Hopkins NPCNSP0
+Hopkins-Cole Hopkins-Cole NPCNSP0
 Horacia Horacia NPFSSP0 # avl
 Horacio Horacio NPMSSP0 # avl
 Horner Horner NPCNSP0 # medical
@@ -5180,6 +5181,7 @@ Iragorry Iragorry NPCSG00 # Venezuela
 Iraida Iraida NPFSSP0 # avl
 Irak Irak NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irala Irala NPCSG00 # Paraguay
+Iranzo Iranzo NPCNSP0
 Irapa Irapa NPCSG00 # Venezuela
 Irapuato Irapuato NPCSG00
 Iraq Iraq NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5696,6 +5698,7 @@ Landau-Klegffner Landau-Klegffner NPCNSP0 # medical
 Landelina Landelina NPFSSP0 # avl
 Landelino Landelino NPMSSP0 # avl
 Lander Lander NPCSG00 # Venezuela
+Landete Landete NPCNSP0
 Landolfa Landolfa NPFSSP0 # avl
 Landolfo Landolfo NPMSSP0 # avl
 Lanfranco Lanfranco NPMSSP0 # avl
