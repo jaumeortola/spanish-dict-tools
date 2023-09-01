@@ -36977,6 +36977,7 @@ jesuita=categories: M;fonts: LT;
 jesuitismo=categories: M;fonts: dr;
 jesús=categories: M;fonts: LT;
 jet [pl. jets]=categories: MF;fonts: LT;
+jet-lag [pl. jet-lags]=categories: M;fonts: English;
 jeta=categories: MF;fonts: LT;
 jetazo=categories: M;fonts: dr;
 jeto=categories: M;fonts: dr;
