@@ -14516,6 +14516,7 @@ cheche=categories: M;fonts: dr;
 chechenio chechenia=categories: MF;fonts: LT;
 checheno chechena=categories: MF;fonts: LT;
 check-in [pl. check-ins]=categories: M;fonts: english;
+check-out [pl. check-outs]=categories: M;fonts: english;
 checo checa=categories: MF;fonts: LT;
 checoslovaco checoslovaca=categories: MF;fonts: LT;
 cheerleader [pl. cheerleaders]=categories: F;fonts: LT;

@@ -16176,6 +16176,7 @@ losanjado losanjada=categories: A;fonts: LT;
 losino losina=categories: A;fonts: dr;
 lotiforme=categories: A;fonts: LT;
 lotófago lotófaga=categories: A;fonts: dr;
+low-cost=categories: AI;fonts: English;
 loxodrómico loxodrómica=categories: A;fonts: LT;
 lozano lozana=categories: A;fonts: LT;
 lozanísimo lozanísima=categories: A;fonts: superlative;
