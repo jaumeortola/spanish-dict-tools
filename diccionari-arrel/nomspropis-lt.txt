@@ -9156,6 +9156,7 @@ Sófocles Sófocles NPMSSP0 # avl
 Sóller Sóller NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sóstenes Sóstenes NPMSSP0 # avl
 Súria Súria NPCNG00 # topònim-apertium-falta-gènere-nombre
+TAD TAD NPMSO00
 TEDH TEDH NPMSO00
 TGSS TGSS NPFSO00
 TV1 TV1 NPCSO00
@@ -9376,6 +9377,7 @@ Thuoy Thuoy NPCNSP0 # medical
 Thygeson Thygeson NPCNSP0 # medical
 Thyssen Thyssen NPCNSP0
 Thyssen-Bornemisza Thyssen-Bornemisza NPCNSP0
+Thérèse Thérèse NPFSSP0
 Tiana Tiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tiananmén Tiananmén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tianguistenco Tianguistenco NPCSG00 # México
