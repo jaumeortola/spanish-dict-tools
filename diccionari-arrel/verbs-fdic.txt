@@ -2702,6 +2702,7 @@ desazonar=categories: V;model:amar;fonts: LT;
 desbabar=categories: V;model:amar;fonts: LT;
 desbagar=categories: V;model:cargar;fonts: LT;
 desbancar=categories: V;model:abarcar;fonts: LT;
+desbancarizar=categories: V;model:abalanzar;fonts: derivat;
 desbandar=categories: V;model:amar;fonts: LT;
 desbarajustar=categories: V;model:amar;fonts: LT;
 desbaratar=categories: V;model:amar;fonts: LT;

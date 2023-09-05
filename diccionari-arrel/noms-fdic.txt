@@ -21092,6 +21092,7 @@ desazono=categories: M;fonts: LT;
 desazón=categories: F;fonts: LT;
 desbabadero=categories: M;fonts: dr;
 desbalance=categories: M;fonts: Latam;
+desbancarización=categories: F;fonts: derivat;
 desbandada=categories: F;fonts: LT;
 desbarajuste=categories: M;fonts: LT;
 desbaratador desbaratadora=categories: MF;fonts: LT;
