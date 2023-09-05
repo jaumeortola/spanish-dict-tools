@@ -18550,6 +18550,7 @@ nonigentésimo nonigentésima=categories: AO;fonts: LT;
 noningentésimo noningentésima=categories: AO;fonts: LT;
 nono nona=categories: A;fonts: LT;
 nonágono nonágona=categories: A;fonts: LT;
+nootrópico nootrópica=categories: A;fonts: derivat;
 norafricano norafricana=categories: A;fonts: dpd;
 noratlántico noratlántica=categories: A;fonts: dpd;
 norcoreano norcoreana=categories: A;fonts: LT;

@@ -45003,6 +45003,7 @@ nontronita=categories: F;fonts: LT;
 nonágono=categories: M;fonts: LT;
 noología=categories: F;fonts: LT;
 noosfera=categories: F;fonts: dr;
+nootrópico=categories: M;fonts: wiki;
 nopal=categories: M;fonts: LT;
 nopaleda=categories: F;fonts: LT;
 nopalera=categories: F;fonts: LT;
