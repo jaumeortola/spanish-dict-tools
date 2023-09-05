@@ -5266,6 +5266,7 @@ Iñaki Iñaki NPMSSP0
 Iósif Iósif NPMSSP0
 JJOO JJOO NPMPO00 # typographically incorrect
 JJPP JJPP NPMPO00 # typographically incorrect
+JMJ JMJ NPFNO00
 JONS JONS NPFPO00
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
