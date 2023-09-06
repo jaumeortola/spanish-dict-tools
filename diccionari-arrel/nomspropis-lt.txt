@@ -1061,6 +1061,7 @@ Ars Ars NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arsenia Arsenia NPFSSP0 # avl
 Arsenio Arsenio NPMSSP0 # avl
 Arsèguel Arsèguel NPCNG00 # topònim-apertium-falta-gènere-nombre
+Artadi Artadi NPCNSP0
 Artaldo Artaldo NPMSSP0 # avl
 Artana Artana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arteaga Arteaga NPCNSP0
@@ -5266,7 +5267,7 @@ Iñaki Iñaki NPMSSP0
 Iósif Iósif NPMSSP0
 JJOO JJOO NPMPO00 # typographically incorrect
 JJPP JJPP NPMPO00 # typographically incorrect
-JMJ JMJ NPFNO00
+JMJ JMJ NPCNO00
 JONS JONS NPFPO00
 JPG JPG NPCNO00 # wiki
 Jaca Jaca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7523,6 +7524,7 @@ Pals Pals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paltauf Paltauf NPCNSP0 # medical
 Paludi Paludi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pamela Pamela NPFSSP0 # avl
+Pamesa Pamesa NPCNO00
 Pampanito Pampanito NPCSG00 # Venezuela
 Pampatar Pampatar NPCSG00 # Venezuela
 Pamplona Pamplona NPCNG00 # topònim-apertium-falta-gènere-nombre
