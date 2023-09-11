@@ -822,6 +822,7 @@ VPN=categories: FI;fonts: sigla;
 VTC=categories: MFI;fonts: sigla;
 Veda=categories: M;fonts: dr;
 Vulgata=categories: F;fonts: dr;
+Web3=categories: MFI;fonts: wiki;
 XML=categories: MI;fonts: wiki;
 a [pl. aes]=categories: F;fonts: LT;
 ababa=categories: F;fonts: LT;
