@@ -2894,6 +2894,7 @@ Comoras Comoras NPCNG00# topònim-apertium-falta-gènere-nombre
 Comores Comores NPCNG00 # topònim-apertium-falta-gènere-nombre
 Complutense Complutense NPCNG00 # topònim-apertium-falta-gènere-nombre
 Compostela Compostela NPCSG00
+Compromís Compromís NPMSO00
 Compton Compton NPCNSP0 # medical
 Compuwave Compuwave NPCNO00
 Comte Comte NPCNSP0

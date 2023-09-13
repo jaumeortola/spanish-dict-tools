@@ -28069,6 +28069,7 @@ extinguidor=categories: M;fonts: dr;
 extintor=categories: M;fonts: LT;
 extirpación=categories: F;fonts: LT;
 extirpador extirpadora=categories: MF;fonts: LT;
+extorero extorera=categories: MF;fonts: derivat;
 extorno=categories: M;fonts: LT;
 extorsionador extorsionadora=categories: MF;fonts: LT;
 extorsionista=categories: MF;fonts: LT;

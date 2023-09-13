@@ -1959,6 +1959,7 @@ antifloculante=categories: A;fonts: LT;
 antiflogístico antiflogística=categories: A;fonts: dr;
 antifrancés antifrancesa=categories: A;fonts: dr;
 antifranquista=categories: A;fonts: LT;
+antifraude=categories: AI;fonts: derivat;
 antifuncional=categories: A;fonts: LT;
 antifuncionalista=categories: A;fonts: derivat;
 antiglobulínico antiglobulínica=categories: A;fonts: medical;
