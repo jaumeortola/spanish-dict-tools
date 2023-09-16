@@ -1894,6 +1894,7 @@ Boston Boston NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bot Bot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botallo Botallo NPCNSP0 # medical
 Botarell Botarell NPCNG00 # topònim-apertium-falta-gènere-nombre
+Botero Botero NPCNSP0
 Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botticelli Botticelli NPCNSP0
 Bottrell Bottrell NPCSG00 # Paraguay
@@ -10483,4 +10484,3 @@ l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCSG00 # topònim-apertium
-Botero Botero NPCNSP0
