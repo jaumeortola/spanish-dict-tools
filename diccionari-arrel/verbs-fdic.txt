@@ -5707,6 +5707,7 @@ lobreguecer=categories: V;model:agradecer;fonts: LT;
 localizar=categories: V;model:abalanzar;fonts: LT;
 lograr=categories: V;model:amar;fonts: LT;
 logrear=categories: V;model:amar;fonts: LT;
+loguear=categories: V;model:amar;fonts: LT;
 lomear=categories: V;model:amar;fonts: LT;
 loquear=categories: V;model:amar;fonts: LT;
 losar=categories: V;model:amar;fonts: LT;
