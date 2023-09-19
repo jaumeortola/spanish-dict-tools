@@ -10872,6 +10872,7 @@ fajador fajadora=categories: A;fonts: dr;
 fajardeño fajardeña=categories: A;fonts: dr;
 fajeado fajeada=categories: A;fonts: LT;
 fajón fajona=categories: A;fonts: LT;
+fake=categories: AI;fonts: english;
 falangiano falangiana=categories: A;fonts: dr;
 falangista=categories: A;fonts: LT;
 falaz=categories: A;fonts: LT;
