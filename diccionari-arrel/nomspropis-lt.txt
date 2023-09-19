@@ -5692,6 +5692,7 @@ Lambaré Lambaré NPCSG00 # Paraguay
 Lambayeque Lambayeque NPCSG00 # Perú
 Lamberta Lamberta NPFSSP0 # avl
 Lamberto Lamberto NPMSSP0 # avl
+Lambán Lambán NPCNSP0
 Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
