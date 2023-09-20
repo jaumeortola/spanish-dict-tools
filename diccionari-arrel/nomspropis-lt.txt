@@ -284,6 +284,7 @@ Adam Adam NPCNSP0 # wiki
 Adams Adams NPCNSP0 # wiki
 Adams-Stokes Adams-Stokes NPCNSP0 # medical
 Adara Adara NPFSSP0
+Adasil Adasil NPCSG00
 Adaucta Adaucta NPFSSP0 # avl
 Adaucto Adaucto NPMSSP0 # avl
 Adaya Adaya NPFSSP0 # avl
@@ -753,6 +754,7 @@ Anabela Anabela NPFSSP0 # avl
 Anabella Anabella NPFSSP0 # avl
 Anacleta Anacleta NPFSSP0 # avl
 Anacleto Anacleto NPMSSP0 # avl
+Anadia Anadia NPCSG00
 Ananías Ananías NPMSSP0 # avl
 Anasagasti Anasagasti NPCNSP0
 Anastasia Anastasia NPFSSP0 # avl
@@ -1234,6 +1236,8 @@ Azarías Azarías NPMSSP0 # avl
 Azaña Azaña NPCNSP0 # wiki
 Azcapotzalco Azcapotzalco NPCSG00
 Azerbaiyán Azerbaiyán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Azgour Azgour NPCSG00
+Azilal Azilal NPCSG00
 Aznar Aznar NPCNSP0
 Azores Azores NPCNG00 # topònim-apertium-falta-gènere-nombre
 Azorina Azorina NPFSSP0 # avl
@@ -3282,6 +3286,7 @@ Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
 Depp Depp NPCNSP0
 Dercum Dercum NPCNSP0 # medical
+Derna Derna NPCSG00
 Derrida Derrida NPCNSP0
 Desamparados Desamparados NPFSSP0 # avl
 Desamparados Desamparados NPMPSP0 # Virgen de
@@ -5122,6 +5127,7 @@ Idalia Idalia NPFSSP0 # avl
 Idoia Idoia NPFSSP0 # avl
 Ifigenia Ifigenia NPFSSP0 # avl
 Ifigenio Ifigenio NPMSSP0 # avl
+Ighil Ighil NPCSG00
 Ignacia Ignacia NPFSSP0 # avl
 Ignacio Ignacio NPMSSP0 # avl
 Igor Igor NPMSSP0 # avl
@@ -7140,6 +7146,7 @@ Nimes Nimes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nina Nina NPFSSP0 # avl
 Ninfa Ninfa NPFSSP0 # avl
 Nintendo Nintendo NPCNO00 # wiki
+Nipah Nipah NPCSG00
 Nirgua Nirgua NPCSG00 # Venezuela
 Niscemi Niscemi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nissen Nissen NPCNSP0 # medical
@@ -7436,6 +7443,7 @@ Otos Otos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ottawa Ottawa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Otto Otto NPCNSP0 # medical
 Otón Otón NPMSSP0 # avl
+Ouirgane Ouirgane NPCSG00
 Ourense Ourense NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ovalle Ovalle NPCSG00 # Chile
 Ovidia Ovidia NPFSSP0 # avl
@@ -9249,6 +9257,7 @@ Tartagal Tartagal NPCSG00 # Argentina
 Tarteso Tarteso NPCNG00
 Tartesos Tartesos NPCNG00
 Tartéside Tartéside NPCNG00
+Tarudant Tarudant NPCSG00
 Tarui Tarui NPCNSP0 # medical
 Tascón Tascón NPCNSP0
 Taser Taser NPCNO00
@@ -9595,6 +9604,7 @@ Trípoli Trípoli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trófima Trófima NPFSSP0 # avl
 Trófimo Trófimo NPMSSP0 # avl
 Tróyol Tróyol NPMSSP0 # avl
+Tsiolkovski Tsiolkovski NPCNSP0
 Tubal Tubal NPMSSP0 # avl
 Tubores Tubores NPCSG00 # Venezuela
 Tuca Tuca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10293,6 +10303,7 @@ Yorkshire Yorkshire NPCSG00
 YouTube YouTube NPCNO00
 Young Young NPCNSP0 # wiki
 Youssef Youssef NPCNSP0 # medical
+Youssoufia Youssoufia NPCSG00
 Ypacaraí Ypacaraí NPCSG00 # Paraguay
 Ypané Ypané NPCSG00 # Paraguay
 Ypejhú Ypejhú NPCSG00 # Paraguay
