@@ -7523,6 +7523,7 @@ sancochar=categories: V;model:amar;fonts: LT;
 sanear=categories: V;model:amar;fonts: LT;
 sangrar=categories: V;model:amar;fonts: LT;
 sanguificar=categories: V;model:abarcar;fonts: LT;
+sanitizar=categories: V;model:abalanzar;fonts: English;
 santificar=categories: V;model:abarcar;fonts: LT;
 santiguar=categories: V;model:averiguar;fonts: LT;
 saponificar=categories: V;model:abarcar;fonts: LT;
