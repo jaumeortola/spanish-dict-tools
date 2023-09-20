@@ -32497,6 +32497,7 @@ guarén=categories: M;fonts: dr;
 guarín=categories: M;fonts: LT;
 guasa=categories: F;fonts: LT;
 guasanga=categories: F;fonts: LT;
+guasap [pl. guasaps]=categories: M;fonts: fundeu;
 guasasa=categories: F;fonts: dr;
 guasaya=categories: F;fonts: dr;
 guasca=categories: F;fonts: LT;
