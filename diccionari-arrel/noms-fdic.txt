@@ -39133,6 +39133,7 @@ logrero logrera=categories: MF;fonts: LT;
 logrería=categories: F;fonts: LT;
 logro=categories: M;fonts: LT;
 logroñés logroñesa=categories: MF;fonts: LT;
+logueo=categories: M;fonts: English;
 loguero=categories: M;fonts: dr;
 logística=categories: F;fonts: LT;
 logógrafo=categories: M;fonts: LT;
