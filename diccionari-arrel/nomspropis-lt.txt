@@ -2617,6 +2617,7 @@ Chad Chad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chaikovski Chaikovski NPCNSP0 # wiki
 Chalco Chalco NPCSG00 # México
 Challapata Challapata NPCSG00 # Bolivia
+Challenger Challenger NPCNO00
 Chamartín Chamartín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambo Chambo NPCSG00 # Ecuador
