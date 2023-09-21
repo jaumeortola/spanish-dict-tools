@@ -795,6 +795,7 @@ Andrómeda Andrómeda NPFSSP0 # avl
 Andrónica Andrónica NPFSSP0 # avl
 Andrónico Andrónico NPMSSP0 # avl
 Andy Andy NPCNSP0 # wiki
+Andévalo Andévalo NPMSG00
 Andújar Andújar NPCSG00
 Angarita Angarita NPCNSP0
 Angelina Angelina NPFSSP0 # avl
