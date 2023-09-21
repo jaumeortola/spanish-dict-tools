@@ -58133,6 +58133,7 @@ señorón señorona=categories: MF;fonts: LT;
 señuelo=categories: M;fonts: LT;
 seó [pl. seós]=categories: MF;fonts: LT;
 sha=categories: M;fonts: LT;
+shampoo=categories: M;fonts: English;
 shantung=categories: MI;fonts: LT;
 share [pl. shares]=categories: M;fonts: english;
 shareware=categories: MS;fonts: english;
