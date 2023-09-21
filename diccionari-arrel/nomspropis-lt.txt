@@ -718,7 +718,7 @@ Amendolara Amendolara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amer Amer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ames Ames NPCNSP0 # medical
 Amiens Amiens NPCNG00 # topònim-apertium-falta-gènere-nombre
-Amiga Amiga NPCNO00 
+Amiga Amiga NPCNO00
 Amina Amina NPFSSP0 # avl
 Aminta Aminta NPMSSP0 # avl
 Amir Amir NPMSSP0 # avl
@@ -3922,6 +3922,7 @@ FIFA FIFA NPFSO00 # wiki
 FIL FIL NPFNO00
 FMI FMI NPMSO00
 FROB FROB NPMSO00
+FSE FSE NPCNO00
 Fabiana Fabiana NPFSSP0 # avl
 Fabio Fabio NPMSSP0 # avl
 Fabiola Fabiola NPFSSP0 # avl
@@ -4064,7 +4065,7 @@ Filipino Filipino NPMSSP0 # avl
 Filipo Filipo NPMSSP0 # avl
 Filis Filis NPFSSP0 # avl
 Filo Filo NPFSSP0 # avl
-Filo Filo NPMSSP0 
+Filo Filo NPMSSP0
 Filogaso Filogaso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Filomena Filomena NPFSSP0 # avl
 Filomeno Filomeno NPMSSP0 # avl
@@ -6633,6 +6634,7 @@ Mesoamérica Mesoamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mesola Mesola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mesopotamia Mesopotamia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mesoraca Mesoraca NPCNG00 # topònim-apertium-falta-gènere-nombre
+Messages Messages NPMSO00
 Messi Messi NPCNSP0
 Mestalla Mestalla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mestre Mestre NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7246,6 +7248,7 @@ Oberto Oberto NPMSSP0 # avl
 Oberá Oberá NPCSG00 # Argentina
 Objective-C Objective-C NPMSO00
 Obregón Obregón NPCNSP0
+Obsidian Obsidian NPMSO00
 Obélix Obélix NPMSSP0
 Ocampo Ocampo NPCNSP0
 Ocampos Ocampos NPCSG00 # Paraguay
@@ -7347,6 +7350,7 @@ Ontinyent Ontinyent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Onésima Onésima NPFSSP0 # avl
 Onésimo Onésimo NPMSSP0 # avl
 Opel Opel NPCNO00
+Opera Opera NPMSO00
 Oporto Oporto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oportuna Oportuna NPFSSP0 # avl
 Oportuno Oportuno NPMSSP0 # avl
@@ -9302,7 +9306,7 @@ Teià Teià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tejada Tejada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tejas Tejas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Telcel Telcel NPCNO00
-Telecinco Telecinco NPFSO00 
+Telecinco Telecinco NPFSO00
 Telegram Telegram NPCNO00
 Telemann Telemann NPCNSP0
 Telesfora Telesfora NPFSSP0 # avl
@@ -9630,7 +9634,7 @@ Tuluá Tuluá NPCSG00 # Colombia
 Tumaco Tumaco NPCSG00 # Colombia
 Tumeremo Tumeremo NPCSG00 # Venezuela
 Tunicia Tunicia NPCNG00 # topònim-apertium-falta-gènere-nombre
-Tunja Tunja NPCSG00 
+Tunja Tunja NPCSG00
 Tunuyán Tunuyán NPCSG00 # Argentina LO
 Tupiza Tupiza NPCSG00 # Bolivia
 Turbaco Turbaco NPCSG00 # Colombia
@@ -10431,6 +10435,7 @@ l'Horta l'Horta NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Olleria l'Olleria NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Orxa l'Orxa NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
+oXygen oXygen NPMSO00
 Àger Àger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Àneu Àneu NPFSG00 # topònim-apertium-falta-gènere-nombre
 Ábaco Ábaco NPMSSP0 # avl
