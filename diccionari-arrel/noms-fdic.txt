@@ -45555,6 +45555,7 @@ oferente=categories: M;fonts: LT;
 oferta=categories: F;fonts: LT;
 ofertante=categories: MF;fonts: LT;
 ofertorio=categories: M;fonts: LT;
+offboarding=categories: MS;fonts: English;
 office=categories: M;fonts: LT;
 offset=categories: MS;fonts: LT;
 offside=categories: M;fonts: english;
