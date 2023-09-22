@@ -7708,6 +7708,7 @@ Pepe Pepe NPMSSP0 # avl
 Perafita Perafita NPCNG00 # topònim-apertium-falta-gènere-nombre
 Perafort Perafort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peralada Peralada NPCNG00 # topònim-apertium-falta-gènere-nombre
+Perales Perales NPCNSP0
 Peralta Peralta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peralta Peralta NPCNSP0 # wiki common surnames
 Peramea Peramea NPCNG00 # topònim-apertium-falta-gènere-nombre

@@ -6,6 +6,7 @@ r dos ar VAP00PM # estados
 r das ar VAP00PF # estadas
 ar oy ar VAIP1S0 # estoy
 ar ás ar VAIP2S0 # estás
+ar ás ar VAIP2V0 # estás
 ar á ar VAIP3S0 # está
 r mos ar VAIP1P0 # estamos
 ar áis ar VAIP2P0 # estáis
