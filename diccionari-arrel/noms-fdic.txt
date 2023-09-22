@@ -20299,6 +20299,7 @@ damnificación=categories: F;fonts: LT;
 damnificado damnificada=categories: MF;fonts: LT;
 damán=categories: M;fonts: LT;
 dan=categories: M;fonts: dr;
+dana=categories: F;fonts: fundéu;
 danaide=categories: F;fonts: LT;
 danburita=categories: F;fonts: LT;
 dancing=categories: MS;fonts: LT;
