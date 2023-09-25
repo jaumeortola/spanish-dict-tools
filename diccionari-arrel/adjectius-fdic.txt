@@ -15668,6 +15668,7 @@ lamista=categories: A;fonts: dr;
 lamoso lamosa=categories: A;fonts: LT;
 lampante=categories: A;fonts: dr;
 lamparoso lamparosa=categories: A;fonts: dr;
+lampedusiano lampedusiana=categories: A;fonts: derivat;
 lampeño lampeña=categories: A;fonts: dr;
 lampiño lampiña=categories: A;fonts: LT;
 lanado lanada=categories: A;fonts: LT;

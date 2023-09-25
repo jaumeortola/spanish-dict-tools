@@ -663,6 +663,7 @@ DRM=categories: MI;fonts: fundeu;
 DSL=categories: MI;fonts: dr;
 DUI=categories: MFI;fonts: LT;
 DVD=categories: MI;fonts: sigla;
+EPA=categories: MFI;fonts: sigla;
 EPI=categories: MI;fonts: sigla;
 EPS=categories: MFI;fonts: wiki;
 ERE=categories: MI;fonts: LT;
