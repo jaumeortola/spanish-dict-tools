@@ -3957,6 +3957,7 @@ Famatina Famatina NPCSG00 # Argentina LO
 Famorca Famorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fanconi Fanconi NPCNSP0 # medical
 Faneras Faneras NPCNSP0 # medical
+Fani Fani NPFSSP0
 Fanzara Fanzara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Farache Farache NPMSSP0 # avl
 Faraday Faraday NPCNSP0
