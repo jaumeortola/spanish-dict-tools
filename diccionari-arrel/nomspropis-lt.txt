@@ -189,6 +189,7 @@ ASIN ASIN NPCNO00
 ATT ATT NPCNO00
 Aarón Aarón NPMSSP0 # avl
 Abacuc Abacuc NPMSSP0 # avl
+Abacus Abacus NPMNO00
 Abajas Abajas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abancay Abancay NPCSG00 # Perú
 Abanilla Abanilla NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8533,6 +8534,7 @@ Rutilia Rutilia NPFSSP0 # avl
 Rutilio Rutilio NPMSSP0 # avl
 Ruán Ruán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ryanair Ryanair NPCNO00
+Ryder Ryder NPCNO00
 Ráfah Ráfah NPCSG00
 Régula Régula NPFSSP0 # avl
 Régulo Régulo NPMSSP0 # avl
