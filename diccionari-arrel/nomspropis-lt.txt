@@ -7192,6 +7192,7 @@ Northampton Northampton NPCSG00
 Northern Northern NPCNSP0 # medical
 Noruega Noruega NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nostradamus Nostradamus NPMSSP0
+Notre-Dame Notre-Dame NPCSG00
 Novak Novak NPMSSP0
 Novalis Novalis NPMSSP0
 Novata Novata NPFSSP0 # avl
@@ -8083,6 +8084,7 @@ Pávlov Pávlov NPCNSP0
 Pénjamo Pénjamo NPCSG00 # México
 Pérez Pérez NPCNSP0 # wiki common surnames
 Pérgamo Pérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pérignon Pérignon NPCNSP0
 Pésaj Pésaj NPMSO00
 Pía Pía NPFSSP0 # avl
 Píllaro Píllaro NPCSG00 # Ecuador
