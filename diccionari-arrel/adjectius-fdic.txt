@@ -6766,6 +6766,7 @@ convulsivo convulsiva=categories: A;fonts: LT;
 convulso convulsa=categories: A;fonts: LT;
 conyugal=categories: A;fonts: LT;
 cooficial=categories: A;fonts: LT;
+cool=categories: AI;fonts: English;
 cooperador cooperadora=categories: A;fonts: LT;
 cooperativista=categories: A;fonts: LT;
 cooperativo cooperativa=categories: A;fonts: LT;

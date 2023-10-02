@@ -7509,6 +7509,7 @@ Paddington Paddington NPCNSP0
 Padilla Padilla NPCNSP0
 Padua Padua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paganini Paganini NPCNSP0
+Pages Pages NPCNSP0
 Paget Paget NPCNSP0 # medical
 Paine Paine NPCSG00 # Chile
 Paiporta Paiporta NPCNG00 # topònim-apertium-falta-gènere-nombre
