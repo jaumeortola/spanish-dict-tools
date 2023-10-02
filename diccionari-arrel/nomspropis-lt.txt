@@ -1366,6 +1366,7 @@ Baralt Baralt NPCSG00 # Venezuela
 Baranoa Baranoa NPCSG00 # Colombia
 Barany Barany NPCNSP0 # medical
 Baraquías Baraquías NPMSSP0 # avl
+Barat Barat NPCSG00
 Barbados Barbados NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barbastro Barbastro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barbate Barbate NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9920,6 +9921,7 @@ Venegas Venegas NPCNSP0 # wiki common surnames
 Veneranda Veneranda NPFSSP0 # avl
 Venerando Venerando NPMSSP0 # avl
 Venezuela Venezuela NPCNG00 # topònim-apertium-falta-gènere-nombre
+Venom Venom NPMSSP0
 Ventalló Ventalló NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ventura Ventura NPCSSP0 # avl
 Venturi Venturi NPCNSP0 # medical
@@ -10379,6 +10381,7 @@ Zarumilla Zarumilla NPCSG00 # Perú
 Zaíra Zaíra NPFSSP0 # avl
 Zebedeo Zebedeo NPMSSP0 # avl
 Zeiss Zeiss NPCNSP0 # medical
+Zelandia Zelandia NPFSG00
 Zelaya Zelaya NPCNSP0
 Zelenski Zelenski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
