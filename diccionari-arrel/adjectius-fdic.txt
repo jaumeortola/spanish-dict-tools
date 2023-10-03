@@ -24861,6 +24861,7 @@ superconstante=categories: A;fonts: derivat;
 supercontagiador supercontagiadora=categories: A;fonts: derivat;
 supercontento supercontenta=categories: A;fonts: derivat;
 superconvencionalísimo superconvencionalísima=categories: A;fonts: superlative1;
+supercool=categories: AI;fonts: English;
 supercorto supercorta=categories: A;fonts: derivat;
 supercortés=categories: A;fonts: derivat;
 supercostoso supercostosa=categories: A;fonts: derivat;
