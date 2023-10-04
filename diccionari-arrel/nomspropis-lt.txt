@@ -1642,6 +1642,8 @@ Benjamín Benjamín NPMSSP0 # avl
 Benlloc Benlloc NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benlloch Benlloch NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bennett Bennett NPCNSP0 # medical
+Bennie Bennie NPMSSP0
+Benny Benny NPMSSP0
 Bentham Bentham NPCNSP0
 Benyedid Benyedid NPCNSP0
 Benz Benz NPCNO00

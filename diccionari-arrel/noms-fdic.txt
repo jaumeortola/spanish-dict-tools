@@ -571,6 +571,7 @@
 #viraró=categories: M;fonts: dr;
 #vivo=categories: M;fonts: LT;
 #voley-playa=categories: MS;fonts: LT;
+#vor=categories: MI;fonts: LT; technical and infrequent
 #vox populi=categories: F;fonts: dr;
 #vía crucis=categories: M;fonts: dr;
 #won [pl. wones o wons]=categories: M;fonts: LT;
@@ -66242,7 +66243,6 @@ vomitivo=categories: M;fonts: LT;
 vomitona=categories: F;fonts: LT;
 vomitorio=categories: M;fonts: LT;
 voquible=categories: M;fonts: LT;
-vor=categories: MI;fonts: LT;
 voracidad=categories: F;fonts: LT;
 vorahúnda=categories: F;fonts: LT;
 vormela=categories: F;fonts: dr;
