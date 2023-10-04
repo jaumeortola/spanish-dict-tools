@@ -10154,6 +10154,7 @@ Waldenströn Waldenströn NPCNSP0 # medical
 Waldo Waldo NPMSSP0 # avl
 Walker Walker NPCNSP0 # wiki
 Wallace Wallace NPCNSP0 # wiki
+Wallapop Wallapop NPCNO00
 Walser Walser NPCNSP0
 Walt Walt NPCNSP0 # wiki
 Walter Walter NPCNSP0 # wiki
