@@ -4269,6 +4269,7 @@ Futani Futani NPCNG00 # topònim-apertium-falta-gènere-nombre
 Futuna Futuna NPCSG00
 Fátima Fátima NPFSG00 # topònim-apertium
 Fátima Fátima NPFSSP0 # avl
+Félez Félez NPCNSP0
 Félix Félix NPMSSP0 # avl
 Fénix Fénix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fígols Fígols NPCNG00 # topònim-apertium-falta-gènere-nombre
