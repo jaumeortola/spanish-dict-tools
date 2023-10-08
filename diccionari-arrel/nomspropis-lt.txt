@@ -2956,6 +2956,7 @@ Copenhague Copenhague NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copons Copons NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copparo Copparo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copperfield Copperfield NPCNSP0
+Coppola Coppola NPCNSP0
 Copra Copra NPCNSP0 # medical
 Copérnico Copérnico NPMSSP0
 Coquimbo Coquimbo NPCSG00 # Chile
@@ -2975,6 +2976,7 @@ Corigliano Corigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Corilha Corilha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Corina Corina NPFSSP0 # avl
 Corinto Corinto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Corleone Corleone NPCNSP0
 Cornelia Cornelia NPFSSP0 # avl
 Corneliana Corneliana NPFSSP0 # avl
 Corneliano Corneliano NPMSSP0 # avl
@@ -8091,6 +8093,7 @@ Purísimo Purísimo NPMSSP0 # avl
 Putin Putin NPCNSP0
 Putti Putti NPCNSP0 # medical
 Putumayo Putumayo NPCSG00
+Puzo Puzo NPCNSP0
 Puzol Puzol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Puán Puán NPCSG00 # Argentina LO
 Puçol Puçol NPCNG00 # topònim-apertium-falta-gènere-nombre
