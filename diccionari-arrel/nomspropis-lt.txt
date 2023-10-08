@@ -3457,6 +3457,7 @@ Déjerine-Roussy Déjerine-Roussy NPCNSP0 # medical
 Déjerine-Sottas Déjerine-Sottas NPCNSP0 # medical
 Déjerine-Thomas Déjerine-Thomas NPCNSP0 # medical
 Díaz Díaz NPCNSP0 # wiki common surnames
+Díaz-Plaja Díaz-Plaja NPCNSP0
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
 EAU EAU NPMPG00
 ECHO ECHO NPCNO00
@@ -5010,6 +5011,7 @@ Honorato Honorato NPMSSP0 # avl
 Honoria Honoria NPFSSP0 # avl
 Honorio Honorio NPMSSP0 # avl
 Honrubia Honrubia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hoover Hoover NPCNSP0
 Hopkins Hopkins NPCNSP0
 Hopkins-Cole Hopkins-Cole NPCNSP0
 Horacia Horacia NPFSSP0 # avl
@@ -9600,6 +9602,7 @@ Treblinka Treblinka NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trecastagni Trecastagni NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tredòs Tredòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tredós Tredós NPCNG00 # topònim-apertium-falta-gènere-nombre
+Trelawny Trelawny NPCNSP0
 Trelew Trelew NPCSG00 # Argentina
 Trello Trello NPCNO00
 Tremestieri Tremestieri NPCNG00 # topònim-apertium-falta-gènere-nombre
