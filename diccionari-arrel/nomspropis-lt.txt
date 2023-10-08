@@ -77,6 +77,7 @@
 #Göteborg Göteborg NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Hawai Hawai NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Hawaii Hawaii NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Hawkins Hawkins NPCNSP0
 #Helios Helios NPMSSP0 # avl
 #Imperio Imperio NPFSSP0 # avl
 #Indianapolis Indianapolis NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4833,7 +4834,6 @@ Hathor Hathor NPCNSP0 # wiki
 Hattiesburg Hattiesburg NPCSG00
 Havers Havers NPCNSP0 # medical
 Hawking Hawking NPCNSP0
-Hawkins Hawkins NPCNSP0
 Hawks Hawks NPCNSP0
 Hawái Hawái NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haydn Haydn NPCNSP0 # wiki
