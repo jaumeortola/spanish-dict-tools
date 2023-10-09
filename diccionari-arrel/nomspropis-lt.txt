@@ -10237,7 +10237,6 @@ Wiscott-Aldrich Wiscott-Aldrich NPCNSP0 # medical
 Witiza Witiza NPMSSP0 # avl
 Wittgenstein Wittgenstein NPCNSP0
 Wojtyla Wojtyla NPCNSP0
-Wolf Wolf NPCNSP0 # wiki
 Wolff Wolff NPCNSP0 # medical
 Wolff-Chaikoff Wolff-Chaikoff NPCNSP0 # medical
 Wolff-Parkinson-White Wolff-Parkinson-White NPCNSP0 # medical
@@ -10247,6 +10246,7 @@ Wolpe Wolpe NPCNSP0 # medical
 WooCommerce WooCommerce NPCNO00
 Wood Wood NPCNSP0 # medical
 Woody Woody NPCNSP0
+Woolf Woolf NPCNSP0 # wiki
 Wordle Wordle NPMSO00
 Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 World World NPCNG00 # English
