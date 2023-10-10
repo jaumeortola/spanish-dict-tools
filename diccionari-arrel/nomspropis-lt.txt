@@ -3585,6 +3585,7 @@ Elizalde Elizalde NPCSG00 # Ecuador
 Elizardo Elizardo NPCSG00 # Paraguay
 Elizondo Elizondo NPCSG00
 Elián Elián NPMSSP0 # avl
+Elling Elling NPCNSP0
 Ellington Ellington NPCNSP0
 Ellsworth-Howard Ellsworth-Howard NPCNSP0 # medical
 Elma Elma NPFSSP0 # avl
