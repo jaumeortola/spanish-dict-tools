@@ -10539,3 +10539,7 @@ oXygen oXygen NPMSO00
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCSG00 # topònim-apertium
+Pikachu Pikachu NPMSSP0
+Pichu Pichu NPMSSP0
+Raichu Raichu NPMSSP0
+Eevee Eevee NPMSSP0
