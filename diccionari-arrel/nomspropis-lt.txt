@@ -1541,6 +1541,7 @@ Bellús Bellús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belmonte Belmonte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belmopan Belmopan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belmopán Belmopán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Belodonte Belodonte NPCNSP0
 Belsito Belsito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beltrán Beltrán NPMSSP0 # avl
 Belém Belém NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4839,6 +4840,7 @@ Hattiesburg Hattiesburg NPCSG00
 Havers Havers NPCNSP0 # medical
 Hawking Hawking NPCNSP0
 Hawks Hawks NPCNSP0
+Hawthorne Hawthorne NPCNSP0
 Hawái Hawái NPCNG00 # topònim-apertium-falta-gènere-nombre
 Haydn Haydn NPCNSP0 # wiki
 Hayek Hayek NPCNSP0
@@ -5194,6 +5196,7 @@ Inocente Inocente NPMSSP0 # avl
 Intel Intel NPCNO00 # wiki
 Interbank Interbank NPCNO00
 Interpol Interpol NPFSO00
+Invisalign Invisalign NPCNO00
 Inés Inés NPFSSP0 # avl
 Ion Ion NPMSSP0 # avl
 Ione Ione NPFSSP0 # avl
@@ -5993,6 +5996,7 @@ Liz Liz NPFSSP0
 Lizarra Lizarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lizbeth Lizbeth NPFSSP0
 Lizeth Lizeth NPFSSP0
+Lizondo Lizondo NPCNSP0
 Liádov Liádov NPCNSP0 # wiki
 Lladorre Lladorre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lladurs Lladurs NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7446,6 +7450,7 @@ Orxeta Orxeta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orán Orán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orís Orís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osaka Osaka NPCNG00 # topònim-apertium-falta-gènere-nombre
+Osborne Osborne NPCNSP0
 Oseas Oseas NPMSSP0 # avl
 Osetia Osetia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osiris Osiris NPMSSP0 # avl
@@ -9106,6 +9111,7 @@ Stavanger Stavanger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
 Stefanaconi Stefanaconi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stein-Leventhal Stein-Leventhal NPCNSP0
+Steiner Steiner NPCNSP0
 Steinert Steinert NPCNSP0 # medical
 Stellwag Stellwag NPCNSP0 # medical
 Stenberg Stenberg NPCNSP0 # medical
@@ -10220,6 +10226,7 @@ WikiLeaks WikiLeaks NPMNO00
 Wikipedia Wikipedia NPFSO00
 Wikipedias Wikipedia NPFPO00
 Wikisource Wikisource NPCNO00 # wiki
+Wilde Wilde NPCNSP0
 Wilfreda Wilfreda NPFSSP0 # avl
 Wilfredo Wilfredo NPMSSP0 # avl
 Wilhelm Wilhelm NPCNSP0 # wiki
