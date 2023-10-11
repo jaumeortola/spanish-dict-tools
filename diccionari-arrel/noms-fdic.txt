@@ -184,6 +184,7 @@
 #dossier [pl. dossieres o dossiers]=categories: M;fonts: LT;
 #droma=categories: F;fonts: LT;
 #dumper [pl. dumpers]=categories: M;fonts: LT;
+#duo=categories: M;fonts: LT;
 #dírhem=categories: M;fonts: dr;
 #e=categories: FS;fonts: LT;
 #elamí=categories: M;fonts: dr;
@@ -23554,7 +23555,6 @@ dumidor dumidora=categories: MF;fonts: dr;
 dumortierita=categories: F;fonts: LT;
 dumping [pl. dumpings]=categories: M;fonts: LT;
 duna=categories: F;fonts: LT;
-duo=categories: M;fonts: LT;
 duodenitis=categories: FI;fonts: LT;
 duodeno=categories: M;fonts: LT;
 duodenografía=categories: F;fonts: medical;
