@@ -3431,6 +3431,7 @@ Duhamel Duhamel NPCNSP0 # medical
 Duitama Duitama NPCSG00 # Colombia
 Duke Duke NPCNSP0
 Dukes Dukes NPCNSP0 # medical
+Dulcinea Dulcinea NPFSSP0
 Dumas Dumas NPCNSP0
 Duna Duna NPFSSP0 # avl
 Duncan Duncan NPCNSP0 # medical
@@ -7110,6 +7111,7 @@ Nazario Nazario NPMSSP0 # avl
 Naím Naím NPMSSP0 # avl
 Naín Naín NPMSSP0 # avl
 Nebraska Nebraska NPCNG00 # topònim-apertium-falta-gènere-nombre
+Necaxa Necaxa NPCSG00
 Necochea Necochea NPCSG00 # Argentina
 Ned Ned NPMSSP0
 Neera Neera NPFSSP0 # avl
@@ -10528,6 +10530,7 @@ oXygen oXygen NPMSO00
 Éibar Éibar NPCSG00
 Éller Éller NPCNG00 # topònim-apertium-falta-gènere-nombre
 Énguera Énguera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Étienne Étienne NPMSSP0
 Éufrates Éufrates NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ía Ía NPFSSP0 # avl
 Ícaro Ícaro NPMSSP0 # avl
