@@ -7132,6 +7132,7 @@ Neptuno Neptuno NPMSSP0 # avl
 Nerea Nerea NPFSSP0 # avl
 Nereida Nereida NPFSSP0 # avl
 Nereo Nereo NPMSSP0 # avl
+Nerja Nerja NPCNG00
 Neruda Neruda NPCNSP0 # wiki
 Nerón Nerón NPMSSP0 # avl
 Nestoria Nestoria NPFSSP0 # avl
@@ -7234,6 +7235,7 @@ Nuakchott Nuakchott NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nules Nules NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nulles Nulles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Numancia Numancia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Numidia Numidia NPCNG00
 Nuria Nuria NPFSG00 # topònim-apertium
 Nuria Nuria NPFSSP0 # avl
 Nursultán Nursultán NPCSG00

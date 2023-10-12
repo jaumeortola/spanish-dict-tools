@@ -15531,6 +15531,7 @@ kampucheano kampucheana=categories: A;fonts: LT;
 kanindeyuense=categories: A;fonts: dr;
 kanjobal=categories: A;fonts: dr;
 kantiano kantiana=categories: A;fonts: LT;
+karabají [pl. karabajís o karabajíes]=categories: A;fonts: fundeu;
 karakul=categories: A;fonts: LT;
 kastila=categories: A;fonts: dr;
 kazajo kazaja=categories: A;fonts: dr;
