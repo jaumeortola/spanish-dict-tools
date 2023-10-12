@@ -7236,8 +7236,8 @@ Noé Noé NPMSSP0 # avl
 Nuakchott Nuakchott NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nules Nules NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nulles Nulles NPCNG00 # topònim-apertium-falta-gènere-nombre
-Numancia Numancia NPCNG00 # topònim-apertium-falta-gènere-nombre
-Numidia Numidia NPCNG00
+Numancia Numancia NPFSG00 # topònim-apertium
+Numidia Numidia NPFSG00
 Nuria Nuria NPFSG00 # topònim-apertium
 Nuria Nuria NPFSSP0 # avl
 Nursultán Nursultán NPCSG00
