@@ -7195,6 +7195,7 @@ Nixon Nixon NPCNSP0 # wiki
 Niza Niza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niágara Niágara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nièvre Nièvre NPCNG00 # topònim-apertium-falta-gènere-nombre
+Niño-Becerra Niño-Becerra NPCNSP0
 Noah Noah NPCSSP0
 Noain Noain NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nobol Nobol NPCSG00 # Ecuador
