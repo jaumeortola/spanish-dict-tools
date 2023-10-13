@@ -10603,3 +10603,4 @@ oXygen oXygen NPMSO00
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCSG00 # topònim-apertium
+PSG PSG NPMSO00
