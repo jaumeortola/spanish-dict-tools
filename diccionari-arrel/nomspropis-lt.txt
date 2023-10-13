@@ -7509,6 +7509,7 @@ PNG PNG NPCNO00 # wiki
 PNV PNV NPMSO00
 PP PP NPCNO00 # wiki
 PSE PSE NPMSO00
+PSG PSG NPMSO00
 PSN PSN NPCNO00
 PSOE PSOE NPCNO00 # wiki
 Pablito Pablito NPMSSP0 # familiar
@@ -10603,4 +10604,3 @@ oXygen oXygen NPMSO00
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCSG00 # topònim-apertium
-PSG PSG NPMSO00
