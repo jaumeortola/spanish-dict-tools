@@ -8633,7 +8633,6 @@ Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saint-Acheul Saint-Acheul NPCSG00
 Saint-Amand-Montrond Saint-Amand-Montrond NPCSG00
 Saint-Avold Saint-Avold NPCSG00
-Saint-Beuve Saint-Beuve NPCNSP0
 Saint-Brieuc Saint-Brieuc NPCSG00
 Saint-Chamond Saint-Chamond NPCSG00
 Saint-Cloud Saint-Cloud NPCSG00
