@@ -1302,6 +1302,7 @@ Bailén Bailén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bainbridge Bainbridge NPCNSP0 # medical
 Bairiki Bairiki NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bajmut Bajmut NPCSG00
+Baker Baker NPCNSP0
 Baker Baker NPCNSP0 # wiki
 Bakú Bakú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balaam Balaam NPMSSP0 # avl
@@ -4262,6 +4263,7 @@ Fuji Fuji NPCNG00 # wiki
 Fujimori Fujimori NPCNSP0 # wiki
 Fukala Fukala NPCNSP0 # medical
 Fukushima Fukushima NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fukuyama Fukuyama NPCNSP0
 Fulberto Fulberto NPMSSP0 # avl
 Fulbright Fulbright NPCNSP0
 Fulgencia Fulgencia NPFSSP0 # avl
@@ -8614,6 +8616,7 @@ Sabrina Sabrina NPFSSP0 # avl
 Sacanyet Sacanyet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sacañet Sacañet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sacramento Sacramento NPCSSP0 # avl
+Sade Sade NPCNSP0
 Saethre-Chotzen Saethre-Chotzen NPCNSP0 # medical
 Safira Safira NPFSSP0 # avl
 Safo Safo NPFSSP0 # avl
