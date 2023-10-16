@@ -1,4 +1,5 @@
 #afro afra=categories: A;fonts: LT, desus;
+#afro-americano afro-americana=categories: A;fonts: LT;
 #albero albera=categories: A;fonts: LT, desus;
 #alcahuetísimo alcahuetísima=categories: A;fonts: superlative;
 #aniversario aniversaria=categories: A;fonts: LT; unusual!
@@ -782,7 +783,6 @@ afro-abudabí [pl. afro-abudabís o afro-abudabíes]=categories: A;fonts: dr;
 afro-afgano afro-afgana=categories: A;fonts: LT;
 afro-albanés afro-albanesa=categories: A;fonts: LT;
 afro-alemán afro-alemana=categories: A;fonts: LT;
-afro-americano afro-americana=categories: A;fonts: LT;
 afro-andorrano afro-andorrana=categories: A;fonts: LT;
 afro-angoleño afro-angoleña=categories: A;fonts: LT;
 afro-antiguano afro-antiguana=categories: A;fonts: dr;
