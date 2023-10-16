@@ -5654,6 +5654,7 @@ Kock Kock NPCNSP0 # medical
 Kodak Kodak NPCNO00
 Koeman Koeman NPCNSP0
 Koeppe Koeppe NPCNSP0 # medical
+Koestler Koestler NPCNSP0
 Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kojewnikow Kojewnikow NPCNSP0 # medical
@@ -7099,6 +7100,7 @@ Navarrés Navarrés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navars Navars NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navas Navas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navata Navata NPCNG00 # topònim-apertium-falta-gènere-nombre
+Navier-Stokes Navier-Stokes NPCNSP0
 Navojoa Navojoa NPCSG00 # México
 Navàs Navàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navès Navès NPCNG00 # topònim-apertium-falta-gènere-nombre
