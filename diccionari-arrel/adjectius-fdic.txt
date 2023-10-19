@@ -10930,6 +10930,7 @@ empalagosísimo empalagosísima=categories: A;fonts: superlative;
 empalmadísimo empalmadísima=categories: A;fonts: superlative;
 empaquetador empaquetadora=categories: A;fonts: LT;
 empardecido empardecida=categories: A;fonts: LT;
+emparejable=categories: A;fonts: derivat;
 empastador empastadora=categories: A;fonts: LT;
 empatacado empatacada=categories: A;fonts: dr;
 empautado empautada=categories: A;fonts: dr;

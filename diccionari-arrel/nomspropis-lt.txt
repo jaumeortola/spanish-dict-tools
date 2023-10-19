@@ -1,4 +1,3 @@
-
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6726,6 +6725,7 @@ Miller-Fisher Miller-Fisher NPCNSP0 # medical
 Millán Millán NPCSG00 # topònim-apertium
 Millán Millán NPMSSP0 # avl
 Millán-Astray Millán-Astray NPCNSP0
+Milosevic Milosevic NPCNSP0
 Milton Milton NPCNSP0
 Milwaukee Milwaukee NPCNG00 # topònim-apertium-falta-gènere-nombre
 Milán Milán NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10230,6 +10230,7 @@ Wagner Wagner NPCNSP0 # wiki
 Walda Walda NPFSSP0 # avl
 Waldenströn Waldenströn NPCNSP0 # medical
 Waldo Waldo NPMSSP0 # avl
+Waldorf Waldorf NPCNSP0
 Walker Walker NPCNSP0 # wiki
 Wallace Wallace NPCNSP0 # wiki
 Wallapop Wallapop NPCNO00
