@@ -4372,6 +4372,7 @@ Gardel Gardel NPCNSP0 # wiki
 Gardenia Gardenia NPFSSP0 # avl
 Gardner Gardner NPCNSP0
 Gargallo Gargallo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gargallo Gargallo NPCNSP0
 Garibaldi Garibaldi NPCNSP0
 Garona Garona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Garraf Garraf NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6945,6 +6946,7 @@ Morgana Morgana NPFSSP0 # avl
 Morgans Morgans NPCNSP0 # medical
 Morigerati Morigerati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Morison Morison NPCNSP0 # medical
+Morisot Morisot NPCNSP0
 Moritz Moritz NPCNSP0
 Mormanno Mormanno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moroleón Moroleón NPCSG00 # México
@@ -8525,6 +8527,7 @@ Roscio Roscio NPCSG00 # Venezuela
 Roseau Roseau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosellón Rosellón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosen Rosen NPCNSP0
+Rosenberg Rosenberg NPCNSP0
 Rosenda Rosenda NPFSSP0 # avl
 Rosendo Rosendo NPMSSP0 # avl
 Roses Roses NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9060,6 +9063,7 @@ Siracusa Siracusa NPCSG00
 Siri Siri NPCSSP0
 Siria Siria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siro Siro NPMSSP0 # avl
+Sisley Sisley NPCNSP0
 Sitges Sitges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siurana Siurana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sixta Sixta NPFSSP0 # avl
