@@ -1104,6 +1104,7 @@ Asherman Asherman NPCNSP0 # medical
 Ashjabad Ashjabad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ashley Ashley NPCNSP0
 Asia Asia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Asier Asier NPMSSP0
 Asimov Asimov NPCNSP0 # wiki
 Asincrito Asincrito NPMSSP0 # avl
 Ask-Upmark Ask-Upmark NPCNSP0 # medical
@@ -7521,6 +7522,7 @@ PSN PSN NPCNO00
 PSOE PSOE NPCNO00 # wiki
 Pablito Pablito NPMSSP0 # familiar
 Pablo Pablo NPMSSP0 # avl
+Pac-Man Pac-Man NPCNSP0
 Paca Paca NPFSSP0 # avl
 Pacasmayo Pacasmayo NPCSG00 # Perú
 Pacheco Pacheco NPCNSP0
