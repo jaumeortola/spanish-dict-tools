@@ -39664,6 +39664,7 @@ macroquilia=categories: F;fonts: LT;
 macroquiria=categories: F;fonts: medical;
 macroquímica=categories: F;fonts: LT;
 macrorradiografía=categories: F;fonts: medical;
+macrorregión=categories: F;fonts: derivat;
 macroscopía=categories: F;fonts: LT;
 macrosistema=categories: M;fonts: LT;
 macrosociología=categories: F;fonts: LT;

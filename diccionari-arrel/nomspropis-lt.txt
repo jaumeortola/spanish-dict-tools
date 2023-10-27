@@ -484,6 +484,7 @@ Alborache Alborache NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alboraia Alboraia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alboraig Alboraig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alboraya Alboraya NPCNG00 # topònim-apertium-falta-gènere-nombre
+Alborán Alborán NPCSG00
 Albright Albright NPCNSP0 # medical
 Albright-Turner Albright-Turner NPCNSP0 # medical
 Albudeite Albudeite NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3830,7 +3831,6 @@ Estubeny Estubeny NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estéfano Estéfano NPMSSP0 # avl
 Estíbaliz Estíbaliz NPFSSP0 # avl
 Esuatini Esuatini NPCNG00 # topònim-apertium-falta-gènere-nombre
-Esvetlana Esvetlana NPFSSP0 # avl
 Etelvina Etelvina NPFSSP0 # avl
 Etelvino Etelvino NPMSSP0 # avl
 Ethan Ethan NPMSSP0
@@ -8135,6 +8135,7 @@ Pérez Pérez NPCNSP0 # wiki common surnames
 Pérgamo Pérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pérignon Pérignon NPCNSP0
 Pésaj Pésaj NPMSO00
+Pétain Pétain NPCNSP0
 Pía Pía NPFSSP0 # avl
 Píllaro Píllaro NPCSG00 # Ecuador
 Píndaro Píndaro NPMSSP0 # avl
@@ -8650,6 +8651,7 @@ Saint-Chamond Saint-Chamond NPCSG00
 Saint-Cloud Saint-Cloud NPCSG00
 Saint-Cyr Saint-Cyr NPCSG00
 Saint-Denis Saint-Denis NPCSG00
+Saint-Didier Saint-Didier NPMSG00
 Saint-Dizier Saint-Dizier NPCSG00
 Saint-Dié Saint-Dié NPCSG00
 Saint-Exupéry Saint-Exupéry NPCNSP0
@@ -8664,6 +8666,7 @@ Saint-Gervais Saint-Gervais NPCSG00
 Saint-Grégoire Saint-Grégoire NPCSG00
 Saint-Herblain Saint-Herblain NPCSG00
 Saint-Jacques Saint-Jacques NPCSG00
+Saint-Jean Saint-Jean NPMSSP0
 Saint-Jean-de-Maurienne Saint-Jean-de-Maurienne NPCSG00
 Saint-Lazare Saint-Lazare NPCSG00
 Saint-Louis Saint-Louis NPCSG00
@@ -9261,6 +9264,7 @@ Suva Suva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suzanne Suzanne NPCNSP0
 Suárez Suárez NPCNSP0 # wiki common surnames
 Svalbard Svalbard NPCNG00 # topònim-apertium-falta-gènere-nombre
+Svetlana Svetlana NPFSSP0 # avl: Esvetlana
 Sviatoslav Sviatoslav NPMSSP0
 Swan-Ganz Swan-Ganz NPCNSP0 # medical
 Swansea Swansea NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9549,6 +9553,7 @@ Tirana Tirana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tirante Tirante NPMSSP0 # avl
 Tiresias Tiresias NPMSSP0 # avl
 Tiriolo Tiriolo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tirol Tirol NPMSG00
 Tirso Tirso NPMSSP0 # avl
 Tirupur Tirupur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tisbe Tisbe NPFSSP0 # avl
@@ -10309,6 +10314,7 @@ Wilson Wilson NPMSSP0 # avl
 Wimbledon Wimbledon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Winchester Winchester NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windhoek Windhoek NPCNG00 # topònim-apertium-falta-gènere-nombre
+Windisch-Grätz Windisch-Grätz NPCNSP0
 Windows Windows NPCNO00 # wiki
 Windsor Windsor NPCNSP0
 Wisconsin Wisconsin NPCNG00 # topònim-apertium-falta-gènere-nombre
