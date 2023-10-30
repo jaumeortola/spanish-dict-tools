@@ -3489,6 +3489,7 @@ Ebro Ebro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ebstein Ebstein NPCNSP0 # medical
 Ecatepec Ecatepec NPCSG00 # México
 Echeandía Echeandía NPCSG00 # Ecuador
+Echegaray Echegaray NPCNSP0
 Echeverri Echeverri NPCSG00
 Echeverría Echeverría NPCNSP0
 Eclesiastés Eclesiastés NPMSO00
