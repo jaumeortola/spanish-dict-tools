@@ -10427,6 +10427,7 @@ York York NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yorkshire Yorkshire NPCSG00
 YouTube YouTube NPCNO00
 Young Young NPCNSP0 # wiki
+Yourcenar Yourcenar NPCNSP0
 Youssef Youssef NPCNSP0 # medical
 Youssoufia Youssoufia NPCSG00
 Ypacaraí Ypacaraí NPCSG00 # Paraguay
