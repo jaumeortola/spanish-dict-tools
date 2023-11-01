@@ -1171,6 +1171,7 @@ Audacia Audacia NPFSSP0 # avl
 Audacity Audacity NPCNO00
 Audaz Audaz NPMSSP0 # avl
 Aude Aude NPCNG00 # topònim-apertium-falta-gènere-nombre
+Auden Auden NPCNSP0
 Audenis Audenis NPCNSP0
 Auer Auer NPCNSP0 # medical
 Auerbach Auerbach NPCNSP0 # medical
@@ -4376,6 +4377,7 @@ Gardner Gardner NPCNSP0
 Gargallo Gargallo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gargallo Gargallo NPCNSP0
 Garibaldi Garibaldi NPCNSP0
+Garnier Garnier NPCNSP0
 Garona Garona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Garraf Garraf NPCNG00 # topònim-apertium-falta-gènere-nombre
 Garrido Garrido NPCNSP0 # wiki common surnames
