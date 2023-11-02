@@ -26185,6 +26185,7 @@ posreforma=categories: AI;fonts: derivat;
 posrenal=categories: A;fonts: medical; ?? posrrenal, postrenal
 posrevolucionario posrevolucionaria=categories: A;fonts: fundeu;
 posromántico posromántica=categories: A;fonts: dr;
+post-hardcore=categories: AI;fonts: english;
 post=categories: AI;fonts: LT;
 postal=categories: A;fonts: LT;
 postalveolar=categories: A;fonts: LT;
