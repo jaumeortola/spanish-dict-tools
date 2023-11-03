@@ -4568,6 +4568,7 @@ Godofreda Godofreda NPFSSP0 # avl
 Godofredo Godofredo NPMSSP0 # avl
 Godoy Godoy NPCNSP0
 Godoy Godoy NPCNSP0 # wiki common surnames
+Goebbels Goebbels NPCNSP0
 Goeckerman Goeckerman NPCNSP0 # medical
 Goethe Goethe NPMSSP0
 Gogh Gogh NPCNSP0 # wiki
