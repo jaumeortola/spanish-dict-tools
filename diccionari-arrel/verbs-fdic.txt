@@ -2177,6 +2177,7 @@ conocer=categories: V;model:agradecer;fonts: LT;
 conquistar=categories: V;model:amar;fonts: LT;
 consagrar=categories: V;model:amar;fonts: LT;
 conseguir=categories: V;model:seguir;fonts: LT;
+consensar=categories: V;model:amar;fonts: LT;
 consensuar=categories: V;model:actuar;fonts: LT;
 consentir=categories: V;model:sentir;fonts: LT;
 conservar=categories: V;model:amar;fonts: LT;

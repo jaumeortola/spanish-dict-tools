@@ -2213,6 +2213,7 @@ Calldetenes Calldetenes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calles Calles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Callús Callús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calmett Calmett NPCNSP0 # medical
+Calnegre Calnegre NPCNG00
 Calonge Calonge NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calopezzati Calopezzati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caloveto Caloveto NPCNG00 # topònim-apertium-falta-gènere-nombre
