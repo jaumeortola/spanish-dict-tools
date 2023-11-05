@@ -420,6 +420,7 @@ Aixa Aixa NPFSSP0 # avl
 Aiòder Aiòder NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ajaccio Ajaccio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ajax Ajax NPCNG00 # topònim-apertium-falta-gènere-nombre
+Al-Shifa Al-Shifa NPCNO00
 Alabaldo Alabaldo NPMSSP0 # avl
 Alabama Alabama NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alacant Alacant NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10529,6 +10530,7 @@ Zósima Zósima NPFSSP0 # avl
 Zósimo Zósimo NPMSSP0 # avl
 Zúrich Zúrich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zúñiga Zúñiga NPCNSP0 # wiki common surnames
+al-Mansur al-Mansur NPCNSP0
 al-Ándalus al-Ándalus NPMSG00
 d'Alembert d'Alembert NPCNSP0
 easyJet easyJet NPCNO00
