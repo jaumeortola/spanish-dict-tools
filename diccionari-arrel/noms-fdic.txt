@@ -60333,6 +60333,7 @@ séptimo séptima=categories: MF;fonts: LT;
 séptum=categories: MI;fonts: LT;
 séptuple=categories: MF;fonts: LT;
 séptuplo séptupla=categories: MF;fonts: LT;
+séquel [pl. séqueles]=categories: M;fonts: LT;
 séquito=categories: M;fonts: LT;
 sésamo=categories: M;fonts: LT;
 séviro=categories: M;fonts: LT;
