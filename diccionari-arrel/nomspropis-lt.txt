@@ -2906,6 +2906,7 @@ Colón Colón NPCNSP0
 Comacchio Comacchio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comarapa Comarapa NPCSG00 # Bolivia
 Comenges Comenges NPCNG00 # topònim-apertium-falta-gènere-nombre
+Comenius Comenius NPCNSP0
 Comitán Comitán NPCSG00 # México
 Commodore Commodore NPCNSP0 # wiki
 Commonwealth Commonwealth NPCNG00 # topònim-apertium-falta-gènere-nombre
