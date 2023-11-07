@@ -9369,6 +9369,7 @@ Taric Taric NPMSSP0 # avl
 Tarija Tarija NPCSG00 # Bolivia
 Tarkovski Tarkovski NPCNSP0
 Tarn Tarn NPCNG00 # topònim-apertium-falta-gènere-nombre
+Taro Taro NPMSSP0
 Tarquinio Tarquinio NPMSSP0
 Tarradellas Tarradellas NPCNSP0
 Tarragona Tarragona NPCNG00 # topònim-apertium-falta-gènere-nombre
