@@ -60748,6 +60748,7 @@ tamil=categories: M;fonts: LT;
 tamiz=categories: M;fonts: LT;
 tamización=categories: F;fonts: LT;
 tamizador=categories: M;fonts: LT;
+tamizaje=categories: M;fonts: méxico;
 tamo=categories: M;fonts: LT;
 tamojal=categories: M;fonts: dr;
 tamojo=categories: M;fonts: dr;
