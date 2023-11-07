@@ -805,6 +805,7 @@ STC=categories: FI;fonts: sigla;
 Supercopa=categories: F;fonts: LT;
 TAE=categories: MFI;fonts: sigla;
 TC=categories: MFI;fonts: sigla;
+TDAH=categories: MS;fonts: termcat;
 TDT=categories: FI;fonts: sigla;
 TEA=categories: MI;fonts: sigla;
 TEDAX=categories: MI;fonts: fundeu;

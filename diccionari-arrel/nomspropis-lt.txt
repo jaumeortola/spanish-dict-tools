@@ -2312,6 +2312,7 @@ Canturri Canturri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cantábrico Cantábrico NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canuda Canuda NPFSSP0 # avl
 Canuto Canuto NPMSSP0 # avl
+Canvas Canvas NPMNO00
 Canyelles Canyelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capadocia Capadocia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Capafonts Capafonts NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5548,6 +5549,7 @@ Júpiter Júpiter NPMSSP0 # avl
 Jünger Jünger NPCNSP0
 KDE KDE NPCNO00 # wiki
 Kabul Kabul NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kadírov Kadírov NPCNSP0
 Kaffir Kaffir NPCNSP0 # medical
 Kahlo Kahlo NPCNSP0
 Kahneman Kahneman NPCNSP0
@@ -8616,6 +8618,7 @@ SER SER NPCSO00
 SIGGRAPH SIGGRAPH NPCNO00
 SNP SNP NPMSO00
 SOFORT SOFORT NPCNO00
+SPEI SPEI NPMSO00
 Saatchi Saatchi NPCNSP0
 Saavedra Saavedra NPCNSP0
 Saavedra Saavedra NPCNSP0 # wiki common surnames
@@ -9841,6 +9844,7 @@ Ullastrell Ullastrell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ullastret Ullastret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ulldecona Ulldecona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ulldemolins Ulldemolins NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ulloa Ulloa NPCNSP0
 Ullrich Ullrich NPCNSP0 # medical
 Ullà Ullà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ulpiana Ulpiana NPFSSP0 # avl
