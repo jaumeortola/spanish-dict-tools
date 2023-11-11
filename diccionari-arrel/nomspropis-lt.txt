@@ -7023,6 +7023,7 @@ Márkov Márkov NPCNSP0
 Márquez Márquez NPCNSP0
 Máxima Máxima NPFSSP0 # avl
 Máximo Máximo NPMSSP0 # avl
+Mälzel Mälzel NPCNSP0
 Méjico Méjico NPCSG00 # topònim-apertium
 Mélenchon Mélenchon NPCNSP0
 Méndez Méndez NPCNSP0 # wiki common surnames

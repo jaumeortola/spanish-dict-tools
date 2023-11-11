@@ -8221,6 +8221,7 @@ costoclavicular=categories: A;fonts: LT;
 costocondral=categories: A;fonts: LT;
 costocoracoideo costocoracoidea=categories: A;fonts: medical;
 costodiafragmático costodiafragmática=categories: A;fonts: LT;
+costoefectivo costoefectiva=categories: A;fonts: fundeu;
 costoescapular=categories: A;fonts: medical;
 costoesternal=categories: A;fonts: medical;
 costogénico costogénica=categories: A;fonts: medical;
