@@ -55198,6 +55198,7 @@ rescisión=categories: F;fonts: LT;
 rescoldera=categories: F;fonts: LT;
 rescoldo=categories: M;fonts: LT;
 rescripto=categories: M;fonts: LT;
+rescritura=categories: F;fonts: LT;
 rescuentro=categories: M;fonts: LT;
 resecación=categories: F;fonts: LT;
 resecamiento=categories: M;fonts: dr;
