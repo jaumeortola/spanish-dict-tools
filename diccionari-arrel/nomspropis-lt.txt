@@ -3360,6 +3360,7 @@ Discovery Discovery NPCNSP0 # wiki
 Disney Disney NPCNO00 # wiki
 Disneyland Disneyland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Divina Divina NPFSSP0 # avl
+Diwali Diwali NPMSO00
 Dizzy Dizzy NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
 Djokovic Djokovic NPCNSP0
