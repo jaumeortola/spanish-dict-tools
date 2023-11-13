@@ -169,6 +169,7 @@
 #l'Atzúvia l'Atzúvia NPCNG00 # topònim-apertium-falta-gènere-nombre
 13TV 13TV NPCNO00
 8TV 8TV NPCNO00
+ABC ABC NPCNO00
 ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
 AEMET AEMET NPFSO00
@@ -6200,6 +6201,7 @@ MWC MWC NPMSO00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mabel Mabel NPFSSP0 # avl
 Mac Mac NPCNO00 # wiki
+MacLeod MacLeod NPCNSP0
 Macabeo Macabeo NPMSSP0 # avl
 Macanao Macanao NPCSG00 # Venezuela
 Macao Macao NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6572,8 +6574,15 @@ McCarthy McCarthy NPCNSP0
 McCartney McCartney NPCNSP0 # wiki
 McCormick McCormick NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
+McDonald McDonald NPCSG00
+McDonald's McDonald's NPCNO00
+McGraw-Hill McGraw-Hill NPCNO00
 McKay McKay NPCNSP0
+McKinley McKinley NPCSG00
+McLaren McLaren NPCNO00
 McLeod McLeod NPCNSP0 # medical
+McLuhan McLuhan NPCNO00
+McNamara McNamara NPCNSP0
 Meatpacking Meatpacking NPCSG00
 Mecenas Mecenas NPMSSP0 # avl
 Meckel Meckel NPCNSP0 # medical
