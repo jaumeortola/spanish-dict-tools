@@ -6094,6 +6094,7 @@ Loreto Loreto NPCSSP0
 Lorica Lorica NPCSG00 # Colombia
 Loriguilla Loriguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lorquí Lorquí NPCNG00 # topònim-apertium-falta-gènere-nombre
+Losantos Losantos NPCNSP0
 Loseta Loseta NPCSSP0 # avl
 Lossada Lossada NPCSG00 # Venezuela
 Lot Lot NPMSSP0 # avl
@@ -10651,4 +10652,3 @@ oXygen oXygen NPMSO00
 Úbeda Úbeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Úrsula Úrsula NPFSSP0 # avl
 Łódź Łódź NPCSG00 # topònim-apertium
-Losantos Losantos NPCNSP0
