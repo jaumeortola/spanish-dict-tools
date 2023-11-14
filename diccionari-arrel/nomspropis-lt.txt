@@ -526,6 +526,7 @@ Alda Alda NPFSSP0 # avl
 Aldaia Aldaia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aldana Aldana NPCSG00
 Aldaya Aldaya NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aldeburgh Aldeburgh NPCSG00
 Aldini Aldini NPCNSP0
 Aldo Aldo NPMSSP0 # avl
 Aldonza Aldonza NPFSSP0 # avl
@@ -1675,6 +1676,7 @@ Bergonié-Tribondeau Bergonié-Tribondeau NPCNSP0 # medical
 Berguedà Berguedà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Berisso Berisso NPCSG00 # Argentina LO
 Berkeley Berkeley NPCSG00
+Berkshire Berkshire NPCSG00
 Berlandina Berlandina NPFSSP0 # avl
 Berlandino Berlandino NPMSSP0 # avl
 Berlinale Berlinale NPFSO00
@@ -3020,6 +3022,7 @@ Costen Costen NPCNSP0 # medical
 Costitx Costitx NPCNG00 # topònim-apertium-falta-gènere-nombre
 Costur Costur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cotacachi Cotacachi NPCSG00 # Ecuador
+Cotarelo Cotarelo NPCNSP0
 Cotes Cotes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cotoca Cotoca NPCSG00 # Bolivia
 Cotronei Cotronei NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4147,6 +4150,7 @@ Fonollosa Fonollosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fonseca Fonseca NPCNSP0
 Font Font NPCNG00 # topònim-apertium-falta-gènere-nombre
 Font-rubí Font-rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fontainebleau Fontainebleau NPCSG00
 Fontalba Fontalba NPFSG00
 Fontana Fontana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fontanares Fontanares NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4563,6 +4567,7 @@ Glisson Glisson NPCNSP0 # medical
 Gloucester Gloucester NPCSG00
 Glovo Glovo NPCNSP0
 Gluck Gluck NPCNSP0 # wiki
+Glyndebourne Glyndebourne NPCSG00
 Go Go NPCNSP0 # wiki
 Godaldo Godaldo NPMSSP0 # avl
 Godall Godall NPCNG00 # topònim-apertium-falta-gènere-nombre
