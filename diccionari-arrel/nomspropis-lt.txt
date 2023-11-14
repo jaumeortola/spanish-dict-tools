@@ -3481,6 +3481,7 @@ EAU EAU NPMPG00
 ECHO ECHO NPCNO00
 ECTS ECTS NPMSO00
 EEUU EEUU NPMPG00 # typographically incorrect
+EGM EGM NPMSO00
 ELCCO ELCCO NPCNO00
 ENAIRE ENAIRE NPCSO00
 ERC ERC NPCNO00
@@ -8134,6 +8135,7 @@ Punilla Punilla NPCSG00 # Argentina
 Punjab Punjab NPMSG00 # topònim-apertium
 Punyab Punyab NPMSG00
 Pura Pura NPFSSP0 # avl
+Purcell Purcell NPCNSP0
 Pureza Pureza NPFSSP0 # avl
 Purificación Purificación NPFSSP0 # avl
 Purkinje Purkinje NPCNSP0 # medical
@@ -10325,6 +10327,7 @@ Whitney Whitney NPCNSP0
 Wickam Wickam NPCNSP0 # medical
 Wifreda Wifreda NPFSSP0 # avl
 Wifredo Wifredo NPMSSP0 # avl
+Wii Wii NPFNO00
 WikiLeaks WikiLeaks NPMNO00
 Wikipedia Wikipedia NPFSO00
 Wikipedias Wikipedia NPFPO00
@@ -10558,6 +10561,7 @@ al-Mansur al-Mansur NPCNSP0
 al-Ándalus al-Ándalus NPMSG00
 d'Alembert d'Alembert NPCNSP0
 easyJet easyJet NPCNO00
+iCat iCat NPCNO00
 iTunes iTunes NPCNO00
 l'Alacantí l'Alacantí NPCNG00 # topònim-apertium-falta-gènere-nombre
 l'Albagés l'Albagés NPCNG00 # topònim-apertium-falta-gènere-nombre
