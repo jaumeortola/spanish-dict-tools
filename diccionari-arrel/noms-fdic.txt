@@ -59204,7 +59204,6 @@ solárium [pl. soláriums]=categories: M;fonts: LT;
 solénquima=categories: M;fonts: LT;
 solífugo=categories: M;fonts: LT;
 solípedo=categories: M;fonts: LT;
-som [pl. som]=categories: M;fonts: LT;
 soma=categories: MF;fonts: LT;
 somalí [pl. somalíes o somalís]=categories: MF;fonts: LT;
 somanta=categories: F;fonts: LT;
