@@ -19088,6 +19088,7 @@ criotrón=categories: M;fonts: LT;
 crioturbación=categories: F;fonts: LT;
 crioválvula=categories: F;fonts: LT;
 cripta=categories: F;fonts: LT;
+cripto [pl. criptos]=categories: F;fonts: LT;
 criptoactivo=categories: M;fonts: fundeu;
 criptoanálisis=categories: MI;fonts: LT;
 criptobanco=categories: M;fonts: fundeu;
