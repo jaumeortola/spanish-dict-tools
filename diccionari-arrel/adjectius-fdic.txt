@@ -22680,6 +22680,7 @@ multicopista=categories: A;fonts: LT;
 multicultural=categories: A;fonts: LT;
 multicéntrico multicéntrica=categories: A;fonts: LT;
 multicúspide=categories: A;fonts: LT;
+multideportivo multideportiva=categories: A;fonts: derivat;
 multidestino multidestina=categories: A;fonts: LT;
 multidifusión=categories: AI;fonts: wiki;
 multidimensional=categories: A;fonts: derivat;
