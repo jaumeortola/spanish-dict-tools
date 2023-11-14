@@ -1836,6 +1836,7 @@ Bobby Bobby NPMSSP0
 Bobures Bobures NPCSG00 # Venezuela
 Bocairent Bocairent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bocairente Bocairente NPCNG00 # topònim-apertium-falta-gènere-nombre
+Boccherini Boccherini NPCNSP0
 Boccherini Boccherini NPCNSP0 # wiki
 Bocchigliero Bocchigliero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bochdaleck Bochdaleck NPCNSP0 # medical
@@ -2653,6 +2654,7 @@ Charles Charles NPCNSP0
 Charlie Charlie NPCNSP0 # wiki
 Charlotte Charlotte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Charo Charo NPFSSP0 # avl
+Charpentier Charpentier NPCNSP0
 Chascomús Chascomús NPCSG00 # Argentina
 ChatGPT ChatGPT NPMSO00
 Chaves Chaves NPCNSP0
@@ -2751,6 +2753,7 @@ Ciempozuelos Ciempozuelos NPCSG00
 Cienfuegos Cienfuegos NPCNG00
 Cieza Cieza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cifuentes Cifuentes NPCNSP0
+Cimarosa Cimarosa NPCNSP0
 Cimet Cimet NPFSO00
 Cimino-Brescia Cimino-Brescia NPCNSP0 # medical
 Cinca Cinca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3153,6 +3156,7 @@ Cuá Cuá NPCSG00 # Paraguay
 Cuéllar Cuéllar NPCSG00
 Cynthia Cynthia NPFSSP0
 Czepa Czepa NPCNSP0 # medical
+Czerny Czerny NPCNSP0
 Càlig Càlig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cànoves Cànoves NPCNG00 # topònim-apertium-falta-gènere-nombre
 Càrcer Càrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3458,6 +3462,7 @@ Durán Durán NPMSSP0 # avl
 Dusambé Dusambé NPCNG00
 Duschlander Duschlander NPCNSP0 # medical
 Dushanbe Dushanbe NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dutilleux Dutilleux NPCNSP0
 Duvergie Duvergie NPCNSP0 # medical
 Dvořák Dvořák NPCNSP0 # wiki
 Dylan Dylan NPCNSP0
@@ -3827,6 +3832,7 @@ Estellencs Estellencs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Esteller Esteller NPCSG00 # Venezuela
 Estepona Estepona NPCSG00
 Ester Ester NPFSSP0 # avl
+Esterházy Esterházy NPCNSP0
 Esther Esther NPFSSP0 # avl
 Estigarribia Estigarribia NPCSG00 # Paraguay
 Estivella Estivella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4238,6 +4244,7 @@ Freiberg Freiberg NPCNSP0 # medical
 Freites Freites NPCSG00 # Venezuela
 Freixa Freixa NPCNSP0
 Freixas Freixas NPCNSP0
+Frescobaldi Frescobaldi NPCNSP0
 Fresia Fresia NPFSSP0 # avl
 Fresina Fresina NPFSSP0 # avl
 Freud Freud NPCNSP0 # wiki
@@ -4442,6 +4449,7 @@ Geldo Geldo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gelida Gelida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gelmiro Gelmiro NPMSSP0 # avl
 Gema Gema NPFSSP0 # avl
+Geminiani Geminiani NPCNSP0
 Genara Genara NPFSSP0 # avl
 Genaro Genaro NPMSSP0 # avl
 Genciana Genciana NPFSSP0 # avl
@@ -4496,6 +4504,7 @@ Gerónimo Gerónimo NPMSSP0 # avl
 Gescode Gescode NPCNO00
 Gessa Gessa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gestalgar Gestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gesualdo Gesualdo NPCNSP0
 Getafe Getafe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getulia Getulia NPFSSP0 # avl
 Getulio Getulio NPMSSP0 # avl
@@ -4523,6 +4532,7 @@ Gimigliano Gimigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gimnesias Gimnesias NPFPG00
 Giménez Giménez NPCNSP0 # wiki common surnames
 Gina Gina NPFSSP0 # avl
+Ginastera Ginastera NPCNSP0
 Ginebra Ginebra NPFSG00 # topònim-apertium
 Ginebra Ginebra NPFSSP0 # avl
 Ginebro Ginebro NPMSSP0 # avl
@@ -4613,6 +4623,7 @@ Goro Goro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gosling Gosling NPCNSP0
 Gotemburgo Gotemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gouda Gouda NPCSG00
+Gounod Gounod NPCNSP0
 Gowers Gowers NPCNSP0 # medical
 Goya Goya NPCNSP0
 Goyo Goyo NPMSSP0 # avl
@@ -5098,6 +5109,7 @@ Humildad Humildad NPFSSP0 # avl
 Humilde Humilde NPMSSP0 # avl
 Humiliana Humiliana NPFSSP0 # avl
 Humiliano Humiliano NPMSSP0 # avl
+Hummel Hummel NPCNSP0
 Hummel Hummel NPCNSP0 # wiki
 Hungría Hungría NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hunt Hunt NPCNSP0 # medical
@@ -6067,6 +6079,7 @@ Llívia Llívia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Locke Locke NPCNSP0
 Locri Locri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lodz Lodz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Loewe Loewe NPCNSP0
 Logan Logan NPCNSP0
 Logroño Logroño NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lohmann Lohmann NPCNSP0
@@ -6184,6 +6197,7 @@ Lutecia Lutecia NPFSSP0 # avl
 Lutero Lutero NPMSSP0 # avl
 Lutgarda Lutgarda NPFSSP0 # avl
 Lutgardo Lutgardo NPMSSP0 # avl
+Lutosławski Lutosławski NPCNSP0
 Luxemburgo Luxemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luz Luz NPFSSP0 # avl
 Luzdivina Luzdivina NPFSSP0 # avl
@@ -6981,6 +6995,7 @@ Moroni Moroni NPCNG00 # topònim-apertium-falta-gènere-nombre
 Morricone Morricone NPCNSP0
 Morton Morton NPCNSP0 # medical
 Morínigo Morínigo NPCSG00 # Paraguay
+Moscheles Moscheles NPCNSP0
 Moscova Moscova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moscú Moscú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mosela Mosela NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7351,6 +7366,7 @@ Odón Odón NPMSSP0 # avl
 Oersted Oersted NPCNSP0
 Oeste Oeste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ofelia Ofelia NPFSSP0 # avl
+Offenbach Offenbach NPCNSP0
 Ogassa Ogassa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oger Oger NPMSSP0 # avl
 Ogilvie Ogilvie NPCNSP0 # medical
@@ -7992,6 +8008,7 @@ Pompeyo Pompeyo NPMSSP0 # avl
 Pompidou Pompidou NPCNSP0
 Ponce Ponce NPCNSP0 # wiki
 Ponce Ponce NPCNSP0 # wiki common surnames
+Ponchielli Ponchielli NPCNSP0
 Poncia Poncia NPFSSP0 # avl
 Ponciana Ponciana NPFSSP0 # avl
 Ponciano Ponciano NPMSSP0 # avl
@@ -9192,6 +9209,7 @@ Spielmeyer-Vogt Spielmeyer-Vogt NPCNSP0 # medical
 Spinoza Spinoza NPCNSP0
 Spohr Spohr NPCNSP0
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Spontini Spontini NPCNSP0
 Sport Sport NPMSO00
 Springsteen Springsteen NPCNSP0
 Sputnik Sputnik NPCNO00
@@ -9299,6 +9317,7 @@ Sviatoslav Sviatoslav NPMSSP0
 Swan-Ganz Swan-Ganz NPCNSP0 # medical
 Swansea Swansea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Swazilandia Swazilandia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sweelinck Sweelinck NPCNSP0
 Swyer Swyer NPCNSP0 # medical
 Sydenham Sydenham NPCNSP0 # medical
 Sáenz Sáenz NPCNSP0
@@ -10156,6 +10175,7 @@ Vilavella Vilavella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vilaverd Vilaverd NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vilaür Vilaür NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vilcashuamán Vilcashuamán NPCSG00 # Perú
+Villa-Lobos Villa-Lobos NPCNSP0
 Villacicencio Villacicencio NPCNSP0 # wiki common surnames
 Villada Villada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Villafamés Villafamés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10385,6 +10405,7 @@ Xavi Xavi NPMSSP0
 Xavier Xavier NPMSSP0
 Xella Xella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xelva Xelva NPCNG00 # topònim-apertium-falta-gènere-nombre
+Xenakis Xenakis NPCNSP0
 Xera Xera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xeraco Xeraco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xeresa Xeresa NPCNG00 # topònim-apertium-falta-gènere-nombre
