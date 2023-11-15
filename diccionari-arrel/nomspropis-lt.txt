@@ -3479,6 +3479,7 @@ Dédalo Dédalo NPMSSP0 # avl
 Déjerine-Roussy Déjerine-Roussy NPCNSP0 # medical
 Déjerine-Sottas Déjerine-Sottas NPCNSP0 # medical
 Déjerine-Thomas Déjerine-Thomas NPCNSP0 # medical
+Dépor Dépor NPMSO00
 Díaz Díaz NPCNSP0 # wiki common surnames
 Díaz-Plaja Díaz-Plaja NPCNSP0
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9212,6 +9213,7 @@ Spohr Spohr NPCNSP0
 Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Spontini Spontini NPCNSP0
 Sport Sport NPMSO00
+Sporting Sporting NPMSO00
 Springsteen Springsteen NPCNSP0
 Sputnik Sputnik NPCNO00
 Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9293,6 +9295,7 @@ Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumi Sumi NPCSG00
 Sunak Sunak NPCNSP0
+Superdépor Superdépor NPMSO00
 Superliga Superliga NPFSO00
 Superman Superman NPMSSP0
 Sur Sur NPCNG00 # topònim-apertium-falta-gènere-nombre
