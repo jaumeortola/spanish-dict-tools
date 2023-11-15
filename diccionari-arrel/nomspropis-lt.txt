@@ -8110,6 +8110,7 @@ Protágoras Protágoras NPMSSP0 # avl
 Provenza Provenza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Providence Providence NPCNG00 # topònim-apertium-falta-gènere-nombre
 Providencia Providencia NPFSSP0 # avl
+Prozac Prozac NPMSO00
 Prudencia Prudencia NPFSSP0 # avl
 Prudenciana Prudenciana NPFSSP0 # avl
 Prudenciano Prudenciano NPMSSP0 # avl
