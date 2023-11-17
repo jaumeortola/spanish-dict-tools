@@ -7085,6 +7085,7 @@ regoldar=categories: V;model:soldar;fonts: LT;
 regrabar=categories: V;model:amar;fonts: ap;
 regresar=categories: V;model:amar;fonts: LT;
 regruñir=categories: V;model:mullir;fonts: LT;
+reguetonear=categories: V;model:amar;fonts: fundeu;
 regular=categories: V;model:amar;fonts: LT;
 regularizar=categories: V;model:abalanzar;fonts: LT;
 regurgitar=categories: V;model:amar;fonts: LT;
