@@ -1795,6 +1795,7 @@ Bitot Bitot NPCNSP0 # medical
 Biure Biure NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bivongi Bivongi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bizancio Bizancio NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bizet Bizet NPCNSP0
 Bjerrum Bjerrum NPCNSP0 # medical
 Björk Björk NPCNSP0 # medical
 Björk-Shiley Björk-Shiley NPCNSP0 # medical
@@ -2426,6 +2427,7 @@ Carrícola Carrícola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cartagena Cartagena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cartago Cartago NPCNG00 # topònim-apertium-falta-gènere-nombre
 Carter Carter NPCNSP0 # wiki
+Caruso Caruso NPCNSP0
 Carvajal Carvajal NPCNSP0 # wiki common surnames
 Carver Carver NPCNSP0
 Caráquez Caráquez NPCSG00 # Ecuador
@@ -4115,6 +4117,7 @@ Fiona Fiona NPFSSP0 # avl
 Firefox Firefox NPCNO00
 Fischer Fischer NPCNSP0
 Fischer Fischer NPCNSP0 # wiki
+Fischer-Dieskau Fischer-Dieskau NPCNSP0
 Fisher Fisher NPCNSP0
 Fitur Fitur NPCSO00
 Fitzgerald Fitzgerald NPCNSP0
@@ -6249,6 +6252,7 @@ Maciel Maciel NPCSG00 # Paraguay
 Macintosh Macintosh NPCNSP0 # medical
 Macián Macián NPMSSP0 # avl
 Mackenzie Mackenzie NPCNSP0
+Maclaurin Maclaurin NPCNSP0
 Macris Macris NPFSSP0 # avl
 Macrobús Macrobús NPMSO00
 Macron Macron NPCNSP0
@@ -6760,6 +6764,7 @@ Milagros Milagros NPCNSP0 # avl
 Milagrosa Milagrosa NPFSSP0 # avl
 Milanesado Milanesado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Milano Milano NPMSSP0 # avl
+Milei Milei NPCNSP0
 Miles Miles NPCNSP0 # wiki
 Mileto Mileto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mill Mill NPCNSP0 # wiki
@@ -7749,6 +7754,7 @@ Paula Paula NPFSSP0 # avl
 Paulina Paulina NPFSSP0 # avl
 Pauling Pauling NPCNSP0 # wiki
 Paulino Paulino NPMSSP0 # avl
+Pavarotti Pavarotti NPCNSP0
 Pavies Pavies NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pavías Pavías NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pawlik Pawlik NPCNSP0 # medical
