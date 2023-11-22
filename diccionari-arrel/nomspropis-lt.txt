@@ -122,6 +122,7 @@
 #Kalimantán Kalimantán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Kazajstán Kazajstán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lana Lana NPCSG00 #municipios de España
+#Les Les NPCSG00 #municipios de España
 #Lesotho Lesotho NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Libros Libros NPCSG00 #municipios de España
 #Liège Liège NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7975,7 +7976,6 @@ Leriano Leriano NPMSSP0 # avl
 Lerma Lerma NPCNSP0
 Lermoyez Lermoyez NPCNSP0 # medical
 Lerín Lerín NPCSG00 #municipios de España
-Les Les NPCSG00 #municipios de España
 Lesaka Lesaka NPCSG00 #municipios de España
 Lescaut Lescaut NPCNSP0
 Lesch-Nyhan Lesch-Nyhan NPCNSP0 # medical
