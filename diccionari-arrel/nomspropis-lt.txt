@@ -79,6 +79,7 @@
 #Felix Felix NPCSG00 #municipios de España
 #Feria Feria NPCSG00 #municipios de España
 #Fidji Fidji NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Fiscal Fiscal NPCSG00 #municipios de España
 #Fondeguilla Fondeguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Fondón Fondón NPCSG00 #municipios de España
 #Fos #Fos NPCNSP0 # medical
@@ -5616,7 +5617,6 @@ Fiona Fiona NPFSSP0 # avl
 Firavitoba Firavitoba NPCSG00 #municipios de Colombia
 Firefox Firefox NPCNO00
 Firgas Firgas NPCSG00 #municipios de España
-Fiscal Fiscal NPCSG00 #municipios de España
 Fischer Fischer NPCNSP0
 Fischer Fischer NPCNSP0 # wiki
 Fischer-Dieskau Fischer-Dieskau NPCNSP0
