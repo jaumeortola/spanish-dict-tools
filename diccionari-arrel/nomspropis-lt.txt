@@ -4,12 +4,17 @@
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abril Abril NPCSSP0 # avl
 #Acacías Acacías NPCSG00 # Colombia
+#Aceituna Aceituna NPCSG00 #municipios de España
+#Adiós Adiós NPCSG00 #municipios de España
 #Agrícola Agrícola NPMSSP0 # avl
 #Ahín Ahín NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Alcanalí Alcanalí NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Alegia Alegia NPCSG00 #municipios de España
 #Alegrías Alegrías NPFSSP0 # avl
 #Alfahuir Alfahuir NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Algeria Algeria NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Allo Allo NPCSG00 #municipios de España
+#Allín Allín NPCSG00 #municipios de España
 #Amiga Amiga NPFSSP0 # avl
 #Amigo Amigo NPMSSP0 # avl
 #Amman Amman NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -20,6 +25,7 @@
 #Aretes Aretes NPMNSP0 # avl
 #Arias Arias NPFSSP0 # avl
 #Azerbaiján Azerbaiján NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Añe Añe NPCSG00 #municipios de España
 #Baden-Württemberg Baden-Württemberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Bahrein Bahrein NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Bahréin Bahréin NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -31,27 +37,38 @@
 #Blanco Blanco NPMSSP0 # avl
 #Borredá Borredá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Borriana Borriana NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Botija Botija NPCSG00 #municipios de España
 #Botswana Botswana NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Bufalí Bufalí NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Burjasot Burjasot NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Camino Camino NPFSSP0 # avl
 #Campanario Campanario NPFSSP0 # avl
+#Caso Caso NPCSG00 #municipios de España
 #Castillo Castillo NPFSSP0 # avl
 #Catalunya Catalunya NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Cataluña Cataluña NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Cea Cea NPCSG00 #municipios de España
+#Cee Cee NPCSG00 #municipios de España
 #Ceras Ceras NPFSSP0 # avl
 #Cielo Cielo NPFSSP0 # avl
+#Coca Coca NPCSG00 #municipios de España
 #Colúmbia Colúmbia NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Cortes Cortes NPCSG00 #municipios de España
+#Cosa Cosa NPCSG00 #municipios de España
+#Cuadros Cuadros NPCSG00 #municipios de España
 #Djibuti Djibuti NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Dosaguas Dosaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Dulce Dulce NPFSSP0 # avl
 #Dénia Dénia NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Dólar Dólar NPCSG00 #municipios de España
 #EE.UU EE.UU NPCNG00 # topònim-apertium-falta-gènere-nombre
 #EE.UU. EE.UU. NPCNG00 # topònim-apertium-falta-gènere-nombre
 #EEUU EEUU NPCNG00 # topònim-apertium-falta-gènere-nombre
 #EUA EUA NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Encinas Encinas NPCSG00 #municipios de España
 #Erb #Erb NPCNSP0 # medical
 #Erivan Erivan NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Escucha Escucha NPCSG00 #municipios de España
 #Espoleto Espoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Estaràs Estaràs NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Fab #Fab NPCNSP0 # medical
@@ -59,14 +76,22 @@
 #Febe Febe NPCSSP0 # avl
 #Febrero Febrero NPMSSP0 # avl
 #Fede Fede NPMSSP0 # avl
+#Felix Felix NPCSG00 #municipios de España
+#Feria Feria NPCSG00 #municipios de España
 #Fidji Fidji NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Fondeguilla Fondeguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Fondón Fondón NPCSG00 #municipios de España
 #Fos #Fos NPCNSP0 # medical
+#Frailes Frailes NPCSG00 #municipios de España
 #Friederich Friederich NPCNSP0 # medical
 #Frutos Frutos NPMSSP0 # avl
+#Frías Frías NPCSG00 #municipios de España
 #Gandia Gandia NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Garafía Garafía NPCSG00 #municipios de España
 #Garcia Garcia NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Garcia Garcia NPCSG00 #municipios de España
 #Garonne Garonne NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Gata Gata NPCSG00 #municipios de España
 #Gloria Gloria NPFSSP0 # avl
 #Grozny Grozny NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Gràcia Gràcia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -76,12 +101,17 @@
 #Guinea-Bissau Guinea-Bissau NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Guzman Guzman NPMSSP0 # avl
 #Göteborg Göteborg NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Haría Haría NPCSG00 #municipios de España
 #Hawai Hawai NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Hawaii Hawaii NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Hawkins Hawkins NPCNSP0
 #Helios Helios NPMSSP0 # avl
+#Herencia Herencia NPCSG00 #municipios de España
+#Huerta Huerta NPCSG00 #municipios de España
+#Iglesias Iglesias NPCSG00 #municipios de España
 #Imperio Imperio NPFSSP0 # avl
 #Indianapolis Indianapolis NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Ingenio Ingenio NPCSG00 #municipios de España
 #Ito #Ito NPCNSP0 # medical
 #Iva Iva NPFSSP0 # avl
 #Jerusalem Jerusalem NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -90,8 +120,11 @@
 #Jun #Jun NPCNSP0 # medical
 #Kalimantán Kalimantán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Kazajstán Kazajstán NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Lana Lana NPCSG00 #municipios de España
 #Lesotho Lesotho NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Libros Libros NPCSG00 #municipios de España
 #Liège Liège NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Lomas Lomas NPCSG00 #municipios de España
 #Lombardia Lombardia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Louisiana Louisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lés Lés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -106,15 +139,25 @@
 #Masalfasar Masalfasar NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mayor Mayor NPMSSP0 # avl
 #Medusa Medusa NPCNSP0 # medical
+#Mejorada Mejorada NPCSG00 #municipios de España
 #Mendelsson #Mendelsson NPCNSP0 # medical
 #Mercedes Mercedes NPFSSP0 # avl
+#Milagro Milagro NPCSG00 #municipios de España
 #Minnesot Minnesot NPCNSP0 # medical
 #Mississippi Mississippi NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Mississippí Mississippí NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Moldova Moldova NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Moros Moros NPCSG00 #municipios de España
 #Munich Munich NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Muros Muros NPCSG00 #municipios de España
+#Murtas Murtas NPCSG00 #municipios de España
 #Méjico Méjico NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Nacimiento Nacimiento NPCSG00 #municipios de España
 #Naplusa Naplusa NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Naval Naval NPCSG00 #municipios de España
+#Nevada Nevada NPCSG00 #municipios de España
+#Niebla Niebla NPCSG00 #municipios de España
+#Nieva Nieva NPCSG00 #municipios de España
 #Nieves Nieves NPFSSP0 # avl
 #Niger Niger NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Niobe Niobe NPFSSP0 # avl
@@ -123,23 +166,38 @@
 #Olimpiades Olimpiades NPCSSP0 # avl
 #Orígenes Orígenes NPMSSP0 # avl
 #Ota #Ota NPCNSP0 # medical
+#Padrón Padrón NPCSG00 #municipios de España
 #Palas Palas NPFSSP0 # avl
+#Palomas Palomas NPCSG00 #municipios de España
+#Palomera Palomera NPCSG00 #municipios de España
+#Palomero Palomero NPCSG00 #municipios de España
 #Panjab Panjab NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Pap #Pap NPCNSP0 # medical
 #Paquistán Paquistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Penàguila Penàguila NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Peníscola Peníscola NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Pepino Pepino NPCSG00 #municipios de España
 #Pequín Pequín NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Pizarra Pizarra NPCSG00 #municipios de España
+#Plan Plan NPCSG00 #municipios de España
+#Plana Plana NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Planes Planes NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Prado Prado NPCSG00 #municipios de Colombia
+#Prado Prado NPCSG00 #municipios de España
 #Progreso Progreso NPCSSP0 # avl
+#Puertas Puertas NPCSG00 #municipios de España
 #Puigcerdá Puigcerdá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rafa Rafa NPFSSP0 # avl
 #Refugio Refugio NPFSSP0 # avl
+#Rena Rena NPCSG00 #municipios de España
 #Reunion Reunion NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Reyes Reyes NPFSSP0 # avl
 #Rotglá Rotglá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rotterdam Rotterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Rueda Rueda NPCSG00 #municipios de España
 #Rwanda Rwanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Ròtova Ròtova NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Salas Salas NPCSG00 #municipios de España
 #Sales Sales NPFSSP0 # avl
 #San #San NPCNSP0 # medical
 #Santas Santas NPFSSP0 # avl
@@ -150,17 +208,23 @@
 #Sudan Sudan NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Suera Suera NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Sufragio Sufragio NPFSSP0 # avl
+#Tabernas Tabernas NPCSG00 #municipios de España
 #Taipei Taipei NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Taiwan Taiwan NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Tallinn Tallinn NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Tarifa Tarifa NPCSG00 #municipios de España
 #Tel-Aviv Tel-Aviv NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Teror Teror NPCSG00 #municipios de España
 #Tiananmen Tiananmen NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Tinajas Tinajas NPCSG00 #municipios de España
 #Titagües Titagües NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Titaigües Titaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Tokyo Tokyo NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Trazo Trazo NPCSG00 #municipios de España
 #Tremedal Tremedal NPFSSP0 # avl
 #Tránsito Tránsito NPFSSP0 # avl
 #Unna #Unna NPCNSP0 # medical
+#Uña Uña NPCSG00 #municipios de España
 #València València NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Vich Vich NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Vinarós Vinarós NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -292,7 +356,6 @@ Acebo Acebo NPCSG00 #municipios de España
 Acedera Acedera NPCSG00 #municipios de España
 Aceh Aceh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Acehúche Acehúche NPCSG00 #municipios de España
-Aceituna Aceituna NPCSG00 #municipios de España
 Acered Acered NPCSG00 #municipios de España
 Acesto Acesto NPMSSP0 # avl
 Aceuchal Aceuchal NPCSG00 #municipios de España
@@ -359,7 +422,6 @@ Adif Adif NPCNO00
 Adiguesia Adiguesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Adina Adina NPFSSP0 # avl
 Adino Adino NPMSSP0 # avl
-Adiós Adiós NPCSG00 #municipios de España
 Adjutoria Adjutoria NPFSSP0 # avl
 Adjutorio Adjutorio NPMSSP0 # avl
 Adler Adler NPCNSP0
@@ -705,7 +767,6 @@ Aldover Aldover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aldrin Aldrin NPCNSP0
 Aledit Aledit NPCNO00
 Aledo Aledo NPCNG00 # topònim-apertium-falta-gènere-nombre
-Alegia Alegia NPCSG00 #municipios de España
 Alegría Alegría NPFSSP0 # avl
 Alegría-Dulantzi Alegría-Dulantzi NPCSG00 #municipios de España
 Aleja Aleja NPFSSP0 # avl
@@ -823,10 +884,8 @@ Allen-Masters Allen-Masters NPCNSP0 # medical
 Allepuz Allepuz NPCSG00 #municipios de España
 Aller Aller NPCSG00 #municipios de España
 Allison Allison NPCNSP0
-Allo Allo NPCSG00 #municipios de España
 Alloza Alloza NPCSG00 #municipios de España
 Allueva Allueva NPCSG00 #municipios de España
-Allín Allín NPCSG00 #municipios de España
 Alma-Ata Alma-Ata NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almacelles Almacelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almada Almada NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -930,7 +989,7 @@ Altagracia Altagracia NPCSG00 # Venezuela
 Altai Altai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Altamira Altamira NPCNSP0
 Altarejos Altarejos NPCSG00 #municipios de España
-Altea Altea NPFSNG00 # topònim-apertium
+Altea Altea NPCSG00 # topònim-apertium
 Altea Altea NPFSSP0 # avl
 Altilia Altilia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Altomonte Altomonte NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1743,7 +1802,6 @@ Aída Aída NPFSSP0 # avl
 Aín Aín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aínsa-Sobrarbe Aínsa-Sobrarbe NPCSG00 #municipios de España
 Añana Añana NPCSG00 #municipios de España
-Añe Añe NPCSG00 #municipios de España
 Añora Añora NPCSG00 #municipios de España
 Añorbe Añorbe NPCSG00 #municipios de España
 BBC BBC NPFSO00 # wiki
@@ -2641,7 +2699,6 @@ Bot Bot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botallo Botallo NPCNSP0 # medical
 Botarell Botarell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botero Botero NPCNSP0
-Botija Botija NPCSG00 #municipios de España
 Botorrita Botorrita NPCSG00 #municipios de España
 Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botticelli Botticelli NPCNSP0
@@ -3436,7 +3493,6 @@ Casio Casio NPMSSP0 # avl
 Casiopea Casiopea NPFSSP0 # avl
 Casla Casla NPCSG00 #municipios de España
 Casma Casma NPCSG00 # Perú
-Caso Caso NPCSG00 #municipios de España
 Caspe Caspe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Casper Casper NPMSSP00
 Caspio Caspio NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3591,7 +3647,6 @@ Cañizar Cañizar NPCSG00 #municipios de España
 Cañizares Cañizares NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cañizo Cañizo NPCSG00 #municipios de España
 Cañy Cañy NPCSG00 # Paraguay
-Cea Cea NPCSG00 #municipios de España
 Ceballos Ceballos NPCNSP0
 Cebanico Cebanico NPCSG00 #municipios de España
 Cebolla Cebolla NPCSG00 #municipios de España
@@ -3609,7 +3664,6 @@ Cedeño Cedeño NPCNSP0 # wiki common surnames
 Cedillo Cedillo NPCSG00
 Cedrales Cedrales NPCSG00 # Paraguay
 Cedrillas Cedrillas NPCSG00 #municipios de España
-Cee Cee NPCSG00 #municipios de España
 Cefeo Cefeo NPMSSP0 # avl
 Ceferina Ceferina NPFSSP0 # avl
 Ceferino Ceferino NPMSSP0 # avl
@@ -4014,7 +4068,6 @@ Cobeta Cobeta NPCSG00 #municipios de España
 Cobeña Cobeña NPCSG00 #municipios de España
 Cobisa Cobisa NPCSG00 #municipios de España
 Cobreros Cobreros NPCNG00 # topònim-apertium-falta-gènere-nombre
-Coca Coca NPCSG00 #municipios de España
 Cocentaina Cocentaina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cochabamba Cochabamba NPCSG00
 Cochinchina Cochinchina NPFSG00 # topònim-apertium
@@ -4222,7 +4275,6 @@ Corteconcepción Corteconcepción NPCSG00 #municipios de España
 Cortegada Cortegada NPCSG00 #municipios de España
 Cortegana Cortegana NPCSG00 #municipios de España
 Cortelazor Cortelazor NPCSG00 #municipios de España
-Cortes Cortes NPCSG00 #municipios de España
 Corti Corti NPCNSP0 # medical
 Cortina Cortina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cortázar Cortázar NPCNSP0
@@ -4232,7 +4284,6 @@ Coruña Coruña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Corá Corá NPCSG00 # Paraguay
 Corán Corán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Corçà Corçà NPCNG00 # topònim-apertium-falta-gènere-nombre
-Cosa Cosa NPCSG00 #municipios de España
 Coscurita Coscurita NPCSG00 #municipios de España
 Cosenza Cosenza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cosinor Cosinor NPCNSP0 # medical
@@ -4339,7 +4390,6 @@ Crémenes Crémenes NPCSG00 #municipios de España
 Críspula Críspula NPFSSP0 # avl
 Críspulo Críspulo NPMSSP0 # avl
 Cthulhu Cthulhu NPCNSP0 # wiki
-Cuadros Cuadros NPCSG00 #municipios de España
 Cuajimalpa Cuajimalpa NPCSG00
 Cualedro Cualedro NPCSG00 #municipios de España
 Cuartell Cuartell NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4802,7 +4852,6 @@ Dévanos Dévanos NPCSG00 #municipios de España
 Díaz Díaz NPCNSP0 # wiki common surnames
 Díaz-Plaja Díaz-Plaja NPCNSP0
 Dílar Dílar NPCSG00 #municipios de España
-Dólar Dólar NPCSG00 #municipios de España
 Dúdar Dúdar NPCSG00 #municipios de España
 Dúrcal Dúrcal NPCSG00 #municipios de España
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5016,7 +5065,6 @@ Encamp Encamp NPCNG00 # topònim-apertium-falta-gènere-nombre
 Encarna Encarna NPFSSP0 # avl
 Encarnación Encarnación NPFSSP0 # avl
 Encinacorba Encinacorba NPCSG00 #municipios de España
-Encinas Encinas NPCSG00 #municipios de España
 Encinasola Encinasola NPCSG00 #municipios de España
 Encinedo Encinedo NPCSG00 #municipios de España
 Encinillas Encinillas NPCSG00 #municipios de España
@@ -5158,7 +5206,6 @@ Escorca Escorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Escorial Escorial NPCNG00 # topònim-apertium-falta-gènere-nombre
 Escorihuela Escorihuela NPCSG00 #municipios de España
 Escrivá Escrivá NPCNSP0
-Escucha Escucha NPCSG00 #municipios de España
 Escudellers Escudellers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Esculapio Esculapio NPMSSP0 # avl
 Escunhau Escunhau NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5480,13 +5527,11 @@ Felicísimo Felicísimo NPMSSP0 # avl
 Felipa Felipa NPFSSP0 # avl
 Felipe Felipe NPMSSP0 # avl
 Felisa Felisa NPFSSP0 # avl
-Felix Felix NPCSG00 #municipios de España
 Felty Felty NPCNSP0 # medical
 Felícula Felícula NPFSSP0 # avl
 Fene Fene NPCSG00 #municipios de España
 Ferdinand Ferdinand NPCNSP0 # wiki
 Ferguson Ferguson NPCNSP0
-Feria Feria NPCSG00 #municipios de España
 Fermina Fermina NPFSSP0 # avl
 Fermoselle Fermoselle NPCSG00 #municipios de España
 Fermín Fermín NPMSSP0 # avl
@@ -5616,7 +5661,6 @@ Fomeque Fomeque NPCSG00 #municipios de Colombia
 Fompedraza Fompedraza NPCSG00 #municipios de España
 Foncea Foncea NPCSG00 #municipios de España
 Fondarella Fondarella NPCNG00 # topònim-apertium-falta-gènere-nombre
-Fondón Fondón NPCSG00 #municipios de España
 Fonelas Fonelas NPCSG00 #municipios de España
 Fonfría Fonfría NPCSG00 #municipios de España
 Fonollosa Fonollosa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5685,7 +5729,6 @@ Foz Foz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foz-Calanda Foz-Calanda NPCSG00 #municipios de España
 Frades Frades NPCSG00 #municipios de España
 Fraga Fraga NPCNG00 # topònim-apertium-falta-gènere-nombre
-Frailes Frailes NPCSG00 #municipios de España
 Fram Fram NPCSG00 # Paraguay
 Framingham Framingham NPCNG00
 Fran Fran NPMSSP0 # avl
@@ -5766,7 +5809,6 @@ Frumencio Frumencio NPMSSP0 # avl
 Frunze Frunze NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fráncfort Fráncfort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fréscano Fréscano NPCSG00 #municipios de España
-Frías Frías NPCSG00 #municipios de España
 Frómista Frómista NPCSG00 #municipios de España
 Fröbel Fröbel NPCNSP0
 Fröehlich Fröehlich NPCNSP0 # medical
@@ -5973,7 +6015,6 @@ Ganser Ganser NPCNSP0 # medical
 Gante Gante NPCNG00 # topònim-apertium-falta-gènere-nombre
 Garaballa Garaballa NPCSG00 #municipios de España
 Garachico Garachico NPCSG00 #municipios de España
-Garafía Garafía NPCSG00 #municipios de España
 Garagoa Garagoa NPCSG00 #municipios de Colombia
 Garai Garai NPCSG00 #municipios de España
 Garaioa Garaioa NPCSG00 #municipios de España
@@ -5981,7 +6022,6 @@ Garajonay Garajonay NPCSG00
 Garay Garay NPCNSP0
 Garbayuela Garbayuela NPCSG00 #municipios de España
 Garbí Garbí NPMSSP0 # avl
-Garcia Garcia NPCSG00 #municipios de España
 Garciaz Garciaz NPCSG00 #municipios de España
 Garcibuey Garcibuey NPCSG00 #municipios de España
 Garcihernández Garcihernández NPCSG00 #municipios de España
@@ -6031,7 +6071,6 @@ Gaspar Gaspar NPMSSP0 # avl
 Gaspara Gaspara NPFSSP0 # avl
 Gasser Gasser NPCNSP0 # medical
 Gastón Gastón NPMSSP0 # avl
-Gata Gata NPCSG00 #municipios de España
 Gatika Gatika NPCSG00 #municipios de España
 Gatún Gatún NPMSG00
 Gaubea Gaubea NPCSG00 #municipios de España
@@ -6605,7 +6644,6 @@ Hartford Hartford NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hartmann Hartmann NPCNSP0 # medical
 Harvard Harvard NPCNG00 # topònim-apertium-falta-gènere-nombre
 Harvey Harvey NPCNSP0
-Haría Haría NPCSG00 #municipios de España
 Hashimoto Hashimoto NPCNSP0 # medical
 Hasán Hasán NPMSSP0 # avl
 Hasél Hasél NPCNSP0
@@ -6685,7 +6723,6 @@ Herbés Herbés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Herce Herce NPCSG00 #municipios de España
 Herculano Herculano NPMSSP0 # avl
 Heredia Heredia NPCNG00 # topònim-apertium-falta-gènere-nombre
-Herencia Herencia NPCSG00 #municipios de España
 Herguijuela Herguijuela NPCSG00 #municipios de España
 Hergé Hergé NPMSSP0
 Heriberta Heriberta NPFSSP0 # avl
@@ -6812,8 +6849,8 @@ Holmes Holmes NPCNSP0 # wiki
 Holofernes Holofernes NPMSSP0 # avl
 Holyrood Holyrood NPCSG00
 Holyroodhouse Holyroodhouse NPCSG00
-Hombrados Hombrados NPCSG00 #municipios de España
 Holzhausen Holzhausen NPCNSP0
+Hombrados Hombrados NPCSG00 #municipios de España
 Homero Homero NPMSSP0 # avl
 Honda Honda NPCNO00
 Hondarribia Hondarribia NPCSG00
@@ -6889,7 +6926,6 @@ Huelma Huelma NPCSG00 #municipios de España
 Huelva Huelva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Huelves Huelves NPCSG00 #municipios de España
 Huentitán Huentitán NPCSG00
-Huerta Huerta NPCSG00 #municipios de España
 Huertahernando Huertahernando NPCSG00 #municipios de España
 Huerto Huerto NPCSG00 #municipios de España
 Huesa Huesa NPCSG00 #municipios de España
@@ -7017,7 +7053,6 @@ Igantzi Igantzi NPCSG00 #municipios de España
 Igea Igea NPCSG00 #municipios de España
 Ighil Ighil NPCSG00
 Iglesiarrubia Iglesiarrubia NPCSG00 #municipios de España
-Iglesias Iglesias NPCSG00 #municipios de España
 Ignacia Ignacia NPFSSP0 # avl
 Ignacio Ignacio NPMSSP0 # avl
 Igor Igor NPMSSP0 # avl
@@ -7070,7 +7105,6 @@ Indochina Indochina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indonesia Indonesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indostán Indostán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indíbil Indíbil NPMSSP0 # avl
-Ingenio Ingenio NPCSG00 #municipios de España
 Ingham Ingham NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inglaterra Inglaterra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inglewood Inglewood NPCSG00
@@ -7724,7 +7758,6 @@ Lambán Lambán NPCNSP0
 Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
-Lana Lana NPCSG00 #municipios de España
 Lanaja Lanaja NPCSG00 #municipios de España
 Lancashire Lancashire NPCSG00
 Lancaster Lancaster NPCSG00
@@ -7992,7 +8025,6 @@ Liborina Liborina NPCSG00 #municipios de Colombia
 Liborio Liborio NPMSSP0 # avl
 Libreville Libreville NPCNG00 # topònim-apertium-falta-gènere-nombre
 Librilla Librilla NPCNG00 # topònim-apertium-falta-gènere-nombre
-Libros Libros NPCSG00 #municipios de España
 Liceras Liceras NPCSG00 #municipios de España
 Licerio Licerio NPMSSP0 # avl
 Licia Licia NPFSSP0 # avl
@@ -8153,7 +8185,6 @@ Loiret Loiret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Loiu Loiu NPCSG00 #municipios de España
 Loja Loja NPCSG00 # Ecuador
 Lola Lola NPFSSP0 # avl
-Lomas Lomas NPCSG00 #municipios de España
 Lombardo Lombardo NPMSSP0 # avl
 Lombardía Lombardía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lominchar Lominchar NPCSG00 #municipios de España
@@ -8880,7 +8911,6 @@ Meigs Meigs NPCNSP0 # medical
 Meira Meira NPCSG00 #municipios de España
 Meis Meis NPCSG00 #municipios de España
 Meissner Meissner NPCNSP0 # medical
-Mejorada Mejorada NPCSG00 #municipios de España
 Mejía Mejía NPCNSP0 # wiki common surnames
 Melanesia Melanesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melania Melania NPFSSP0 # avl
@@ -9033,7 +9063,6 @@ Mijaíl Mijaíl NPMSSP0 # wiki
 Mike Mike NPCNSP0 # wiki
 Mikulicz Mikulicz NPCNSP0 # medical
 Mila Mila NPFSSP0 # avl
-Milagro Milagro NPCSG00 #municipios de España
 Milagros Milagros NPCNSP0 # avl
 Milagrosa Milagrosa NPFSSP0 # avl
 Milanesado Milanesado NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9390,7 +9419,6 @@ Mormanno Mormanno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moroleón Moroleón NPCSG00 # México
 Moroni Moroni NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moronta Moronta NPCSG00 #municipios de España
-Moros Moros NPCSG00 #municipios de España
 Morricone Morricone NPCNSP0
 Morroa Morroa NPCSG00 #municipios de Colombia
 Morton Morton NPCNSP0 # medical
@@ -9466,10 +9494,8 @@ Murillo Murillo NPCNSP0
 Murindó Murindó NPCSG00 #municipios de Colombia
 Murla Murla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Muro Muro NPCNG00 # topònim-apertium-falta-gènere-nombre
-Muros Muros NPCSG00 #municipios de España
 Murphy Murphy NPCNSP0
 Murta Murta NPFSSP0 # avl
-Murtas Murtas NPCSG00 #municipios de España
 Murueta Murueta NPCSG00 #municipios de España
 Muruzábal Muruzábal NPCSG00 #municipios de España
 Museros Museros NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9543,7 +9569,6 @@ Naboth Naboth NPCNSP0 # medical
 Nabucodonosor Nabucodonosor NPMSSP0 # avl
 Nacha Nacha NPFSSP0 # avl
 Nacho Nacho NPMSSP0 # avl
-Nacimiento Nacimiento NPCSG00 #municipios de España
 Nadal Nadal NPCNSP0
 Nadia Nadia NPFSSP0 # avl
 Nadina Nadina NPFSSP0 # avl
@@ -9607,7 +9632,6 @@ Navahondilla Navahondilla NPCSG00 #municipios de España
 Navaixes Navaixes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navajas Navajas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navajún Navajún NPCSG00 #municipios de España
-Naval Naval NPCSG00 #municipios de España
 Navalacruz Navalacruz NPCSG00 #municipios de España
 Navalafuente Navalafuente NPCSG00 #municipios de España
 Navalagamella Navalagamella NPCSG00 #municipios de España
@@ -9706,7 +9730,6 @@ Nestoria Nestoria NPFSSP0 # avl
 Netanyahu Netanyahu NPCNSP0
 Neumann Neumann NPCNSP0 # wiki
 Neuquén Neuquén NPCSG00
-Nevada Nevada NPCSG00 #municipios de España
 Nevaldo Nevaldo NPMSSP0 # avl
 Newcastle Newcastle NPCNG00 # topònim-apertium-falta-gènere-nombre
 Newfoundland Newfoundland NPCSG00
@@ -9739,10 +9762,8 @@ Nicéfora Nicéfora NPFSSP0 # avl
 Nicéforo Nicéforo NPMSSP0 # avl
 Nicómaco Nicómaco NPMSSP0 # avl
 Nidia Nidia NPFSSP0 # avl
-Niebla Niebla NPCSG00 #municipios de España
 Nieman-Pick Nieman-Pick NPCNSP0 # medical
 Nietzsche Nietzsche NPCNSP0
-Nieva Nieva NPCSG00 #municipios de España
 Nigeria Nigeria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nigrán Nigrán NPCSG00 #municipios de España
 Nigüelas Nigüelas NPCSG00 #municipios de España
@@ -10241,7 +10262,6 @@ Paderne Paderne NPCSG00 #municipios de España
 Padiernos Padiernos NPCSG00 #municipios de España
 Padilla Padilla NPCNSP0
 Padrenda Padrenda NPCSG00 #municipios de España
-Padrón Padrón NPCSG00 #municipios de España
 Padua Padua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Padul Padul NPCSG00 #municipios de España
 Padules Padules NPCSG00 #municipios de España
@@ -10305,10 +10325,7 @@ Palocabildo Palocabildo NPCSG00 #municipios de Colombia
 Paloma Paloma NPFSSP0 # avl
 Palomar Palomar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palomares Palomares NPCNG00 # topònim-apertium-falta-gènere-nombre
-Palomas Palomas NPCSG00 #municipios de España
 Palomeque Palomeque NPCNG00 # topònim-apertium-falta-gènere-nombre
-Palomera Palomera NPCSG00 #municipios de España
-Palomero Palomero NPCSG00 #municipios de España
 Palora Palora NPCSG00 # Ecuador
 Palpalá Palpalá NPCSG00 # Argentina LO
 Pals Pals NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10531,7 +10548,6 @@ Penélope Penélope NPFSSP0 # avl
 Peníscola Peníscola NPCSG00 #municipios de España
 Pepa Pepa NPFSSP0 # avl
 Pepe Pepe NPMSSP0 # avl
-Pepino Pepino NPCSG00 #municipios de España
 Peque Peque NPCSG00 #municipios de Colombia
 Peque Peque NPCSG00 #municipios de España
 Peracense Peracense NPCSG00 #municipios de España
@@ -10744,7 +10760,6 @@ Pittsburgh Pittsburgh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pitágoras Pitágoras NPMSSP0 # avl
 Piura Piura NPCSG00
 Pivijay Pivijay NPCSG00 #municipios de Colombia
-Pizarra Pizarra NPCSG00 #municipios de España
 Pizarral Pizarral NPCSG00 #municipios de España
 Pizarro Pizarro NPCNSP0 # wiki common surnames
 Piélagos Piélagos NPCSG00 #municipios de España
@@ -10753,10 +10768,7 @@ Piñor Piñor NPCSG00 #municipios de España
 Piñuécar-Gandullas Piñuécar-Gandullas NPCSG00 #municipios de España
 Placanica Placanica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Plaerdemavida Plaerdemavida NPFSSP0 # avl
-Plan Plan NPCSG00 #municipios de España
-Plana Plana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Planadas Planadas NPCSG00 #municipios de Colombia
-Planes Planes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Planoise Planoise NPCNG00 # topònim-apertium-falta-gènere-nombre
 Planoles Planoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Plasencia Plasencia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10926,8 +10938,6 @@ Prader-Willi Prader-Willi NPCNSP0 # medical
 Pradera Pradera NPCSG00 #municipios de Colombia
 Prades Prades NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pradillo Pradillo NPCSG00 #municipios de España
-Prado Prado NPCSG00 #municipios de Colombia
-Prado Prado NPCSG00 #municipios de España
 Pradoluengo Pradoluengo NPCSG00 #municipios de España
 Pradosegar Pradosegar NPCSG00 #municipios de España
 Praga Praga NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11008,7 +11018,6 @@ Puebloviejo Puebloviejo NPCSG00 # Ecuador
 Puendeluna Puendeluna NPCSG00 #municipios de España
 Puentedura Puentedura NPCSG00 #municipios de España
 Puerres Puerres NPCSG00 #municipios de Colombia
-Puertas Puertas NPCSG00 #municipios de España
 Puertollano Puertollano NPCSG00
 Puertomingalvo Puertomingalvo NPCSG00 #municipios de España
 Puestow Puestow NPCNSP0 # medical
@@ -11332,7 +11341,6 @@ Remo Remo NPMSSP0 # avl
 Remolino Remolino NPCSG00 #municipios de Colombia
 Remolinos Remolinos NPCSG00 #municipios de España
 Remondo Remondo NPCSG00 #municipios de España
-Rena Rena NPCSG00 #municipios de España
 Renania Renania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Renania-Palatinado Renania-Palatinado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Renarda Renarda NPFSSP0 # avl
@@ -11635,7 +11643,6 @@ Rucandio Rucandio NPCSG00 #municipios de España
 Ruda Ruda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rudecindo Rudecindo NPMSSP0
 Rudolf Rudolf NPCNSP0 # wiki
-Rueda Rueda NPCSG00 #municipios de España
 Ruente Ruente NPCSG00 #municipios de España
 Ruesca Ruesca NPCSG00 #municipios de España
 Ruesga Ruesga NPCSG00 #municipios de España
@@ -11815,7 +11822,6 @@ Salamina Salamina NPCSG00 #municipios de Colombia
 Salar Salar NPCSG00 #municipios de España
 Salardú Salardú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Salares Salares NPCSG00 #municipios de España
-Salas Salas NPCSG00 #municipios de España
 Salazar Salazar NPCNSP0 # wiki common surnames
 Salce Salce NPCSG00 #municipios de España
 Salcedillo Salcedillo NPCSG00 #municipios de España
@@ -12623,7 +12629,6 @@ TVE TVE NPFSO00
 Tabacundo Tabacundo NPCSG00 # Ecuador
 Tabarca Tabarca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tabasco Tabasco NPCSG00
-Tabernas Tabernas NPCSG00 #municipios de España
 Taberno Taberno NPCSG00 #municipios de España
 Tabio Tabio NPCSG00 #municipios de Colombia
 Taboada Taboada NPCSG00 #municipios de España
@@ -12720,7 +12725,6 @@ Tardáguila Tardáguila NPCSG00 #municipios de España
 Tarec Tarec NPMSSP0 # avl
 Tarento Tarento NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taric Taric NPMSSP0 # avl
-Tarifa Tarifa NPCSG00 #municipios de España
 Tarija Tarija NPCSG00 # Bolivia
 Tarkovski Tarkovski NPCNSP0
 Tarn Tarn NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12854,7 +12858,6 @@ Teresa Teresa NPFSSP0 # avl
 Teresina Teresina NPFSSP0 # avl
 Teresita Teresita NPFSSP0
 Termópilas Termópilas NPFPG00
-Teror Teror NPCSG00 #municipios de España
 Terque Terque NPCSG00 #municipios de España
 Terra Terra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Terrades Terrades NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12955,7 +12958,6 @@ Timotea Timotea NPFSSP0 # avl
 Timoteo Timoteo NPMSSP0 # avl
 Timón Timón NPMSSP0 # avl
 Tina Tina NPFSSP0 # avl
-Tinajas Tinajas NPCSG00 #municipios de España
 Tinajo Tinajo NPCSG00 #municipios de España
 Tinaquillo Tinaquillo NPCSG00 # Venezuela
 Tinel Tinel NPCNSP0 # medical
@@ -13203,7 +13205,6 @@ Trasmoz Trasmoz NPCSG00 #municipios de España
 Trasobares Trasobares NPCSG00 #municipios de España
 Traspinedo Traspinedo NPCSG00 #municipios de España
 Travis Travis NPCNSP0
-Trazo Trazo NPCSG00 #municipios de España
 Traíd Traíd NPCSG00 #municipios de España
 Treacher-Collins Treacher-Collins NPCNSP0 # medical
 Trebisacce Trebisacce NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13531,7 +13532,6 @@ Uyuni Uyuni NPCSG00 # Bolivia
 Uzbekistán Uzbekistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uztarroze Uztarroze NPCSG00 #municipios de España
 Uztárroz Uztárroz NPCSG00 #municipios de España
-Uña Uña NPCSG00 #municipios de España
 Vaca Vaca NPCNSP0 # wiki common surnames
 Vacarisses Vacarisses NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vaccarizzo Vaccarizzo NPCNG00 # topònim-apertium-falta-gènere-nombre
