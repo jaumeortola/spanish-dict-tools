@@ -114,6 +114,7 @@
 #Ingenio Ingenio NPCSG00 #municipios de España
 #Ito #Ito NPCNSP0 # medical
 #Iva Iva NPFSSP0 # avl
+#Jardín Jardín NPCSG00 #municipios de Colombia
 #Jerusalem Jerusalem NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Johanesburgo Johanesburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Jordà Jordà NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -124,6 +125,7 @@
 #Lesotho Lesotho NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Libros Libros NPCSG00 #municipios de España
 #Liège Liège NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Lloró Lloró NPCSG00 #municipios de Colombia
 #Lomas Lomas NPCSG00 #municipios de España
 #Lombardia Lombardia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Louisiana Louisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -174,14 +176,17 @@
 #Panjab Panjab NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Pap #Pap NPCNSP0 # medical
 #Paquistán Paquistán NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Pasto Pasto NPCSG00 #municipios de Colombia
 #Penàguila Penàguila NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Peníscola Peníscola NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Pepino Pepino NPCSG00 #municipios de España
 #Pequín Pequín NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Piedras Piedras NPCSG00 #municipios de Colombia
 #Pizarra Pizarra NPCSG00 #municipios de España
 #Plan Plan NPCSG00 #municipios de España
 #Plana Plana NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Planes Planes NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Plato Plato NPCSG00 #municipios de Colombia
 #Prado Prado NPCSG00 #municipios de Colombia
 #Prado Prado NPCSG00 #municipios de España
 #Progreso Progreso NPCSSP0 # avl
@@ -189,9 +194,12 @@
 #Puigcerdá Puigcerdá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rafa Rafa NPFSSP0 # avl
 #Refugio Refugio NPFSSP0 # avl
+#Regidor Regidor NPCSG00 #municipios de Colombia
+#Remolino Remolino NPCSG00 #municipios de Colombia
 #Rena Rena NPCSG00 #municipios de España
 #Reunion Reunion NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Reyes Reyes NPFSSP0 # avl
+#Rosas Rosas NPCSG00 #municipios de Colombia
 #Rotglá Rotglá NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rotterdam Rotterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Rueda Rueda NPCSG00 #municipios de España
@@ -220,6 +228,7 @@
 #Titagües Titagües NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Titaigües Titaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Tokyo Tokyo NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Tota Tota NPCSG00 #municipios de Colombia
 #Trazo Trazo NPCSG00 #municipios de España
 #Tremedal Tremedal NPFSSP0 # avl
 #Tránsito Tránsito NPFSSP0 # avl
@@ -7317,7 +7326,6 @@ Jaraicejo Jaraicejo NPCSG00 #municipios de España
 Jarama Jarama NPCSG00
 Jaramijó Jaramijó NPCSG00 # Ecuador
 Jaramillo Jaramillo NPCNSP0 # wiki common surnames
-Jardín Jardín NPCSG00 #municipios de Colombia
 Jarilla Jarilla NPCSG00 #municipios de España
 Jarque Jarque NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jartum Jartum NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8147,7 +8155,6 @@ Llombay Llombay NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llorac Llorac NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llorach Llorach NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lloret Lloret NPCNG00 # topònim-apertium-falta-gènere-nombre
-Lloró Lloró NPCSG00 #municipios de Colombia
 Llosa Llosa NPCNSP0
 Lloseta Lloseta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lloyd Lloyd NPCNSP0
@@ -10305,7 +10312,7 @@ Palenciana Palenciana NPCSG00 #municipios de España
 Palenzuela Palenzuela NPCSG00 #municipios de España
 Palermiti Palermiti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palermo Palermo NPCNG00 # topònim-apertium-falta-gènere-nombre
-Palestina Palestina NPCSG00 #municipios de Colombia
+Palestina Palestina NPFSG00
 Palizzi Palizzi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pallagorio Pallagorio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pallars Pallars NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10441,7 +10448,6 @@ Pasquali Pasquali NPCNO00
 Passanant Passanant NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pastaza Pastaza NPCSG00
 Pasteur Pasteur NPCNSP0 # wiki
-Pasto Pasto NPCSG00 #municipios de Colombia
 Pastor Pastor NPMSSP0 # avl
 Pastora Pastora NPFSSP0 # avl
 Pastores Pastores NPCSG00 #municipios de España
@@ -10680,7 +10686,6 @@ Piedrabuena Piedrabuena NPCSG00 #municipios de España
 Piedrahíta Piedrahíta NPCSG00 #municipios de España
 Piedralaves Piedralaves NPCSG00 #municipios de España
 Piedramillera Piedramillera NPCSG00 #municipios de España
-Piedras Piedras NPCSG00 #municipios de Colombia
 Piedratajada Piedratajada NPCSG00 #municipios de España
 Piendamó Piendamó NPCSG00 #municipios de Colombia
 Piera Piera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10775,7 +10780,6 @@ Plasencia Plasencia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Plasenzuela Plasenzuela NPCSG00 #municipios de España
 Plataci Plataci NPCNG00 # topònim-apertium-falta-gènere-nombre
 Platania Platania NPCNG00 # topònim-apertium-falta-gènere-nombre
-Plato Plato NPCSG00 #municipios de Colombia
 Platón Platón NPMSSP0 # avl
 Plauto Plauto NPMSSP0 # avl
 Play Play NPCNO00
@@ -11306,7 +11310,6 @@ Refetoff Refetoff NPCNSP0 # medical
 Refsum Refsum NPCNSP0 # medical
 Regencós Regencós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Regensburg Regensburg NPCNG00 # topònim-apertium-falta-gènere-nombre
-Regidor Regidor NPCSG00 #municipios de Colombia
 Regimbaldo Regimbaldo NPMSSP0 # avl
 Regina Regina NPFSSP0 # avl
 Reginalda Reginalda NPFSSP0 # avl
@@ -11338,7 +11341,6 @@ Remigio Remigio NPMSSP0 # avl
 Remington Remington NPCNO00
 Remmelink Remmelink NPCNSP0 # medical
 Remo Remo NPMSSP0 # avl
-Remolino Remolino NPCSG00 #municipios de Colombia
 Remolinos Remolinos NPCSG00 #municipios de España
 Remondo Remondo NPCSG00 #municipios de España
 Renania Renania NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11596,7 +11598,6 @@ Rosario Rosario NPCSG00
 Rosario Rosario NPFSSP0 # avl
 Rosarito Rosarito NPCSG00 # México
 Rosarno Rosarno NPCNG00 # topònim-apertium-falta-gènere-nombre
-Rosas Rosas NPCSG00 #municipios de Colombia
 Rosaura Rosaura NPFSSP0 # avl
 Roscio Roscio NPCSG00 # Venezuela
 Roseau Roseau NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13166,7 +13167,6 @@ Toses Toses NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tosos Tosos NPCSG00 #municipios de España
 Tossa Tossa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tost Tost NPCNG00 # topònim-apertium-falta-gènere-nombre
-Tota Tota NPCSG00 #municipios de Colombia
 Totalán Totalán NPCSG00 #municipios de España
 Totana Totana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Totanés Totanés NPCSG00 #municipios de España
