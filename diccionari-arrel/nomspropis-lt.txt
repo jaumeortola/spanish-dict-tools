@@ -5767,6 +5767,7 @@ Fráncfort Fráncfort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fréscano Fréscano NPCSG00 #municipios de España
 Frías Frías NPCSG00 #municipios de España
 Frómista Frómista NPCSG00 #municipios de España
+Fröbel Fröbel NPCNSP0
 Fröehlich Fröehlich NPCNSP0 # medical
 Fuchs Fuchs NPCNSP0 # medical
 Fuembellida Fuembellida NPCSG00 #municipios de España
@@ -6811,6 +6812,7 @@ Holofernes Holofernes NPMSSP0 # avl
 Holyrood Holyrood NPCSG00
 Holyroodhouse Holyroodhouse NPCSG00
 Hombrados Hombrados NPCSG00 #municipios de España
+Holzhausen Holzhausen NPCNSP0
 Homero Homero NPMSSP0 # avl
 Honda Honda NPCNO00
 Hondarribia Hondarribia NPCSG00
@@ -7413,6 +7415,7 @@ Joselito Joselito NPMSSP0
 Josemaría Josemaría NPMSSP0
 Joseph Joseph NPMSSP0 # wiki
 Joshua Joshua NPMSSP0
+Josquin Josquin NPMSSP0
 Josué Josué NPMSSP0 # avl
 José José NPMSSP0 # avl
 Josías Josías NPMSSP0 # avl
@@ -10587,6 +10590,7 @@ Pesca Pesca NPCSG00 #municipios de Colombia
 Pescueza Pescueza NPCSG00 #municipios de España
 Pesoz Pesoz NPCSG00 #municipios de España
 Pesquera Pesquera NPCSG00 #municipios de España
+Pestalozzi Pestalozzi NPCNSP0
 Peter Peter NPMSSP0
 Peters Peters NPCNSP0 # medical
 Petersburgo Petersburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11771,6 +11775,7 @@ Saint-Lô Saint-Lô NPCSG00
 Saint-Malo Saint-Malo NPCSG00
 Saint-Martin Saint-Martin NPCSG00
 Saint-Martin-d'Hères Saint-Martin-d'Hères NPCSG00
+Saint-Maur Saint-Maur NPCSG00
 Saint-Maur-des-Fossés Saint-Maur-des-Fossés NPCSG00
 Saint-Michel Saint-Michel NPCSG00
 Saint-Moritz Saint-Moritz NPCSG00
