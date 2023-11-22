@@ -4957,6 +4957,7 @@ Elodia Elodia NPFSSP0 # avl
 Elodio Elodio NPMSSP0 # avl
 Elon Elon NPMSSP0
 Elorrio Elorrio NPCSG00 #municipios de España
+Elortzibar Elortzibar NPCSG00 #municipios de España
 Elorza Elorza NPCSG00 # Venezuela
 Eloy Eloy NPMSSP0 # avl
 Eloína Eloína NPFSSP0 # avl
@@ -9769,6 +9770,7 @@ Nièvre Nièvre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niño-Becerra Niño-Becerra NPCNSP0
 Noah Noah NPCSSP0
 Noain Noain NPCNG00 # topònim-apertium-falta-gènere-nombre
+Noain Noain NPCSG00 #municipios de España 
 Noalejo Noalejo NPCSG00 #municipios de España
 Noblejas Noblejas NPCSG00 #municipios de España
 Nobol Nobol NPCSG00 # Ecuador
@@ -9827,6 +9829,7 @@ Noviercas Noviercas NPCSG00 #municipios de España
 Novillas Novillas NPCSG00 #municipios de España
 Novonor Novonor NPCNO00
 Novés Novés NPCSG00 #municipios de España
+Noáin Noáin NPCSG00 #municipios de España
 Noé Noé NPMSSP0 # avl
 Nuakchott Nuakchott NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nueno Nueno NPCSG00 #municipios de España
