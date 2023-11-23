@@ -1,4 +1,3 @@
-
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3622,6 +3621,7 @@ Catí Catí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catón Catón NPMSSP0 # avl
 Caucagua Caucagua NPCSG00 # Venezuela
 Caucasia Caucasia NPCSG00 # Colombia
+Cauchy Cauchy NPCNSP0
 Caudete Caudete NPCSG00 #municipios de España
 Caudiel Caudiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caulonia Caulonia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4733,6 +4733,7 @@ Distracción Distracción NPCSG00 #municipios de Colombia
 Divina Divina NPFSSP0 # avl
 Diwali Diwali NPMSO00
 Dizzy Dizzy NPCNSP0
+Diáguilev Diáguilev NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
 Djokovic Djokovic NPCNSP0
 Dmitri Dmitri NPMSSP0
@@ -5822,6 +5823,7 @@ Fréscano Fréscano NPCSG00 #municipios de España
 Frómista Frómista NPCSG00 #municipios de España
 Fröbel Fröbel NPCNSP0
 Fröehlich Fröehlich NPCNSP0 # medical
+Fubini Fubini NPCNSP0
 Fuchs Fuchs NPCNSP0 # medical
 Fuembellida Fuembellida NPCSG00 #municipios de España
 Fuencaliente Fuencaliente NPCSG00 #municipios de España
@@ -9935,6 +9937,7 @@ Ocentejo Ocentejo NPCSG00 #municipios de España
 Ochagavía Ochagavía NPCSG00 #municipios de España
 Ochoa Ochoa NPCNSP0
 Ochánduri Ochánduri NPCSG00 #municipios de España
+Ockeghem Ockeghem NPCNSP0
 Ockham Ockham NPCNSP0
 Oco Oco NPCSG00 #municipios de España
 Ocotlán Ocotlán NPCSG00 # México
