@@ -66452,6 +66452,7 @@ webgrafía=categories: F;fonts: fundeu;
 webinar [pl. webinars]=categories: M;fonts: english;
 webinario=categories: M;fonts: fundeu;
 weblog [pl. weblogs]=categories: M;fonts: termcat;
+webpage=categories: F;fonts: english;
 website=categories: M;fonts: LT;
 weekend [pl. weekends]=categories: M;fonts: LT;
 weigelia=categories: F;fonts: LT;
