@@ -578,6 +578,7 @@ Ajalvir Ajalvir NPCSG00 #municipios de España
 Ajangiz Ajangiz NPCSG00 #municipios de España
 Ajax Ajax NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ajofrín Ajofrín NPCSG00 #municipios de España
+Akenatón Akenatón NPMSSP0
 Al-Shifa Al-Shifa NPCNO00
 Alabaldo Alabaldo NPMSSP0 # avl
 Alabama Alabama NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -896,6 +897,7 @@ Aller Aller NPCSG00 #municipios de España
 Allison Allison NPCNSP0
 Alloza Alloza NPCSG00 #municipios de España
 Allueva Allueva NPCSG00 #municipios de España
+Ally Ally NPFSSP0
 Alma-Ata Alma-Ata NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almacelles Almacelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almada Almada NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1071,6 +1073,8 @@ Amed Amed NPMSSP0 # avl
 Amedo Amedo NPCNSP0
 Amelia Amelia NPFSSP0 # avl
 Amendolara Amendolara NPCNG00 # topònim-apertium-falta-gènere-nombre
+Amenhotep Amenhotep NPMSSP0
+Amenofis Amenofis NPMSSP0
 Amer Amer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ames Ames NPCNSP0 # medical
 Ameyugo Ameyugo NPCSG00 #municipios de España
@@ -3898,6 +3902,7 @@ Chivatá Chivatá NPCSG00 #municipios de Colombia
 Chivilcoy Chivilcoy NPCSG00 # Argentina
 Chivolo Chivolo NPCSG00 #municipios de Colombia
 Chivor Chivor NPCSG00 #municipios de Colombia
+Chloe Chloe NPFSSP0
 Choachí Choachí NPCSG00 #municipios de Colombia
 Chocontá Chocontá NPCSG00 #municipios de Colombia
 Chodes Chodes NPCSG00 #municipios de España
@@ -4174,6 +4179,7 @@ Concepción Concepción NPFSSP0 # avl
 Concha Concha NPFSSP0 # avl
 Concordia Concordia NPFSSP0 # avl
 Concordio Concordio NPMSSP0 # avl
+Condis Condis NPMNO00
 Condofuri Condofuri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Condorcanqui Condorcanqui NPCSG00
 Condoto Condoto NPCSG00 #municipios de Colombia
@@ -5115,6 +5121,7 @@ Entrerrios Entrerrios NPCSG00 #municipios de Colombia
 Entrimo Entrimo NPCSG00 #municipios de España
 Envigado Envigado NPCSG00 #municipios de Colombia
 Enviny Enviny NPCNG00 # topònim-apertium-falta-gènere-nombre
+Enzo Enzo NPMSSP0
 Enériz Enériz NPCSG00 #municipios de España
 Eolia Eolia NPFSSP0 # avl
 Eolo Eolo NPMSSP0 # avl
@@ -5774,6 +5781,7 @@ Frechilla Frechilla NPCSG00 #municipios de España
 Fred Fred NPCNSP0 # wiki
 Freddie Freddie NPMSSP0
 Freddy Freddy NPCNSP0
+Freddy Freddy NPMSSP0
 Frederick Frederick NPCNSP0 # wiki
 Fredonia Fredonia NPCSG00 #municipios de Colombia
 FreeHand FreeHand NPMSO00
@@ -6406,6 +6414,7 @@ Grijalba Grijalba NPCSG00 #municipios de España
 Grijota Grijota NPCSG00 #municipios de España
 Grimalda Grimalda NPFSSP0 # avl
 Grimaldo Grimaldo NPMSSP0 # avl
+Grindavík Grindavík NPCSG00
 Grisaleña Grisaleña NPCSG00 #municipios de España
 Grisel Grisel NPCSG00 #municipios de España
 Griselda Griselda NPFSSP0 # avl
@@ -6659,9 +6668,11 @@ Harvey Harvey NPCNSP0
 Hashimoto Hashimoto NPCNSP0 # medical
 Hasán Hasán NPMSSP0 # avl
 Hasél Hasél NPCNSP0
+Hatchepsut Hatchepsut NPFSSP0
 Hathor Hathor NPCNSP0 # wiki
 Hato Hato NPCSG00 #municipios de Colombia
 Hatonuevo Hatonuevo NPCSG00 #municipios de Colombia
+Hatshepsut Hatshepsut NPFSSP0
 Hattiesburg Hattiesburg NPCSG00
 Havers Havers NPCNSP0 # medical
 Hawking Hawking NPCNSP0
@@ -6902,6 +6913,7 @@ Hortensia Hortensia NPFSSP0 # avl
 Hortensio Hortensio NPMSSP0 # avl
 Hortigüela Hortigüela NPCSG00 #municipios de España
 Horton Horton NPCNSP0 # medical
+Horus Horus NPMSSP0
 Hospitalet Hospitalet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hostafrancs Hostafrancs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hostalric Hostalric NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9758,6 +9770,7 @@ Nicasio Nicasio NPMSSP0 # avl
 Niccolò Niccolò NPMSSP0
 Nicea Nicea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nicholson Nicholson NPCNSP0
+Nick Nick NPMSSP0
 Nico Nico NPCSSP0 # avl
 Nicodema Nicodema NPFSSP0 # avl
 Nicodemo Nicodemo NPMSSP0 # avl
@@ -10452,6 +10465,7 @@ Pasolini Pasolini NPCNSP0
 Pasquali Pasquali NPCNO00
 Passanant Passanant NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pastaza Pastaza NPCSG00
+Pasternak Pasternak NPCNSP0
 Pasteur Pasteur NPCNSP0 # wiki
 Pastor Pastor NPMSSP0 # avl
 Pastora Pastora NPFSSP0 # avl
@@ -11120,6 +11134,8 @@ Quebradanegra Quebradanegra NPCSG00 #municipios de Colombia
 Quecedo Quecedo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Queckendstedt Queckendstedt NPCNSP0 # medical
 Queen Queen NPCNSP0 # wiki
+Queen Quenn NPCNO00
+Queens Queens NPCSG00
 Queixans Queixans NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quel Quel NPCSG00 #municipios de España
 Quemada Quemada NPCSG00 #municipios de España
@@ -11218,6 +11234,8 @@ Rabanera Rabanera NPCSG00 #municipios de España
 Rabat Rabat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rabson-Mendehall Rabson-Mendehall NPCNSP0 # medical
 Rabós Rabós NPCNG00 # topònim-apertium-falta-gènere-nombre
+Radamantis Radamantis NPMSSP0
+Radamanto Radamanto NPMSSP0
 Radamés Radamés NPMSSP0 # avl
 Raddusa Raddusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Radermercker Radermercker NPCNSP0 # medical
@@ -11505,6 +11523,7 @@ Roberta Roberta NPFSSP0 # avl
 Robertina Robertina NPFSSP0 # avl
 Robertino Robertino NPMSSP0 # avl
 Roberto Roberto NPMSSP0 # avl
+Robespierre Robespierre NPCNSP0
 Robinson Robinson NPCNSP0
 Robladillo Robladillo NPCSG00 #municipios de España
 Robleda Robleda NPCSG00 #municipios de España
@@ -12153,6 +12172,7 @@ Sentmenat Sentmenat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senyera Senyera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senén Senén NPMSSP0 # avl
 Senés Senés NPCSG00 #municipios de España
+Seprona Seprona NPMSO00
 Septimania Septimania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Septuaginta Septuaginta NPFSO00
 Sepulcro-Hilario Sepulcro-Hilario NPCSG00 #municipios de España
@@ -12192,6 +12212,7 @@ Servacio Servacio NPMSSP0 # avl
 Servanda Servanda NPFSSP0 # avl
 Servando Servando NPMSSP0 # avl
 Servia Servia NPFSSP0 # avl
+Servicaixa Servicaixa NPMNO00
 Servientrega Servientrega NPCNSP0
 Servio Servio NPMSSP0 # avl
 Seròs Seròs NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13780,6 +13801,7 @@ Venerando Venerando NPMSSP0 # avl
 Venezuela Venezuela NPCNG00 # topònim-apertium-falta-gènere-nombre
 Venialbo Venialbo NPCSG00 #municipios de España
 Venom Venom NPMSSP0
+Ventadorn Ventadorn NPCNSP0
 Ventalló Ventalló NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ventaquemada Ventaquemada NPCSG00 #municipios de Colombia
 Ventosa Ventosa NPCSG00 #municipios de España

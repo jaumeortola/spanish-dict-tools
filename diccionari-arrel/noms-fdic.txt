@@ -8581,6 +8581,7 @@ beatería=categories: F;fonts: dr;
 beatificación=categories: F;fonts: LT;
 beatilla=categories: F;fonts: dr;
 beatitud=categories: F;fonts: LT;
+beatmaker [pl. beatmakers]=categories: MF;fonts: english;
 beatnik [pl. beatniks]=categories: MF;fonts: LT;
 beato beata=categories: MF;fonts: LT;
 beaumontés beaumontesa=categories: MF;fonts: LT;
