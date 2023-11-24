@@ -1660,6 +1660,7 @@ Asín Asín NPCSG00 #municipios de España
 Asís Asís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Atacames Atacames NPCSG00 # Ecuador
 Ataco Ataco NPCSG00 #municipios de Colombia
+Atahualpa Atahualpa NPMSSP0
 Atajate Atajate NPCSG00 #municipios de España
 Atalaya Atalaya NPCSG00 #municipios de España
 Atanasia Atanasia NPFSSP0 # avl
@@ -5099,6 +5100,7 @@ Eneldina Eneldina NPFSSP0 # avl
 Eneritz Eneritz NPCSG00 #municipios de España
 Engalantina Engalantina NPFSSP0 # avl
 Engelberto Engelberto NPMSSP0 # avl
+Engels Engels NPCNSP0
 Engilberto Engilberto NPMSSP0 # avl
 Englewood Englewood NPCSG00
 Engordany Engordany NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9341,6 +9343,7 @@ Montenegro Montenegro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montenegro Montenegro NPCNSP0 # wiki common surnames
 Monteolivete Monteolivete NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monterde Monterde NPCNG00 # topònim-apertium-falta-gènere-nombre
+Montero Montero NPCNSP0
 Monterosso Monterosso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monterrei Monterrei NPCSG00 #municipios de España
 Monterrey Monterrey NPCSG00 #municipios de Colombia
@@ -11497,6 +11500,7 @@ Riquerio Riquerio NPMSSP0 # avl
 Risaralda Risaralda NPCSG00
 Risco Risco NPCSG00 #municipios de España
 Rishi Rishi NPMSSP0
+Risorgimento Risorgimento NPMSO00
 Rita Rita NPFSSP0 # avl
 Ritz Ritz NPCNSP0
 Ritz-Carlton Ritz-Carlton NPCSO00
@@ -14425,6 +14429,7 @@ Yenín Yenín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yepes Yepes NPCSG00 #municipios de España
 Yeray Yeray NPMSSP0 # avl
 Yesa Yesa NPCSG00 #municipios de España
+Yessica Yessica NPFSSP0
 Yeste Yeste NPCSG00 #municipios de España
 Yevgueni Yevgueni NPMSSP0
 Ygatimí Ygatimí NPCSG00 # Paraguay
