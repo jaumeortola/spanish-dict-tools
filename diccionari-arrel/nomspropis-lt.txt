@@ -7193,6 +7193,7 @@ Isaura Isaura NPFSSP0 # avl
 Isauro Isauro NPMSSP0 # avl
 Isaías Isaías NPMSSP0 # avl
 Iseo Iseo NPMSSP0 # avl
+Ishango Ishango NPCSG00
 Isidora Isidora NPFSSP0 # avl
 Isidoro Isidoro NPMSSP0 # avl
 Isidra Isidra NPFSSP0 # avl
@@ -9224,6 +9225,7 @@ Mombeltrán Mombeltrán NPCSG00 #municipios de España
 Momblona Momblona NPCSG00 #municipios de España
 Mombuey Mombuey NPCSG00 #municipios de España
 Momil Momil NPCSG00 #municipios de Colombia
+Mompou Mompou NPCNSP0
 Mompós Mompós NPCSG00 #municipios de Colombia
 Monachil Monachil NPCSG00 #municipios de España
 Monagas Monagas NPCSG00 # Venezuela
@@ -14303,6 +14305,7 @@ Wolff-Parkinson-White Wolff-Parkinson-White NPCNSP0 # medical
 Wolfgang Wolfgang NPMSSP0 # wiki
 Wollstonecraft Wollstonecraft NPCNSP0
 Wolpe Wolpe NPCNSP0 # medical
+Wonderland Wonderland NPCSG00
 WooCommerce WooCommerce NPCNO00
 Wood Wood NPCNSP0 # medical
 Woody Woody NPCNSP0
