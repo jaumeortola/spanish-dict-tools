@@ -19878,6 +19878,7 @@ kazako kazaka=categories: A;fonts: dr;
 kbyte=categories: AMS;fonts: LT;
 keniano keniana=categories: A;fonts: LT;
 keniata=categories: A;fonts: LT;
+kennediano kennediana=categories: A;fonts: derivat;
 keynesiano keynesiana=categories: A;fonts: LT;
 kievita=categories: A;fonts: fundeu;
 kilométrico kilométrica=categories: A;fonts: LT;

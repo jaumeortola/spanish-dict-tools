@@ -9608,6 +9608,7 @@ Nahum Nahum NPMSSP0 # avl
 Nahún Nahún NPMSSP0 # avl
 Naila Naila NPFSSP0 # avl
 Nairobi Nairobi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nakba Nakba NPFSO00
 Nalda Nalda NPCSG00 #municipios de España
 Nalec Nalec NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nambroca Nambroca NPCSG00 #municipios de España
