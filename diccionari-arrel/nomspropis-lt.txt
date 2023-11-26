@@ -4037,6 +4037,7 @@ Claudio Claudio NPMSSP0 # avl
 Clausewitz Clausewitz NPCNSP0
 Claverol Claverol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Clavijo Clavijo NPCNSP0
+Clavé Clavé NPCNSP0
 Clayton Clayton NPCNSP0 # wiki
 Cleandro Cleandro NPMSSP0 # avl
 Clemencia Clemencia NPFSSP0 # avl
@@ -7683,6 +7684,7 @@ Kojewnikow Kojewnikow NPCNSP0 # medical
 Komodo Komodo NPMSG00
 Konrad Konrad NPCNSP0
 Koolhaas Koolhaas NPCNSP0
+Korngold Korngold NPCNSP0
 Korsakoff Korsakoff NPCNSP0 # medical
 Kortezubi Kortezubi NPCSG00 #municipios de España
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12551,6 +12553,7 @@ Strindberg Strindberg NPCNSP0
 Struthers Struthers NPCNSP0 # medical
 Stuart Stuart NPCNSP0
 Stuart-Power Stuart-Power NPCNSP0 # medical
+Studebaker Studebaker NPCNSP0
 Sturge-Weber Sturge-Weber NPCNSP0 # medical
 Sturmdorf Sturmdorf NPCNSP0 # medical
 Stuttgart Stuttgart NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14217,6 +14220,7 @@ Volta Volta NPCNSP0
 Voltaire Voltaire NPCNSP0 # wiki
 Volvo Volvo NPCNSP0
 Vorner Vorner NPCNSP0 # medical
+Vorónezh Vorónezh NPCSG00
 Vosgos Vosgos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Voto Voto NPCSG00 #municipios de España
 Vox Vox NPCNO00

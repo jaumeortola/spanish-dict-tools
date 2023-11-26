@@ -57632,6 +57632,7 @@ seláceo=categories: M;fonts: LT;
 seléucida=categories: MF;fonts: LT;
 sema=categories: M;fonts: dr;
 semaforización=categories: F;fonts: derivat;
+semaglutida=categories: F;fonts: termcat;
 semana=categories: F;fonts: LT;
 semanada=categories: F;fonts: LT;
 semanario=categories: M;fonts: LT;
