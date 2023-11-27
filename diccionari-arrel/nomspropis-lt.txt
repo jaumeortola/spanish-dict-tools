@@ -2004,6 +2004,7 @@ Bakaiku Bakaiku NPCSG00 #municipios de España
 Baker Baker NPCNSP0
 Baker Baker NPCNSP0 # wiki
 Bakio Bakio NPCSG00 #municipios de España
+Bakunin Bakunin NPCNSP0
 Bakú Bakú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balaam Balaam NPMSSP0 # avl
 Balaguer Balaguer NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5171,6 +5172,7 @@ Durango Durango NPCNG00 # topònim-apertium-falta-gènere-nombre
 Durango Durango NPCSG00
 Durania Durania NPCSG00 #municipios de Colombia
 Durkheim Durkheim NPCNSP0
+Durruti Durruti NPCNSP0
 Duruelo Duruelo NPCSG00 #municipios de España
 Durán Durán NPMSSP0 # avl
 Durón Durón NPCSG00 #municipios de España
@@ -7218,6 +7220,7 @@ Hipólita Hipólita NPFSSP0 # avl
 Hipólito Hipólito NPMSSP0 # avl
 Hiram Hiram NPMSSP0 # avl
 Hiriberri Hiriberri NPCSG00 #municipios de España
+Hirohito Hirohito NPMSSP0
 Hiroshima Hiroshima NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hirschsprung Hirschsprung NPCNSP0 # medical
 Hirtz Hirtz NPCNSP0 # medical
@@ -8190,6 +8193,7 @@ Kripan Kripan NPCSG00 #municipios de España
 Kristeller Kristeller NPCNSP0 # medical
 Krogius Krogius NPCNSP0 # medical
 Kronlein Kronlein NPCNSP0 # medical
+Kropotkin Kropotkin NPCNSP0
 Krugman Krugman NPCNSP0
 Krukenberg Krukenberg NPCNSP0 # medical
 Kuartango Kuartango NPCSG00 #municipios de España
