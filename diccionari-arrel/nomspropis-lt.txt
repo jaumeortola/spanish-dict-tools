@@ -3483,6 +3483,7 @@ Caplan Caplan NPCNSP0 # medical
 Capmany Capmany NPCSG00 #municipios de España
 Capolat Capolat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caprasio Caprasio NPMSSP0 # avl
+Capri Capri NPCSG00
 Capuleto Capuleto NPCNSP0
 Capuletos Capuletos NPMPSP0
 Capulhuac Capulhuac NPCSG00 #municipios de México
@@ -7181,6 +7182,7 @@ Hidalgotitlán Hidalgotitlán NPCSG00 #municipios de México
 Hiendelaencina Hiendelaencina NPCSG00 #municipios de España
 Higgins Higgins NPCNSP0
 Higgs Higgs NPCNSP0
+Highlands Highlands NPCPG00
 Higinia Higinia NPFSSP0 # avl
 Higinio Higinio NPMSSP0 # avl
 Higuera Higuera NPCSG00 #municipios de España
