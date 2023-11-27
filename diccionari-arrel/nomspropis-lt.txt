@@ -2202,6 +2202,7 @@ Bella Bella NPFSSP0 # avl
 Bellaguarda Bellaguarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bellantyne Bellantyne NPCNSP0 # medical
 Bellaterra Bellaterra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bellini Bellini NPCNSP0
 Bello Bello NPCSG00 #municipios de Colombia
 Bello Bello NPCSG00 #municipios de España
 Bellosguardo Bellosguardo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4776,6 +4777,7 @@ Donemiliaga Donemiliaga NPCSG00 #municipios de España
 Donetsk Donetsk NPCSG00
 Doneztebe Doneztebe NPCSG00 #municipios de España
 Donhierro Donhierro NPCSG00 #municipios de España
+Donizetti Donizetti NPCNSP0
 Donjimeno Donjimeno NPCSG00 #municipios de España
 Donné Donné NPCNSP0 # medical
 Donoso Donoso NPCNSP0 # wiki common surnames
@@ -7968,6 +7970,7 @@ Leodovaldo Leodovaldo NPMSSP0 # avl
 Leona Leona NPFSSP0 # avl
 Leonarda Leonarda NPFSSP0 # avl
 Leonardo Leonardo NPMSSP0 # avl
+Leoncavallo Leoncavallo NPCNSP0
 Leoncia Leoncia NPFSSP0 # avl
 Leoncio Leoncio NPMSSP0 # avl
 Leonel Leonel NPMSSP0
@@ -8282,6 +8285,7 @@ Lucero Lucero NPCNSP0 # wiki common surnames
 Luchente Luchente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luciana Luciana NPFSSP0 # avl
 Luciano Luciano NPMSSP0 # avl
+Lucien Lucien NPMSSP0
 Lucila Lucila NPFSSP0 # avl
 Lucillo Lucillo NPCSG00 #municipios de España
 Lucillos Lucillos NPCSG00 #municipios de España
@@ -11040,6 +11044,7 @@ Próspero Próspero NPMSSP0 # avl
 Ptolomeo Ptolomeo NPMSSP0 # avl
 Publio Publio NPMSSP0 # avl
 Pucallpa Pucallpa NPCSG00 # Perú
+Puccini Puccini NPCNSP0
 Pucú Pucú NPCSG00 # Paraguay
 Puebla Puebla NPCSG00
 Pueblorrico Pueblorrico NPCSG00 #municipios de Colombia
