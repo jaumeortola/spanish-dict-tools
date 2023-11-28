@@ -12353,6 +12353,7 @@ Rubena Rubena NPCSG00 #municipios de España
 Rubiales Rubiales NPCSG00 #municipios de España
 Rubicón Rubicón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubik Rubik NPCNSP0
+Rubinstein Rubinstein NPCNSP0
 Rubio Rubio NPCNSP0
 Rubite Rubite NPCSG00 #municipios de España
 Rubiá Rubiá NPCSG00 #municipios de España
