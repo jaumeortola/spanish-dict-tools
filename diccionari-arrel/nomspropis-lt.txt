@@ -8502,6 +8502,7 @@ Leriana Leriana NPFSSP0 # avl
 Leriano Leriano NPMSSP0 # avl
 Lerma Lerma NPCNSP0
 Lermoyez Lermoyez NPCNSP0 # medical
+Lerroux Lerroux NPCNSP0
 Lerín Lerín NPCSG00 #municipios de España
 Lesaka Lesaka NPCSG00 #municipios de España
 Lescaut Lescaut NPCNSP0
@@ -9452,6 +9453,7 @@ Medardo Medardo NPMSSP0 # avl
 Medea Medea NPFSSP0 # avl
 Medellín Medellín NPCSG00
 Mederico Mederico NPMSSP0 # avl
+MediaMarkt MediaMarkt NPCNO00
 Mediapro Mediapro NPCNO00
 Medina Medina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Medina Medina NPCNSP0 # wiki common surnames
