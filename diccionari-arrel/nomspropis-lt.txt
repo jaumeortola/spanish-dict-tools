@@ -898,6 +898,7 @@ Alhabia Alhabia NPCSG00 #municipios de España
 Alhama Alhama NPCSG00
 Alhambra Alhambra NPCNSP0 # wiki
 Alhendín Alhendín NPCSG00 #municipios de España
+Alhué Alhué NPCSG00 #municipios de Chile
 Alhóndiga Alhóndiga NPCSG00 #municipios de España
 Aliaga Aliaga NPCSG00 #municipios de España
 Aliaguilla Aliaguilla NPCSG00 #municipios de España
@@ -1203,6 +1204,7 @@ Anchorage Anchorage NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anchuelo Anchuelo NPCSG00 #municipios de España
 Anchuras Anchuras NPCSG00 #municipios de España
 Ancona Ancona NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ancud Ancud NPCSG00 #municipios de Chile
 Ancuyá Ancuyá NPCSG00 #municipios de Colombia
 Ancín Ancín NPCSG00 #municipios de España
 Andacollo Andacollo NPCSG00 #municipios de Argentina
@@ -1326,6 +1328,7 @@ Antonina Antonina NPFSSP0 # avl
 Antonino Antonino NPMSSP0 # avl
 Antonio Antonio NPMSSP0 # avl
 Antsoain Antsoain NPCSG00 #municipios de España
+Antuco Antuco NPCSG00 #municipios de Chile
 Antzin Antzin NPCSG00 #municipios de España
 Antzuola Antzuola NPCSG00 #municipios de España
 Antártida Antártida NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3104,6 +3107,7 @@ Bélgorod Bélgorod NPCSG00
 Bérchules Bérchules NPCSG00 #municipios de España
 Bérgamo Bérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bétera Bétera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bío-Bío Bío-Bío NPCSG00 #municipios de Chile
 Bòssost Bòssost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bósforo Bósforo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bóveda Bóveda NPCSG00 #municipios de España
@@ -3186,6 +3190,7 @@ Cacahoatán Cacahoatán NPCSG00 #municipios de México
 Cacahual Cacahual NPCSG00 #municipios de Colombia
 Cacalchén Cacalchén NPCSG00 #municipios de México
 Caccuri Caccuri NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cachapoal Cachapoal NPCSG00 #municipios de Chile
 Cachemira Cachemira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cachi Cachi NPCSG00 #municipios de Argentina
 Cachipay Cachipay NPCSG00 #municipios de Colombia
@@ -3230,6 +3235,7 @@ Calafell Calafell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calahorra Calahorra NPCSG00 #municipios de España
 Calais Calais NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calakmul Calakmul NPCSG00 #municipios de México
+Calama Calama NPCSG00 #municipios de Chile
 Calamanda Calamanda NPFSSP0 # avl
 Calamar Calamar NPCSG00 #municipios de Colombia
 Calamocha Calamocha NPCSG00 #municipios de España
@@ -3243,6 +3249,7 @@ Calatayud Calatayud NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calatañazor Calatañazor NPCSG00 #municipios de España
 Calatorao Calatorao NPCSG00 #municipios de España
 Calañas Calañas NPCSG00 #municipios de España
+Calbuco Calbuco NPCSG00 #municipios de Chile
 Calcahualco Calcahualco NPCSG00 #municipios de México
 Calcena Calcena NPCSG00 #municipios de España
 Calcuta Calcuta NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3500,6 +3507,7 @@ Caracena Caracena NPCSG00 #municipios de España
 Caracollo Caracollo NPCSG00 # Bolivia
 Caracolí Caracolí NPCSG00 #municipios de Colombia
 Caraguatay Caraguatay NPCSG00 # Paraguay
+Carahue Carahue NPCSG00 #municipios de Chile
 Caralampia Caralampia NPFSSP0 # avl
 Caralampio Caralampio NPMSSP0 # avl
 Caramanta Caramanta NPCSG00 #municipios de Colombia
@@ -3790,6 +3798,7 @@ Catatumbo Catatumbo NPCSG00 # Venezuela
 Catazajá Catazajá NPCSG00 #municipios de México
 Catellbisbal Catellbisbal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catemaco Catemaco NPCSG00 #municipios de México
+Catemu Catemu NPCSG00 #municipios de Chile
 Catherine Catherine NPFSSP0
 Cathy Cathy NPFSSP0
 Catia Catia NPFSSP0 # avl
@@ -3973,6 +3982,7 @@ Chad Chad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chaguaní Chaguaní NPCSG00 #municipios de Colombia
 Chahuites Chahuites NPCSG00 #municipios de México
 Chaikovski Chaikovski NPCNSP0 # wiki
+Chaitén Chaitén NPCSG00 #municipios de Chile
 Chaján Chaján NPCSG00 #municipios de Argentina
 Chalamera Chalamera NPCSG00 #municipios de España
 Chalchihuitán Chalchihuitán NPCSG00 #municipios de México
@@ -4024,6 +4034,7 @@ Chavarría Chavarría NPCSG00 #municipios de Argentina
 Chaves Chaves NPCNSP0
 Chavinda Chavinda NPCSG00 #municipios de México
 Chazón Chazón NPCSG00 #municipios de Argentina
+Chañaral Chañaral NPCSG00 #municipios de Chile
 Chañe Chañe NPCSG00 #municipios de España
 Che Che NPCSSP0
 Checa Checa NPCSG00 #municipios de España
@@ -4087,6 +4098,7 @@ Chigmecatitlán Chigmecatitlán NPCSG00 #municipios de México
 Chignahuapan Chignahuapan NPCSG00 #municipios de México
 Chignautla Chignautla NPCSG00 #municipios de México
 Chigorodó Chigorodó NPCSG00 # Colombia
+Chiguayante Chiguayante NPCSG00 #municipios de Chile
 Chihuahua Chihuahua NPCSG00
 Chikindzonot Chikindzonot NPCSG00 #municipios de México
 Chila Chila NPCSG00 #municipios de México
@@ -4103,11 +4115,13 @@ Chilluévar Chilluévar NPCSG00 #municipios de España
 Chillán Chillán NPCSG00 # Chile
 Chillón Chillón NPCSG00 #municipios de España
 Chiloeches Chiloeches NPCSG00 #municipios de España
+Chiloé Chiloé NPCSG00 #municipios de Chile
 Chilpancingo Chilpancingo NPCSG00
 Chilón Chilón NPCSG00 #municipios de México
 Chima Chima NPFSSP0 # avl
 Chimalhuacán Chimalhuacán NPCSG00 # México
 Chimaltitán Chimaltitán NPCSG00 #municipios de México
+Chimbarongo Chimbarongo NPCSG00 #municipios de Chile
 Chimborazo Chimborazo NPMSG00
 Chimbote Chimbote NPCSG00
 Chimeneas Chimeneas NPCSG00 #municipios de España
@@ -4149,15 +4163,18 @@ Chivolo Chivolo NPCSG00 #municipios de Colombia
 Chivor Chivor NPCSG00 #municipios de Colombia
 Chloe Chloe NPFSSP0
 Choachí Choachí NPCSG00 #municipios de Colombia
+Choapa Choapa NPCSG00 #municipios de Chile
 Chocamán Chocamán NPCSG00 #municipios de México
 Chocholá Chocholá NPCSG00 #municipios de México
 Chocontá Chocontá NPCSG00 #municipios de Colombia
 Chodes Chodes NPCSG00 #municipios de España
 Chodos Chodos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Choix Choix NPCSG00 #municipios de México
+Cholchol Cholchol NPCSG00 #municipios de Chile
 Cholila Cholila NPCSG00 #municipios de Argentina
 Cholula Cholula NPCSG00 # México
 Chomsky Chomsky NPCNSP0
+Chonchi Chonchi NPCSG00 #municipios de Chile
 Chone Chone NPCSG00 # Ecuador
 Chontla Chontla NPCSG00 #municipios de México
 Chopin Chopin NPCNSP0 # wiki
@@ -4350,9 +4367,11 @@ Cobeja Cobeja NPCSG00 #municipios de España
 Cobeta Cobeta NPCSG00 #municipios de España
 Cobeña Cobeña NPCSG00 #municipios de España
 Cobisa Cobisa NPCSG00 #municipios de España
+Cobquecura Cobquecura NPCSG00 #municipios de Chile
 Cobreros Cobreros NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cocentaina Cocentaina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cochabamba Cochabamba NPCSG00
+Cochamó Cochamó NPCSG00 #municipios de Chile
 Cochinchina Cochinchina NPFSG00 # topònim-apertium
 Cochrane Cochrane NPCNSP0
 Cockayne Cockayne NPCNSP0 # medical
@@ -4361,12 +4380,14 @@ Cocorote Cocorote NPCSG00 # Venezuela
 Cocotitlán Cocotitlán NPCSG00 #municipios de México
 Cocula Cocula NPCSG00 #municipios de México
 Codazzi Codazzi NPCNSP0
+Codegua Codegua NPCSG00 #municipios de Chile
 Codigoro Codigoro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Codivilla Codivilla NPCNSP0 # medical
 Codman Codman NPCNSP0 # medical
 Codo Codo NPCSG00 #municipios de España
 Codorniz Codorniz NPCSG00 #municipios de España
 Codos Codos NPCSG00 #municipios de España
+Coelemu Coelemu NPCSG00 #municipios de Chile
 Coelho Coelho NPCNSP0
 Coello Coello NPCSG00 #municipios de Colombia
 Coeneo Coeneo NPCSG00 #municipios de México
@@ -4385,13 +4406,18 @@ Cohen Cohen NPCNSP0 # medical
 Cohetzala Cohetzala NPCSG00 #municipios de México
 Cohn Cohn NPCNSP0 # medical
 Cohuecan Cohuecan NPCSG00 #municipios de México
+Coihueco Coihueco NPCSG00 #municipios de Chile
 Coimbra Coimbra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Coinco Coinco NPCSG00 #municipios de Chile
 Coirós Coirós NPCSG00 #municipios de España
 Coix Coix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cojedes Cojedes NPCSG00 # Venezuela
 Colapinto Colapinto NPCNSP0 # medical
 Colbert Colbert NPCNSP0
+Colbún Colbún NPCSG00 #municipios de Chile
 Colcapirhua Colcapirhua NPCSG00 # Bolivia
+Colchagua Colchagua NPCSG00 #municipios de Chile
+Colchane Colchane NPCSG00 #municipios de Chile
 Colera Colera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coles Coles NPCSG00 #municipios de España
 Colgate Colgate NPCNO00
@@ -4408,6 +4434,7 @@ Collegats Collegats NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colles Colles NPCNSP0 # medical
 Collet-Sicart Collet-Sicart NPCNSP0 # medical
 Collins Collins NPCNSP0
+Collipulli Collipulli NPCSG00 #municipios de Chile
 Colliure Colliure NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collserola Collserola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collsuspina Collsuspina NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4425,6 +4452,7 @@ Colorado Colorado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coloso Coloso NPCSG00 #municipios de Colombia
 Colotlán Colotlán NPCSG00 #municipios de México
 Colquiri Colquiri NPCSG00 # Bolivia
+Coltauco Coltauco NPCSG00 #municipios de Chile
 Columbia Columbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Columbo Columbo NPMSSP0 # avl
 Columbus Columbus NPCSG00
@@ -4438,6 +4466,7 @@ Comallo Comallo NPCSG00 #municipios de Argentina
 Comapa Comapa NPCSG00 #municipios de México
 Comarapa Comarapa NPCSG00 # Bolivia
 Comares Comares NPCSG00 #municipios de España
+Combarbalá Combarbalá NPCSG00 #municipios de Chile
 Comenges Comenges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comenius Comenius NPCNSP0
 Comillas Comillas NPCSG00 #municipios de España
@@ -4459,6 +4488,7 @@ Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Concaran Concaran NPCSG00 #municipios de Argentina
 Concepción Concepción NPFSSP0 # avl
 Concha Concha NPFSSP0 # avl
+Conchalí Conchalí NPCSG00 #municipios de Chile
 Concordia Concordia NPFSSP0 # avl
 Concordio Concordio NPMSSP0 # avl
 Condis Condis NPMNO00
@@ -4505,6 +4535,7 @@ Contepec Contepec NPCSG00 #municipios de México
 Contrahierbas Contrahierbas NPCNG00
 Contratación Contratación NPCSG00 #municipios de Colombia
 Contreras Contreras NPCNSP0 # wiki common surnames
+Contulmo Contulmo NPCSG00 #municipios de Chile
 Convención Convención NPCSG00 #municipios de Colombia
 Cook Cook NPCNSP0
 Cooley Cooley NPCNSP0 # medical
@@ -4519,6 +4550,7 @@ Copelia Copelia NPFSSP0 # avl
 Copenhague Copenhague NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coper Coper NPCSG00 #municipios de Colombia
 Copernal Copernal NPCSG00 #municipios de España
+Copiapó Copiapó NPCSG00 #municipios de Chile
 Copons Copons NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copparo Copparo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Copperfield Copperfield NPCNSP0
@@ -4776,6 +4808,7 @@ Cumaribo Cumaribo NPCSG00 # Colombia
 Cumbal Cumbal NPCSG00 #municipios de Colombia
 Cumbitara Cumbitara NPCSG00 #municipios de Colombia
 Cumpas Cumpas NPCSG00 #municipios de México
+Cunco Cunco NPCSG00 #municipios de Chile
 Cuncunul Cuncunul NPCSG00 #municipios de México
 Cunday Cunday NPCSG00 #municipios de Colombia
 Cundinamarca Cundinamarca NPCSG00
@@ -4787,10 +4820,15 @@ Cuntis Cuntis NPCSG00 #municipios de España
 Cuomo Cuomo NPCNSP0
 Cupido Cupido NPMSSP0 # avl
 Cuquío Cuquío NPCSG00 #municipios de México
+Curacautín Curacautín NPCSG00 #municipios de Chile
+Curacaví Curacaví NPCSG00 #municipios de Chile
+Curanilahue Curanilahue NPCSG00 #municipios de Chile
+Curarrehue Curarrehue NPCSG00 #municipios de Chile
 Curazao Curazao NPCNG00 # topònim-apertium-falta-gènere-nombre
 Curcia Curcia NPFSSP0 # avl
 Curcio Curcio NPMSSP0 # avl
 Curdistán Curdistán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Curepto Curepto NPCSG00 #municipios de Chile
 Curial Curial NPMSSP0 # avl
 Curiapo Curiapo NPCSG00 # Venezuela
 Curicó Curicó NPCSG00 # Chile
@@ -4896,6 +4934,7 @@ Daisy Daisy NPFSSP0
 Dajla Dajla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dakar Dakar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dakota Dakota NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dalcahue Dalcahue NPCSG00 #municipios de Chile
 Dalen-Fuchs Dalen-Fuchs NPCNSP0 # medical
 Dalia Dalia NPFSSP0 # avl
 Dalila Dalila NPFSSP0 # avl
@@ -5134,6 +5173,7 @@ Dover Dover NPCNG00 # topònim-apertium-falta-gènere-nombre
 Down Down NPCNSP0
 Dozón Dozón NPCSG00 #municipios de España
 Doñana Doñana NPCSG00
+Doñihue Doñihue NPCSG00 #municipios de Chile
 Draghi Draghi NPCNSP0
 Drapia Drapia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dresde Dresde NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5376,6 +5416,7 @@ Eloíno Eloíno NPMSSP0 # avl
 Eloísa Eloísa NPFSSP0 # avl
 Elpidia Elpidia NPFSSP0 # avl
 Elpidio Elpidio NPMSSP0 # avl
+Elqui Elqui NPCSG00 #municipios de Chile
 Elsa Elsa NPFSSP0 # avl
 Elschning Elschning NPCNSP0 # medical
 Elton Elton NPMSSP0
@@ -5494,6 +5535,7 @@ Erasto Erasto NPMSSP0 # avl
 Eratsun Eratsun NPCSG00 #municipios de España
 Eratóstenes Eratóstenes NPMSSP0 # avl
 Erberto Erberto NPMSSP0 # avl
+Ercilla Ercilla NPCSG00 #municipios de Chile
 Ercio Ercio NPMSSP0 # avl
 Erecteo Erecteo NPMSSP0 # avl
 Eren Eren NPMSSP0
@@ -6147,6 +6189,7 @@ Freginals Freginals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Frei Frei NPCNSP0 # medical
 Freiberg Freiberg NPCNSP0 # medical
 Freila Freila NPCSG00 #municipios de España
+Freirina Freirina NPCSG00 #municipios de Chile
 Freites Freites NPCSG00 # Venezuela
 Freixa Freixa NPCNSP0
 Freixas Freixas NPCNSP0
@@ -6266,7 +6309,9 @@ Funza Funza NPCSG00 # Colombia
 Furtwängler Furtwängler NPCNSP0
 Fusagasugá Fusagasugá NPCSG00 # Colombia
 Fustiñana Fustiñana NPCSG00 #municipios de España
+Futaleufú Futaleufú NPCSG00 #municipios de Chile
 Futani Futani NPCNG00 # topònim-apertium-falta-gènere-nombre
+Futrono Futrono NPCSG00 #municipios de Chile
 Futuna Futuna NPCSG00
 Fátima Fátima NPFSG00 # topònim-apertium
 Fátima Fátima NPFSSP0 # avl
@@ -6367,6 +6412,7 @@ Galo Galo NPMSSP0 # avl
 Galoze Galoze NPCSG00 #municipios de España
 Galton Galton NPCNSP0 # medical
 Galvani Galvani NPCNSP0
+Galvarino Galvarino NPCSG00 #municipios de Chile
 Galve Galve NPCSG00 #municipios de España
 Galván Galván NPMSSP0 # avl
 Galán Galán NPCSG00 #municipios de Colombia
@@ -6691,6 +6737,7 @@ Google Google NPCNO00 # wiki
 Gor Gor NPCSG00 #municipios de España
 Gorafe Gorafe NPCSG00 #municipios de España
 Gorbachov Gorbachov NPCNSP0
+Gorbea Gorbea NPCSG00 #municipios de Chile
 Gordexola Gordexola NPCSG00 #municipios de España
 Gordiano Gordiano NPMSSP0 # avl
 Gordillo Gordillo NPCNSP0
@@ -6822,6 +6869,7 @@ Guaduas Guaduas NPCSG00 #municipios de Colombia
 Guaicaipuro Guaicaipuro NPCSG00 # Venezuela
 Guairá Guairá NPCSG00 # Paraguay
 Guaitarilla Guaitarilla NPCSG00 #municipios de Colombia
+Guaitecas Guaitecas NPCSG00 #municipios de Chile
 Gual Gual NPCSG00 # Venezuela
 Gualaceo Gualaceo NPCSG00 # Ecuador
 Gualaquiza Gualaquiza NPCSG00 # Ecuador
@@ -7310,7 +7358,11 @@ Hoyos Hoyos NPCSG00 #municipios de España
 Huachinera Huachinera NPCSG00 #municipios de México
 Huajicori Huajicori NPCSG00 #municipios de México
 Hualahuises Hualahuises NPCSG00 #municipios de México
+Hualaihué Hualaihué NPCSG00 #municipios de Chile
+Hualañé Hualañé NPCSG00 #municipios de Chile
 Hualfín Hualfín NPCSG00 #municipios de Argentina
+Hualpén Hualpén NPCSG00 #municipios de Chile
+Hualqui Hualqui NPCSG00 #municipios de Chile
 Huamachuco Huamachuco NPCSG00 # Perú
 Huamantla Huamantla NPCSG00 #municipios de México
 Huamuxtitlán Huamuxtitlán NPCSG00 #municipios de México
@@ -7328,10 +7380,12 @@ Huanusco Huanusco NPCSG00 #municipios de México
 Huanímaro Huanímaro NPCSG00 #municipios de México
 Huaquechula Huaquechula NPCSG00 #municipios de México
 Huaquillas Huaquillas NPCSG00 # Ecuador
+Huara Huara NPCSG00 #municipios de Chile
 Huaraz Huaraz NPCSG00 # Perú
 Huarmaca Huarmaca NPCSG00
 Huarmey Huarmey NPCSG00 # Perú
 Huarte Huarte NPCSG00 #municipios de España
+Huasco Huasco NPCSG00 #municipios de Chile
 Huatabampo Huatabampo NPCSG00 #municipios de México
 Huatlatlauca Huatlatlauca NPCSG00 #municipios de México
 Huatusco Huatusco NPCSG00 #municipios de México
@@ -7344,6 +7398,7 @@ Hubei Hubei NPCSG00
 Huberto Huberto NPMSSP0 # avl
 Hudson Hudson NPCNG00 # topònim-apertium-falta-gènere-nombre
 Huecas Huecas NPCSG00 #municipios de España
+Huechuraba Huechuraba NPCSG00 #municipios de Chile
 Huehuetla Huehuetla NPCSG00 #municipios de México
 Huehuetlán Huehuetlán NPCSG00 #municipios de México
 Huehuetoca Huehuetoca NPCSG00 #municipios de México
@@ -7531,6 +7586,7 @@ Iles Iles NPCSG00 #municipios de Colombia
 Iliatenco Iliatenco NPCSG00 #municipios de México
 Illana Illana NPCSG00 #municipios de España
 Illano Illano NPCSG00 #municipios de España
+Illapel Illapel NPCSG00 #municipios de Chile
 Illar Illar NPCSG00 #municipios de España
 Illas Illas NPCSG00 #municipios de España
 Illescas Illescas NPCSG00
@@ -8288,12 +8344,14 @@ Lamberto Lamberto NPMSSP0 # avl
 Lambán Lambán NPCNSP0
 Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lampa Lampa NPCSG00 #municipios de Chile
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lanaja Lanaja NPCSG00 #municipios de España
 Lancashire Lancashire NPCSG00
 Lancaster Lancaster NPCSG00
 Lancelino Lancelino NPMSSP0 # avl
 Lanciego Lanciego NPCSG00 #municipios de España
+Lanco Lanco NPCSG00 #municipios de Chile
 Landas Landas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Landau-Klegffner Landau-Klegffner NPCNSP0 # medical
 Landelina Landelina NPFSSP0 # avl
@@ -8398,6 +8456,7 @@ Laurino Laurino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laurito Laurito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lauro Lauro NPMSSP0 # avl
 Lausana Lausana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lautaro Lautaro NPCSG00 #municipios de Chile
 Lavalle Lavalle NPCSG00 # Argentina LO
 Lavalleja Lavalleja NPCSG00 # Uruguay
 Lavansa Lavansa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8423,6 +8482,7 @@ Leary Leary NPCSG00 # Paraguay
 Leber Leber NPCNSP0 # medical
 Lebrija Lebrija NPCSG00 #municipios de España
 Lebríja Lebríja NPCSG00 #municipios de Colombia
+Lebu Lebu NPCSG00 #municipios de Chile
 Lechón Lechón NPCSG00 #municipios de España
 Leciñena Leciñena NPCSG00 #municipios de España
 Lecrín Lecrín NPCSG00 #municipios de España
@@ -8561,6 +8621,7 @@ Liborina Liborina NPCSG00 #municipios de Colombia
 Liborio Liborio NPMSSP0 # avl
 Libreville Libreville NPCNG00 # topònim-apertium-falta-gènere-nombre
 Librilla Librilla NPCNG00 # topònim-apertium-falta-gènere-nombre
+Licantén Licantén NPCSG00 #municipios de Chile
 Liceras Liceras NPCSG00 #municipios de España
 Licerio Licerio NPMSSP0 # avl
 Licia Licia NPFSSP0 # avl
@@ -8598,6 +8659,7 @@ Lilly Lilly NPCNO00
 Lilongwe Lilongwe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lima Lima NPCNG00 # topònim-apertium-falta-gènere-nombre
 Limache Limache NPCSG00 # Chile
+Limarí Limarí NPCSG00 #municipios de Chile
 Limberg Limberg NPCNSP0 # medical
 Limoges Limoges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Limpias Limpias NPCSG00 #municipios de España
@@ -8635,6 +8697,7 @@ Litago Litago NPCSG00 #municipios de España
 Little Little NPCNSP0 # wiki
 Littré Littré NPCNSP0 # medical
 Lituania Lituania NPCNG00 # topònim-apertium-falta-gènere-nombre
+Litueche Litueche NPCSG00 #municipios de Chile
 Lituénigo Lituénigo NPCSG00 #municipios de España
 Liubliana Liubliana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Liverpool Liverpool NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8662,6 +8725,7 @@ Llambilles Llambilles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llanars Llanars NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llanera Llanera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llanes Llanes NPCSG00 #municipios de España
+Llanquihue Llanquihue NPCSG00 #municipios de Chile
 Llançà Llançà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llardecans Llardecans NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llaurí Llaurí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8720,12 +8784,14 @@ Loiret Loiret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Loiu Loiu NPCSG00 #municipios de España
 Loja Loja NPCSG00 # Ecuador
 Lola Lola NPFSSP0 # avl
+Lolol Lolol NPCSG00 #municipios de Chile
 Lolotla Lolotla NPCSG00 #municipios de México
 Lombardo Lombardo NPMSSP0 # avl
 Lombardía Lombardía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lominchar Lominchar NPCSG00 #municipios de España
 Lomoviejo Lomoviejo NPCSG00 #municipios de España
 Lomé Lomé NPCNG00 # topònim-apertium-falta-gènere-nombre
+Loncoche Loncoche NPCSG00 #municipios de Chile
 Loncopué Loncopué NPCSG00 #municipios de Argentina
 London London NPCNSP0
 London London NPCSG00
@@ -8733,6 +8799,7 @@ Londoño Londoño NPCNSP0
 Londres Londres NPCNG00 # topònim-apertium-falta-gènere-nombre
 Long Long NPCNSP0 # wiki
 Longares Longares NPCSG00 #municipios de España
+Longaví Longaví NPCSG00 #municipios de Chile
 Longida Longida NPCSG00 #municipios de España
 Longino Longino NPMSSP0 # avl
 Longobardi Longobardi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8840,6 +8907,7 @@ Lukács Lukács NPCNSP0
 Lula Lula NPMSSP0
 Lulio Lulio NPMSSP0 # avl
 Lully Lully NPMSSP0
+Lumaco Lumaco NPCSG00 #municipios de Chile
 Lumbaqui Lumbaqui NPCSG00 # Ecuador
 Lumbier Lumbier NPCSG00 #municipios de España
 Lumbrales Lumbrales NPCSG00 #municipios de España
@@ -8926,6 +8994,7 @@ Macerata Macerata NPCNG00 # topònim-apertium-falta-gènere-nombre
 Machachi Machachi NPCSG00 # Ecuador
 Machacón Machacón NPCSG00 #municipios de España
 Machado-Joseph Machado-Joseph NPCNSP0 # medical
+Machalí Machalí NPCSG00 #municipios de Chile
 Macharaviaya Macharaviaya NPCSG00 #municipios de España
 Macheta Macheta NPCSG00 #municipios de Colombia
 Machiques Machiques NPCSG00 # Venezuela
@@ -8939,6 +9008,7 @@ Macotera Macotera NPCSG00 #municipios de España
 Macris Macris NPFSSP0 # avl
 Macrobús Macrobús NPMSO00
 Macron Macron NPCNSP0
+Macul Macul NPCSG00 #municipios de Chile
 Macuspana Macuspana NPCSG00 #municipios de México
 Madagascar Madagascar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madarcos Madarcos NPCSG00 #municipios de España
@@ -9007,6 +9077,7 @@ Maine Maine NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mainero Mainero NPCSG00 #municipios de México
 Mainque Mainque NPCSG00 #municipios de Argentina
 Mainz Mainz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Maipo Maipo NPCSG00 #municipios de Chile
 Maipú Maipú NPCSG00 # Argentina LO
 Mairana Mairana NPCSG00 # Bolivia
 Mairena Mairena NPCSG00
@@ -9050,6 +9121,8 @@ Malla Malla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mallabia Mallabia NPCSG00 #municipios de España
 Mallama Mallama NPCSG00 #municipios de Colombia
 Mallampati Mallampati NPCNSP0 # medical
+Malleco Malleco NPCSG00 #municipios de Chile
+Malloa Malloa NPCSG00 #municipios de Chile
 Mallorca Mallorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mallén Mallén NPCSG00 #municipios de España
 Malmö Malmö NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9180,6 +9253,7 @@ Marchal Marchal NPCSG00 #municipios de España
 Marchamalo Marchamalo NPCSG00 #municipios de España
 Marchena Marchena NPCNSP0
 Marchiafava-Bignami Marchiafava-Bignami NPCNSP0 # medical
+Marchigüe Marchigüe NPCSG00 #municipios de Chile
 Marcia Marcia NPFSSP0 # avl
 Marcial Marcial NPMSSP0 # avl
 Marciala Marciala NPFSSP0 # avl
@@ -9225,6 +9299,7 @@ Mariola Mariola NPFSSP0 # avl
 Mariona Mariona NPFSSP0 # avl
 Maripa Maripa NPCSG00 # Venezuela
 Maripí Maripí NPCSG00 #municipios de Colombia
+Mariquina Mariquina NPCSG00 #municipios de Chile
 Mariquita Mariquita NPCSG00 #municipios de Colombia
 Marisa Marisa NPFSSP0 # avl
 Marisol Marisol NPFSSP0 # avl
@@ -9363,6 +9438,7 @@ Matusalén Matusalén NPMSSP0 # avl
 Matute Matute NPCSG00 #municipios de España
 Matías Matías NPMSSP0 # avl
 Maule Maule NPCSG00 # Chile
+Maullín Maullín NPCSG00 #municipios de Chile
 Maura Maura NPFSSP0 # avl
 Maurice Maurice NPCNSP0 # wiki
 Mauricia Mauricia NPFSSP0 # avl
@@ -9501,6 +9577,7 @@ Melilla Melilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melina Melina NPFSSP0 # avl
 Melinda Melinda NPFSSP0 # avl
 Melino Melino NPMSSP0 # avl
+Melipeuco Melipeuco NPCSG00 #municipios de Chile
 Melipilla Melipilla NPCSG00 # Chile
 Melisa Melisa NPFSSP0 # avl
 Melisenda Melisenda NPFSSP0 # avl
@@ -9595,6 +9672,7 @@ Metime Metime NPFSSP0 # avl
 Metlatónoc Metlatónoc NPCSG00 #municipios de México
 Metodia Metodia NPFSSP0 # avl
 Metodio Metodio NPMSSP0 # avl
+Metropolitana Metropolitana NPCSG00 #municipios de Chile
 Metz Metz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Metztitlán Metztitlán NPCSG00 #municipios de México
 Metán Metán NPCSG00 #municipios de Argentina
@@ -10074,6 +10152,7 @@ Mugardos Mugardos NPCSG00 #municipios de España
 Muhamad Muhamad NPCNSP0 # wiki
 Muisne Muisne NPCSG00 # Ecuador
 Mula Mula NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mulchén Mulchén NPCSG00 #municipios de Chile
 Mulegé Mulegé NPCSG00 #municipios de México
 Mulhacén Mulhacén NPMSG00
 Muller Muller NPCNSP0
@@ -10134,6 +10213,7 @@ Muñoz Muñoz NPCNSP0 # wiki common surnames
 Myanmar Myanmar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mycobacterium Mycobacterium NPCNSP0 # medical
 Myriam Myriam NPFSSP0
+Máfil Máfil NPCSG00 #municipios de Chile
 Málaga Málaga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Márkov Márkov NPCNSP0
 Márquez Márquez NPCNSP0
@@ -10199,6 +10279,7 @@ Nambroca Nambroca NPCSG00 #municipios de España
 Namibia Namibia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Namiquipa Namiquipa NPCSG00 #municipios de México
 Nanawa Nanawa NPCSG00 # Paraguay
+Nancagua Nancagua NPCSG00 #municipios de Chile
 Nancy Nancy NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nankín Nankín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nantes Nantes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10401,6 +10482,7 @@ Nimaima Nimaima NPCSG00 #municipios de Colombia
 Nimes Nimes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nina Nina NPFSSP0 # avl
 Ninfa Ninfa NPFSSP0 # avl
+Ninhue Ninhue NPCSG00 #municipios de Chile
 Nintendo Nintendo NPCNO00 # wiki
 Nipah Nipah NPCSG00
 Nirgua Nirgua NPCSG00 # Venezuela
@@ -10519,6 +10601,7 @@ Núñez Núñez NPCNSP0 # wiki common surnames
 O'Brien O'Brien NPCNSP0
 O'Connor O'Connor NPCNSP0
 O'Donnell O'Donnell NPCNSP0
+O'Higgins O'Higgins NPCSG00 #municipios de Chile
 O'Neill O'Neill NPCNSP0
 O'Sullivan O'Sullivan NPCNSP0
 OCASA OCASA NPCNO00
@@ -10660,10 +10743,12 @@ Olivera Olivera NPCNSP0 # wiki common surnames
 Oliveria Oliveria NPFSSP0 # avl
 Oliverio Oliverio NPMSSP0 # avl
 Olivia Olivia NPFSSP0 # avl
+Ollagüe Ollagüe NPCSG00 #municipios de Chile
 Ollauri Ollauri NPCSG00 #municipios de España
 Ollería Ollería NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ollo Ollo NPCSG00 #municipios de España
 Olmedo Olmedo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Olmué Olmué NPCSG00 #municipios de Chile
 Olocau Olocau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Olombrada Olombrada NPCSG00 #municipios de España
 Oloritz Oloritz NPCSG00 #municipios de España
@@ -10932,7 +11017,9 @@ Pages Pages NPCNSP0
 Paget Paget NPCNSP0 # medical
 Pahuatlán Pahuatlán NPCSG00 #municipios de México
 Paicol Paicol NPCSG00 #municipios de Colombia
+Paihuano Paihuano NPCSG00 #municipios de Chile
 Pailitas Pailitas NPCSG00 #municipios de Colombia
+Paillaco Paillaco NPCSG00 #municipios de Chile
 Paime Paime NPCSG00 #municipios de Colombia
 Paine Paine NPCSG00 # Chile
 Paipa Paipa NPCSG00 #municipios de Colombia
@@ -10965,6 +11052,7 @@ Palau-sator Palau-sator NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palau-saverdera Palau-saverdera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palau-solità Palau-solità NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palavecino Palavecino NPCSG00 # Venezuela
+Palena Palena NPCSG00 #municipios de Chile
 Palencia Palencia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palenciana Palenciana NPCSG00 #municipios de España
 Palenzuela Palenzuela NPCSG00 #municipios de España
@@ -11025,12 +11113,14 @@ Pandora Pandora NPFSSP0 # avl
 Panettieri Panettieri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pangea Pangea NPFSG00
 Pangui Pangui NPCSG00 # Ecuador
+Panguipulli Panguipulli NPCSG00 #municipios de Chile
 Paniagua Paniagua NPCNSP0
 Panindícuaro Panindícuaro NPCSG00 #municipios de México
 Panini Panini NPCNSP0
 Paniza Paniza NPCSG00 #municipios de España
 Panotla Panotla NPCSG00 #municipios de México
 Panqueba Panqueba NPCSG00 #municipios de Colombia
+Panquehue Panquehue NPCSG00 #municipios de Chile
 Pantaleón Pantaleón NPMSSP0 # avl
 Pantelaria Pantelaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pantelhó Pantelhó NPCSG00 #municipios de México
@@ -11195,6 +11285,7 @@ Pelabravo Pelabravo NPCSG00 #municipios de España
 Pelagia Pelagia NPFSSP0 # avl
 Pelagio Pelagio NPMSSP0 # avl
 Pelahustán Pelahustán NPCSG00 #municipios de España
+Pelarco Pelarco NPCSG00 #municipios de Chile
 Pelarrodríguez Pelarrodríguez NPCSG00 #municipios de España
 Pelaya Pelaya NPFSSP0 # avl
 Pelayo Pelayo NPMSSP0 # avl
@@ -11206,8 +11297,11 @@ Peleo Peleo NPMSSP0 # avl
 Peligros Peligros NPCSG00 #municipios de España
 Pelileo Pelileo NPCSG00 # Ecuador
 Pellegrini Pellegrini NPCSG00 #municipios de Argentina
+Pelluhue Pelluhue NPCSG00 #municipios de Chile
 Peloponeso Peloponeso NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pemuco Pemuco NPCSG00 #municipios de Chile
 Penagos Penagos NPCSG00 #municipios de España
+Pencahue Pencahue NPCSG00 #municipios de Chile
 Penderecki Penderecki NPCNSP0
 Pendred Pendred NPCNSP0 # medical
 Penedès Penedès NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11236,6 +11330,7 @@ Peralada Peralada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peralejos Peralejos NPCSG00 #municipios de España
 Perales Perales NPCNSP0
 Perales Perales NPCSG00 #municipios de España
+Peralillo Peralillo NPCSG00 #municipios de Chile
 Peralta Peralta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peralta Peralta NPCNSP0 # wiki common surnames
 Peraltilla Peraltilla NPCSG00 #municipios de España
@@ -11272,6 +11367,7 @@ Perosillo Perosillo NPCSG00 #municipios de España
 Perpetua Perpetua NPFSSP0 # avl
 Perpetuo Perpetuo NPMSSP0 # avl
 Perpiñán Perpiñán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Perquenco Perquenco NPCSG00 #municipios de Chile
 Perrault Perrault NPCNSP0
 Perseo Perseo NPMSSP0 # avl
 Perseus Perseus NPCNSP0 # wiki
@@ -11297,6 +11393,7 @@ Peters Peters NPCNSP0 # medical
 Petersburgo Petersburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peterson Peterson NPCNSP0 # wiki
 Petlalcingo Petlalcingo NPCSG00 #municipios de México
+Petorca Petorca NPCSG00 #municipios de Chile
 Petra Petra NPFSG00 # topònim-apertium
 Petra Petra NPFSSP0 # avl
 Petrarca Petrarca NPMSSP0
@@ -11320,6 +11417,7 @@ Peñacerrada-Urizaharra Peñacerrada-Urizaharra NPCSG00 #municipios de España
 Peñafiel Peñafiel NPCNSP0
 Peñaflor Peñaflor NPCSG00 # Chile
 Peñalba Peñalba NPCSG00 #municipios de España
+Peñalolén Peñalolén NPCSG00 #municipios de Chile
 Peñaloza Peñaloza NPCNSP0
 Peñalsordo Peñalsordo NPCSG00 #municipios de España
 Peñalver Peñalver NPCSG00 # Venezuela
@@ -11355,6 +11453,8 @@ Picaña Picaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Piccadilly Piccadilly NPCNG00
 Picchu Picchu NPCNSP0 # wiki
 Pichanaqui Pichanaqui NPCSG00 # Perú
+Pichidegua Pichidegua NPCSG00 #municipios de Chile
+Pichilemu Pichilemu NPCSG00 #municipios de Chile
 Pichincha Pichincha NPCNO00
 Pichu Pichu NPMSSP0
 Pichucalco Pichucalco NPCSG00 #municipios de México
@@ -11448,6 +11548,7 @@ Pitiegua Pitiegua NPCSG00 #municipios de España
 Pitillas Pitillas NPCSG00 #municipios de España
 Pitiquito Pitiquito NPCSG00 #municipios de México
 Pitiusas Pitiusas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pitrufquén Pitrufquén NPCSG00 #municipios de Chile
 Pittsburgh Pittsburgh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pitágoras Pitágoras NPMSSP0 # avl
 Piura Piura NPCSG00
@@ -11709,7 +11810,10 @@ Ptolomeo Ptolomeo NPMSSP0 # avl
 Publio Publio NPMSSP0 # avl
 Pucallpa Pucallpa NPCSG00 # Perú
 Puccini Puccini NPCNSP0
+Puchuncaví Puchuncaví NPCSG00 #municipios de Chile
+Pucón Pucón NPCSG00 #municipios de Chile
 Pucú Pucú NPCSG00 # Paraguay
+Pudahuel Pudahuel NPCSG00 #municipios de Chile
 Puebla Puebla NPCSG00
 Pueblorrico Pueblorrico NPCSG00 #municipios de Colombia
 Puebloviejo Puebloviejo NPCSG00 # Ecuador
@@ -11739,17 +11843,20 @@ Pulgar Pulgar NPCSG00 #municipios de España
 Pulianas Pulianas NPCSG00 #municipios de España
 Pulpí Pulpí NPCSG00 #municipios de España
 Pulí Pulí NPCSG00 #municipios de Colombia
+Pumanque Pumanque NPCSG00 #municipios de Chile
 Punakha Punakha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Punata Punata NPCSG00 # Bolivia
 Punceres Punceres NPCSG00 # Venezuela
 Pungarabato Pungarabato NPCSG00 #municipios de México
 Punilla Punilla NPCSG00 # Argentina
+Punitaqui Punitaqui NPCSG00 #municipios de Chile
 Punjab Punjab NPMSG00 # topònim-apertium
 Puntagorda Puntagorda NPCSG00 #municipios de España
 Puntallana Puntallana NPCSG00 #municipios de España
 Punxín Punxín NPCSG00 #municipios de España
 Punyab Punyab NPMSG00
 Pupiales Pupiales NPCSG00 #municipios de Colombia
+Puqueldón Puqueldón NPCSG00 #municipios de Chile
 Pura Pura NPFSSP0 # avl
 Puracé Puracé NPCSG00 #municipios de Colombia
 Puras Puras NPCSG00 #municipios de España
@@ -11759,16 +11866,21 @@ Pureza Pureza NPFSSP0 # avl
 Purificación Purificación NPFSSP0 # avl
 Purkinje Purkinje NPCNSP0 # medical
 Purmamarca Purmamarca NPCSG00 # Argentina LO
+Purranque Purranque NPCSG00 #municipios de Chile
 Purtscher Purtscher NPCNSP0 # medical
 Purujosa Purujosa NPCSG00 #municipios de España
 Purullena Purullena NPCSG00 #municipios de España
 Puruándiro Puruándiro NPCSG00 #municipios de México
+Purén Purén NPCSG00 #municipios de Chile
 Purépero Purépero NPCSG00 #municipios de México
 Purísima Purísima NPFSSP0 # avl
 Purísimo Purísimo NPMSSP0 # avl
+Putaendo Putaendo NPCSG00 #municipios de Chile
 Putin Putin NPCNSP0
+Putre Putre NPCSG00 #municipios de Chile
 Putti Putti NPCNSP0 # medical
 Putumayo Putumayo NPCSG00
+Puyehue Puyehue NPCSG00 #municipios de Chile
 Puzo Puzo NPCNSP0
 Puzol Puzol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Puán Puán NPCSG00 # Argentina LO
@@ -11820,9 +11932,12 @@ Queen Queen NPCNSP0 # wiki
 Queen Quenn NPCNO00
 Queens Queens NPCSG00
 Quehué Quehué NPCSG00 #municipios de Argentina
+Queilén Queilén NPCSG00 #municipios de Chile
 Queixans Queixans NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quel Quel NPCSG00 #municipios de España
+Quellón Quellón NPCSG00 #municipios de Chile
 Quemada Quemada NPCSG00 #municipios de España
+Quemchi Quemchi NPCSG00 #municipios de Chile
 Quequén Quequén NPCSG00 # Argentina
 Quer Quer NPCSG00 #municipios de España
 Queralbs Queralbs NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11851,17 +11966,24 @@ Quijana Quijana NPCNSP0
 Quijano Quijano NPCNSP0
 Quijarro Quijarro NPCSG00 # Bolivia
 Quijorna Quijorna NPCSG00 #municipios de España
+Quilaco Quilaco NPCSG00 #municipios de Chile
 Quiles Quiles NPMSSP0 # avl
 Quiliana Quiliana NPFSSP0 # avl
 Quiliano Quiliano NPMSSP0 # avl
 Quilichao Quilichao NPCSG00 # Colombia
+Quilicura Quilicura NPCSG00 #municipios de Chile
 Quilino Quilino NPCSG00 #municipios de Argentina
 Quillabamba Quillabamba NPCSG00 # Perú
 Quillacollo Quillacollo NPCSG00 # Bolivia
+Quilleco Quilleco NPCSG00 #municipios de Chile
+Quillota Quillota NPCSG00 #municipios de Chile
+Quillón Quillón NPCSG00 #municipios de Chile
 Quilmes Quilmes NPCSG00 # Argentina LO
+Quilpué Quilpué NPCSG00 #municipios de Chile
 Quimbaya Quimbaya NPCSG00 #municipios de Colombia
 Quimixtlán Quimixtlán NPCSG00 #municipios de México
 Quina Quina NPFSSP0 # avl
+Quinchao Quinchao NPCSG00 #municipios de Chile
 Quinchía Quinchía NPCSG00 #municipios de Colombia
 Quincke Quincke NPCNSP0 # medical
 Quindío Quindío NPMSG00
@@ -11889,6 +12011,7 @@ Quiriaco Quiriaco NPMSSP0 # avl
 Quirica Quirica NPFSSP0 # avl
 Quirico Quirico NPMSSP0 # avl
 Quiriego Quiriego NPCSG00 #municipios de México
+Quirihue Quirihue NPCSG00 #municipios de Chile
 Quirina Quirina NPFSSP0 # avl
 Quirino Quirino NPMSSP0 # avl
 Quiriquire Quiriquire NPCSG00 # Venezuela
@@ -11972,6 +12095,7 @@ Ramálah Ramálah NPFSG00
 Ramírez Ramírez NPCNSP0 # wiki common surnames
 Ramón Ramón NPMSSP0 # avl
 Rancagua Rancagua NPCSG00
+Ranco Ranco NPCSG00 #municipios de Chile
 Rancul Rancul NPCSG00 #municipios de Argentina
 Randazzo Randazzo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Randolfa Randolfa NPFSSP0 # avl
@@ -12060,6 +12184,7 @@ Remmelink Remmelink NPCNSP0 # medical
 Remo Remo NPMSSP0 # avl
 Remolinos Remolinos NPCSG00 #municipios de España
 Remondo Remondo NPCSG00 #municipios de España
+Renaico Renaico NPCSG00 #municipios de Chile
 Renania Renania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Renania-Palatinado Renania-Palatinado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Renarda Renarda NPFSSP0 # avl
@@ -12079,6 +12204,7 @@ Reocín Reocín NPCSG00 #municipios de España
 Repelón Repelón NPCSG00 #municipios de Colombia
 Requejo Requejo NPCSG00 #municipios de España
 Requena Requena NPCNG00 # topònim-apertium-falta-gènere-nombre
+Requínoa Requínoa NPCSG00 #municipios de Chile
 Resquín Resquín NPCSG00 # Paraguay
 Ressèc Ressèc NPCNG00 # topònim-apertium-falta-gènere-nombre
 Restanca Restanca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12407,6 +12533,7 @@ Ráfah Ráfah NPCSG00
 Ráfales Ráfales NPCSG00 #municipios de España
 Rágama Rágama NPCSG00 #municipios de España
 Rágol Rágol NPCSG00 #municipios de España
+Ránquil Ránquil NPCSG00 #municipios de Chile
 Ráquira Ráquira NPCSG00 #municipios de Colombia
 Régula Régula NPFSSP0 # avl
 Régulo Régulo NPMSSP0 # avl
@@ -13451,10 +13578,12 @@ Talaván Talaván NPCSG00 #municipios de España
 Talayuela Talayuela NPCSG00 #municipios de España
 Talayuelas Talayuelas NPCSG00 #municipios de España
 Talca Talca NPCSG00 # Chile
+Talcahuano Talcahuano NPCSG00 #municipios de Chile
 Tales Tales NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tallin Tallin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Talltendre Talltendre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Talmacsi Talmacsi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Taltal Taltal NPCSG00 #municipios de Chile
 Talveila Talveila NPCSG00 #municipios de España
 Talía Talía NPFSSP0 # avl
 Tamajón Tamajón NPCSG00 #municipios de España
@@ -13677,6 +13806,7 @@ Tenerife Tenerife NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tenjo Tenjo NPCSG00 #municipios de Colombia
 Tennessee Tennessee NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tennison-Randall Tennison-Randall NPCNSP0 # medical
+Teno Teno NPCSG00 #municipios de Chile
 Tenochtitlan Tenochtitlan NPCSG00
 Tenochtitlán Tenochtitlán NPCSG00
 Tenon Tenon NPCNSP0 # medical
@@ -13853,9 +13983,11 @@ Tikal Tikal NPCNSP0 # wiki
 Tilapa Tilapa NPCSG00 #municipios de México
 Tilcara Tilcara NPCSG00 # Argentina LO
 Tilisarao Tilisarao NPCSG00 #municipios de Argentina
+Tiltil Tiltil NPCSG00 #municipios de Chile
 Tim Tim NPCNSP0 # wiki
 Tim Tim NPMSSP0
 Timaná Timaná NPCSG00 #municipios de Colombia
+Timaukel Timaukel NPCSG00 #municipios de Chile
 Timbiquí Timbiquí NPCSG00 #municipios de Colombia
 Timbío Timbío NPCSG00 #municipios de Colombia
 Timea Timea NPFSSP0 # avl
@@ -13890,6 +14022,7 @@ Tiriolo Tiriolo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tirol Tirol NPMSG00
 Tirso Tirso NPMSSP0 # avl
 Tirupur Tirupur NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tirúa Tirúa NPCSG00 #municipios de Chile
 Tisbe Tisbe NPFSSP0 # avl
 Titaguas Titaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Titanic Titanic NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13964,6 +14097,7 @@ Tocatlán Tocatlán NPCSG00 #municipios de México
 Tochimilco Tochimilco NPCSG00 #municipios de México
 Tochtepec Tochtepec NPCSG00 #municipios de México
 Tocina Tocina NPCSG00 #municipios de España
+Tocopilla Tocopilla NPCSG00 #municipios de Chile
 Tocumbo Tocumbo NPCSG00 #municipios de México
 Tocuyito Tocuyito NPCSG00 # Venezuela
 Toda Toda NPFSSP0 # avl
@@ -13990,6 +14124,7 @@ Tolosa Tolosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tolosa-Hunt Tolosa-Hunt NPCNSP0 # medical
 Tolox Tolox NPCSG00 #municipios de España
 Tolstói Tolstói NPCNSP0
+Toltén Toltén NPCSG00 #municipios de Chile
 Toluca Toluca NPCSG00
 Tolva Tolva NPCSG00 #municipios de España
 Tom Tom NPMSSP0 # wiki
@@ -14166,6 +14301,7 @@ Tracia Tracia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trafalgar Trafalgar NPCSG00
 Tragacete Tragacete NPCSG00 #municipios de España
 Traiguera Traiguera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Traiguén Traiguén NPCSG00 #municipios de Chile
 Trajano Trajano NPMSSP0 # avl
 Tramacastiel Tramacastiel NPCSG00 #municipios de España
 Tramacastilla Tramacastilla NPCSG00 #municipios de España
@@ -14191,6 +14327,7 @@ Trecastagni Trecastagni NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tredòs Tredòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tredós Tredós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Trefacio Trefacio NPCSG00 #municipios de España
+Treguaco Treguaco NPCSG00 #municipios de Chile
 Trelawny Trelawny NPCNSP0
 Trelew Trelew NPCSG00 # Argentina
 Trello Trello NPCNO00
@@ -14255,6 +14392,7 @@ Tubutama Tubutama NPCSG00 #municipios de México
 Tuca Tuca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tucacas Tucacas NPCSG00 # Venezuela
 Tucaní Tucaní NPCSG00 # Venezuela
+Tucapel Tucapel NPCSG00 #municipios de Chile
 Tuchín Tuchín NPCSG00 # Colombia
 Tucumán Tucumán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tucupido Tucupido NPCSG00 # Venezuela
@@ -14850,6 +14988,7 @@ Vicen Vicen NPFSSP0 # avl
 Vicenta Vicenta NPFSSP0 # avl
 Vicente Vicente NPMSSP0 # avl
 Vichada Vichada NPCSG00
+Vichuquén Vichuquén NPCSG00 #municipios de Chile
 Vichy Vichy NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vicién Vicién NPCSG00 #municipios de España
 Vicky Vicky NPFSSP0
@@ -14933,6 +15072,7 @@ Vilaverd Vilaverd NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vilaür Vilaür NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vilcashuamán Vilcashuamán NPCSG00 # Perú
 Vilches Vilches NPCSG00 #municipios de España
+Vilcún Vilcún NPCSG00 #municipios de Chile
 Vileña Vileña NPCSG00 #municipios de España
 Villa-Lobos Villa-Lobos NPCNSP0
 Villablanca Villablanca NPCSG00 #municipios de España
@@ -15162,6 +15302,7 @@ Visiedo Visiedo NPCSG00 #municipios de España
 Visitación Visitación NPFSSP0 # avl
 Vistabella Vistabella NPCSG00 #municipios de España
 Vita Vita NPFSSP0 # avl
+Vitacura Vitacura NPCSG00 #municipios de Chile
 Vital Vital NPMSSP0 # avl
 Vitalia Vitalia NPFSSP0 # avl
 Vitalina Vitalina NPFSSP0 # avl
@@ -15493,11 +15634,13 @@ Yrybucuá Yrybucuá NPCSG00 # Paraguay
 Yucatán Yucatán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yucatán Yucatán NPCSG00
 Yugoslavia Yugoslavia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Yumbel Yumbel NPCSG00 #municipios de Chile
 Yumbo Yumbo NPCSG00 #municipios de Colombia
 Yuncler Yuncler NPCSG00 #municipios de España
 Yunclillos Yunclillos NPCSG00 #municipios de España
 Yuncos Yuncos NPCSG00 #municipios de España
 Yung Yung NPCNSP0 # medical
+Yungay Yungay NPCSG00 #municipios de Chile
 Yunquera Yunquera NPCSG00 #municipios de España
 Yurimaguas Yurimaguas NPCSG00 # Perú
 Yuriria Yuriria NPCSG00 # México
@@ -15777,9 +15920,11 @@ oXygen oXygen NPMSO00
 Ñancay Ñancay NPCSG00 # Argentina LO
 Ñeembucú Ñeembucú NPCSG00 # Paraguay
 Ñemby Ñemby NPCSG00 # Paraguay
+Ñiquén Ñiquén NPCSG00 #municipios de Chile
 Ñorquinco Ñorquinco NPCSG00 #municipios de Argentina
 Ñuble Ñuble NPCSG00 # Chile
 Ñum Ñum NPCSG00 # Paraguay
+Ñuñoa Ñuñoa NPCSG00 #municipios de Chile
 Òdena Òdena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Òrrius Òrrius NPCSG00 # topònim-apertium-falta-gènere-nombre
 Ólvega Ólvega NPCSG00 #municipios de España
