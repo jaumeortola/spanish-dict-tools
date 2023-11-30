@@ -23743,6 +23743,7 @@ eclímetro=categories: M;fonts: LT;
 eclíptica=categories: F;fonts: LT;
 ecmnesia=categories: F;fonts: medical;
 eco=categories: M;fonts: LT;
+ecoansiedad=categories: F;fonts: derivat;
 ecoblanqueamiento=categories: MS;fonts: termcat;
 ecoblanqueo=categories: MS;fonts: termcat;
 ecocardiografía=categories: F;fonts: LT;
