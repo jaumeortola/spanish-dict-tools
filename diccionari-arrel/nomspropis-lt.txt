@@ -490,6 +490,7 @@ Adán Adán NPMSSP0 # avl
 Adén Adén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aena Aena NPFSO00
 Aeroméxico Aeroméxico NPCSO00
+AfD AfD NPFSO00
 Afganistán Afganistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Afra Afra NPFSSP0 # avl
 Africo Africo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4909,6 +4910,7 @@ DGT DGT NPFSO00
 DLE DLE NPMSO00
 DRAE DRAE NPMSO00
 DRV DRV NPCNO00
+DZP DZP NPMSO00
 Dabajuro Dabajuro NPCSG00 # Venezuela
 Dabeiba Dabeiba NPCSG00 #municipios de Colombia
 Dacca Dacca NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5841,6 +5843,7 @@ FAO FAO NPFSO00 # wiki
 FARC FARC NPFNO00
 FAS FAS NPCNO00
 FBI FBI NPMSO00 # wiki
+FDP FDP NPMSO00
 FEDER FEDER NPMNO00
 FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00 # wiki
@@ -10973,6 +10976,7 @@ PC PC NPCNSP0 # wiki
 PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00 # wiki
 PCI PCI NPMSO00
+PDS PDS NPMSO00
 PE PE NPCNO00
 PEN PEN NPMSO00
 PET PET NPCNO00
@@ -12556,6 +12560,7 @@ SER SER NPCSO00
 SIGGRAPH SIGGRAPH NPCNO00
 SNP SNP NPMSO00
 SOFORT SOFORT NPCNO00
+SPD SPD NPMSO00
 SPEI SPEI NPMSO00
 Saatchi Saatchi NPCNSP0
 Saavedra Saavedra NPCNSP0
