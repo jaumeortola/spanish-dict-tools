@@ -483,6 +483,7 @@ Adrián Adrián NPMSSP0 # avl
 Adriático Adriático NPCNG00 # topònim-apertium-falta-gènere-nombre
 Adson Adson NPCNSP0 # medical
 Adsubia Adsubia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Adulyadej Adulyadej NPCNSP0
 Aduna Aduna NPCSG00 #municipios de España
 Adventorio Adventorio NPMSSP0 # avl
 Adzaneta Adzaneta NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -614,6 +615,7 @@ Ajofrín Ajofrín NPCSG00 #municipios de España
 Akenatón Akenatón NPMSSP0
 Akil Akil NPCSG00 #municipios de México
 Al-Shifa Al-Shifa NPCNO00
+Al-Ásad Al-Ásad NPCNSP0
 Alabaldo Alabaldo NPMSSP0 # avl
 Alabama Alabama NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alacant Alacant NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2554,6 +2556,7 @@ Bernasconi Bernasconi NPCSG00 #municipios de Argentina
 Bernedo Bernedo NPCSG00 #municipios de España
 Bernhard Bernhard NPCNSP0
 Berninches Berninches NPCSG00 #municipios de España
+Bernini Bernini NPCNSP0
 Bernoulli Bernoulli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bernuy-Zapardiel Bernuy-Zapardiel NPCSG00 #municipios de España
 Berriatua Berriatua NPCSG00 #municipios de España
@@ -2694,6 +2697,7 @@ Black Black NPCNSP0 # wiki
 Blacos Blacos NPCSG00 #municipios de España
 Blair Blair NPCNSP0
 Blaise Blaise NPMSSP0
+Blake Blake NPCNSP0
 Blalock-Taussig Blalock-Taussig NPCNSP0 # medical
 Blanca Blanca NPCNG00 # topònim-apertium
 Blanca Blanca NPFSSP0 # avl
@@ -2798,6 +2802,7 @@ Bond Bond NPCNSP0
 Bondeno Bondeno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonet Bonet NPMSSP0 # avl
 Bonete Bonete NPCSG00 #municipios de España
+Bonheur Bonheur NPCNSP0
 Boniches Boniches NPCSG00 #municipios de España
 Bonifacia Bonifacia NPFSSP0 # avl
 Bonifacio Bonifacio NPMSSP0 # avl
@@ -2805,6 +2810,7 @@ Bonifati Bonifati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonilla Bonilla NPCNSP0
 Bonmatí Bonmatí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonn Bonn NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bonnard Bonnard NPCNSP0
 Bonnet Bonnet NPCNSP0 # medical
 Bonnier Bonnier NPCNSP0 # medical
 Bono Bono NPMSSP0 # avl
@@ -2857,6 +2863,8 @@ Botorrita Botorrita NPCSG00 #municipios de España
 Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botticelli Botticelli NPCNSP0
 Bottrell Bottrell NPCSG00 # Paraguay
+Boucher Boucher NPCNSP0
+Boudin Boudin NPCNSP0
 Boulanger Boulanger NPCNSP0
 Bourdieu Bourdieu NPCNSP0
 Bourneville Bourneville NPCNSP0 # medical
@@ -2890,6 +2898,7 @@ Brandenburg Brandenburg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brandon Brandon NPCSG00
 Brandsen Brandsen NPCSG00 #municipios de Argentina
 Braojos Braojos NPCSG00 #municipios de España
+Braque Braque NPCNSP0
 Brasil Brasil NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brasilia Brasilia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bratislava Bratislava NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3408,6 +3417,7 @@ Camós Camós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canadá Canadá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canales Canales NPCSG00 #municipios de España
 Canalete Canalete NPCSG00 #municipios de Colombia
+Canaletto Canaletto NPCNSP0
 Canals Canals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canarias Canarias NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canatlán Canatlán NPCSG00 #municipios de México
@@ -3980,6 +3990,7 @@ Chachagüí Chachagüí NPCSG00 #municipios de Colombia
 Chachapoyas Chachapoyas NPCSG00 # Perú
 Chacsinkín Chacsinkín NPCSG00 #municipios de México
 Chad Chad NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chagall Chagall NPCNSP0
 Chaguaní Chaguaní NPCSG00 #municipios de Colombia
 Chahuites Chahuites NPCSG00 #municipios de México
 Chaikovski Chaikovski NPCNSP0 # wiki
@@ -4148,6 +4159,7 @@ Chiprana Chiprana NPCSG00 #municipios de España
 Chipre Chipre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chiquilistlán Chiquilistlán NPCSG00 #municipios de México
 Chiquinquirá Chiquinquirá NPCSG00 # Colombia
+Chirico Chirico NPCNSP0
 Chiriguaná Chiriguaná NPCSG00 #municipios de Colombia
 Chirivel Chirivel NPCSG00 #municipios de España
 Chirivella Chirivella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4379,6 +4391,7 @@ Cockayne Cockayne NPCNSP0 # medical
 Cocorná Cocorná NPCSG00 #municipios de Colombia
 Cocorote Cocorote NPCSG00 # Venezuela
 Cocotitlán Cocotitlán NPCSG00 #municipios de México
+Cocteau Cocteau NPCNSP0
 Cocula Cocula NPCSG00 #municipios de México
 Codazzi Codazzi NPCNSP0
 Codegua Codegua NPCSG00 #municipios de Chile
@@ -4518,6 +4531,7 @@ Consaca Consaca NPCSG00 #municipios de Colombia
 Consagración Consagración NPFSSP0 # avl
 Consell Consell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Consolación Consolación NPFSSP0 # avl
+Constable Constable NPCNSP0
 Constancia Constancia NPFSSP0 # avl
 Constancio Constancio NPMSSP0 # avl
 Constante Constante NPMSSP0 # avl
@@ -4602,6 +4616,7 @@ Coromoro Coromoro NPCSG00 #municipios de Colombia
 Coronango Coronango NPCSG00 #municipios de México
 Coronel Coronel NPCNSP0 # wiki common surnames
 Coroneo Coroneo NPCSG00 #municipios de México
+Corot Corot NPCNSP0
 Corozal Corozal NPCSG00 #municipios de Colombia
 Corpa Corpa NPCSG00 #municipios de España
 Corporales Corporales NPCSG00 #municipios de España
@@ -4658,6 +4673,7 @@ Cotoca Cotoca NPCSG00 # Bolivia
 Cotorra Cotorra NPCSG00 #municipios de Colombia
 Cotronei Cotronei NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cottbus Cottbus NPCNG00 # topònim-apertium-falta-gènere-nombre
+Courbet Courbet NPCNSP0
 Cournand Cournand NPCNSP0 # medical
 Courvoisier Courvoisier NPCNSP0 # medical
 Couvelaire Couvelaire NPCNSP0 # medical
@@ -4975,7 +4991,9 @@ Darío Darío NPMSSP0 # avl
 Das Das NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dasio Dasio NPMSSP0 # avl
 Dato Dato NPMSSP0 # avl
+Daubigny Daubigny NPCNSP0
 Daule Daule NPCSG00 # Ecuador
+Daumier Daumier NPCNSP0
 Dave Dave NPCNSP0 # wiki
 David David NPMSSP0 # avl
 Davidia Davidia NPFSSP0 # avl
@@ -4995,6 +5013,7 @@ Deborah Deborah NPFSSP0
 Debussy Debussy NPCNSP0
 Decio Decio NPMSSP0 # avl
 Defoe Defoe NPCNSP0
+Degas Degas NPCNSP0
 Degaña Degaña NPCSG00 #municipios de España
 Degos Degos NPCNSP0 # medical
 Deidamía Deidamía NPFSSP0
@@ -5192,12 +5211,14 @@ Duarte Duarte NPCNSP0 # wiki common surnames
 Dubai Dubai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dubin-Johnson Dubin-Johnson NPCNSP0 # medical
 Dublín Dublín NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dubuffet Dubuffet NPCNSP0
 Duchamp Duchamp NPCNSP0
 Duchenne Duchenne NPCNSP0 # medical
 Duckett Duckett NPCNSP0 # medical
 Duero Duero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Duesaigües Duesaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dueñas Dueñas NPCSG00 #municipios de España
+Dufy Dufy NPCNSP0
 Duhamel Duhamel NPCNSP0 # medical
 Duitama Duitama NPCSG00 # Colombia
 Duke Duke NPCNSP0
@@ -5252,6 +5273,7 @@ Díaz-Plaja Díaz-Plaja NPCNSP0
 Dílar Dílar NPCSG00 #municipios de España
 Dúdar Dúdar NPCSG00 #municipios de España
 Dúrcal Dúrcal NPCSG00 #municipios de España
+Dürer Dürer NPCNSP0
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
 EAU EAU NPMPG00
 ECHO ECHO NPCNO00
@@ -5501,6 +5523,7 @@ Enone Enone NPFSSP0 # avl
 Enrique Enrique NPMSSP0 # avl
 Enriqueta Enriqueta NPFSSP0 # avl
 Enríquez Enríquez NPCNSP0
+Ensor Ensor NPCNSP0
 Entrala Entrala NPCSG00 #municipios de España
 Entrambasaguas Entrambasaguas NPCSG00 #municipios de España
 Entrena Entrena NPCSG00 #municipios de España
@@ -5892,6 +5915,7 @@ Fanconi Fanconi NPCNSP0 # medical
 Faneras Faneras NPCNSP0 # medical
 Fani Fani NPFSSP0
 Fanlo Fanlo NPCSG00 #municipios de España
+Fantin-Latour Fantin-Latour NPCNSP0
 Fanzara Fanzara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Farache Farache NPMSSP0 # avl
 Faraday Faraday NPCNSP0
@@ -6149,6 +6173,7 @@ Foz Foz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foz-Calanda Foz-Calanda NPCSG00 #municipios de España
 Frades Frades NPCSG00 #municipios de España
 Fraga Fraga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fragonard Fragonard NPCNSP0
 Fram Fram NPCSG00 # Paraguay
 Framingham Framingham NPCNG00
 Fran Fran NPMSSP0 # avl
@@ -6356,6 +6381,7 @@ Gaia Gaia NPFSG00
 Gaianes Gaianes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gaibiel Gaibiel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gaiman Gaiman NPCSG00 # Argentina LO
+Gainsborough Gainsborough NPCNSP0
 Gaintza Gaintza NPCSG00 #municipios de España
 Gaitán Gaitán NPCNSP0
 Gaià Gaià NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6515,6 +6541,7 @@ Gaudiosa Gaudiosa NPFSSP0 # avl
 Gaudioso Gaudioso NPMSSP0 # avl
 Gaudí Gaudí NPCNSP0 # wiki
 Gaufredo Gaufredo NPMSSP0 # avl
+Gauguin Gauguin NPCNSP0
 Gaulle Gaulle NPCNSP0 # wiki
 Gausac Gausac NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gauss Gauss NPCNSP0 # medical
@@ -6615,6 +6642,7 @@ Getxo Getxo NPCSG00 #municipios de España
 Gewandhaus Gewandhaus NPFSO00
 Ghana Ghana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ghon Ghon NPCNSP0 # medical
+Giacometti Giacometti NPCNSP0
 Gianni Gianni NPMSSP0
 Giberto Giberto NPMSSP0 # avl
 Gibraleón Gibraleón NPCSG00 #municipios de España
@@ -6760,6 +6788,7 @@ Gouda Gouda NPCSG00
 Gounod Gounod NPCNSP0
 Gowers Gowers NPCNSP0 # medical
 Goya Goya NPCNSP0
+Goyen Goyen NPCNSP0
 Goyo Goyo NPMSSP0 # avl
 Goyrand Goyrand NPCNSP0 # medical
 Goytisolo Goytisolo NPCNSP0
@@ -6816,6 +6845,7 @@ Gregoria Gregoria NPFSSP0 # avl
 Gregorio Gregorio NPMSSP0 # avl
 Grenoble Grenoble NPCNG00 # topònim-apertium-falta-gènere-nombre
 Greta Greta NPFSSP0 # avl
+Greuze Greuze NPCNSP0
 Grey-Turner Grey-Turner NPCNSP0 # medical
 Grieg Grieg NPCNSP0 # wiki
 Griegos Griegos NPCSG00 #municipios de España
@@ -6834,6 +6864,7 @@ Grisén Grisén NPCSG00 #municipios de España
 Griñón Griñón NPMSSP0 # avl
 Groenlandia Groenlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grosseto  Grosseto  NPCNG00 # topònim-apertium-falta-gènere-nombre
+Grosz Grosz NPCNSP0
 Grotteria Grotteria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grover Grover NPCNSP0 # medical
 Grozni Grozni NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6933,6 +6964,7 @@ Guaymas Guaymas NPCSG00 # México
 Guazapares Guazapares NPCSG00 #municipios de México
 Guazú Guazú NPCSG00 # Paraguay
 Guedel Guedel NPCNSP0 # medical
+Guercino Guercino NPCNSP0
 Guernica Guernica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guernsey Guernsey NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guerrero Guerrero NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7002,6 +7034,7 @@ Gátova Gátova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Génave Génave NPCSG00 #municipios de España
 Génova Génova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gérgal Gérgal NPCSG00 #municipios de España
+Gérôme Gérôme NPCNSP0
 Gójar Gójar NPCSG00 #municipios de España
 Gólgota Gólgota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gómara Gómara NPCSG00 #municipios de España
@@ -7050,6 +7083,7 @@ Halifax Halifax NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hallervorden-Spatz Hallervorden-Spatz NPCNSP0 # medical
 Hallopeau Hallopeau NPCNSP0 # medical
 Halloween Halloween NPCNO00
+Hals Hals NPCNSP0
 Hamburgo Hamburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hamilton Hamilton NPCNSP0 # wiki
 Hamlet Hamlet NPMSSP0 # avl
@@ -7227,6 +7261,7 @@ Heródoto Heródoto NPMSSP0 # avl
 Herófilo Herófilo NPCNSP0 # medical
 Hesperia Hesperia NPFSSP0 # avl
 Hess Hess NPCNSP0 # medical
+Hesse Hesse NPCNSP0
 Hesíodo Hesíodo NPMSSP0
 Hevia Hevia NPCSG00 # Venezuela
 Hidalgo Hidalgo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7284,6 +7319,7 @@ Hitler Hitler NPCNSP0 # wiki
 Hobbes Hobbes NPCNSP0
 Hobo Hobo NPCSG00 #municipios de Colombia
 Hocabá Hocabá NPCSG00 #municipios de México
+Hockney Hockney NPCNSP0
 Hoctún Hoctún NPCSG00 #municipios de México
 Hodgkin Hodgkin NPCNSP0 # medical
 Hoehn-Yahr Hoehn-Yahr NPCNSP0 # medical
@@ -8236,6 +8272,7 @@ Koestler Koestler NPCNSP0
 Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kojewnikow Kojewnikow NPCNSP0 # medical
+Kolmogórov Kolmogórov NPCNSP0
 Komodo Komodo NPMSG00
 Konrad Konrad NPCNSP0
 Koolhaas Koolhaas NPCNSP0
@@ -11200,6 +11237,7 @@ Parácuaro Parácuaro NPCSG00 #municipios de México
 París París NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pasaia Pasaia NPCSG00 #municipios de España
 Pasca Pasca NPCSG00 #municipios de Colombia
+Pascal Pascal NPCNSP0
 Pascasia Pascasia NPFSSP0 # avl
 Pascasio Pascasio NPMSSP0 # avl
 Pasco Pasco NPCSG00 # Perú
