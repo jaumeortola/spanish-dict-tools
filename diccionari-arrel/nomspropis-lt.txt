@@ -26,6 +26,7 @@
 #Azerbaiján Azerbaiján NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Añe Añe NPCSG00 #municipios de España
 #Baden-Württemberg Baden-Württemberg NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Badia Badia NPFSSP0 #nombre propio de mujer
 #Bahrein Bahrein NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Bahréin Bahréin NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Benisa Benisa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -56,6 +57,9 @@
 #Cosa Cosa NPCSG00 #municipios de España
 #Cuadros Cuadros NPCSG00 #municipios de España
 #Djibuti Djibuti NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Dmitri Dmitri NPMSSP0
+#Dmitry Dmitry NPMSSP0 #nombre propio de hombre
+#Dmytro Dmytro NPMSSP0 #nombre propio de hombre
 #Dosaguas Dosaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Dulce Dulce NPFSSP0 # avl
 #Dénia Dénia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -70,6 +74,7 @@
 #Escucha Escucha NPCSG00 #municipios de España
 #Espoleto Espoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Estaràs Estaràs NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Eugen Eugen NPMSSP0 #nombre propio de hombre
 #Fab #Fab NPCNSP0 # medical
 #Fad Fad NPMSSP0 # avl
 #Febe Febe NPCSSP0 # avl
@@ -109,6 +114,8 @@
 #Herencia Herencia NPCSG00 #municipios de España
 #Huerta Huerta NPCSG00 #municipios de España
 #Iglesias Iglesias NPCSG00 #municipios de España
+#Imma Imma NPFSSP0 #nombre propio de mujer
+#Immaculada Immaculada NPFSSP0 #nombre propio de mujer
 #Imperio Imperio NPFSSP0 # avl
 #Indianapolis Indianapolis NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Ingenio Ingenio NPCSG00 #municipios de España
@@ -145,6 +152,7 @@
 #Mejorada Mejorada NPCSG00 #municipios de España
 #Mendelsson #Mendelsson NPCNSP0 # medical
 #Mercedes Mercedes NPFSSP0 # avl
+#Mikhail Mikhail NPMSSP0 #nombre propio de hombre
 #Milagro Milagro NPCSG00 #municipios de España
 #Minnesot Minnesot NPCNSP0 # medical
 #Mississippi Mississippi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -564,6 +572,7 @@ Aglaya Aglaya NPFSSP0 # avl
 Agnana Agnana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Agnes Agnes NPFSSP0 #nombre propio de mujer
 Agnieszka Agnieszka NPFSSP0 #nombre propio de mujer
+Agnès Agnès NPFSSP0 #nombre propio de mujer
 Agoitz Agoitz NPCSG00 #municipios de España
 Agolada Agolada NPCSG00 #municipios de España
 Agoncillo Agoncillo NPCSG00 #municipios de España
@@ -2164,7 +2173,6 @@ Badalona Badalona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Badarán Badarán NPCSG00 #municipios de España
 Baden-Baden Baden-Baden NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baden-Wurtemberg Baden-Wurtemberg NPCNG00 # topònim-apertium-falta-gènere-nombre
-Badia Badia NPFSSP0 #nombre propio de mujer
 Badiraguato Badiraguato NPCSG00 #municipios de México
 Bado Bado NPCSG00 # Paraguay
 Badolatosa Badolatosa NPCSG00 #municipios de España
@@ -5218,9 +5226,9 @@ Dalmacio Dalmacio NPMSSP0 # avl
 Dalí Dalí NPCNSP0
 Dalías Dalías NPCSG00 #municipios de España
 Damasco Damasco NPCNG00 # topònim-apertium-falta-gènere-nombre
-Damia Damia NPMSSP0 #nombre propio de hombre
 Damiana Damiana NPFSSP0 # avl
 Damiata Damiata NPFSSP0 # avl
+Damià Damià NPMSSP0 #nombre propio de hombre
 Damián Damián NPMSSP0 # avl
 Damocles Damocles NPMSSP0 # avl
 Dan Dan NPMSSP0 # avl
@@ -5372,7 +5380,6 @@ Dibula Dibula NPCSG00 #municipios de Colombia
 Dicastillo Dicastillo NPCSG00 #municipios de España
 Dick Dick NPCNSP0 # wiki
 Dickens Dickens NPCNSP0
-Didac Didac NPMSSP0 #nombre propio de hombre
 Dido Dido NPFSSP0 # avl
 Diega Diega NPFSSP0 # avl
 Diego Diego NPMSSP0 # avl
@@ -5410,9 +5417,6 @@ Diáguilev Diáguilev NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
 Djibril Djibril NPMSSP0 #nombre propio de hombre
 Djokovic Djokovic NPCNSP0
-Dmitri Dmitri NPMSSP0
-Dmitry Dmitry NPMSSP0 #nombre propio de hombre
-Dmytro Dmytro NPMSSP0 #nombre propio de hombre
 Dniéper Dniéper NPMSG00
 Dniéster Dniéster NPMSG00
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5426,7 +5430,6 @@ Dolores Dolores NPFSSP0 # avl
 Dolors Dolors NPFSSP0
 Domanico Domanico NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dombás Dombás NPMSG00
-Domenec Domenec NPMSSP0 #nombre propio de hombre
 Domenico Domenico NPMSSP0 #nombre propio de hombre
 Domenyo Domenyo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Domeño Domeño NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5437,6 +5440,7 @@ Domingo Domingo NPMSSP0 # avl
 Dominica Dominica NPFSG00 # topònim-apertium
 Dominica Dominica NPFSSP0 # avl
 Domitila Domitila NPFSSP0 # avl
+Domènec Domènec NPMSSP0 #nombre propio de hombre
 Domínguez Domínguez NPCNSP0 # wiki common surnames
 Donald Donald NPCNSP0 # wiki
 Donamaria Donamaria NPCSG00 #municipios de España
@@ -5567,6 +5571,7 @@ Dépor Dépor NPMSO00
 Dévanos Dévanos NPCSG00 #municipios de España
 Díaz Díaz NPCNSP0 # wiki common surnames
 Díaz-Plaja Díaz-Plaja NPCNSP0
+Dídac Dídac NPMSSP0 #nombre propio de hombre
 Dílar Dílar NPCSG00 #municipios de España
 Dúdar Dúdar NPCSG00 #municipios de España
 Dúrcal Dúrcal NPCSG00 #municipios de España
@@ -6134,7 +6139,6 @@ Eufrasia Eufrasia NPFSSP0 # avl
 Eufrasina Eufrasina NPFSSP0 # avl
 Eufrasio Eufrasio NPMSSP0 # avl
 Eufrosina Eufrosina NPFSSP0 # avl
-Eugen Eugen NPMSSP0 #nombre propio de hombre
 Eugeni Eugeni NPMSSP0 #nombre propio de hombre
 Eugenia Eugenia NPFSSP0 # avl
 Eugenio Eugenio NPMSSP0 # avl
@@ -8134,8 +8138,6 @@ Iman Iman NPFSSP0 #nombre propio de mujer
 Imanol Imanol NPMSSP0 # avl
 Imataca Imataca NPCSG00 # Venezuela
 Imelda Imelda NPFSSP0 # avl
-Imma Imma NPFSSP0 #nombre propio de mujer
-Immaculada Immaculada NPFSSP0 #nombre propio de mujer
 Imotz Imotz NPCSG00 #municipios de España
 Imran Imran NPMSSP0 #nombre propio de hombre
 Imrane Imrane NPMSSP0 #nombre propio de hombre
@@ -9477,11 +9479,11 @@ Lluchmayor Lluchmayor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llucmajor Llucmajor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lludient Lludient NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lludiente Lludiente NPCNG00 # topònim-apertium-falta-gènere-nombre
-Lluisa Lluisa NPFSSP0 #nombre propio de mujer
 Lluna Lluna NPFSSP0 #nombre propio de mujer
 Llutxent Llutxent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lluçà Lluçà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lluís Lluís NPMSSP0
+Lluïsa Lluïsa NPFSSP0 #nombre propio de mujer
 Llíber Llíber NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llíria Llíria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llívia Llívia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9781,6 +9783,7 @@ Magallanes Magallanes NPCNSP0
 Magallón Magallón NPCSG00 #municipios de España
 Magaly Magaly NPFSSP0 #nombre propio de mujer
 Magalí Magalí NPFSSP0 # avl
+Magalí Magalí NPFSSP0 #nombre propio de mujer
 Magangué Magangué NPCSG00 # Colombia
 Magaña Magaña NPCSG00 #municipios de España
 Magda Magda NPFSSP0 # avl
@@ -10559,7 +10562,6 @@ Mijas Mijas NPCSG00 #municipios de España
 Mijaíl Mijaíl NPMSSP0 # wiki
 Mike Mike NPCNSP0 # wiki
 Mikel Mikel NPMSSP0 #nombre propio de hombre
-Mikhail Mikhail NPMSSP0 #nombre propio de hombre
 Mikulicz Mikulicz NPCNSP0 # medical
 Mila Mila NPFSSP0 # avl
 Milagros Milagros NPCNSP0 # avl
@@ -11195,9 +11197,9 @@ Nara Nara NPFSSP0 # avl
 Naranjito Naranjito NPCSG00 # Ecuador
 Narbona Narbona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Narboneta Narboneta NPCSG00 #municipios de España
-Narcis Narcis NPMSSP0 #nombre propio de hombre
 Narcisa Narcisa NPFSSP0 # avl
 Narciso Narciso NPMSSP0 # avl
+Narcìs Narcìs NPMSSP0 #nombre propio de hombre
 Nariño Nariño NPCSG00
 Narnia Narnia NPFSG00
 Naroa Naroa NPFSSP0 #nombre propio de mujer
@@ -15972,9 +15974,9 @@ Valdés Valdés NPCNSP0 # wiki common surnames
 Valencia Valencia NPCNG00 # topònim-apertium
 Valencia Valencia NPFSSP0 # avl
 Valencio Valencio NPMSSP0 # avl
-Valenti Valenti NPMSSP0 #nombre propio de hombre
 Valentina Valentina NPFSSP0 # avl
 Valentyna Valentyna NPFSSP0 #nombre propio de mujer
+Valentí Valentí NPMSSP0 #nombre propio de hombre
 Valentín Valentín NPMSSP0 # avl
 Valenzuela Valenzuela NPCNSP0 # wiki common surnames
 Valera Valera NPFSSP0 # avl
