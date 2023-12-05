@@ -244,9 +244,6 @@
 #l'Atzúvia l'Atzúvia NPCNG00 # topònim-apertium-falta-gènere-nombre
 13TV 13TV NPCNO00
 8TV 8TV NPCNO00
-<<<<<<< HEAD
-=======
->>>>>>> a816ca6 (nombres propios de persona)
 ABC ABC NPCNO00
 ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
