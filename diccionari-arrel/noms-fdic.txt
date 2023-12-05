@@ -1,4 +1,3 @@
-
 #Gloria Patri=categories: M;fonts: dr;
 #Neoclasicismo=categories: M;fonts: dr;
 #Pange lingua=categories: M;fonts: dr;
@@ -7693,7 +7692,7 @@ babuchero babuchera=categories: MF;fonts: LT;
 babuino babuina=categories: MF;fonts: LT;
 babuvismo=categories: M;fonts: LT;
 baby-boomer [pl. baby-boomers]=categories: MF;fonts: english;
-baby-sitter [pl. baby-sitters]=categories: MF;fonts: dr;
+baby-sitter [pl. baby-sitters]=categories: MF;fonts: english;
 baca=categories: F;fonts: LT;
 bacalada=categories: F;fonts: dr;
 bacaladero=categories: M;fonts: LT;
