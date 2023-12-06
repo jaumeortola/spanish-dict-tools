@@ -57,7 +57,6 @@
 #Cosa Cosa NPCSG00 #municipios de España
 #Cuadros Cuadros NPCSG00 #municipios de España
 #Djibuti Djibuti NPCNG00 # topònim-apertium-falta-gènere-nombre
-Dmitri Dmitri NPMSSP0
 #Dmitry Dmitry NPMSSP0 #nombre propio de hombre
 #Dmytro Dmytro NPMSSP0 #nombre propio de hombre
 #Dosaguas Dosaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -172,6 +171,7 @@ Dmitri Dmitri NPMSSP0
 #Nieves Nieves NPFSSP0 # avl
 #Niger Niger NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Niobe Niobe NPFSSP0 # avl
+#Noha Noha NPFSSP0 #nombre propio de mujer
 #Nuremberg Nuremberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Núria Núria NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Olimpiades Olimpiades NPCSSP0 # avl
@@ -5418,6 +5418,7 @@ Diáguilev Diáguilev NPCNSP0
 Diógenes Diógenes NPMSSP0 # avl
 Djibril Djibril NPMSSP0 #nombre propio de hombre
 Djokovic Djokovic NPCNSP0
+Dmitri Dmitri NPMSSP0
 Dniéper Dniéper NPMSG00
 Dniéster Dniéster NPMSG00
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11473,7 +11474,6 @@ Nogoyá Nogoyá NPCSG00 # Argentina LO
 Noguera Noguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nogueras Nogueras NPCSG00 #municipios de España
 Nogueruelas Nogueruelas NPCSG00 #municipios de España
-#Noha Noha NPFSSP0 #nombre propio de mujer
 Nohemí Nohemí NPFSSP0 # avl
 Noia Noia NPCSG00 #municipios de España
 Noja Noja NPCSG00 #municipios de España
