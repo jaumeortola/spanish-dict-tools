@@ -11201,7 +11201,7 @@ Narbona Narbona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Narboneta Narboneta NPCSG00 #municipios de España
 Narcisa Narcisa NPFSSP0 # avl
 Narciso Narciso NPMSSP0 # avl
-Narcìs Narcìs NPMSSP0 #nombre propio de hombre
+Narcís Narcís NPMSSP0 #nombre propio de hombre
 Nariño Nariño NPCSG00
 Narnia Narnia NPFSG00
 Naroa Naroa NPFSSP0 #nombre propio de mujer
