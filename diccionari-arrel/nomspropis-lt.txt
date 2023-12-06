@@ -57,7 +57,7 @@
 #Cosa Cosa NPCSG00 #municipios de España
 #Cuadros Cuadros NPCSG00 #municipios de España
 #Djibuti Djibuti NPCNG00 # topònim-apertium-falta-gènere-nombre
-#Dmitri Dmitri NPMSSP0
+Dmitri Dmitri NPMSSP0
 #Dmitry Dmitry NPMSSP0 #nombre propio de hombre
 #Dmytro Dmytro NPMSSP0 #nombre propio de hombre
 #Dosaguas Dosaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11473,7 +11473,7 @@ Nogoyá Nogoyá NPCSG00 # Argentina LO
 Noguera Noguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nogueras Nogueras NPCSG00 #municipios de España
 Nogueruelas Nogueruelas NPCSG00 #municipios de España
-Noha Noha NPFSSP0 #nombre propio de mujer
+#Noha Noha NPFSSP0 #nombre propio de mujer
 Nohemí Nohemí NPFSSP0 # avl
 Noia Noia NPCSG00 #municipios de España
 Noja Noja NPCSG00 #municipios de España
