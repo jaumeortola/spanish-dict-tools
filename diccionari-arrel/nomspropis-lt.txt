@@ -11888,6 +11888,7 @@ Orís Orís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orísoain Orísoain NPCSG00 #municipios de España
 Osaka Osaka NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osama Osama NPMSSP0 #nombre propio de hombre
+Osasuna Osasuna NPMSO00
 Osborne Osborne NPCNSP0
 Oseas Oseas NPMSSP0 # avl
 Oseja Oseja NPCSG00 #municipios de España

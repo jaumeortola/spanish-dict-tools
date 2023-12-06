@@ -801,6 +801,7 @@ RTB=categories: MI;fonts: sigla;
 RUC=categories: MI;fonts: sigla;
 Rh=categories: MI;fonts: dr;
 SA=categories: FI;fonts: sigla;
+SAD=categories: FI;fonts: sigla, sociedad anónima deportiva;
 SARS-CoV-2=categories: MS;fonts: LT;
 SARS-CoV=categories: MS;fonts: LT;
 SARS=categories: MS;fonts: LT;
