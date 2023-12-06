@@ -6607,6 +6607,7 @@ Freginals Freginals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Frei Frei NPCNSP0 # medical
 Freiberg Freiberg NPCNSP0 # medical
 Freila Freila NPCSG00 #municipios de España
+Freire Freire NPCNSP0
 Freirina Freirina NPCSG00 #municipios de Chile
 Freites Freites NPCSG00 # Venezuela
 Freixa Freixa NPCNSP0
