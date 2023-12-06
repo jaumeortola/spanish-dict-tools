@@ -4049,6 +4049,7 @@ Cathaysa Cathaysa NPFSSP0 #nombre propio de mujer
 Catherine Catherine NPFSSP0
 Cathy Cathy NPFSSP0
 Catia Catia NPFSSP0 # avl
+Catilina Catilina NPMSSP0
 Catoira Catoira NPCSG00 #municipios de España
 Catral Catral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Catriel Catriel NPCSG00 #municipios de Argentina
