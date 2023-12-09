@@ -9437,6 +9437,7 @@ Liádov Liádov NPCNSP0 # wiki
 Liédena Liédena NPCSG00 #municipios de España
 Liérganes Liérganes NPCSG00 #municipios de España
 Liétor Liétor NPCSG00 #municipios de España
+Llach Llach NPCNSP0
 Lladorre Lladorre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lladurs Lladurs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lladó Lladó NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9758,6 +9759,7 @@ Macuspana Macuspana NPCSG00 #municipios de México
 Madagascar Madagascar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madalina Madalina NPFSSP0 #nombre propio de mujer
 Madarcos Madarcos NPCSG00 #municipios de España
+Madariaga Madariaga NPCNSP0
 Maddi Maddi NPFSSP0 #nombre propio de mujer
 Madeira Madeira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madelung Madelung NPCNSP0 # medical
@@ -11574,6 +11576,7 @@ O'Neill O'Neill NPCNSP0
 O'Sullivan O'Sullivan NPCNSP0
 OCASA OCASA NPCNO00
 OCDE OCDE NPFSO00
+OCU OCU NPFSO00
 OECO OECO NPFSO00
 OIT OIT NPFSO00
 OLAF OLAF NPFSO00
