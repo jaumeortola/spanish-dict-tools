@@ -8674,6 +8674,7 @@ Juanito Juanito NPMSSP0
 Juanjo Juanjo NPMSSP0
 Juanjuí Juanjuí NPCSG00 # Perú
 Juanma Juanma NPMSSP0
+Juanola Juanola NPCNSP0
 Jubrique Jubrique NPCSG00 #municipios de España
 Juchipila Juchipila NPCSG00 #municipios de México
 Juchitepec Juchitepec NPCSG00 #municipios de México
