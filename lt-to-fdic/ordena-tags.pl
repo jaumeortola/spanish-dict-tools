@@ -46,6 +46,7 @@ while(my $line = <$fh>){
     if ($tense =~ /C/) { $points += 1000}
 
     if ($number =~ /S/) { $points += 200}
+    if ($number =~ /V/) { $points += 150}
     if ($number =~ /P/) { $points += 100}
 
     if ($persona =~ /1/) { $points += 30}

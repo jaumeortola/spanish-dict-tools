@@ -1,3 +1,4 @@
+#XL XL AO0CN0 # romans
 #alguno alguno DI0MS0
 #naide nadie PI0CS000
 #ninguno ninguno DI0MS0
@@ -86,7 +87,6 @@ XII XII AO0CN0 # romans
 XIII XIII AO0CN0 # romans
 XIV XIV AO0CN0 # romans
 XIX XIX AO0CN0 # romans
-XL XL AO0CN0 # romans
 XLI XLI AO0CN0 # romans
 XLII XLII AO0CN0 # romans
 XLIII XLIII AO0CN0 # romans
