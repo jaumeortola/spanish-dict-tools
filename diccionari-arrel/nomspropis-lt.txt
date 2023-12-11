@@ -9279,6 +9279,7 @@ Leslie Leslie NPCNSP0
 Lesmes Lesmes NPCNSP0
 Lesoto Lesoto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lesseps Lesseps NPCNG00 # topònim-apertium-falta-gènere-nombre
+Letamendi Letamendi NPCNSP0
 Leticia Leticia NPFSSP0 # avl
 Letizia Letizia NPFSSP0 #nombre propio de mujer
 Letonia Letonia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14384,6 +14385,7 @@ Solbes Solbes NPCNSP0
 Soldati Soldati NPCSG00 # Argentina LO
 Soledad Soledad NPFSSP0 # avl
 Solera Solera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Solidarność Solidarność NPCSO0
 Soliedra Soliedra NPCSG00 #municipios de España
 Solimán Solimán NPMSSP0 # avl
 Solita Solita NPCSG00 #municipios de Colombia
