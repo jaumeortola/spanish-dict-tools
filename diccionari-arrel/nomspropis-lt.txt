@@ -3933,7 +3933,7 @@ Casiopea Casiopea NPFSSP0 # avl
 Casla Casla NPCSG00 #municipios de España
 Casma Casma NPCSG00 # Perú
 Caspe Caspe NPCNG00 # topònim-apertium-falta-gènere-nombre
-Casper Casper NPMSSP00
+Casper Casper NPMSSP0
 Caspio Caspio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caspueñas Caspueñas NPCSG00 #municipios de España
 Cassano Cassano NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14385,7 +14385,7 @@ Solbes Solbes NPCNSP0
 Soldati Soldati NPCSG00 # Argentina LO
 Soledad Soledad NPFSSP0 # avl
 Solera Solera NPCNG00 # topònim-apertium-falta-gènere-nombre
-Solidarność Solidarność NPCSO0
+Solidarność Solidarność NPCSO00
 Soliedra Soliedra NPCSG00 #municipios de España
 Solimán Solimán NPMSSP0 # avl
 Solita Solita NPCSG00 #municipios de Colombia
