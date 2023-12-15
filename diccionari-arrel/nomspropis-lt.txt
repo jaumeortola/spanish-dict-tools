@@ -1524,6 +1524,7 @@ Apia Apia NPFSG00 # topònim-apertium
 Apia Apia NPFSSP0 # avl
 Apiano Apiano NPMSSP0 # avl
 Apio Apio NPMSSP0 # avl
+Apiretal Apiretal NPCSO00
 Apizaco Apizaco NPCSG00 # México
 Apodaca Apodaca NPCSG00 # México
 Apolinar Apolinar NPMSSP0 # avl
@@ -11547,6 +11548,7 @@ Nur Nur NPFSSP0 #nombre propio de mujer
 Nuria Nuria NPFSG00 # topònim-apertium
 Nuria Nuria NPFSSP0 # avl
 Nursultán Nursultán NPCSG00
+Nussbaum Nussbaum NPCNSP0
 Nuuk Nuuk NPCNG00
 Nuévalos Nuévalos NPCSG00 #municipios de España
 Nuña Nuña NPFSSP0 # avl
