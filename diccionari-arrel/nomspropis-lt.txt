@@ -6063,6 +6063,8 @@ Emily Emily NPCNSP0
 Emma Emma NPFSSP0 # avl
 Emmanuel Emmanuel NPMSSP0 # avl
 Emmanuela Emmanuela NPFSSP0 # avl
+Emmy Emmy NPMNO00
+Emmys Emmy NPMPO00
 Empar Empar NPFSSP0 #nombre propio de mujer
 Emperador Emperador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Empédocles Empédocles NPMSSP0 # avl
