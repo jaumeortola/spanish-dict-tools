@@ -1438,6 +1438,7 @@ Anrep Anrep NPCNSP0 # medical
 Ansaldo Ansaldo NPMSSP0 # avl
 Anscaria Anscaria NPFSSP0 # avl
 Anscario Anscario NPMSSP0 # avl
+Anschluss Anschluss NPMSO00
 Anselma Anselma NPFSSP0 # avl
 Anselmo Anselmo NPMSSP0 # avl
 Anserall Anserall NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2725,6 +2726,7 @@ Bergara Bergara NPCSG00 #municipios de España
 Bergasa Bergasa NPCSG00 #municipios de España
 Berge Berge NPCSG00 #municipios de España
 Bergey Bergey NPCNSP0 # medical
+Berghof Berghof NPMSG00
 Bergman Bergman NPCNSP0
 Bergoglio Bergoglio NPCNSP0
 Bergondo Bergondo NPCSG00 #municipios de España
@@ -3302,6 +3304,7 @@ Burnett Burnett NPCNSP0 # medical
 Burney Burney NPCNSP0 # medical
 Buroz Buroz NPCSG00 # Venezuela
 Burriana Burriana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Burroughs Burroughs NPCNSO0
 Burrow Burrow NPCNSP0 # medical
 Burujón Burujón NPCSG00 #municipios de España
 Burundi Burundi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4754,6 +4757,7 @@ Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Concaran Concaran NPCSG00 #municipios de Argentina
 Concepció Concepció NPFSSP0 #nombre propio de mujer
 Concepción Concepción NPFSSP0 # avl
+Concertgebouw Concertgebouw NPMSO00
 Concha Concha NPFSSP0 # avl
 Conchalí Conchalí NPCSG00 #municipios de Chile
 Conchita Conchita NPFSSP0 #nombre propio de mujer
@@ -7469,6 +7473,7 @@ Gómara Gómara NPCSG00 #municipios de España
 Gómez Gómez NPCNSP0 # wiki common surnames
 Góngora Góngora NPCNSP0
 Gósol Gósol NPCNG00 # topònim-apertium-falta-gènere-nombre
+Göring Göring NPCNSP0
 Göteborg Göteborg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gúdar Gúdar NPCSG00 #municipios de España
 Güelfa Güelfa NPFSSP0 # avl
@@ -11067,6 +11072,7 @@ Murta Murta NPFSSP0 # avl
 Murueta Murueta NPCSG00 #municipios de España
 Muruzábal Muruzábal NPCSG00 #municipios de España
 Museros Museros NPCNG00 # topònim-apertium-falta-gènere-nombre
+Musikverein Musikverein NPFSO00
 Musk Musk NPCNSP0
 Muskiz Muskiz NPCSG00 #municipios de España
 Musset Musset NPCNSP0 # medical
@@ -14045,6 +14051,7 @@ Schultze Schultze NPCNSP0 # medical
 Schumacher Schumacher NPCNSP0
 Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0
+Schuschnigg Schuschnigg NPCNSP0
 Schwann Schwann NPCNSP0 # medical
 Schwartz Schwartz NPCNSP0
 Schwartz-Bartter Schwartz-Bartter NPCNSP0 # medical

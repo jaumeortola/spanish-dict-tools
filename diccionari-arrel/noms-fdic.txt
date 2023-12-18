@@ -54926,6 +54926,7 @@ remiel=categories: F;fonts: LT;
 remiendo=categories: M;fonts: LT;
 remifentanilo=categories: M;fonts: dsalut;
 remilgo=categories: M;fonts: LT;
+remilitarización=categories: F;fonts: derivat;
 remillón=categories: M;fonts: dr;
 remineralización=categories: F;fonts: LT;
 reminiscencia=categories: F;fonts: LT;

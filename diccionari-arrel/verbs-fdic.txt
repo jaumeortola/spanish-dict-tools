@@ -7165,6 +7165,7 @@ remesar=categories: V;model:amar;fonts: LT;
 remeter=categories: V;model:temer;fonts: LT;
 remezclar=categories: V;model:amar;fonts: ap;
 remilgar=categories: V;model:cargar;fonts: LT;
+remilitarizar=categories: V;model:abalanzar;fonts: derivat;
 remirar=categories: V;model:amar;fonts: LT;
 remitir=categories: V;model:partir;fonts: LT;
 remodelar=categories: V;model:amar;fonts: LT;
