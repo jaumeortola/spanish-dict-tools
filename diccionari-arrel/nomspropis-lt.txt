@@ -2349,6 +2349,7 @@ Bangui Bangui NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banjul Banjul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bankart Bankart NPCNSP0 # medical
 Bankia Bankia NPFSO00
+Bankman-Fried Bankman-Fried NPCNSP0
 Banyalbufar Banyalbufar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banyoles Banyoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banámichi Banámichi NPCSG00 #municipios de México
