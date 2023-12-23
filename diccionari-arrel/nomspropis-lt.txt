@@ -2096,6 +2096,7 @@ Auxerre Auxerre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Auxiliadora Auxiliadora NPFSSP0 # avl
 Auxilio Auxilio NPCSSP0 # avl
 Auñón Auñón NPCSG00 #municipios de España
+Avalon Avalon NPCSG00
 Avast Avast NPCNO00
 Aveinte Aveinte NPCSG00 #municipios de España
 Avelina Avelina NPFSSP0 # avl
@@ -4953,6 +4954,7 @@ Conchalí Conchalí NPCSG00 #municipios de Chile
 Conchita Conchita NPFSSP0 #nombre propio de mujer
 Concordia Concordia NPFSSP0 # avl
 Concordio Concordio NPMSSP0 # avl
+Conde-Pumpido Conde-Pumpido NPCNSP0
 Condis Condis NPMNO00
 Condofuri Condofuri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Condorcanqui Condorcanqui NPCSG00
@@ -13195,6 +13197,7 @@ Planadas Planadas NPCSG00 #municipios de Colombia
 Planells Planells NPCNSP0 #apellido
 Planoise Planoise NPCNG00 # topònim-apertium-falta-gènere-nombre
 Planoles Planoles NPCNG00 # topònim-apertium-falta-gènere-nombre
+Plantagenet Plantagenet NPCNSP0
 Plasencia Plasencia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Plasenzuela Plasenzuela NPCSG00 #municipios de España
 Plataci Plataci NPCNG00 # topònim-apertium-falta-gènere-nombre
