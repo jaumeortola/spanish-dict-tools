@@ -9274,6 +9274,7 @@ Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
 Kimura Kimura NPCNSP0 # medical
 Kinchil Kinchil NPCSG00 #municipios de México
 King King NPCNSP0 # wiki
+Kingsley Kingsley NPCNSP0
 Kingston Kingston NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kinshasa Kinshasa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kioto Kioto NPCNG00 # topònim-apertium-falta-gènere-nombre
