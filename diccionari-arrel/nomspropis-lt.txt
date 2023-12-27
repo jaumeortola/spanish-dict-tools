@@ -10358,6 +10358,7 @@ Malpigio Malpigio NPCNSP0 # medical
 Malpàs Malpàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malraux Malraux NPCNSP0
 Malta Malta NPCNG00 # topònim-apertium-falta-gènere-nombre
+Malthus Malthus NPCNSP0
 Maluenda Maluenda NPCSG00 #municipios de España
 Malva Malva NPFSSP0 # avl
 Malvarrosa Malvarrosa NPCNG00 # topònim-apertium-falta-gènere-nombre
