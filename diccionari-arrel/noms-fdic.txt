@@ -55828,6 +55828,7 @@ rienda=categories: F;fonts: LT;
 riendazo=categories: M;fonts: dr;
 riera=categories: F;fonts: LT;
 riesgo=categories: M;fonts: LT;
+riesling [pl. rieslings]=categories: MF;fonts: wiki;
 riestra=categories: F;fonts: dr;
 rifa=categories: F;fonts: LT;
 rifabutina=categories: F;fonts: medical;
