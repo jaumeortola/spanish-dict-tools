@@ -628,6 +628,9 @@ Agullo Agullo NPCNSP0 #apellido
 Agulo Agulo NPCSG00 #municipios de España
 Agurain Agurain NPCSG00 #municipios de España
 Agurtzane Agurtzane NPFSSP0 #nombre propio de mujer
+Agus Agus NPFSSP0 #hipocorístico
+Agus Agus NPMSSP0 #hipocorístico
+Agusita Agusita NPFSSP0 #hipocorístico
 Agustina Agustina NPFSSP0 # avl
 Agustí Agustí NPMSSP0 #nombre propio de hombre
 Agustín Agustín NPMSSP0 # avl
@@ -783,6 +786,7 @@ Albelda Albelda NPCSG00 #municipios de España
 Albendea Albendea NPCSG00 #municipios de España
 Albendiego Albendiego NPCSG00 #municipios de España
 Albentosa Albentosa NPCSG00 #municipios de España
+Alber Alber NPMSSP0 #hipocorístico
 Alberdi Alberdi NPCSG00 # Paraguay
 Alberic Alberic NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alberica Alberica NPFSSP0 # avl
@@ -794,6 +798,7 @@ Albert Albert NPCNSP0
 Alberta Alberta NPCSG00 # topònim-apertium-falta
 Alberta Alberta NPFSSP0 # avl
 Alberti Alberti NPCNSP0
+Albertico Albertico NPMSSP0 #hipocorístico
 Albertina Albertina NPFSSP0 # avl
 Albertino Albertino NPMSSP0 # avl
 Alberto Alberto NPMSSP0 # avl
@@ -935,6 +940,8 @@ Alejandrina Alejandrina NPFSSP0 # avl
 Alejandrino Alejandrino NPMSSP0 # avl
 Alejandro Alejandro NPMSSP0 # avl
 Alejandría Alejandría NPCNG00 # topònim-apertium-falta-gènere-nombre
+Alejita Alejita NPFSSP0 #hipocorístico
+Alejito Alejito NPMSSP0 #hipocorístico
 Alejo Alejo NPMSSP0 # avl
 Aleksandar Aleksandar NPMSSP0 #nombre propio de hombre
 Aleksandr Aleksandr NPCNSP0 # wiki
@@ -967,6 +974,7 @@ Alexei Alexei NPMSSP0 #nombre propio de hombre
 Alexey Alexey NPMSSP0 #nombre propio de hombre
 Alexia Alexia NPFSSP0 # avl
 Alexis Alexis NPMSSP0 # avl
+Alexito Alexito NPMSSP0 #hipocorístico
 Alfacar Alfacar NPCSG00 #municipios de España
 Alfafar Alfafar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfafara Alfafara NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -983,6 +991,8 @@ Alfarp Alfarp NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfarrasí Alfarrasí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfarràs Alfarràs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfauir Alfauir NPCNG00 # topònim-apertium-falta-gènere-nombre
+Alfi Alfi NPMSSP0 #hipocorístico
+Alfon Alfon NPMSSP0 #hipocorístico
 Alfondeguilla Alfondeguilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alfons Alfons NPMSSP0 #nombre propio de hombre
 Alfonsa Alfonsa NPFSSP0 # avl
@@ -992,6 +1002,7 @@ Alfonsín Alfonsín NPCNSP0
 Alforja Alforja NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alforque Alforque NPCSG00 #municipios de España
 Alfoz Alfoz NPCSG00 #municipios de España
+Alfre Alfre NPMSSP0 #hipocorístico
 Alfred Alfred NPCNSP0 # wiki
 Alfreda Alfreda NPFSSP0 # avl
 Alfredo Alfredo NPMSSP0 # avl
@@ -1106,6 +1117,7 @@ Almensilla Almensilla NPCSG00 #municipios de España
 Almería Almería NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almiserat Almiserat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almiserà Almiserà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Almita Almita NPFSSP0 #hipocorístico
 Almochuel Almochuel NPCSG00 #municipios de España
 Almodóvar Almodóvar NPCNSP0
 Almoguera Almoguera NPCSG00 #municipios de España
@@ -1119,6 +1131,7 @@ Almonte Almonte NPCSG00 #municipios de España
 Almoradí Almoradí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almorox Almorox NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almoster Almoster NPCNG00 # topònim-apertium-falta-gènere-nombre
+Almu Almu NPFSSP0 #hipocorístico
 Almudaina Almudaina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almudena Almudena NPFSSP0 # avl
 Almudévar Almudévar NPCSG00 #municipios de España
@@ -1194,8 +1207,12 @@ Aluminé Aluminé NPCSG00 # Argentina LO
 Alustante Alustante NPCSG00 #municipios de España
 Alvar Alvar NPMSSP0 #nombre propio de hombre
 Alvarado Alvarado NPCNSP0 # wiki common surnames
+Alvarito Alvarito NPMSSP0 #hipocorístico
+Alvarín Alvarín NPMSSP0 #hipocorístico
 Alvear Alvear NPCSG00 #municipios de Argentina
 Alves Alves NPCNSP0 #apellido
+Alvi Alvi NPMSSP0 #hipocorístico
+Alvo Alvo NPMSSP0 #hipocorístico
 Aly Aly NPMSSP0 #nombre propio de hombre
 Alyssa Alyssa NPFSSP0 #nombre propio de mujer
 Alzate Alzate NPCNSP0 #apellido
@@ -1272,8 +1289,10 @@ Amecameca Amecameca NPCSG00 #municipios de México
 Amed Amed NPMSSP0 # avl
 Amedo Amedo NPCNSP0
 Ameghino Ameghino NPCSG00 #municipios de Argentina
+Ameli Ameli NPFSSP0 #hipocorístico
 Amelia Amelia NPFSSP0 # avl
 Amelie Amelie NPFSSP0 #nombre propio de mujer
+Amelita Amelita NPFSSP0 #hipocorístico
 Amendolara Amendolara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amengual Amengual NPCNSP0 #apellido
 Amenhotep Amenhotep NPMSSP0
@@ -1306,6 +1325,7 @@ Amoroso Amoroso NPMSSP0 # avl
 Amoroto Amoroto NPCSG00 #municipios de España
 Amorós Amorós NPCNSP0 #apellido
 Amozoc Amozoc NPCSG00 #municipios de México
+Amparito Amparito NPFSSP0 #hipocorístico
 Amparo Amparo NPCSSP0 # avl
 Ampliada Ampliada NPFSSP0 # avl
 Ampliado Ampliado NPMSSP0 # avl
@@ -1341,6 +1361,9 @@ Anadia Anadia NPCSG00
 Anadón Anadón NPCSG00 #municipios de España
 Anahí Anahí NPFSSP0 #nombre propio de mujer
 Analia Analia NPFSSP0 #nombre propio de mujer
+Analuí Analuí NPFSSP0 #hipocorístico
+Analú Analú NPFSSP0 #hipocorístico
+Anamari Anamari NPFSSP0 #hipocorístico
 Anamaria Anamaria NPFSSP0 #nombre propio de mujer
 Ananías Ananías NPMSSP0 # avl
 Anapoima Anapoima NPCSG00 #municipios de Colombia
@@ -1377,15 +1400,20 @@ Ander Ander NPMSSP0 #nombre propio de hombre
 Andersen Andersen NPCNSP0
 Anderson Anderson NPCNSP0 # wiki
 Andes Andes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Andi Andi NPFSSP0 #hipocorístico
+Andi Andi NPMSSP0 #hipocorístico
 Andilla Andilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Andoain Andoain NPCSG00 #municipios de España
 Andoni Andoni NPMSSP0 #nombre propio de hombre
 Andorra Andorra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Andosilla Andosilla NPCSG00 #municipios de España
+Andra Andra NPFSSP0 #hipocorístico
 Andrade Andrade NPCNSP0
 Andrades Andrades NPCNSP0 #apellido
 Andraitx Andraitx NPCNG00 # topònim-apertium-falta-gènere-nombre
 Andratx Andratx NPCNG00 # topònim-apertium-falta-gènere-nombre
+Andre Andre NPFSSP0 #hipocorístico
+Andre Andre NPMSSP0 #hipocorístico
 Andrea Andrea NPFSSP0 # avl
 Andreani Andreani NPCNSP0
 Andreas Andreas NPMSSP0 #nombre propio de hombre
@@ -1395,9 +1423,12 @@ Andreu Andreu NPMSSP0 #nombre propio de hombre
 Andrew Andrew NPCNSP0 # wiki
 Andrey Andrey NPMSSP0 #nombre propio de hombre
 Andreína Andreína NPFSSP0
+Andreíta Andreíta NPFSSP0 #hipocorístico
 Andrii Andrii NPMSSP0 #nombre propio de hombre
+Andriu Andriu NPMSSP0 #hipocorístico
 Andriy Andriy NPMSSP0 #nombre propio de hombre
 Android Android NPCNO00
+Andru Andru NPFSSP0 #hipocorístico
 André André NPCNSP0 # wiki
 Andréi Andréi NPMSSP0 #nombre propio de hombre
 Andrés Andrés NPMSSP0 # avl
@@ -1411,6 +1442,7 @@ Andy Andy NPCNSP0 # wiki
 Andévalo Andévalo NPMSG00
 Andújar Andújar NPCSG00
 Ane Ane NPFSSP0 #nombre propio de mujer
+Anel Anel NPFSSP0 #hipocorístico
 Anento Anento NPCSG00 #municipios de España
 Aner Aner NPMSSP0 #nombre propio de hombre
 Angaco Angaco NPCSG00 #municipios de Argentina
@@ -1418,12 +1450,16 @@ Angamacutiro Angamacutiro NPCSG00 #municipios de México
 Angangueo Angangueo NPCSG00 #municipios de México
 Angarita Angarita NPCNSP0
 Angastaco Angastaco NPCSG00 #municipios de Argentina
+Ange Ange NPFSSP0 #hipocorístico
+Angeli Angeli NPFSSP0 #hipocorístico
 Angelina Angelina NPFSSP0 # avl
 Angelines Angelines NPFSSP0 # avl
 Angelino Angelino NPMSSP0 # avl
+Angeliquita Angeliquita NPFSSP0 #hipocorístico
 Angelita Angelita NPFSSP0
 Angelópolis Angelópolis NPCSG00
 Angers Angers NPCNG00 # topònim-apertium-falta-gènere-nombre
+Angi Angi NPFSSP0 #hipocorístico
 Angie Angie NPFSSP0
 Anglada Anglada NPCNSP0 #apellido
 Angle Angle NPCNSP0 # medical
@@ -1437,6 +1473,7 @@ Anguiano Anguiano NPCSG00 #municipios de España
 Anguil Anguil NPCSG00 #municipios de Argentina
 Anguila Anguila NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anguita Anguita NPCSG00 #municipios de España
+Anguito Anguito NPMSSP0 #hipocorístico
 Anguix Anguix NPCSG00 #municipios de España
 Angulema Angulema NPCNG00 # topònim-apertium-falta-gènere-nombre
 Angulo Angulo NPCNSP0 #apellido
@@ -1449,6 +1486,7 @@ Ania Ania NPFSSP0 #nombre propio de mujer
 Aniceta Aniceta NPFSSP0 # avl
 Aniceto Aniceto NPMSSP0 # avl
 Anievas Anievas NPCSG00 #municipios de España
+Anilú Anilú NPFSSP0 #hipocorístico
 Animaná Animaná NPCSG00 # Argentina LO
 Aniol Aniol NPMSSP0 #nombre propio de hombre
 Anisoara Anisoara NPFSSP0 #nombre propio de mujer
@@ -1457,6 +1495,7 @@ Anita Anita NPFSSP0
 Aniñón Aniñón NPCSG00 #municipios de España
 Anjou Anjou NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ankara Ankara NPCNG00 # topònim-apertium-falta-gènere-nombre
+Anlli Anlli NPFSSP0 #hipocorístico
 Ann Ann NPCNSP0 # wiki
 Anna Anna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Annaba Annaba NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1499,11 +1538,15 @@ Antillón Antillón NPCSG00 #municipios de España
 Antioquia Antioquia NPCSG00
 Antioquía Antioquía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Antipas Antipas NPMSSP0 # avl
+Anto Anto NPFSSP0 #hipocorístico
+Anto Anto NPMSSP0 #hipocorístico
 Antofagasta Antofagasta NPCSG00
 Antoine Antoine NPCNSP0 # wiki
 Antolina Antolina NPFSSP0 # avl
+Antolinito Antolinito NPMSSP0 #hipocorístico
 Antolín Antolín NPMSSP0 # avl
 Antona Antona NPFSSP0 # avl
+Antonelita Antonelita NPFSSP0 #hipocorístico
 Antonella Antonella NPFSSP0
 Antoni Antoni NPMSSP0
 Antonia Antonia NPFSSP0 # avl
@@ -1512,6 +1555,10 @@ Antonimina Antonimina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Antonina Antonina NPFSSP0 # avl
 Antonino Antonino NPMSSP0 # avl
 Antonio Antonio NPMSSP0 # avl
+Antoñita Antoñita NPFSSP0 #hipocorístico
+Antoñito Antoñito NPMSSP0 #hipocorístico
+Antoñuelo Antoñuelo NPMSSP0 #hipocorístico
+Antoñín Antoñín NPMSSP0 #hipocorístico
 Antsoain Antsoain NPCSG00 #municipios de España
 Antuco Antuco NPCSG00 #municipios de Chile
 Antuña Antuña NPCNSP0 #apellido
@@ -1528,9 +1575,11 @@ Antúnez Antúnez NPCNSP0 #apellido
 Anuar Anuar NPMSSP0 #nombre propio de hombre
 Anue Anue NPCSG00 #municipios de España
 Anunciación Anunciación NPFSSP0 # avl
+Anusca Anusca NPFSSP0 #hipocorístico
 Anwar Anwar NPMSSP0 #nombre propio de hombre
 Anxo Anxo NPMSSP0 #nombre propio de hombre
 Anya Anya NPCNG00 # topònim-apertium-falta-gènere-nombre
+Anyi Anyi NPFSSP0 #hipocorístico
 Anyós Anyós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Anza Anza NPCSG00 #municipios de Colombia
 Anzoátegui Anzoátegui NPCSG00
@@ -1641,6 +1690,7 @@ Arapiles Arapiles NPCSG00 #municipios de España
 Araque Araque NPCNSP0 #apellido
 Aras Aras NPCNG00
 Arata Arata NPCSG00 #municipios de Argentina
+Arath Arath NPMSSP0 #hipocorístico
 Aratoca Aratoca NPCSG00 #municipios de Colombia
 Aratz Aratz NPMSSP0 #nombre propio de hombre
 Arauca Arauca NPCSG00
@@ -1758,15 +1808,18 @@ Aribe Aribe NPCSG00 #municipios de España
 Arico Arico NPCSG00 #municipios de España
 Aridane Aridane NPMSSP0 #nombre propio de hombre
 Ariel Ariel NPCSSP0 # avl
+Arielito Arielito NPMSSP0 #hipocorístico
 Ariguaní Ariguaní NPCSG00 #municipios de Colombia
 Arija Arija NPCSG00 #municipios de España
 Ario Ario NPMSSP0 # avl
 Arismendi Arismendi NPCSG00 # Venezuela
 Aristarco Aristarco NPMSSP0 # avl
+Aristeo Aristeo NPMSSP0 #hipocorístico
 Aristot Aristot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aristóbulo Aristóbulo NPMSSP0 # avl
 Aristófanes Aristófanes NPMSSP0 # avl
 Aristóteles Aristóteles NPMSSP0 # avl
+Arita Arita NPFSSP0 #hipocorístico
 Aritz Aritz NPMSSP0 #nombre propio de hombre
 Arivechi Arivechi NPCSG00 #municipios de México
 Ariza Ariza NPCNSP0
@@ -1800,6 +1853,7 @@ Armenteros Armenteros NPCSG00 #municipios de España
 Armento Armento NPCNG00 # topònim-apertium-falta-gènere-nombre
 Armero Armero NPCSG00 #municipios de Colombia
 Armesto Armesto NPCNSP0 #apellido
+Armi Armi NPMSSP0 #hipocorístico
 Armilla Armilla NPCSG00 #municipios de España
 Arminda Arminda NPFSSP0 # avl
 Arminia Arminia NPFSSP0 # avl
@@ -1972,6 +2026,7 @@ Asturianos Asturianos NPCSG00 #municipios de España
 Asturias Asturias NPCNG00 # topònim-apertium-falta-gènere-nombre
 Astérix Astérix NPMSSP0
 Astún Astún NPCNG00 # topònim-apertium-falta-gènere-nombre
+Asun Asun NPFSSP0 #hipocorístico
 Asunción Asunción NPCSG00 # topònim-apertium
 Asunción Asunción NPFSSP0 # avl
 Asunta Asunta NPFSSP0 # avl
@@ -2381,6 +2436,7 @@ Barbados Barbados NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barbadás Barbadás NPCSG00 #municipios de España
 Barbalos Barbalos NPCSG00 #municipios de España
 Barbarin Barbarin NPCSG00 #municipios de España
+Barbarita Barbarita NPFSSP0 #hipocorístico
 Barbastro Barbastro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barbate Barbate NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barbeito Barbeito NPCNSP0 #apellido
@@ -2462,6 +2518,7 @@ Barrul Barrul NPCNSP0 #apellido
 Barrundia Barrundia NPCSG00 #municipios de España
 Barry Barry NPCNSP0 # wiki
 Barsimeo Barsimeo NPMSSP0 # avl
+Bart Bart NPMSSP0 #hipocorístico
 Bartaldo Bartaldo NPMSSP0 # avl
 Bartholino Bartholino NPCNSP0 # medical
 Bartimeo Bartimeo NPMSSP0 # avl
@@ -2505,6 +2562,7 @@ Bastia Bastia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bastian Bastian NPMSSP0 # avl
 Bastiana Bastiana NPFSSP0 # avl
 Bastida Bastida NPCSG00 #municipios de España
+Bastián Bastián NPMSSP0 #hipocorístico
 Bataller Bataller NPCNSP0 #apellido
 Batea Batea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baterno Baterno NPCSG00 #municipios de España
@@ -2513,6 +2571,7 @@ Batman Batman NPMSSP0
 Batres Batres NPCSG00 #municipios de España
 Batten Batten NPCNSP0 # medical
 Battle Battle NPCSG00
+Bauche Bauche NPMSSP0 #hipocorístico
 Baudelaire Baudelaire NPCNSP0
 Baudelocque Baudelocque NPCNSP0 # medical
 Baudilio Baudilio NPMSSP0 # avl
@@ -2561,6 +2620,7 @@ Beasain Beasain NPCSG00 #municipios de España
 Beata Beata NPFSSP0 # avl
 Beatles Beatles NPMPO00 # wiki
 Beato Beato NPMSSP0 # avl
+Beatri Beatri NPFSSP0 #hipocorístico
 Beatrice Beatrice NPFSSP0 #nombre propio de mujer
 Beatriz Beatriz NPFSSP0 # avl
 Beau Beau NPCNSP0 # medical
@@ -2586,6 +2646,7 @@ Bedoya Bedoya NPCNSP0
 Bedón Bedón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beethoven Beethoven NPCNSP0 # wiki
 Beget Beget NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bego Bego NPFSSP0 #hipocorístico
 Begonia Begonia NPFSSP0 # avl
 Begonte Begonte NPCSG00 #municipios de España
 Begoña Begoña NPFSSP0 # avl
@@ -2604,6 +2665,7 @@ Beitia Beitia NPCNSP0 #apellido
 Beizama Beizama NPCSG00 #municipios de España
 Bejuma Bejuma NPCSG00 # Venezuela
 Bejís Bejís NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bela Bela NPFSSP0 #hipocorístico
 Belalcázar Belalcázar NPCSG00 #municipios de Colombia
 Belalcázar Belalcázar NPCSG00 #municipios de España
 Belarmina Belarmina NPFSSP0 #nombre propio de mujer
@@ -2614,6 +2676,8 @@ Belauntza Belauntza NPCSG00 #municipios de España
 Belaúnde Belaúnde NPCNSP0
 Belbimbre Belbimbre NPCSG00 #municipios de España
 Belchite Belchite NPCSG00 #municipios de España
+Belencilla Belencilla NPFSSP0 #hipocorístico
+Belencita Belencita NPFSSP0 #hipocorístico
 Belenguer Belenguer NPCNSP0 #apellido
 Belerofonte Belerofonte NPMSSP0 # avl
 Beleña Beleña NPCSG00 #municipios de España
@@ -2657,6 +2721,7 @@ Belodonte Belodonte NPCNSP0
 Belorado Belorado NPCSG00 #municipios de España
 Belsito Belsito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beltrán Beltrán NPMSSP0 # avl
+Belu Belu NPFSSP0 #hipocorístico
 Belém Belém NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belén Belén NPCNG00 # topònim-apertium
 Belén Belén NPFSSP0 # avl
@@ -2727,6 +2792,7 @@ Bengoa Bengoa NPCNSP0 #apellido
 Bengoechea Bengoechea NPCNSP0 #apellido
 Bengolea Bengolea NPCSG00 #municipios de Argentina
 Benguerel Benguerel NPCNSP0
+Beni Beni NPMSSP0 #hipocorístico
 Beniarbeig Beniarbeig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beniardà Beniardà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beniardá Beniardá NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2780,8 +2846,10 @@ Benitachell Benitachell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benitagla Benitagla NPCSG00 #municipios de España
 Benito Benito NPMSSP0 # avl
 Benizalón Benizalón NPCSG00 #municipios de España
+Benja Benja NPMSSP0 #hipocorístico
 Benjamina Benjamina NPFSSP0 # avl
 Benjamín Benjamín NPMSSP0 # avl
+Benjita Benjita NPMSSP0 #hipocorístico
 Benjumea Benjumea NPCNSP0 #apellido
 Benlloc Benlloc NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benlloch Benlloch NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2798,6 +2866,7 @@ Benín Benín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benítez Benítez NPCNSP0 # wiki common surnames
 Benós Benós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beocia Beocia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bequi Bequi NPFSSP0 #hipocorístico
 Bera Bera NPCSG00 #municipios de España
 Berango Berango NPCSG00 #municipios de España
 Berantevilla Berantevilla NPCSG00 #municipios de España
@@ -2816,6 +2885,7 @@ Berceruelo Berceruelo NPCSG00 #municipios de España
 Bercial Bercial NPCSG00 #municipios de España
 Bercimuel Bercimuel NPCSG00 #municipios de España
 Berdejo Berdejo NPCSG00 #municipios de España
+Bere Bere NPFSSP0 #hipocorístico
 Berengaria Berengaria NPFSSP0 # avl
 Berengario Berengario NPMSSP0 # avl
 Berenguel Berenguel NPCNSP0 #apellido
@@ -2844,6 +2914,7 @@ Berkshire Berkshire NPCSG00
 Berlandina Berlandina NPFSSP0 # avl
 Berlandino Berlandino NPMSSP0 # avl
 Berlanga Berlanga NPCSG00 #municipios de España
+Berli Berli NPFSSP0 #hipocorístico
 Berlinale Berlinale NPFSO00
 Berloke Berloke NPCNSP0 # medical
 Berlusconi Berlusconi NPCNSP0
@@ -2872,6 +2943,7 @@ Bernasconi Bernasconi NPCSG00 #municipios de Argentina
 Bernat Bernat NPMSSP0 #nombre propio de hombre
 Bernedo Bernedo NPCSG00 #municipios de España
 Bernhard Bernhard NPCNSP0
+Berni Berni NPMSSP0 #hipocorístico
 Berninches Berninches NPCSG00 #municipios de España
 Bernini Bernini NPCNSP0
 Bernoulli Bernoulli NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2923,9 +2995,12 @@ Betania Betania NPCSG00
 Betanzos Betanzos NPCSG00 #municipios de España
 Betelu Betelu NPCSG00 #municipios de España
 Beteta Beteta NPCSG00 #municipios de España
+Beth Beth NPFSSP0 #hipocorístico
 Bethencourt Bethencourt NPCNSP0 #apellido
+Beti Beti NPFSSP0 #hipocorístico
 Betijoque Betijoque NPCSG00 # Venezuela
 Betis Betis NPMSO00
+Betito Betito NPMSSP0 #hipocorístico
 Betlan Betlan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beto Beto NPMSSP0
 Betren Betren NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2939,11 +3014,14 @@ Bevan Bevan NPCNSP0 # medical
 Bezares Bezares NPCSG00 #municipios de España
 Bezas Bezas NPCSG00 #municipios de España
 Bezos Bezos NPCNSP0
+Beñallo Beñallo NPMSSP0 #hipocorístico
 Beñat Beñat NPMSSP0 #nombre propio de hombre
+Beño Beño NPMSSP0 #hipocorístico
 Bianca Bianca NPFSSP0 #nombre propio de mujer
 Biancavilla Biancavilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Biar Biar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bibi Bibi NPCNSP0 #apellido
+Bibi Bibi NPFSSP0 #hipocorístico
 Bibiana Bibiana NPFSSP0 # avl
 Bibiano Bibiano NPMSSP0 # avl
 Biblis Biblis NPFSSP0 # avl
@@ -3043,6 +3121,7 @@ Blandina Blandina NPFSSP0 # avl
 Blandino Blandino NPMSSP0 # avl
 Blanes Blanes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Blanquerna Blanquerna NPMSSP0 # avl
+Blanquita Blanquita NPFSSP0 #hipocorístico
 Blaquerna Blaquerna NPMSSP0 # avl
 Blas Blas NPMSSP0 # avl
 Blasa Blasa NPFSSP0 # avl
@@ -3076,6 +3155,7 @@ Bobadilla Bobadilla NPCSG00
 Bobbio Bobbio NPCNSP0
 Bobby Bobby NPCNSP0 # wiki
 Bobby Bobby NPMSSP0
+Bobi Bobi NPMSSP0 #hipocorístico
 Boborás Boborás NPCSG00 #municipios de España
 Bobures Bobures NPCSG00 # Venezuela
 Bocairent Bocairent NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3142,6 +3222,7 @@ Bondeno Bondeno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonet Bonet NPMSSP0 # avl
 Bonete Bonete NPCSG00 #municipios de España
 Bonheur Bonheur NPCNSP0
+Boni Boni NPMSSP0 #hipocorístico
 Boniches Boniches NPCSG00 #municipios de España
 Bonifacia Bonifacia NPFSSP0 # avl
 Bonifacio Bonifacio NPMSSP0 # avl
@@ -3165,16 +3246,20 @@ Borau Borau NPCSG00 #municipios de España
 Borbones Borbones NPCPSP0
 Borbonés Borbonés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Borbón Borbón NPCNSP0
+Borch Borch NPMSSP0 #hipocorístico
 Bordalba Bordalba NPCSG00 #municipios de España
 Bordeta Bordeta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bordils Bordils NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bordón Bordón NPCSG00 #municipios de España
 Borges Borges NPCNG00 # topònim-apertium-falta-gènere-nombre
+Borgi Borgi NPMSSP0 #hipocorístico
 Borgoña Borgoña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Boris Boris NPMSSP0 # avl
 Borja Borja NPCNSP0
 Borja Borja NPMSSP0 # avl
 Borjabad Borjabad NPCSG00 #municipios de España
+Borjita Borjita NPMSSP0 #hipocorístico
+Borjito Borjito NPMSSP0 #hipocorístico
 Bormujos Bormujos NPCSG00 #municipios de España
 Bornemisza Bornemisza NPCNSP0
 Borneo Borneo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3295,6 +3380,7 @@ Brieva Brieva NPCSG00 #municipios de España
 Brighton Brighton NPCNG00
 Brigitte Brigitte NPFSSP0 #nombre propio de mujer
 Brihuega Brihuega NPCSG00 #municipios de España
+Bril Bril NPFSSP0 #hipocorístico
 Brincones Brincones NPCSG00 #municipios de España
 Brindisi Brindisi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brinkmann Brinkmann NPCSG00 #municipios de Argentina
@@ -3389,6 +3475,7 @@ Bufali Bufali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bugalagrande Bugalagrande NPCSG00 #municipios de Colombia
 Bugarra Bugarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bugedo Bugedo NPCSG00 #municipios de España
+Buichi Buichi NPMSSP0 #hipocorístico
 Buil Buil NPCNSP0 #apellido
 Buin Buin NPCSG00 # Chile
 Buitrago Buitrago NPCSG00
@@ -3402,6 +3489,7 @@ Bulgaria Bulgaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bullard Bullard NPCNSP0 # medical
 Bullas Bullas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulli Bulli NPMSO00
+Bulmaro Bulmaro NPMSSP0 #hipocorístico
 Bulnes Bulnes NPCSG00 # Argentina LO
 Bundesbank Bundesbank NPMSO00
 Bundesland Bundesland NPMSO00
@@ -3582,6 +3670,7 @@ Cachorrilla Cachorrilla NPCSG00 #municipios de España
 Cacín Cacín NPCSG00 #municipios de España
 Cadalso Cadalso NPCSG00 #municipios de España
 Cadaqués Cadaqués NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cadio Cadio NPMSSP0 #hipocorístico
 Cadmo Cadmo NPMSSP0 # avl
 Cadreita Cadreita NPCSG00 #municipios de España
 Cadrete Cadrete NPCSG00 #municipios de España
@@ -3600,6 +3689,7 @@ Caicedonia Caicedonia NPCSG00 #municipios de Colombia
 Caifás Caifás NPMSSP0 # avl
 Caimancito Caimancito NPCSG00 #municipios de Argentina
 Caimito Caimito NPCSG00 #municipios de Colombia
+Caio Caio NPMSSP0 #hipocorístico
 Cairo Cairo NPCNG00 # topònim-apertium-falta-gènere-nombre
 CaixaBank CaixaBank NPCNO00
 CaixaForum CaixaForum NPMNO00
@@ -3675,6 +3765,7 @@ Calixto Calixto NPMSSP0 # avl
 Calkiní Calkiní NPCSG00 #municipios de México
 Calldetenes Calldetenes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calles Calles NPCNG00 # topònim-apertium-falta-gènere-nombre
+Callolla Callolla NPFSSP0 #hipocorístico
 Callús Callús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Calmarza Calmarza NPCSG00 #municipios de España
 Calmett Calmett NPCNSP0 # medical
@@ -3708,6 +3799,7 @@ Calzadilla Calzadilla NPCNG00
 Calígula Calígula NPMSSP0 # avl
 Calímaco Calímaco NPMSSP0 # avl
 Calíope Calíope NPFSSP0 # avl
+Calú Calú NPFSSP0 #hipocorístico
 Cam Cam NPMSSP0 # avl
 Camacho Camacho NPCNSP0
 Camaguán Camaguán NPCSG00 # Venezuela
@@ -3740,6 +3832,8 @@ Cameron Cameron NPCNSP0
 Camerota Camerota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camerún Camerún NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camey Camey NPCNSP0 # medical
+Cami Cami NPFSSP0 #hipocorístico
+Cami Cami NPMSSP0 #hipocorístico
 Camila Camila NPFSSP0 # avl
 Camilo Camilo NPMSSP0 # avl
 Caminomorisco Caminomorisco NPCSG00 #municipios de España
@@ -3962,6 +4056,7 @@ Carintia Carintia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caripe Caripe NPCSG00 # Venezuela
 Caripito Caripito NPCSG00 # Venezuela
 Carirubana Carirubana NPCSG00 # Venezuela
+Carito Carito NPFSSP0 #hipocorístico
 Cariñena Cariñena NPCSG00 #municipios de España
 Cariño Cariño NPCSG00 #municipios de España
 Carl Carl NPCNSP0 # wiki
@@ -3978,10 +4073,13 @@ Carlotta Carlotta NPFSSP0 #nombre propio de mujer
 Carlssen Carlssen NPCNSP0
 Carme Carme NPCSG00 #municipios de España
 Carmela Carmela NPFSSP0 # avl
+Carmelilla Carmelilla NPFSSP0 #hipocorístico
 Carmelo Carmelo NPMSSP0 # avl
+Carmeluchi Carmeluchi NPFSSP0 #hipocorístico
 Carmen Carmen NPCSG00
 Carmen Carmen NPFSSP0 # avl
 Carmena Carmena NPCSG00 #municipios de España
+Carmencita Carmencita NPFSSP0 #hipocorístico
 Carmesina Carmesina NPFSSP0 # avl
 Carmina Carmina NPFSSP0 # avl
 Carmona Carmona NPCSG00
@@ -4046,6 +4144,7 @@ Carvalho Carvalho NPCNSP0 #apellido
 Carver Carver NPCNSP0
 Carácuaro Carácuaro NPCSG00 #municipios de México
 Caráquez Caráquez NPCSG00 # Ecuador
+Carín Carín NPMSSP0 #hipocorístico
 Carúpano Carúpano NPCSG00 # Venezuela
 Casabermeja Casabermeja NPCSG00 #municipios de España
 Casabianca Casabianca NPCSG00 #municipios de Colombia
@@ -4220,6 +4319,7 @@ Caterina Caterina NPFSSP0 #nombre propio de mujer
 Cathaysa Cathaysa NPFSSP0 #nombre propio de mujer
 Catherine Catherine NPFSSP0
 Cathy Cathy NPFSSP0
+Cati Cati NPFSSP0 #hipocorístico
 Catia Catia NPFSSP0 # avl
 Catilina Catilina NPMSSP0
 Catoira Catoira NPCSG00 #municipios de España
@@ -4254,11 +4354,13 @@ Cayena Cayena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cayetana Cayetana NPFSSP0 # avl
 Cayetano Cayetano NPMSSP0 # avl
 Cayo Cayo NPMSSP0 # avl
+Cayo Cayo NPMSSP0 #hipocorístico
 Cayuela Cayuela NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cazalegas Cazalegas NPCSG00 #municipios de España
 Cazalilla Cazalilla NPCSG00 #municipios de España
 Cazorla Cazorla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cazurra Cazurra NPCSG00 #municipios de España
+Cazú Cazú NPMSSP0 #hipocorístico
 Caín Caín NPMSSP0 # avl
 Cañada Cañada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cañamaque Cañamaque NPCSG00 #municipios de España
@@ -4284,6 +4386,7 @@ Cebreros Cebreros NPCSG00 #municipios de España
 Cebriana Cebriana NPFSSP0 # avl
 Cebrián Cebrián NPMSSP0 # avl
 Cecabank Cecabank NPMSO00
+Ceci Ceci NPFSSP0 #hipocorístico
 Cecilia Cecilia NPFSSP0 # avl
 Cecilio Cecilio NPMSSP0 # avl
 Ceclavín Ceclavín NPCSG00 #municipios de España
@@ -4294,6 +4397,7 @@ Cedillo Cedillo NPCSG00
 Cedral Cedral NPCSG00 #municipios de México
 Cedrales Cedrales NPCSG00 # Paraguay
 Cedrillas Cedrillas NPCSG00 #municipios de España
+Cefe Cefe NPMSSP0 #hipocorístico
 Cefeo Cefeo NPMSSP0 # avl
 Ceferina Ceferina NPFSSP0 # avl
 Ceferino Ceferino NPMSSP0 # avl
@@ -4313,6 +4417,7 @@ Celeste Celeste NPFSSP0 # avl
 Celestina Celestina NPFSSP0 # avl
 Celestino Celestino NPMSSP0 # avl
 Celestún Celestún NPCSG00 #municipios de México
+Celi Celi NPFSSP0 #hipocorístico
 Celia Celia NPFSSP0 # avl
 Celica Celica NPCSG00 # Ecuador
 Celico Celico NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4337,6 +4442,7 @@ Cenlle Cenlle NPCSG00 #municipios de España
 Cenobia Cenobia NPFSSP0 # avl
 Cenobio Cenobio NPMSSP0 # avl
 Cenotillo Cenotillo NPCSG00 #municipios de México
+Cenovio Cenovio NPMSSP0 #hipocorístico
 Centelles Centelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Centenera Centenera NPCSG00 #municipios de España
 Centla Centla NPCSG00 #municipios de México
@@ -4385,20 +4491,26 @@ Cervicati Cervicati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cervo Cervo NPCSG00 #municipios de España
 Cerzeto Cerzeto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cesaria Cesaria NPFSSP0 # avl
+Cesarini Cesarini NPMSSP0 #hipocorístico
 Cesario Cesario NPMSSP0 # avl
 Cesarión Cesarión NPMSSP0 # avl
+Cesarín Cesarín NPMSSP0 #hipocorístico
 Cesc Cesc NPMSSP0 #nombre propio de hombre
+Cesi Cesi NPMSSP0 #hipocorístico
 Cesia Cesia NPFSSP0 # avl
 Cesio Cesio NPMSSP0 # avl
 Cesuras Cesuras NPCSG00 #municipios de España
 Cesárea Cesárea NPFSSP0 # avl
 Cesáreo Cesáreo NPMSSP0 # avl
 Cetina Cetina NPCSG00 #municipios de España
+Ceto Ceto NPMSSP0 #hipocorístico
 Cetraro Cetraro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ceuta Ceuta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ceutí Ceutí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cevallos Cevallos NPCSG00 # Ecuador
 Chabasquén Chabasquén NPCSG00 # Venezuela
+Chabe Chabe NPFSSP0 #hipocorístico
+Chabela Chabela NPFSSP0 #hipocorístico
 Chabás Chabás NPCNSP0
 Chacabuco Chacabuco NPCSG00 # Argentina
 Chacaltianguis Chacaltianguis NPCSG00 #municipios de México
@@ -4408,7 +4520,9 @@ Chachagüí Chachagüí NPCSG00 #municipios de Colombia
 Chachapoyas Chachapoyas NPCSG00 # Perú
 Chacsinkín Chacsinkín NPCSG00 #municipios de México
 Chad Chad NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chafeo Chafeo NPMSSP0 #hipocorístico
 Chagall Chagall NPCNSP0
+Chago Chago NPMSSP0 #hipocorístico
 Chaguaní Chaguaní NPCSG00 #municipios de Colombia
 Chahuites Chahuites NPCSG00 #municipios de México
 Chaikovski Chaikovski NPCNSP0 # wiki
@@ -4416,6 +4530,8 @@ Chaimaa Chaimaa NPFSSP0 #nombre propio de mujer
 Chaimae Chaimae NPFSSP0 #nombre propio de mujer
 Chaitén Chaitén NPCSG00 #municipios de Chile
 Chaján Chaján NPCSG00 #municipios de Argentina
+Chak Chak NPMSSP0 #hipocorístico
+Chaki Chaki NPMSSP0 #hipocorístico
 Chalamera Chalamera NPCSG00 #municipios de España
 Chalchihuitán Chalchihuitán NPCSG00 #municipios de México
 Chalco Chalco NPCSG00 # México
@@ -4427,16 +4543,23 @@ Chamartín Chamartín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambo Chambo NPCSG00 # Ecuador
 Chamical Chamical NPCSG00 #municipios de Argentina
+Chamilo Chamilo NPMSSP0 #hipocorístico
 Chamonix Chamonix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Champaña Champaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Champions Champions NPFNO00
 Champotón Champotón NPCSG00 #municipios de México
+Chamu Chamu NPMSSP0 #hipocorístico
 Chamula Chamula NPCSG00 #municipios de México
+Chamín Chamín NPMSSP0 #hipocorístico
+Chana Chana NPFSSP0 #hipocorístico
 Chanal Chanal NPCSG00 #municipios de México
 Chandler Chandler NPCNSP0 # medical
+Chani Chani NPMSSP0 #hipocorístico
+Chanito Chanito NPMSSP0 #hipocorístico
 Chankom Chankom NPCSG00 #municipios de México
 Chantada Chantada NPCSG00 #municipios de España
 Chantal Chantal NPFSSP0 # avl
+Chanu Chanu NPMSSP0 #hipocorístico
 Chapab Chapab NPCSG00 #municipios de México
 Chapantongo Chapantongo NPCSG00 #municipios de México
 Chaparral Chaparral NPCSG00 #municipios de Colombia
@@ -4452,8 +4575,11 @@ Charapan Charapan NPCSG00 #municipios de México
 Charcot Charcot NPCNSP0 # medical
 Charcot-Leyden Charcot-Leyden NPCNSP0 # medical
 Charcot-Marie-Tooth Charcot-Marie-Tooth NPCNSP0 # medical
+Chardo Chardo NPMSSP0 #hipocorístico
 Charente Charente NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chari Chari NPFSSP0 #hipocorístico
 Charles Charles NPCNSP0
+Charli Charli NPMSSP0 #hipocorístico
 Charlie Charlie NPCNSP0 # wiki
 Charlotte Charlotte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Charo Charo NPFSSP0 # avl
@@ -4462,31 +4588,60 @@ Charta Charta NPCSG00 #municipios de Colombia
 Chascomús Chascomús NPCSG00 # Argentina
 ChatGPT ChatGPT NPMSO00
 Chauchina Chauchina NPCSG00 #municipios de España
+Chava Chava NPMSSP0 #hipocorístico
 Chavarría Chavarría NPCSG00 #municipios de Argentina
 Chaves Chaves NPCNSP0
+Chaveto Chaveto NPMSSP0 #hipocorístico
 Chavinda Chavinda NPCSG00 #municipios de México
+Chavita Chavita NPFSSP0 #hipocorístico
+Chayis Chayis NPFSSP0 #hipocorístico
 Chaymae Chaymae NPFSSP0 #nombre propio de mujer
+Chayo Chayo NPFSSP0 #hipocorístico
+Chaz Chaz NPMSSP0 #hipocorístico
 Chazón Chazón NPCSG00 #municipios de Argentina
 Chañaral Chañaral NPCSG00 #municipios de Chile
 Chañe Chañe NPCSG00 #municipios de España
 Che Che NPCSSP0
+Chebo Chebo NPMSSP0 #hipocorístico
 Checa Checa NPCSG00 #municipios de España
+Checha Checha NPMSSP0 #hipocorístico
+Chechai Chechai NPMSSP0 #hipocorístico
 Chechenia Chechenia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chechi Chechi NPFSSP0 #hipocorístico
+Checho Checho NPMSSP0 #hipocorístico
+Chechu Chechu NPFSSP0 #hipocorístico
+Chechu Chechu NPMSSP0 #hipocorístico
 Checoslovaquia Checoslovaquia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chediak-Higashi Chediak-Higashi NPCNSP0 # medical
 Cheikh Cheikh NPMSSP0 #nombre propio de hombre
 Chejendé Chejendé NPCSG00 # Venezuela
+Chejo Chejo NPMSSP0 #hipocorístico
+Chela Chela NPFSSP0 #hipocorístico
 Cheles Cheles NPCSG00 #municipios de España
+Chelini Chelini NPMSSP0 #hipocorístico
 Chella Chella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chelo Chelo NPCSSP0 # avl
 Chelsea Chelsea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chelva Chelva NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chely Chely NPMSSP0 #hipocorístico
+Chema Chema NPMSSP0 #hipocorístico
 Chemax Chemax NPCSG00 #municipios de México
+Chemi Chemi NPMSSP0 #hipocorístico
+Chemita Chemita NPMSSP0 #hipocorístico
+Chemo Chemo NPMSSP0 #hipocorístico
 Chemung Chemung NPCNG00
 Chen Chen NPCNSP0 #apellido
 Chenalhó Chenalhó NPCSG00 #municipios de México
+Chencho Chencho NPMSSP0 #hipocorístico
+Chendillo Chendillo NPMSSP0 #hipocorístico
+Chendo Chendo NPMSSP0 #hipocorístico
 Cheng Cheng NPCNSP0 #apellido
+Chenio Chenio NPMSSP0 #hipocorístico
+Cheno Cheno NPMSSP0 #hipocorístico
 Chenoa Chenoa NPFSSP0
+Chente Chente NPMSSP0 #hipocorístico
+Cheo Cheo NPMSSP0 #hipocorístico
+Chepina Chepina NPFSSP0 #hipocorístico
 Chepén Chepén NPCSG00 # Perú
 Chequia Chequia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chequilla Chequilla NPCSG00 #municipios de España
@@ -4499,9 +4654,11 @@ Cherry Cherry NPCNSP0
 Chert Chert NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cherubini Cherubini NPCNSP0 # wiki
 Cherán Cherán NPCSG00 #municipios de México
+Chesco Chesco NPMSSP0 #hipocorístico
 Cheshire Cheshire NPCSG00
 Cheste Cheste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chesterton Chesterton NPCNSP0
+Chete Chete NPMSSP0 #hipocorístico
 Chetumal Chetumal NPCSG00 # México
 Cheyenne Cheyenne NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cheyne-Stokes Cheyne-Stokes NPCNSP0 # medical
@@ -4520,6 +4677,7 @@ Chichimilá Chichimilá NPCSG00 #municipios de México
 Chichinales Chichinales NPCSG00 #municipios de Argentina
 Chichiquila Chichiquila NPCSG00 #municipios de México
 Chichiriviche Chichiriviche NPCSG00 # Venezuela
+Chichitar Chichitar NPMSSP0 #hipocorístico
 Chiclana Chiclana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chiclayo Chiclayo NPCSG00
 Chicoana Chicoana NPCSG00 #municipios de Argentina
@@ -4590,7 +4748,9 @@ Chiriguaná Chiriguaná NPCSG00 #municipios de Colombia
 Chirivel Chirivel NPCSG00 #municipios de España
 Chirivella Chirivella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chiscas Chiscas NPCSG00 #municipios de Colombia
+Chisco Chisco NPMSSP0 #hipocorístico
 Chisináu Chisináu NPCSG00
+Chisra Chisra NPMSSP0 #hipocorístico
 Chita Chita NPCSG00 #municipios de Colombia
 Chitagá Chitagá NPCSG00 #municipios de Colombia
 Chitaraque Chitaraque NPCSG00 #municipios de Colombia
@@ -4598,27 +4758,36 @@ Chiva Chiva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chivacoa Chivacoa NPCSG00 # Venezuela
 Chivatá Chivatá NPCSG00 #municipios de Colombia
 Chivilcoy Chivilcoy NPCSG00 # Argentina
+Chivis Chivis NPFSSP0 #hipocorístico
 Chivolo Chivolo NPCSG00 #municipios de Colombia
 Chivor Chivor NPCSG00 #municipios de Colombia
 Chloe Chloe NPFSSP0
 Choachí Choachí NPCSG00 #municipios de Colombia
 Choapa Choapa NPCSG00 #municipios de Chile
 Chocamán Chocamán NPCSG00 #municipios de México
+Choche Choche NPMSSP0 #hipocorístico
 Chocholá Chocholá NPCSG00 #municipios de México
 Chocontá Chocontá NPCSG00 #municipios de Colombia
 Chodes Chodes NPCSG00 #municipios de España
 Chodos Chodos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chofi Chofi NPFSSP0 #hipocorístico
+Chofis Chofis NPFSSP0 #hipocorístico
 Choix Choix NPCSG00 #municipios de México
+Chol Chol NPFSSP0 #hipocorístico
 Cholchol Cholchol NPCSG00 #municipios de Chile
 Cholila Cholila NPCSG00 #municipios de Argentina
 Cholula Cholula NPCSG00 # México
+Chomin Chomin NPMSSP0 #hipocorístico
 Chomsky Chomsky NPCNSP0
+Chon Chon NPFSSP0 #hipocorístico
 Chonchi Chonchi NPCSG00 #municipios de Chile
 Chone Chone NPCSG00 # Ecuador
+Choni Choni NPFSSP0 #hipocorístico
 Chontla Chontla NPCSG00 #municipios de México
 Chopin Chopin NPCNSP0 # wiki
 Chordeleg Chordeleg NPCSG00 # Ecuador
 Choré Choré NPCSG00 # Paraguay
+Choño Choño NPMSSP0 #hipocorístico
 Chris Chris NPCNSP0 # wiki
 Christi Christi NPCSG00 # Paraguay
 Christian Christian NPCNSP0 # wiki
@@ -4631,20 +4800,32 @@ Chromebooks Chromebook NPCPO00
 Chromecast Chromecast NPCNO00
 Chubut Chubut NPMSG00
 Chucena Chucena NPCSG00 #municipios de España
+Chuche Chuche NPMSSP0 #hipocorístico
+Chuchi Chuchi NPMSSP0 #hipocorístico
+Chuchobeto Chuchobeto NPMSSP0 #hipocorístico
+Chuchú Chuchú NPMSSP0 #hipocorístico
 Chucándiro Chucándiro NPCSG00 #municipios de México
 Chueca Chueca NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chul Chul NPMSSP0 #hipocorístico
+Chule Chule NPMSSP0 #hipocorístico
 Chulilla Chulilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chulucanas Chulucanas NPCSG00 # Perú
 Chumatlán Chumatlán NPCSG00 #municipios de México
 Chumayel Chumayel NPCSG00 #municipios de México
 Chumillas Chumillas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chumingo Chumingo NPMSSP0 #hipocorístico
+Chun Chun NPFSSP0 #hipocorístico
 Chunchi Chunchi NPCSG00 # Ecuador
 Churchill Churchill NPCNSP0 # wiki
 Churg-Strauss Churg-Strauss NPCNSP0 # medical
 Churintzio Churintzio NPCSG00 #municipios de México
 Churuguara Churuguara NPCSG00 # Venezuela
 Churumuco Churumuco NPCSG00 #municipios de México
+Chusa Chusa NPFSSP0 #hipocorístico
+Chusmari Chusmari NPMSSP0 #hipocorístico
+Chuso Chuso NPMSSP0 #hipocorístico
 Chuy Chuy NPCSG00 # Uruguay
+Chuymanuel Chuymanuel NPMSSP0 #hipocorístico
 Chvostek Chvostek NPCNSP0 # medical
 Chámeza Chámeza NPCSG00 #municipios de Colombia
 Chávez Chávez NPCNSP0 # wiki common surnames
@@ -4654,6 +4835,7 @@ Chía Chía NPCSG00 #municipios de España
 Chínipas Chínipas NPCSG00 #municipios de México
 Chíquiza Chíquiza NPCSG00 #municipios de Colombia
 Chóvar Chóvar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Chúo Chúo NPMSSP0 #hipocorístico
 Ciadoncha Ciadoncha NPCSG00 #municipios de España
 Cibeles Cibeles NPFSSP0 # avl
 Cicerón Cicerón NPMSSP0 # avl
@@ -4689,6 +4871,7 @@ Cinquefrondi Cinquefrondi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cinta Cinta NPFSSP0 # avl
 Cinthia Cinthia NPFSSP0
 Cinthya Cinthya NPFSSP0 #nombre propio de mujer
+Cinti Cinti NPFSSP0 #hipocorístico
 Cintia Cintia NPFSSP0 # avl
 Cinto Cinto NPMSSP0 # avl
 Cintruénigo Cintruénigo NPCSG00 #municipios de España
@@ -4742,6 +4925,7 @@ Claire Claire NPFSSP0 #nombre propio de mujer
 Clara Clara NPFSSP0 # avl
 Claramunt Claramunt NPCNSP0 #apellido
 Claravalls Claravalls NPCNG00 # topònim-apertium-falta-gènere-nombre
+Clari Clari NPFSSP0 #hipocorístico
 Clariana Clariana NPFSSP0 # avl
 Clariano Clariano NPMSSP0 # avl
 Clarisa Clarisa NPFSSP0 # avl
@@ -4751,13 +4935,18 @@ Clarke Clarke NPCNSP0
 Claro Claro NPMSSP0 # avl
 Clarés Clarés NPCNSP0 #apellido
 Classroom Classroom NPCNO00
+Clau Clau NPFSSP0 #hipocorístico
+Clau Clau NPMSSP0 #hipocorístico
 Claude Claude NPCNSP0 # wiki
 Claude-Bernard-Horner Claude-Bernard-Horner NPCNSP0 # medical
+Claudi Claudi NPFSSP0 #hipocorístico
+Claudi Claudi NPMSSP0 #hipocorístico
 Claudia Claudia NPFSSP0 # avl
 Claudina Claudina NPFSSP0 # avl
 Claudino Claudino NPMSSP0 # avl
 Claudio Claudio NPMSSP0 # avl
 Claudiu Claudiu NPMSSP0 #nombre propio de hombre
+Claus Claus NPMSSP0 #hipocorístico
 Clausewitz Clausewitz NPCNSP0
 Claver Claver NPCNSP0 #apellido
 Claverol Claverol NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4776,6 +4965,7 @@ Clements Clements NPCNSP0 # medical
 Cleo Cleo NPFSSP0 # avl
 Cleofás Cleofás NPMSSP0 # avl
 Cleopatra Cleopatra NPFSSP0 # avl
+Cler Cler NPFSSP0 #hipocorístico
 Clermont-Ferrand Clermont-Ferrand NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleto Cleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleveland Cleveland NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4865,6 +5055,7 @@ Coinco Coinco NPCSG00 #municipios de Chile
 Coirós Coirós NPCSG00 #municipios de España
 Coix Coix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cojedes Cojedes NPCSG00 # Venezuela
+Colacho Colacho NPMSSP0 #hipocorístico
 Colapinto Colapinto NPCNSP0 # medical
 Colbert Colbert NPCNSP0
 Colbún Colbún NPCSG00 #municipios de Chile
@@ -4943,14 +5134,17 @@ Compromís Compromís NPMSO00
 Compton Compton NPCNSP0 # medical
 Compuwave Compuwave NPCNO00
 Comte Comte NPCNSP0
+Cona Cona NPFSSP0 #hipocorístico
 Conakri Conakri NPCSG00 # topònim-apertium-falta-gènere
 Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Concaran Concaran NPCSG00 #municipios de Argentina
+Conce Conce NPFSSP0 #hipocorístico
 Concepció Concepció NPFSSP0 #nombre propio de mujer
 Concepción Concepción NPFSSP0 # avl
 Concertgebouw Concertgebouw NPMSO00
 Concha Concha NPFSSP0 # avl
 Conchalí Conchalí NPCSG00 #municipios de Chile
+Conchi Conchi NPFSSP0 #hipocorístico
 Conchita Conchita NPFSSP0 #nombre propio de mujer
 Concordia Concordia NPFSSP0 # avl
 Concordio Concordio NPMSSP0 # avl
@@ -4969,6 +5163,7 @@ Congonhas Congonhas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Congosto Congosto NPCSG00 #municipios de España
 Congostrina Congostrina NPCSG00 #municipios de España
 Conhelo Conhelo NPCSG00 #municipios de Argentina
+Coni Coni NPFSSP0 #hipocorístico
 Conkal Conkal NPCSG00 #municipios de México
 Conn Conn NPCNSP0 # medical
 Connecticut Connecticut NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -4980,6 +5175,7 @@ Conrado Conrado NPMSSP0 # avl
 Consaca Consaca NPCSG00 #municipios de Colombia
 Consagración Consagración NPFSSP0 # avl
 Consell Consell NPCNG00 # topònim-apertium-falta-gènere-nombre
+Consi Consi NPFSSP0 #hipocorístico
 Consol Consol NPFSSP0 #nombre propio de mujer
 Consolación Consolación NPFSSP0 # avl
 Constable Constable NPCNSP0
@@ -4995,6 +5191,7 @@ Constantí Constantí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Constanza Constanza NPFSNG00 # topònim-apertium
 Constanza Constanza NPFSSP0 # avl
 Constanzana Constanzana NPCSG00 #municipios de España
+Consu Consu NPFSSP0 #hipocorístico
 Consuegra Consuegra NPCSG00 #municipios de España
 Consuelo Consuelo NPCSSP0 # avl
 Contadero Contadero NPCSG00 #municipios de Colombia
@@ -5026,6 +5223,7 @@ Coppola Coppola NPCNSP0
 Copra Copra NPCNSP0 # medical
 Copándaro Copándaro NPCSG00 #municipios de México
 Copérnico Copérnico NPMSSP0
+Coqui Coqui NPFSSP0 #hipocorístico
 Coquimatlán Coquimatlán NPCSG00 #municipios de México
 Coquimbo Coquimbo NPCSG00 # Chile
 Cora Cora NPFSSP0 # avl
@@ -5117,6 +5315,7 @@ Cosoltepec Cosoltepec NPCSG00 #municipios de México
 Cospeito Cospeito NPCSG00 #municipios de España
 Cosquín Cosquín NPCSG00 # Argentina
 Costa-Gavras Costa-Gavras NPCNSP0
+Costan Costan NPMSSP0 #hipocorístico
 Costasacate Costasacate NPCSG00 #municipios de Argentina
 Costel Costel NPMSSP0 #nombre propio de hombre
 Costen Costen NPCNSP0 # medical
@@ -5129,6 +5328,7 @@ Cotacachi Cotacachi NPCSG00 # Ecuador
 Cotarelo Cotarelo NPCNSP0
 Cotaxtla Cotaxtla NPCSG00 #municipios de México
 Cotes Cotes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Coti Coti NPFSSP0 #hipocorístico
 Cotija Cotija NPCSG00 #municipios de México
 Cotillas Cotillas NPCSG00 #municipios de España
 Cotobade Cotobade NPCSG00 #municipios de España
@@ -5197,12 +5397,15 @@ Crispiano Crispiano NPMSSP0 # avl
 Crispina Crispina NPFSSP0 # avl
 Crispiniana Crispiniana NPFSSP0 # avl
 Crispiniano Crispiniano NPMSSP0 # avl
+Crispis Crispis NPFSSP0 #hipocorístico
 Crispo Crispo NPMSSP0 # avl
 Crispín Crispín NPMSSP0 # avl
 Crista Crista NPFSSP0 # avl
 Cristea Cristea NPCNSP0 #apellido
 Cristeta Cristeta NPFSSP0 # avl
 Cristhian Cristhian NPMSSP0
+Cristi Cristi NPFSSP0 #hipocorístico
+Cristi Cristi NPMSSP0 #hipocorístico
 Cristian Cristian NPMSSP0
 Cristiana Cristiana NPFSSP0 # avl
 Cristina Cristina NPFSSP0 # avl
@@ -5227,6 +5430,8 @@ Crooke Crooke NPCNSP0 # medical
 Cropalati Cropalati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crosia Crosia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crouzon Crouzon NPCNSP0 # medical
+Cruci Cruci NPFSSP0 #hipocorístico
+Crucita Crucita NPFSSP0 #hipocorístico
 Crucoli Crucoli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cruillas Cruillas NPCSG00 #municipios de México
 Cruise Cruise NPCNSP0
@@ -5302,6 +5507,7 @@ Cumpas Cumpas NPCSG00 #municipios de México
 Cunco Cunco NPCSG00 #municipios de Chile
 Cuncunul Cuncunul NPCSG00 #municipios de México
 Cunday Cunday NPCSG00 #municipios de Colombia
+Cundejo Cundejo NPMSSP0 #hipocorístico
 Cundinamarca Cundinamarca NPCSG00
 Cunduacán Cunduacán NPCSG00 #municipios de México
 Cuneo Cuneo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5418,6 +5624,7 @@ Dacosta Dacosta NPCNSP0 #apellido
 Daewoo Daewoo NPCNO00
 Dafne Dafne NPFSSP0 # avl
 Dafnis Dafnis NPFSSP0 # avl
+Dago Dago NPMSSP0 #hipocorístico
 Dagoberta Dagoberta NPFSSP0 # avl
 Dagoberto Dagoberto NPMSSP0 # avl
 Dagua Dagua NPCSG00 #municipios de Colombia
@@ -5436,6 +5643,7 @@ Dakar Dakar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dakota Dakota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dalcahue Dalcahue NPCSG00 #municipios de Chile
 Dalen-Fuchs Dalen-Fuchs NPCNSP0 # medical
+Dali Dali NPFSSP0 #hipocorístico
 Dalia Dalia NPFSSP0 # avl
 Dalila Dalila NPFSSP0 # avl
 Dallas Dallas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5473,6 +5681,7 @@ Daouda Daouda NPMSSP0 #nombre propio de hombre
 Daoudi Daoudi NPCNSP0 #apellido
 Dara Dara NPFSSP0 #nombre propio de mujer
 Darfur Darfur NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dari Dari NPMSSP0 #hipocorístico
 Daria Daria NPFSSP0 #nombre propio de mujer
 Darier Darier NPCNSP0 # medical
 Darjeeling Darjeeling NPCSG00
@@ -5490,6 +5699,10 @@ Daubigny Daubigny NPCNSP0
 Daule Daule NPCSG00 # Ecuador
 Daumier Daumier NPCNSP0
 Dave Dave NPCNSP0 # wiki
+Davi Davi NPFSSP0 #hipocorístico
+Davi Davi NPMSSP0 #hipocorístico
+Davicho Davicho NPMSSP0 #hipocorístico
+Davicillo Davicillo NPMSSP0 #hipocorístico
 David David NPMSSP0 # avl
 Davide Davide NPMSSP0 #nombre propio de hombre
 Davidia Davidia NPFSSP0 # avl
@@ -5497,6 +5710,7 @@ Davidse Davidse NPCNSP0 # wiki
 Davidson Davidson NPCNSP0
 Davinia Davinia NPFSSP0 # avl
 Davis Davis NPCNSP0 # wiki
+Davo Davo NPMSSP0 #hipocorístico
 Davos Davos NPCSG00 # topònim-apertium
 Dawkins Dawkins NPCNSP0
 Dayana Dayana NPFSSP0
@@ -5516,6 +5730,7 @@ Degos Degos NPCNSP0 # medical
 Deidamía Deidamía NPFSSP0
 Deierri Deierri NPCSG00 #municipios de España
 Deifontes Deifontes NPCSG00 #municipios de España
+Deivid Deivid NPMSSP0 #hipocorístico
 Deià Deià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dekan Dekan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Delacroix Delacroix NPCNSP0
@@ -5546,6 +5761,8 @@ Demofonte Demofonte NPMSSP0 # avl
 Deméter Deméter NPFSSP0 # avl
 Demócrito Demócrito NPMSSP0 # avl
 Demóstenes Demóstenes NPMSSP0 # avl
+Dena Dena NPFSSP0 #hipocorístico
+Deni Deni NPFSSP0 #hipocorístico
 Denia Denia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Denis Denis NPMSSP0 # avl
 Denisa Denisa NPFSSP0 # avl
@@ -5570,6 +5787,7 @@ Desamparados Desamparados NPMPSP0 # Virgen de
 Descargamaría Descargamaría NPCSG00 #municipios de España
 Descartes Descartes NPCNSP0
 Desdémona Desdémona NPFSSP0 # avl
+Desi Desi NPMSSP0 #hipocorístico
 Desideria Desideria NPFSSP0 # avl
 Desiderio Desiderio NPMSSP0 # avl
 Desiré Desiré NPFSSP0 #nombre propio de mujer
@@ -5599,6 +5817,7 @@ Diamantino Diamantino NPMSSP0 # avl
 Diamond Diamond NPCNSP0
 Diamond-Blackfan Diamond-Blackfan NPCNSP0 # medical
 Diana Diana NPFSSP0 # avl
+Dianis Dianis NPFSSP0 #hipocorístico
 Dianita Dianita NPFSSP0
 Diarra Diarra NPCNSP0 #apellido
 Dibula Dibula NPCSG00 #municipios de Colombia
@@ -5608,6 +5827,7 @@ Dickens Dickens NPCNSP0
 Dido Dido NPFSSP0 # avl
 Diega Diega NPFSSP0 # avl
 Diego Diego NPMSSP0 # avl
+Diegui Diegui NPMSSP0 #hipocorístico
 Dietrich Dietrich NPCNSP0
 Diezma Diezma NPCSG00 #municipios de España
 Digna Digna NPFSSP0 # avl
@@ -5629,6 +5849,7 @@ Dinu Dinu NPCNSP0 #apellido
 Diocleciano Diocleciano NPMSSP0 # avl
 Diodoro Diodoro NPMSSP0 # avl
 Diomedes Diomedes NPMSSP0 # avl
+Dioni Dioni NPMSSP0 #hipocorístico
 Dionisia Dionisia NPFSSP0 # avl
 Dionisio Dionisio NPMSSP0 # avl
 Diop Diop NPCNSP0 #apellido
@@ -5669,6 +5890,7 @@ Domene Domene NPCNSP0 #apellido
 Domenico Domenico NPMSSP0 #nombre propio de hombre
 Domenyo Domenyo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Domeño Domeño NPCNG00 # topònim-apertium-falta-gènere-nombre
+Domi Domi NPMSSP0 #hipocorístico
 Domiciano Domiciano NPMSSP0 # avl
 Domicio Domicio NPMSSP0 # avl
 Dominga Dominga NPFSSP0 # avl
@@ -5690,6 +5912,7 @@ Donemiliaga Donemiliaga NPCSG00 #municipios de España
 Donetsk Donetsk NPCSG00
 Doneztebe Doneztebe NPCSG00 #municipios de España
 Donhierro Donhierro NPCSG00 #municipios de España
+Doni Doni NPMSSP0 #hipocorístico
 Donizetti Donizetti NPCNSP0
 Donjimeno Donjimeno NPCSG00 #municipios de España
 Donné Donné NPCNSP0 # medical
@@ -5704,15 +5927,18 @@ Dora Dora NPFSSP0 # avl
 Dorcas Dorcas NPMSSP0 # avl
 Dordoña Dordoña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dorel Dorel NPMSSP0 #nombre propio de hombre
+Dori Dori NPFSSP0 #hipocorístico
 Dorian Dorian NPMSSP0 #nombre propio de hombre
 Dorina Dorina NPFSSP0 #nombre propio de mujer
 Dorinda Dorinda NPFSSP0 #nombre propio de mujer
 Doris Doris NPFSSP0 # avl
+Dorita Dorita NPFSSP0 #hipocorístico
 Doritos Doritos NPCNO00
 Doro Doro NPMSSP0 # avl
 Dorotea Dorotea NPFSSP0 # avl
 Doroteo Doroteo NPMSSP0 # avl
 Dorta Dorta NPCNSP0 #apellido
+Dorín Dorín NPFSSP0 #hipocorístico
 Dos Dos NPCNSP0 #apellido
 Dosaigües Dosaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dosbarrios Dosbarrios NPCSG00 #municipios de España
@@ -5736,6 +5962,7 @@ Doñana Doñana NPCSG00
 Doñihue Doñihue NPCSG00 #municipios de Chile
 Draghi Draghi NPCNSP0
 Drapia Drapia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dreica Dreica NPFSSP0 #hipocorístico
 Dresde Dresde NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dressler Dressler NPCNSP0 # medical
 Dreyfus Dreyfus NPCNSP0
@@ -5747,6 +5974,7 @@ Druso Druso NPMSSP0 # avl
 Drácula Drácula NPMSSP0
 Dráculas Drácula NPMPSP0
 Duaca Duaca NPCSG00 # Venezuela
+Duardo Duardo NPMSSP0 #hipocorístico
 Duarte Duarte NPCNSP0 # wiki common surnames
 Dubai Dubai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dubin-Johnson Dubin-Johnson NPCNSP0 # medical
@@ -5796,6 +6024,7 @@ Dzitás Dzitás NPCSG00 #municipios de México
 Dzoncauich Dzoncauich NPCSG00 #municipios de México
 Dácil Dácil NPFSSP0 #nombre propio de mujer
 Dáil Dáil NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dálber Dálber NPMSSP0 #hipocorístico
 Dálmata Dálmata NPMSSP0 # avl
 Dámaris Dámaris NPFSSP0 # avl
 Dámasa Dámasa NPFSSP0 # avl
@@ -5885,6 +6114,7 @@ Edna Edna NPFSSP0 # avl
 Edo Edo NPCNSP0 #apellido
 Edorta Edorta NPMSSP0 #nombre propio de hombre
 Edson Edson NPMSSP0
+Edu Edu NPMSSP0 #hipocorístico
 Eduard Eduard NPMSSP0 #nombre propio de hombre
 Eduarda Eduarda NPFSSP0 # avl
 Eduardo Eduardo NPMSSP0 # avl
@@ -5956,6 +6186,7 @@ Eleazar Eleazar NPCSSP0 # avl
 Electra Electra NPFSSP0 # avl
 Elena Elena NPFSSP0 # avl
 Elene Elene NPFSSP0 #nombre propio de mujer
+Eleni Eleni NPFSSP0 #hipocorístico
 Eleonor Eleonor NPFSSP0 # avl
 Eleonora Eleonora NPFSSP0 # avl
 Eleucadia Eleucadia NPFSSP0 # avl
@@ -5989,7 +6220,9 @@ Elisea Elisea NPFSSP0 # avl
 Elisenda Elisenda NPFSSP0 # avl
 Elisendo Elisendo NPMSSP0 # avl
 Eliseo Eliseo NPMSSP0 # avl
+Elito Elito NPMSSP0 #hipocorístico
 Elixabete Elixabete NPFSSP0 #nombre propio de mujer
+Eliza Eliza NPFSSP0 #hipocorístico
 Elizabet Elizabet NPFSSP0 #nombre propio de mujer
 Elizabeth Elizabeth NPFSSP0
 Elizalde Elizalde NPCSG00 # Ecuador
@@ -6025,6 +6258,7 @@ Elsa Elsa NPFSSP0 # avl
 Elschning Elschning NPCNSP0 # medical
 Elton Elton NPMSSP0
 Elva Elva NPFSSP0 #nombre propio de mujer
+Elvi Elvi NPFSSP0 #hipocorístico
 Elvillar Elvillar NPCSG00 #municipios de España
 Elvino Elvino NPMSSP0 # avl
 Elvira Elvira NPFSSP0 # avl
@@ -6062,6 +6296,7 @@ Emilia-Romaña Emilia-Romaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Emiliana Emiliana NPFSSP0 # avl
 Emiliano Emiliano NPMSSP0 # avl
 Emilio Emilio NPMSSP0 # avl
+Emilita Emilita NPFSSP0 #hipocorístico
 Emily Emily NPCNSP0
 Emma Emma NPFSSP0 # avl
 Emmanuel Emmanuel NPMSSP0 # avl
@@ -6078,9 +6313,11 @@ Ena Ena NPFSSP0 # avl
 Enaitz Enaitz NPMSSP0 #nombre propio de hombre
 Enara Enara NPFSSP0 #nombre propio de mujer
 Encamp Encamp NPCNG00 # topònim-apertium-falta-gènere-nombre
+Encar Encar NPFSSP0 #hipocorístico
 Encarna Encarna NPFSSP0 # avl
 Encarnació Encarnació NPFSSP0 #nombre propio de mujer
 Encarnación Encarnación NPFSSP0 # avl
+Encarni Encarni NPFSSP0 #hipocorístico
 Encinacorba Encinacorba NPCSG00 #municipios de España
 Encinasola Encinasola NPCSG00 #municipios de España
 Encinedo Encinedo NPCSG00 #municipios de España
@@ -6099,11 +6336,13 @@ Eneko Eneko NPMSSP0 #nombre propio de hombre
 Eneldina Eneldina NPFSSP0 # avl
 Eneritz Eneritz NPCSG00 #municipios de España
 Engalantina Engalantina NPFSSP0 # avl
+Engel Engel NPMSSP0 #hipocorístico
 Engelberto Engelberto NPMSSP0 # avl
 Engels Engels NPCNSP0
 Engilberto Engilberto NPMSSP0 # avl
 Englewood Englewood NPCSG00
 Engordany Engordany NPCNG00 # topònim-apertium-falta-gènere-nombre
+Engraci Engraci NPFSSP0 #hipocorístico
 Engracia Engracia NPFSSP0 # avl
 Engracio Engracio NPMSSP0 # avl
 Enguera Enguera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6114,6 +6353,7 @@ Enmanuel Enmanuel NPMSSP0 #nombre propio de hombre
 Ennio Ennio NPMSSP0
 Enoc Enoc NPMSSP0 # avl
 Enone Enone NPFSSP0 # avl
+Enri Enri NPMSSP0 #hipocorístico
 Enric Enric NPMSSP0 #nombre propio de hombre
 Enrico Enrico NPMSSP0 #nombre propio de hombre
 Enrique Enrique NPMSSP0 # avl
@@ -6194,11 +6434,13 @@ Ermindo Ermindo NPMSSP0 # avl
 Erminia Erminia NPFSSP0 # avl
 Erminio Erminio NPMSSP0 # avl
 Ermua Ermua NPCNG00 # topònim-apertium-falta-gènere-nombre
+Erne Erne NPMSSP0 #hipocorístico
 Ernest Ernest NPCNSP0 # wiki
 Ernesta Ernesta NPFSSP0 # avl
 Ernestina Ernestina NPFSSP0 # avl
 Ernestino Ernestino NPMSSP0 # avl
 Ernesto Ernesto NPMSSP0 # avl
+Erni Erni NPMSSP0 #hipocorístico
 Ernst Ernst NPCNSP0 # wiki
 Ero Ero NPMSSP0 # avl
 Erongarícuaro Erongarícuaro NPCSG00 #municipios de México
@@ -6263,6 +6505,7 @@ Eslava Eslava NPCSG00 #municipios de España
 Eslida Eslida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eslovaquia Eslovaquia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eslovenia Eslovenia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Esme Esme NPFSSP0 #hipocorístico
 Esmeralda Esmeralda NPFSSP0 # avl
 Esmerana Esmerana NPFSSP0 # avl
 Esmirna Esmirna NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6279,6 +6522,7 @@ Espartaco Espartaco NPMSSP0 # avl
 Espartinas Espartinas NPCSG00 #municipios de España
 España España NPCNG00 # topònim-apertium-falta-gènere-nombre
 Españita Españita NPCSG00 #municipios de México
+Espe Espe NPFSSP0 #hipocorístico
 Espeja Espeja NPCSG00 #municipios de España
 Espejo Espejo NPCSG00 #municipios de España
 Espejón Espejón NPCSG00 #municipios de España
@@ -6321,13 +6565,16 @@ Estadilla Estadilla NPCSG00 #municipios de España
 Estagira Estagira NPFSG00
 Estamariu Estamariu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estambul Estambul NPCNG00 # topònim-apertium-falta-gènere-nombre
+Estanis Estanis NPMSSP0 #hipocorístico
 Estanislao Estanislao NPMSSP0 # avl
 Estanislava Estanislava NPFSSP0 # avl
 Estaon Estaon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estartit Estartit NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estaràs Estaràs NPCSG00 #municipios de España
 Esteban Esteban NPMSSP0 # avl
+Estefa Estefa NPFSSP0 #hipocorístico
 Estefanía Estefanía NPFSSP0 # avl
+Estefi Estefi NPFSSP0 #hipocorístico
 Estel Estel NPFSSP0 #nombre propio de mujer
 Estela Estela NPFSSP0 # avl
 Estella Estella NPCSG00 #municipios de España
@@ -6336,11 +6583,16 @@ Esteller Esteller NPCSG00 # Venezuela
 Estepa Estepa NPCSG00 #municipios de España
 Estepona Estepona NPCSG00
 Ester Ester NPFSSP0 # avl
+Estercita Estercita NPFSSP0 #hipocorístico
 Estercuel Estercuel NPCSG00 #municipios de España
 Esterházy Esterházy NPCNSP0
 Esteribar Esteribar NPCSG00 #municipios de España
+Esterita Esterita NPFSSP0 #hipocorístico
 Esteve Esteve NPMSSP0 #nombre propio de hombre
 Esther Esther NPFSSP0 # avl
+Esthercita Esthercita NPFSSP0 #hipocorístico
+Estherita Estherita NPFSSP0 #hipocorístico
+Esti Esti NPFSSP0 #hipocorístico
 Estigarribia Estigarribia NPCSG00 # Paraguay
 Estivella Estivella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Estocolmo Estocolmo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6400,6 +6652,7 @@ Eufrasia Eufrasia NPFSSP0 # avl
 Eufrasina Eufrasina NPFSSP0 # avl
 Eufrasio Eufrasio NPMSSP0 # avl
 Eufrosina Eufrosina NPFSSP0 # avl
+Euge Euge NPFSSP0 #hipocorístico
 Eugeni Eugeni NPMSSP0 #nombre propio de hombre
 Eugenia Eugenia NPFSSP0 # avl
 Eugenio Eugenio NPMSSP0 # avl
@@ -6449,6 +6702,7 @@ Evangelista Evangelista NPMSSP0 # avl
 Evans Evans NPCNSP0 # medical
 Evarista Evarista NPFSSP0 # avl
 Evaristo Evaristo NPMSSP0 # avl
+Evas Evas NPMSSP0 #hipocorístico
 Evast Evast NPMSSP0 # avl
 Evelia Evelia NPFSSP0 # avl
 Evelin Evelin NPFSSP0 #nombre propio de mujer
@@ -6500,12 +6754,16 @@ FROB FROB NPMSO00
 FSE FSE NPCNO00
 Fabara Fabara NPCSG00 #municipios de España
 Fabero Fabero NPCSG00 #municipios de España
+Fabi Fabi NPFSSP0 #hipocorístico
+Fabi Fabi NPMSSP0 #hipocorístico
 Fabiana Fabiana NPFSSP0 # avl
+Fabiancho Fabiancho NPMSSP0 #hipocorístico
 Fabio Fabio NPMSSP0 # avl
 Fabiola Fabiola NPFSSP0 # avl
 Fabián Fabián NPMSSP0 # avl
 Fabra Fabra NPCNSP0
 Fabregat Fabregat NPCNSP0 #apellido
+Fabri Fabri NPMSSP0 #hipocorístico
 Fabricia Fabricia NPFSSP0 # avl
 Fabricio Fabricio NPMSSP0 # avl
 Fabrizia Fabrizia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6515,6 +6773,9 @@ Facatativá Facatativá NPCSG00 # Colombia
 FaceApp FaceApp NPCNO00
 Facebook Facebook NPCNO00 # wiki
 Facheca Facheca NPCNG00 # topònim-apertium-falta-gènere-nombre
+Facio Facio NPMSSP0 #hipocorístico
+Facu Facu NPMSSP0 #hipocorístico
+Facun Facun NPMSSP0 #hipocorístico
 Facunda Facunda NPFSSP0 # avl
 Facundo Facundo NPMSSP0 # avl
 Fadila Fadila NPFSSP0 #nombre propio de mujer
@@ -6536,6 +6797,7 @@ Falan Falan NPCSG00 #municipios de Colombia
 Falces Falces NPCSG00 #municipios de España
 Falconara Falconara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Falcón Falcón NPMSSP0 # avl
+Fali Fali NPMSSP0 #hipocorístico
 Falkland Falkland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fall Fall NPCNSP0 #apellido
 Fallot Fallot NPCNSP0 # medical
@@ -6573,6 +6835,7 @@ Farrés Farrés NPCNSP0 #apellido
 Farías Farías NPCNSP0 # wiki common surnames
 Fasnia Fasnia NPCSG00 #municipios de España
 Fassardi Fassardi NPCSG00 # Paraguay
+Fati Fati NPFSSP0 #hipocorístico
 Fatiha Fatiha NPFSSP0 #nombre propio de mujer
 Fatma Fatma NPFSSP0 #nombre propio de mujer
 Fatna Fatna NPFSSP0 #nombre propio de mujer
@@ -6602,9 +6865,12 @@ Federica Federica NPFSSP0 # avl
 Federico Federico NPMSSP0 # avl
 Fedra Fedra NPFSSP0 # avl
 Fedro Fedro NPMSSP0 # avl
+Fefa Fefa NPFSSP0 #hipocorístico
 Feijóo Feijóo NPCNSP0
 Feito Feito NPCNSP0 #apellido
 Felanitx Felanitx NPCNG00 # topònim-apertium-falta-gènere-nombre
+Feli Feli NPFSSP0 #hipocorístico
+Feli Feli NPMSSP0 #hipocorístico
 Felicia Felicia NPFSSP0 # avl
 Feliciana Feliciana NPFSSP0 # avl
 Feliciano Feliciano NPMSSP0 # avl
@@ -6619,19 +6885,34 @@ Felipa Felipa NPFSSP0 # avl
 Felipe Felipe NPMSSP0 # avl
 Felisa Felisa NPFSSP0 # avl
 Feliú Feliú NPCNSP0 #apellido
+Felli Felli NPMSSP0 #hipocorístico
+Fellico Fellico NPMSSP0 #hipocorístico
+Fello Fello NPMSSP0 #hipocorístico
+Felo Felo NPMSSP0 #hipocorístico
 Felty Felty NPCNSP0 # medical
+Felucho Felucho NPMSSP0 #hipocorístico
 Felícula Felícula NPFSSP0 # avl
 Femenía Femenía NPCNSP0 #apellido
 Fene Fene NPCSG00 #municipios de España
 Fenoll Fenoll NPCNSP0 #apellido
+Fer Fer NPFSSP0 #hipocorístico
+Fer Fer NPMSSP0 #hipocorístico
+Fercho Fercho NPMSSP0 #hipocorístico
 Ferdinand Ferdinand NPCNSP0 # wiki
+Ferdo Ferdo NPMSSP0 #hipocorístico
 Ferguson Ferguson NPCNSP0
 Fermina Fermina NPFSSP0 # avl
+Fermincho Fermincho NPMSSP0 #hipocorístico
+Ferminchu Ferminchu NPMSSP0 #hipocorístico
 Fermoselle Fermoselle NPCSG00 #municipios de España
 Fermín Fermín NPMSSP0 # avl
+Ferna Ferna NPMSSP0 #hipocorístico
+Fernan Fernan NPMSSP0 #hipocorístico
 Fernanda Fernanda NPFSSP0 # avl
 Fernandes Fernandes NPCNSP0 #apellido
 Fernando Fernando NPMSSP0 # avl
+Ferni Ferni NPMSSP0 #hipocorístico
+Fernán Fernán NPMSSP0 #hipocorístico
 Fernán, Fernán, NPMSSP0 # avl
 Fernán-Núñez Fernán-Núñez NPCSG00 #municipios de España
 Fernández Fernández NPCNSP0 # wiki common surnames
@@ -6660,6 +6941,9 @@ Ferry Ferry NPCNSP0
 Ferrández Ferrández NPCNSP0 #apellido
 Feulgen Feulgen NPCNSP0 # medical
 Fez Fez NPCNG00 # topònim-apertium-falta-gènere-nombre
+Feña Feña NPFSSP0 #hipocorístico
+Feña Feña NPMSSP0 #hipocorístico
+Feñi Feñi NPFSSP0 #hipocorístico
 Fhar Fhar NPCNSP0 # medical
 Fiambalá Fiambalá NPCSG00 #municipios de Argentina
 Fick Fick NPCNSP0 # medical
@@ -6693,6 +6977,7 @@ Filemón Filemón NPMSSP0 # avl
 Filgueira Filgueira NPCNSP0 #apellido
 Filgueiras Filgueiras NPCNSP0 # wiki
 Filhos Filhos NPCNSP0 # medical
+Fili Fili NPMSSP0 #hipocorístico
 Filiberta Filiberta NPFSSP0 # avl
 Filiberto Filiberto NPMSSP0 # avl
 Filipa Filipa NPFSSP0 # avl
@@ -6712,9 +6997,11 @@ Fina Fina NPFSSP0 # avl
 Finck Finck NPCNSP0 # medical
 Fines Fines NPCSG00 #municipios de España
 Finestrat Finestrat NPCNG00 # topònim-apertium-falta-gènere-nombre
+Fini Fini NPFSSP0 #hipocorístico
 Finlandia Finlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiol Fiol NPCNSP0 #apellido
 Fiona Fiona NPFSSP0 # avl
+Fiore Fiore NPFSSP0 #hipocorístico
 Fiorella Fiorella NPFSSP0 #nombre propio de mujer
 Firavitoba Firavitoba NPCSG00 #municipios de Colombia
 Firdaous Firdaous NPFSSP0 #nombre propio de mujer
@@ -6728,6 +7015,7 @@ Fischer-Dieskau Fischer-Dieskau NPCNSP0
 Fisher Fisher NPCNSP0
 Fisterra Fisterra NPCSG00 #municipios de España
 Fitero Fitero NPCSG00 #municipios de España
+Fito Fito NPMSSP0 #hipocorístico
 Fitur Fitur NPCSO00
 Fitzgerald Fitzgerald NPCNSP0
 Fiumefreddo Fiumefreddo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6747,8 +7035,11 @@ Flix Flix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Floarea Floarea NPFSSP0 #nombre propio de mujer
 Flor Flor NPFSSP0 # avl
 Flora Flora NPFSSP0 # avl
+Florcis Florcis NPFSSP0 #hipocorístico
 Floreal Floreal NPMSSP0 # avl
 Florejacs Florejacs NPCNG00 # topònim-apertium-falta-gènere-nombre
+Floren Floren NPFSSP0 #hipocorístico
+Floren Floren NPMSSP0 #hipocorístico
 Florencia Florencia NPFSG00 # topònim-apertium
 Florencia Florencia NPFSSP0 # avl
 Florencio Florencio NPMSSP0 # avl
@@ -6769,6 +7060,7 @@ Floro Floro NPMSSP0 # avl
 Flérida Flérida NPFSSP0 # avl
 Flórez Flórez NPCNSP0
 Fofana Fofana NPCNSP0 #apellido
+Fofi Fofi NPMSSP0 #hipocorístico
 Fogarty Fogarty NPCNSP0 # medical
 Foios Foios NPCNG00 # topònim-apertium-falta-gènere-nombre
 Foix Foix NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6783,11 +7075,14 @@ Fombuena Fombuena NPCSG00 #municipios de España
 Fomeque Fomeque NPCSG00 #municipios de Colombia
 Fompedraza Fompedraza NPCSG00 #municipios de España
 Foncea Foncea NPCSG00 #municipios de España
+Foncho Foncho NPMSSP0 #hipocorístico
 Fondarella Fondarella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fonelas Fonelas NPCSG00 #municipios de España
 Fonfría Fonfría NPCSG00 #municipios de España
 Fonollosa Fonollosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fonseca Fonseca NPCNSP0
+Fonsi Fonsi NPMSSP0 #hipocorístico
+Fonso Fonso NPMSSP0 #hipocorístico
 Font Font NPCNG00 # topònim-apertium-falta-gènere-nombre
 Font-rubí Font-rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fontainebleau Fontainebleau NPCSG00
@@ -6872,6 +7167,10 @@ Franceschetti Franceschetti NPCNSP0 # medical
 Franceschetti-Thier Franceschetti-Thier NPCNSP0 # medical
 Francesco Francesco NPCNSP0 # wiki
 Franch Franch NPCNSP0 #apellido
+Franchi Franchi NPMSSP0 #hipocorístico
+Franchu Franchu NPMSSP0 #hipocorístico
+Franci Franci NPFSSP0 #hipocorístico
+Franci Franci NPMSSP0 #hipocorístico
 Francia Francia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Francica Francica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Francina Francina NPFSSP0 # avl
@@ -6901,6 +7200,9 @@ Freddy Freddy NPCNSP0
 Freddy Freddy NPMSSP0
 Frederic Frederic NPMSSP0 #nombre propio de hombre
 Frederick Frederick NPCNSP0 # wiki
+Fredi Fredi NPMSSP0 #hipocorístico
+Fredito Fredito NPMSSP0 #hipocorístico
+Fredo Fredo NPMSSP0 #hipocorístico
 Fredonia Fredonia NPCSG00 #municipios de Colombia
 FreeHand FreeHand NPMSO00
 Freetown Freetown NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6953,8 +7255,10 @@ Frómista Frómista NPCSG00 #municipios de España
 Fröbel Fröbel NPCNSP0
 Fröehlich Fröehlich NPCNSP0 # medical
 Fubini Fubini NPCNSP0
+Fucho Fucho NPMSSP0 #hipocorístico
 Fuchs Fuchs NPCNSP0 # medical
 Fuembellida Fuembellida NPCSG00 #municipios de España
+Fuen Fuen NPFSSP0 #hipocorístico
 Fuencaliente Fuencaliente NPCSG00 #municipios de España
 Fuencemillán Fuencemillán NPCSG00 #municipios de España
 Fuencisla Fuencisla NPFSSP0 #nombre propio de mujer
@@ -7065,12 +7369,15 @@ Gabilondo Gabilondo NPCNSP0
 Gabina Gabina NPFSSP0 # avl
 Gabino Gabino NPMSSP0 # avl
 Gabiria Gabiria NPCSG00 #municipios de España
+Gabito Gabito NPMSSP0 #hipocorístico
 Gabo Gabo NPMSSP0
 Gaborone Gaborone NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gabri Gabri NPMSSP0 #hipocorístico
 Gabriel Gabriel NPMSSP0 # avl
 Gabriela Gabriela NPFSSP0 # avl
 Gabriele Gabriele NPMSSP0 #nombre propio de hombre
 Gabriella Gabriella NPFSSP0 #nombre propio de mujer
+Gabs Gabs NPFSSP0 #hipocorístico
 Gabón Gabón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gachala Gachala NPCSG00 #municipios de Colombia
 Gachancipá Gachancipá NPCSG00 #municipios de Colombia
@@ -7248,7 +7555,10 @@ Gascuña Gascuña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gascó Gascó NPCNSP0 #apellido
 Gaspar Gaspar NPMSSP0 # avl
 Gaspara Gaspara NPFSSP0 # avl
+Gaspi Gaspi NPMSSP0 #hipocorístico
 Gasser Gasser NPCNSP0 # medical
+Gasti Gasti NPMSSP0 #hipocorístico
+Gastoncito Gastoncito NPMSSP0 #hipocorístico
 Gastón Gastón NPMSSP0 # avl
 Gatika Gatika NPCSG00 #municipios de España
 Gatún Gatún NPMSG00
@@ -7292,9 +7602,15 @@ Gelabert Gelabert NPCNSP0 #apellido
 Gelasia Gelasia NPFSSP0 # avl
 Gelasio Gelasio NPMSSP0 # avl
 Geldo Geldo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gele Gele NPFSSP0 #hipocorístico
+Gelete Gelete NPMSSP0 #hipocorístico
 Gelida Gelida NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gelito Gelito NPMSSP0 #hipocorístico
+Gelma Gelma NPFSSP0 #hipocorístico
 Gelmiro Gelmiro NPMSSP0 # avl
+Gelo Gelo NPMSSP0 #hipocorístico
 Gelsa Gelsa NPCSG00 #municipios de España
+Gelu Gelu NPMSSP0 #hipocorístico
 Gelves Gelves NPCSG00 #municipios de España
 Gema Gema NPFSSP0 # avl
 Geminiani Geminiani NPCNSP0
@@ -7310,7 +7626,10 @@ Generalitat Generalitat NPFSO00
 Generosa Generosa NPFSSP0 # avl
 Generoso Generoso NPMSSP0 # avl
 Genevilla Genevilla NPCSG00 #municipios de España
+Geni Geni NPFSSP0 #hipocorístico
+Genia Genia NPFSSP0 #hipocorístico
 Genis Genis NPMSSP0 #nombre propio de hombre
+Geno Geno NPFSSP0 #hipocorístico
 Genoveva Genoveva NPFSSP0 # avl
 Genovevo Genovevo NPMSSP0 # avl
 Genovés Genovés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7331,6 +7650,7 @@ Georgina Georgina NPFSSP0 # avl
 Georgio Georgio NPMSSP0 # avl
 Geppetto Geppetto NPMSSP0
 Ger Ger NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gera Gera NPMSSP0 #hipocorístico
 Gerace Gerace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gerald Gerald NPCNSP0
 Geralda Geralda NPFSSP0 # avl
@@ -7374,6 +7694,7 @@ Getulia Getulia NPFSSP0 # avl
 Getulio Getulio NPMSSP0 # avl
 Getxo Getxo NPCSG00 #municipios de España
 Gewandhaus Gewandhaus NPFSO00
+Geño Geño NPMSSP0 #hipocorístico
 Ghana Ghana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gheorghe Gheorghe NPMSSP0 #nombre propio de hombre
 Ghita Ghita NPFSSP0 #nombre propio de mujer
@@ -7422,6 +7743,8 @@ Gines Gines NPCSG00 #municipios de España
 Ginesa Ginesa NPFSSP0 # avl
 Ginestar Ginestar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gini Gini NPCNSP0
+Ginia Ginia NPFSSP0 #hipocorístico
+Ginita Ginita NPFSSP0 #hipocorístico
 Gino Gino NPMSSP0 # avl
 Ginés Ginés NPMSSP0 # avl
 Gioachino Gioachino NPMSSP0
@@ -7513,13 +7836,17 @@ Gomila Gomila NPCNSP0 #apellido
 Gomis Gomis NPCNSP0 #apellido
 Gomáriz Gomáriz NPCNSP0 #apellido
 Goncalves Goncalves NPCNSP0 #apellido
+Goncho Goncho NPMSSP0 #hipocorístico
 Gonda Gonda NPCNSP0 # medical
 Gondomar Gondomar NPCSG00 #municipios de España
 Gondwana Gondwana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Goni Goni NPMSSP0 #hipocorístico
+Gonza Gonza NPMSSP0 #hipocorístico
 Gonzaga Gonzaga NPMSSP0 # avl
 Gonzales Gonzales NPCNSP0 #apellido
 Gonzalo Gonzalo NPMSSP0 # avl
 Gonzalvo Gonzalvo NPCNSP0 #apellido
+Gonzo Gonzo NPMSSP0 #hipocorístico
 González González NPCNSP0 # wiki common surnames
 Gonzálvez Gonzálvez NPCNSP0 #apellido
 Gonçalves Gonçalves NPCNSP0 #apellido
@@ -7538,12 +7865,14 @@ Gordoncillo Gordoncillo NPCSG00 #municipios de España
 Goreti Goreti NPFSSP0 # avl
 Goretti Goretti NPFSSP0 #nombre propio de mujer
 Gorga Gorga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gorgo Gorgo NPMSSP0 #hipocorístico
 Gorka Gorka NPMSSP0 #nombre propio de hombre
 Gorliz Gorliz NPCSG00 #municipios de España
 Gormaz Gormaz NPCSG00 #municipios de España
 Goro Goro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gorza Gorza NPCSG00 #municipios de España
 Gosling Gosling NPCNSP0
+Gospor Gospor NPMSSP0 #hipocorístico
 Gotarrendura Gotarrendura NPCSG00 #municipios de España
 Gotemburgo Gotemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gotor Gotor NPCSG00 #municipios de España
@@ -7559,7 +7888,9 @@ Goytisolo Goytisolo NPCNSP0
 Gozos Gozos NPFSSP0 # avl
 Gozos Gozos NPMPSP0 # common noun
 Gozón Gozón NPCSG00 #municipios de España
+Goña Goña NPFSSP0 #hipocorístico
 Goñi Goñi NPCSG00 #municipios de España
+Goñita Goñita NPFSSP0 #hipocorístico
 Graaf Graaf NPCNSP0 # medical
 Grace Grace NPCNSP0 # wiki
 Gracia Gracia NPFSG00 # topònim-apertium
@@ -7607,6 +7938,7 @@ Grecia Grecia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Greco Greco NPMSSP0
 Gredos Gredos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Greenwich Greenwich NPCSG00
+Greg Greg NPMSSP0 #hipocorístico
 Gregoir Gregoir NPCNSP0 # medical
 Gregor Gregor NPCNSP0 # medical
 Gregori Gregori NPCNSP0 #apellido
@@ -7650,6 +7982,7 @@ Guachipas Guachipas NPCSG00 #municipios de Argentina
 Guachochi Guachochi NPCSG00 #municipios de México
 Guachucal Guachucal NPCSG00 #municipios de Colombia
 Guacimara Guacimara NPFSSP0 #nombre propio de mujer
+Guada Guada NPFSSP0 #hipocorístico
 Guadahortuna Guadahortuna NPCSG00 #municipios de España
 Guadalajara Guadalajara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalaviar Guadalaviar NPCSG00
@@ -7683,6 +8016,7 @@ Gualchos Gualchos NPCSG00 #municipios de España
 Gualeguay Gualeguay NPCSG00 # Argentina
 Gualeguaychú Gualeguaychú NPCSG00 # Argentina
 Gualmatán Gualmatán NPCSG00 #municipios de Colombia
+Gualo Gualo NPMSSP0 #hipocorístico
 Gualta Gualta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gualterio Gualterio NPMSSP0 # avl
 Guam Guam NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7751,6 +8085,7 @@ Gueye Gueye NPCNSP0 #apellido
 Guichón Guichón NPCSG00 # Uruguay
 Guida Guida NPFSSP0 # avl
 Guido Guido NPMSSP0 # avl
+Guije Guije NPMSSP0 #hipocorístico
 Guijuelo Guijuelo NPCSG00 #municipios de España
 Guilar Guilar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guilherme Guilherme NPMSSP0 #nombre propio de hombre
@@ -7789,6 +8124,7 @@ Guitiriz Guitiriz NPCSG00 #municipios de España
 Guiu Guiu NPMSSP0 #nombre propio de hombre
 Guiumri Guiumri NPCSG00
 Guixers Guixers NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guli Guli NPFSSP0 #hipocorístico
 Gulliver Gulliver NPMSSP0
 Gumersinda Gumersinda NPFSSP0 # avl
 Gumersindo Gumersindo NPMSSP0 # avl
@@ -7796,12 +8132,14 @@ Guntín Guntín NPCSG00 #municipios de España
 Guo Guo NPCNSP0 #apellido
 Gurb Gurb NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guriezo Guriezo NPCSG00 #municipios de España
+Gusi Gusi NPFSSP0 #hipocorístico
 Gustav Gustav NPCNSP0 # wiki
 Gustave Gustave NPCNSP0 # wiki
 Gustavo Gustavo NPMSSP0 # avl
 Gutenberg Gutenberg NPCNSP0
 Gutierre-Muñoz Gutierre-Muñoz NPCSG00 #municipios de España
 Gutiérrez Gutiérrez NPCNSP0 # wiki common surnames
+Guto Guto NPMSSP0 #hipocorístico
 Guyana Guyana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guyena Guyena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guyón Guyón NPCNSP0 # medical
@@ -7833,6 +8171,7 @@ Gósol Gósol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Göring Göring NPCNSP0
 Göteborg Göteborg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gúdar Gúdar NPCSG00 #municipios de España
+Gúmer Gúmer NPMSSP0 #hipocorístico
 Güelfa Güelfa NPFSSP0 # avl
 Güell Güell NPCNSP0 # wiki
 Güemes Güemes NPCSG00 # Argentina
@@ -7840,9 +8179,13 @@ Güepsa Güepsa NPCSG00 #municipios de Colombia
 Güesa Güesa NPCSG00 #municipios de España
 Güevéjar Güevéjar NPCSG00 #municipios de España
 Güeñes Güeñes NPCSG00 #municipios de España
+Güicho Güicho NPMSSP0 #hipocorístico
 Güicán Güicán NPCSG00 #municipios de Colombia
 Güigüe Güigüe NPCSG00 # Venezuela
+Güil Güil NPMSSP0 #hipocorístico
+Güili Güili NPMSSP0 #hipocorístico
 Güiria Güiria NPCSG00 # Venezuela
+Güisi Güisi NPFSSP0 #hipocorístico
 Günther Günther NPCNSP0 # medical
 Gürtel Gürtel NPFSO00
 Güémez Güémez NPCSG00 #municipios de México
@@ -7966,6 +8309,7 @@ Heberden Heberden NPCNSP0 # medical
 Hebron Hebron NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hebrón Hebrón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hecelchakán Hecelchakán NPCSG00
+Hectorín Hectorín NPMSSP0 #hipocorístico
 Heerfordt Heerfordt NPCNSP0 # medical
 Hegar Hegar NPCNSP0 # medical
 Hegel Hegel NPCNSP0
@@ -8037,6 +8381,7 @@ Herlitzka Herlitzka NPCSG00 #municipios de Argentina
 Herman Herman NPMSSP0
 Hermann Hermann NPCNSP0 # wiki
 Hermansky-Pudlak Hermansky-Pudlak NPCNSP0 # medical
+Herme Herme NPMSSP0 #hipocorístico
 Hermelinda Hermelinda NPFSSP0 # avl
 Hermenegilda Hermenegilda NPFSSP0 # avl
 Hermenegildo Hermenegildo NPMSSP0 # avl
@@ -8339,6 +8684,7 @@ Humberta Humberta NPFSSP0 # avl
 Humbertina Humbertina NPFSSP0 # avl
 Humbertino Humbertino NPMSSP0 # avl
 Humberto Humberto NPMSSP0 # avl
+Humbi Humbi NPMSSP0 #hipocorístico
 Humboldt Humboldt NPCNSP0
 Hume Hume NPCNSP0
 Humildad Humildad NPFSSP0 # avl
@@ -8443,6 +8789,7 @@ Icaria Icaria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Icaño Icaño NPCSG00 #municipios de Argentina
 Iceta Iceta NPCNSP0
 Ichai Ichai NPCNO00
+Ichi Ichi NPMSSP0 #hipocorístico
 Icia Icia NPFSSP0 #nombre propio de mujer
 Icononzo Icononzo NPCSG00 #municipios de Colombia
 Icíar Icíar NPFSSP0 # avl
@@ -8461,9 +8808,11 @@ Igantzi Igantzi NPCSG00 #municipios de España
 Igea Igea NPCSG00 #municipios de España
 Ighil Ighil NPCSG00
 Iglesiarrubia Iglesiarrubia NPCSG00 #municipios de España
+Igna Igna NPMSSP0 #hipocorístico
 Ignacia Ignacia NPFSSP0 # avl
 Ignacio Ignacio NPMSSP0 # avl
 Ignasi Ignasi NPMSSP0 #nombre propio de hombre
+Igni Igni NPMSSP0 #hipocorístico
 Igone Igone NPFSSP0 #nombre propio de mujer
 Igor Igor NPMSSP0 # avl
 Igorre Igorre NPCSG00 #municipios de España
@@ -8491,6 +8840,7 @@ Ildefonso Ildefonso NPMSSP0 # avl
 Ileana Ileana NPFSSP0 #nombre propio de mujer
 Ilenia Ilenia NPFSSP0 #nombre propio de mujer
 Iles Iles NPCSG00 #municipios de Colombia
+Ilfre Ilfre NPMSSP0 #hipocorístico
 Ilham Ilham NPFSSP0 #nombre propio de mujer
 Iliana Iliana NPFSSP0 #nombre propio de mujer
 Ilias Ilias NPMSSP0 #nombre propio de hombre
@@ -8548,6 +8898,7 @@ Inge Inge NPFSSP0 #nombre propio de mujer
 Ingham Ingham NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inglaterra Inglaterra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inglewood Inglewood NPCSG00
+Ingri Ingri NPMSSP0 #hipocorístico
 Ingrid Ingrid NPCNSP0
 Iniesta Iniesta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Iniéstola Iniéstola NPCSG00 #municipios de España
@@ -8650,6 +9001,7 @@ Isar Isar NPCSG00 #municipios de España
 Isaura Isaura NPFSSP0 # avl
 Isauro Isauro NPMSSP0 # avl
 Isaías Isaías NPMSSP0 # avl
+Isco Isco NPMSSP0 #hipocorístico
 Iseo Iseo NPMSSP0 # avl
 Isern Isern NPCNSP0 #apellido
 Ishak Ishak NPMSSP0 #nombre propio de hombre
@@ -8662,6 +9014,7 @@ Isidro Isidro NPMSSP0 # avl
 Isis Isis NPFSSP0 # avl
 Islamabad Islamabad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Islandia Islandia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Isma Isma NPMSSP0 #hipocorístico
 Ismael Ismael NPMSSP0 # avl
 Ismail Ismail NPMSSP0 #nombre propio de hombre
 Isnos Isnos NPCSG00 #municipios de Colombia
@@ -8670,6 +9023,7 @@ Isolina Isolina NPFSSP0 # avl
 Isolino Isolino NPMSSP0 # avl
 Isona Isona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ispaster Ispaster NPCSG00 #municipios de España
+Isra Isra NPMSSP0 #hipocorístico
 Israa Israa NPFSSP0 #nombre propio de mujer
 Israe Israe NPFSSP0 #nombre propio de mujer
 Israel Israel NPCSG00 # topònim-apertium
@@ -8722,6 +9076,7 @@ Iuliana Iuliana NPFSSP0 #nombre propio de mujer
 Iuliia Iuliia NPFSSP0 #nombre propio de mujer
 Iurreta Iurreta NPCSG00 #municipios de España
 Ivana Ivana NPFSSP0 #nombre propio de mujer
+Ivancho Ivancho NPMSSP0 #hipocorístico
 Ivanka Ivanka NPFSSP0 #nombre propio de mujer
 Ivanna Ivanna NPFSSP0 #nombre propio de mujer
 Ivanov Ivanov NPCNSP0 #apellido
@@ -8839,13 +9194,18 @@ Jambaló Jambaló NPCSG00 #municipios de Colombia
 Jambrina Jambrina NPCSG00 #municipios de España
 James James NPMSSP0
 James-Lange James-Lange NPCNSP0 # medical
+Jamia Jamia NPFSSP0 #hipocorístico
 Jamila Jamila NPFSSP0 #nombre propio de mujer
 Jamilena Jamilena NPCSG00 #municipios de España
 Jamundí Jamundí NPCSG00 # Colombia
+Jamín Jamín NPMSSP0 #hipocorístico
 Jana Jana NPFSSP0 #nombre propio de mujer
+Jandra Jandra NPFSSP0 #hipocorístico
+Jandro Jandro NPMSSP0 #hipocorístico
 Jane Jane NPCNSP0 # wiki
 Janet Janet NPFSSP0
 Janeth Janeth NPFSSP0
+Jani Jani NPMSSP0 #hipocorístico
 Janina Janina NPFSSP0
 Janira Janira NPFSSP0 #nombre propio de mujer
 Janire Janire NPFSSP0 #nombre propio de mujer
@@ -8857,6 +9217,7 @@ Janos Janos NPCSG00 #municipios de México
 Jansky-Bielchowsky Jansky-Bielchowsky NPCNSP0 # medical
 Jantetelco Jantetelco NPCSG00 #municipios de México
 Janín Janín NPFSSP0 # avl
+Jape Jape NPMSSP0 #hipocorístico
 Japón Japón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jaqueline Jaqueline NPFSSP0 #nombre propio de mujer
 Jara Jara NPCNSP0 # wiki common surnames
@@ -8871,6 +9232,7 @@ Jared Jared NPMSSP0 #nombre propio de hombre
 Jareño Jareño NPCNSP0 #apellido
 Jarilla Jarilla NPCSG00 #municipios de España
 Jarque Jarque NPCNG00 # topònim-apertium-falta-gènere-nombre
+Jarri Jarri NPMSSP0 #hipocorístico
 Jartum Jartum NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jasa Jasa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jasmina Jasmina NPFSSP0 # avl
@@ -8888,6 +9250,7 @@ Javeriana Javeriana NPFSO0
 Javi Javi NPMSSP0 # avl
 Javier Javier NPMSSP0 # avl
 Javiera Javiera NPFSSP0 # avl
+Javis Javis NPMSSP0 #hipocorístico
 Jawad Jawad NPMSSP0 #nombre propio de hombre
 Jayena Jayena NPCSG00 #municipios de España
 Jazberta Jazberta NPFSSP0 # avl
@@ -8912,6 +9275,7 @@ Jean-Philippe Jean-Philippe NPMSSP0
 Jean-Pierre Jean-Pierre NPMSSP0
 Jean-Yves Jean-Yves NPMSSP0
 Jeanette Jeanette NPFSSP0 #nombre propio de mujer
+Jechu Jechu NPMSSP0 #hipocorístico
 Jefferson Jefferson NPCNSP0 # wiki
 Jeffrey Jeffrey NPMSSP0
 Jehová Jehová NPMSSP0
@@ -8932,6 +9296,8 @@ Jeresa Jeresa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jerez Jerez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jericó Jericó NPCSG00
 Jerjes Jerjes NPMSSP0 # avl
+Jero Jero NPMSSP0 #hipocorístico
+Jerra Jerra NPMSSP0 #hipocorístico
 Jerry Jerry NPCNSP0 # wiki
 Jersey Jersey NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jerte Jerte NPCSG00 #municipios de España
@@ -8944,8 +9310,13 @@ Jessy Jessy NPCNSP0
 Jesualda Jesualda NPFSSP0 # avl
 Jesualdo Jesualdo NPMSSP0 # avl
 Jesucristo Jesucristo NPMSSP0 # avl
+Jesulito Jesulito NPMSSP0 #hipocorístico
 Jesusa Jesusa NPFSSP0 # avl
+Jesusbeto Jesusbeto NPMSSP0 #hipocorístico
+Jesusma Jesusma NPMSSP0 #hipocorístico
+Jesusmari Jesusmari NPMSSP0 #hipocorístico
 Jesuso Jesuso NPMSSP0 # avl
+Jesusra Jesusra NPMSSP0 #hipocorístico
 Jesé Jesé NPMSSP0 # avl
 Jesús Jesús NPMSSP0 # avl
 Jete Jete NPCSG00 #municipios de España
@@ -8958,6 +9329,7 @@ Jijona Jijona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jilotepec Jilotepec NPCSG00 #municipios de México
 Jilotzingo Jilotzingo NPCSG00 #municipios de México
 Jim Jim NPCNSP0 # wiki
+Jime Jime NPFSSP0 #hipocorístico
 Jimena Jimena NPFSSP0 # avl
 Jimeno Jimeno NPMSSP0 # avl
 Jimmy Jimmy NPCNSP0 # wiki
@@ -8973,10 +9345,12 @@ Jirueque Jirueque NPCSG00 #municipios de España
 Jirán Jirán NPMSSP0 # avl
 Jitotol Jitotol NPCSG00 #municipios de México
 Jiutepec Jiutepec NPCSG00 # México
+Joaco Joaco NPMSSP0 #hipocorístico
 Joan Joan NPCSSP0
 Joana Joana NPFSSP0 #nombre propio de mujer
 Joanetes Joanetes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Joanna Joanna NPFSSP0 #nombre propio de mujer
+Joaqui Joaqui NPMSSP0 #hipocorístico
 Joaquim Joaquim NPMSSP0 #nombre propio de hombre
 Joaquima Joaquima NPFSSP0 #nombre propio de mujer
 Joaquina Joaquina NPFSSP0 # avl
@@ -8984,11 +9358,13 @@ Joaquín Joaquín NPMSSP0 # avl
 Job Job NPMSSP0 # avl
 Jocasta Jocasta NPFSSP0 # avl
 Jocelyn Jocelyn NPCNSP0
+Joche Joche NPMSSP0 #hipocorístico
 Jocotepec Jocotepec NPCSG00 #municipios de México
 Jocotitlán Jocotitlán NPCSG00 #municipios de México
 Jod-Basedow Jod-Basedow NPCNSP0 # medical
 Joe Joe NPCNSP0 # wiki
 Joel Joel NPMSSP0 # avl
+Joferni Joferni NPMSSP0 #hipocorístico
 Jofre Jofre NPMSSP0 #nombre propio de hombre
 Johan Johan NPMSSP0 #nombre propio de hombre
 Johana Johana NPFSSP0 #nombre propio de mujer
@@ -9003,12 +9379,15 @@ Jojutla Jojutla NPCSG00 #municipios de México
 Jokin Jokin NPMSSP0 #nombre propio de hombre
 Jolalpan Jolalpan NPCSG00 #municipios de México
 Jon Jon NPMSSP0 #nombre propio de hombre
+Jona Jona NPMSSP0 #hipocorístico
+Jonacho Jonacho NPMSSP0 #hipocorístico
 Jonadi Jonadi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jonathan Jonathan NPMSSP0
 Jonatán Jonatán NPMSSP0
 Jonay Jonay NPMSSP0 #nombre propio de hombre
 Jone Jone NPFSSP0 #nombre propio de mujer
 Jones Jones NPCNSP0 # wiki
+Joni Joni NPMSSP0 #hipocorístico
 Jonia Jonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jonotla Jonotla NPCSG00 #municipios de México
 Jonquera Jonquera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9033,6 +9412,7 @@ Jorquera Jorquera NPCSG00 #municipios de España
 Jorín Jorín NPMSSP0 # avl
 Josa Josa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Josafat Josafat NPMSSP0 # avl
+Josan Josan NPMSSP0 #hipocorístico
 Jose Jose NPMSSP0 # familiar?
 Joseba Joseba NPMSSP0 #nombre propio de hombre
 Josecito Josecito NPCSG00 # Venezuela
@@ -9040,12 +9420,20 @@ Josefa Josefa NPFSSP0 # avl
 Josefina Josefina NPFSSP0 # avl
 Josefino Josefino NPMSSP0 # avl
 Joselito Joselito NPMSSP0
+Joselu Joselu NPMSSP0 #hipocorístico
+Josema Josema NPMSSP0 #hipocorístico
+Josemanu Josemanu NPMSSP0 #hipocorístico
+Josemari Josemari NPMSSP0 #hipocorístico
 Josemaría Josemaría NPMSSP0
+Josemi Josemi NPMSSP0 #hipocorístico
 Josep Josep NPMSSP0 #nombre propio de hombre
 Josepa Josepa NPFSSP0 #nombre propio de mujer
 Joseph Joseph NPMSSP0 # wiki
 Josephine Josephine NPFSSP0 #nombre propio de mujer
+Joserra Joserra NPMSSP0 #hipocorístico
+Josevi Josevi NPMSSP0 #hipocorístico
 Joshua Joshua NPMSSP0
+Josi Josi NPMSSP0 #hipocorístico
 Josquin Josquin NPMSSP0
 Josu Josu NPMSSP0 #nombre propio de hombre
 Josune Josune NPFSSP0 #nombre propio de mujer
@@ -9055,22 +9443,50 @@ Josías Josías NPMSSP0 # avl
 Jou Jou NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jove Jove NPCNSP0 #apellido
 Jover Jover NPCNSP0 #apellido
+Jovi Jovi NPMSSP0 #hipocorístico
 Jovina Jovina NPFSSP0 # avl
 Jovino Jovino NPMSSP0 # avl
 Jovita Jovita NPCSG00 # Argentina LO
 Joy Joy NPFSSP0 #nombre propio de mujer
 João João NPMSSP0
 Joèu Joèu NPCNG00 # topònim-apertium-falta-gènere-nombre
+Juampa Juampa NPMSSP0 #hipocorístico
+Juampe Juampe NPMSSP0 #hipocorístico
+Juampi Juampi NPMSSP0 #hipocorístico
 Juan Juan NPMSSP0 # avl
 Juana Juana NPFSSP0 # avl
 Juanacatlán Juanacatlán NPCSG00 #municipios de México
+Juanacho Juanacho NPMSSP0 #hipocorístico
+Juanan Juanan NPMSSP0 #hipocorístico
+Juanba Juanba NPMSSP0 #hipocorístico
+Juanca Juanca NPMSSP0 #hipocorístico
+Juancar Juancar NPMSSP0 #hipocorístico
+Juancarlitos Juancarlitos NPMSSP0 #hipocorístico
+Juancas Juancas NPMSSP0 #hipocorístico
+Juanchi Juanchi NPMSSP0 #hipocorístico
+Juancho Juancho NPMSSP0 #hipocorístico
+Juancito Juancito NPMSSP0 #hipocorístico
+Juanda Juanda NPMSSP0 #hipocorístico
+Juangil Juangil NPMSSP0 #hipocorístico
+Juani Juani NPFSSP0 #hipocorístico
+Juani Juani NPMSSP0 #hipocorístico
 Juanita Juanita NPFSSP0
 Juanito Juanito NPMSSP0
 Juanjo Juanjo NPMSSP0
 Juanjuí Juanjuí NPCSG00 # Perú
+Juanle Juanle NPMSSP0 #hipocorístico
 Juanma Juanma NPMSSP0
+Juanmari Juanmari NPMSSP0 #hipocorístico
+Juanmi Juanmi NPMSSP0 #hipocorístico
+Juanmilla Juanmilla NPMSSP0 #hipocorístico
 Juanola Juanola NPCNSP0
+Juanpe Juanpe NPMSSP0 #hipocorístico
+Juanqui Juanqui NPMSSP0 #hipocorístico
+Juanra Juanra NPMSSP0 #hipocorístico
+Juanín Juanín NPMSSP0 #hipocorístico
+Juañico Juañico NPMSSP0 #hipocorístico
 Jubrique Jubrique NPCSG00 #municipios de España
+Juceno Juceno NPMSSP0 #hipocorístico
 Juchipila Juchipila NPCSG00 #municipios de México
 Juchitepec Juchitepec NPCSG00 #municipios de México
 Juchitlán Juchitlán NPCSG00 #municipios de México
@@ -9078,6 +9494,7 @@ Juchitán Juchitán NPCSG00 #municipios de México
 Judas Judas NPMNSP0 # avl
 Judea Judea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Judet Judet NPCNSP0 # medical
+Judi Judi NPFSSP0 #hipocorístico
 Judit Judit NPFSSP0 # avl
 Judith Judith NPFSSP0 # avl
 Judkins Judkins NPCNSP0 # medical
@@ -9100,7 +9517,9 @@ Juliette Juliette NPFSSP0 #nombre propio de mujer
 Julimes Julimes NPCSG00 #municipios de México
 Julio Julio NPMSSP0 # avl
 Julita Julita NPFSSP0 #nombre propio de mujer
+Julito Julito NPMSSP0 #hipocorístico
 Julián Julián NPMSSP0 # avl
+July July NPMSSP0 #hipocorístico
 Jumbo-Visma Jumbo-Visma NPMSO00
 Jumilla Jumilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jun Jun NPCSG00 #municipios de España
@@ -9120,6 +9539,7 @@ Juradó Juradó NPCSG00 #municipios de Colombia
 Juslapeña Juslapeña NPCSG00 #municipios de España
 Justa Justa NPFSSP0 # avl
 Justel Justel NPCSG00 #municipios de España
+Justi Justi NPMSSP0 #hipocorístico
 Justin Justin NPCNSP0
 Justina Justina NPFSSP0 # avl
 Justiniana Justiniana NPFSSP0 # avl
@@ -9127,6 +9547,7 @@ Justiniano Justiniano NPMSSP0 # avl
 Justino Justino NPMSSP0 # avl
 Justo Justo NPMSSP0 # avl
 Juvara Juvara NPCNSP0 # medical
+Juve Juve NPMSSP0 #hipocorístico
 Juvenal Juvenal NPMSSP0 # avl
 Juvencia Juvencia NPFSSP0 # avl
 Juvencio Juvencio NPMSSP0 # avl
@@ -9188,6 +9609,7 @@ Karapaí Karapaí NPCSG00 # Paraguay
 Kardashian Kardashian NPCNSP0
 Karen Karen NPFSSP0 # avl
 Karenina Karenina NPCNSP0
+Kari Kari NPFSSP0 #hipocorístico
 Karim Karim NPMSSP0 #nombre propio de hombre
 Karima Karima NPFSSP0 #nombre propio de mujer
 Karin Karin NPFSSP0 #nombre propio de mujer
@@ -9242,10 +9664,12 @@ Keops Keops NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kepa Kepa NPMSSP0 #nombre propio de hombre
 Kepler Kepler NPCNSP0 # wiki
 Kerbala Kerbala NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kercho Kercho NPMSSP0 #hipocorístico
 Kerley Kerley NPCNSP0 # medical
 Kerman Kerman NPMSSP0 #nombre propio de hombre
 Kernig Kernig NPCNSP0 # medical
 Kerouac Kerouac NPCNSP0 # wiki
+Kev Kev NPMSSP0 #hipocorístico
 Kevin Kevin NPCNSP0
 Keyla Keyla NPFSSP0 #nombre propio de mujer
 Keynes Keynes NPCNSP0
@@ -9264,14 +9688,17 @@ Kiara Kiara NPFSSP0 #nombre propio de mujer
 Kierkegaard Kierkegaard NPCNSP0
 Kiev Kiev NPCSG00 # topònim-apertium
 Kigali Kigali NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kike Kike NPMSSP0 #hipocorístico
 Kilauea Kilauea NPCNG00
 Kilian Kilian NPMSSP0 #nombre propio de hombre
 Kilimanjaro Kilimanjaro NPMSG00
 Kilmer Kilmer NPCNSP0
 Kim Kim NPCNSP0 # wiki
 Kimberly Kimberly NPCNSP0
+Kimi Kimi NPFSSP0 #hipocorístico
 Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
 Kimura Kimura NPCNSP0 # medical
+Kin Kin NPMSSP0 #hipocorístico
 Kinchil Kinchil NPCSG00 #municipios de México
 King King NPCNSP0 # wiki
 Kingsley Kingsley NPCNSP0
@@ -9387,6 +9814,7 @@ Lacruz Lacruz NPCNSP0 #apellido
 Lactancia Lactancia NPFSSP0 # avl
 Lactancio Lactancio NPMSSP0 # avl
 Ladd Ladd NPCNSP0 # medical
+Ladis Ladis NPMSSP0 #hipocorístico
 Ladislao Ladislao NPMSSP0 # avl
 Ladislava Ladislava NPFSSP0 # avl
 Ladoga Ladoga NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9427,6 +9855,9 @@ Lairisa Lairisa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lakers Lakers NPMPO00
 Lakhdar Lakhdar NPMSSP0 #nombre propio de hombre
 Lakuntza Lakuntza NPCSG00 #municipios de España
+Lala Lala NPFSSP0 #hipocorístico
+Lali Lali NPFSSP0 #hipocorístico
+Lalo Lalo NPMSSP0 #hipocorístico
 Laluenga Laluenga NPCSG00 #municipios de España
 Lalueza Lalueza NPCSG00 #municipios de España
 Lalín Lalín NPCSG00 #municipios de España
@@ -9510,6 +9941,7 @@ Laredo Laredo NPCSG00
 Larios Larios NPCNSP0
 Larisa Larisa NPFSSP0 #nombre propio de mujer
 Larissa Larissa NPFSSP0 #nombre propio de mujer
+Larita Larita NPFSSP0 #hipocorístico
 Larmor Larmor NPCNSP0 # medical
 Laron Laron NPCNSP0 # medical
 Larouco Larouco NPCSG00 #municipios de España
@@ -9530,6 +9962,8 @@ Larrodrigo Larrodrigo NPCSG00 #municipios de España
 Larrosa Larrosa NPCNSP0 #apellido
 Larry Larry NPCNSP0 # wiki
 Larráinzar Larráinzar NPCSG00 #municipios de México
+Laru Laru NPFSSP0 #hipocorístico
+Laruchi Laruchi NPFSSP0 #hipocorístico
 Larva Larva NPCSG00 #municipios de España
 Larysa Larysa NPFSSP0 #nombre propio de mujer
 Lasarte Lasarte NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9551,6 +9985,7 @@ Latinoamérica Latinoamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Latorre Latorre NPCNSP0 #apellido
 Lattarico Lattarico NPCNG00 # topònim-apertium-falta-gènere-nombre
 Latzko Latzko NPCNSP0 # medical
+Lau Lau NPMSSP0 #hipocorístico
 Laudelina Laudelina NPFSSP0 # avl
 Laudelino Laudelino NPMSSP0 # avl
 Laudio Laudio NPCSG00 #municipios de España
@@ -9566,7 +10001,9 @@ Laurent Laurent NPCNSP0 # wiki
 Laurentina Laurentina NPFSSP0 # avl
 Laurentino Laurentino NPMSSP0 # avl
 Laurentiu Laurentiu NPMSSP0 #nombre propio de hombre
+Lauri Lauri NPFSSP0 #hipocorístico
 Laurino Laurino NPCNG00 # topònim-apertium-falta-gènere-nombre
+Laurita Laurita NPFSSP0 #hipocorístico
 Laurito Laurito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lauro Lauro NPMSSP0 # avl
 Lausana Lausana NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9602,6 +10039,7 @@ Leber Leber NPCNSP0 # medical
 Lebrija Lebrija NPCSG00 #municipios de España
 Lebríja Lebríja NPCSG00 #municipios de Colombia
 Lebu Lebu NPCSG00 #municipios de Chile
+Lechi Lechi NPMSSP0 #hipocorístico
 Lechón Lechón NPCSG00 #municipios de España
 Leciñena Leciñena NPCSG00 #municipios de España
 Lecrín Lecrín NPCSG00 #municipios de España
@@ -9639,12 +10077,14 @@ Leiva Leiva NPCNSP0 # wiki common surnames
 Lejanías Lejanías NPCSG00 #municipios de Colombia
 Lekeitio Lekeitio NPCSG00 #municipios de España
 Lekunberri Lekunberri NPCSG00 #municipios de España
+Leli Leli NPFSSP0 #hipocorístico
 Lemoa Lemoa NPCSG00 #municipios de España
 Lemoiz Lemoiz NPCSG00 #municipios de España
 Lemos Lemos NPCNSP0 #apellido
 Lemosín Lemosín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lemus Lemus NPCNSP0 #apellido
 Lena Lena NPFSSP0 # avl
+Lencho Lencho NPMSSP0 #hipocorístico
 Lendínez Lendínez NPCNSP0 #apellido
 Lenguazaque Lenguazaque NPCSG00 #municipios de Colombia
 Lenin Lenin NPMSSP0 # avl
@@ -9700,6 +10140,8 @@ Lesmes Lesmes NPCNSP0
 Lesoto Lesoto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lesseps Lesseps NPCNG00 # topònim-apertium-falta-gènere-nombre
 Letamendi Letamendi NPCNSP0
+Letes Letes NPMSSP0 #hipocorístico
+Leti Leti NPFSSP0 #hipocorístico
 Leticia Leticia NPFSSP0 # avl
 Letizia Letizia NPFSSP0 #nombre propio de mujer
 Letonia Letonia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9759,6 +10201,9 @@ Librilla Librilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Licantén Licantén NPCSG00 #municipios de Chile
 Liceras Liceras NPCSG00 #municipios de España
 Licerio Licerio NPMSSP0 # avl
+Licha Licha NPFSSP0 #hipocorístico
+Licho Licho NPMSSP0 #hipocorístico
+Lici Lici NPFSSP0 #hipocorístico
 Licia Licia NPFSSP0 # avl
 Licina Licina NPFSSP0 # avl
 Licinia Licinia NPFSSP0 # avl
@@ -9792,6 +10237,7 @@ Lilia Lilia NPFSSP0 #nombre propio de mujer
 Lilian Lilian NPFSSP0
 Liliana Liliana NPFSSP0 # avl
 Liliano Liliano NPMSSP0 # avl
+Lilibeth Lilibeth NPFSSP0 #hipocorístico
 Lilit Lilit NPFSSP0 # avl
 Liliya Liliya NPFSSP0 #nombre propio de mujer
 Lille Lille NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9799,6 +10245,8 @@ Lilliput Lilliput NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lillo Lillo NPCSG00 #municipios de España
 Lilly Lilly NPCNO00
 Lilongwe Lilongwe NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lily Lily NPFSSP0 #hipocorístico
+Lilí Lilí NPFSSP0 #hipocorístico
 Lima Lima NPCNG00 # topònim-apertium-falta-gènere-nombre
 Limache Limache NPCSG00 # Chile
 Limarí Limarí NPCSG00 #municipios de Chile
@@ -9812,11 +10260,14 @@ Lincoln Lincoln NPCNSP0
 Linda Linda NPFSSP0 # avl
 Lineweaver-Burk Lineweaver-Burk NPCNSP0 # medical
 Linguaglossa Linguaglossa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lini Lini NPFSSP0 #hipocorístico
+Linis Linis NPFSSP0 #hipocorístico
 Linneo Linneo NPCNSP0 # wiki
 Lino Lino NPMSSP0 # avl
 Linux Linux NPCNO00 # wiki
 Linyola Linyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lionel Lionel NPMSSP0
+Lipe Lipe NPMSSP0 #hipocorístico
 Lipschutz Lipschutz NPCNSP0
 Liria Liria NPFSG00 # topònim-apertium
 Liria Liria NPFSSP0 # avl
@@ -9837,6 +10288,8 @@ Lisipo Lisipo NPMSSP0 # avl
 Liszt Liszt NPCNSP0
 Lisímaco Lisímaco NPMSSP0 # avl
 Litago Litago NPCSG00 #municipios de España
+Lito Lito NPMSSP0 #hipocorístico
+Litos Litos NPMSSP0 #hipocorístico
 Little Little NPCNSP0 # wiki
 Littré Littré NPCNSP0 # medical
 Lituania Lituania NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9875,6 +10328,7 @@ Lladurs Lladurs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lladó Lladó NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llagostera Llagostera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llallagua Llallagua NPCSG00 # Bolivia
+Llallío Llallío NPMSSP0 #hipocorístico
 Llamazares Llamazares NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llambilles Llambilles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llanars Llanars NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9888,6 +10342,7 @@ Llaurí Llaurí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llavorsí Llavorsí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lledó Lledó NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lleida Lleida NPCNG00 # topònim-apertium-falta-gènere-nombre
+Llemo Llemo NPMSSP0 #hipocorístico
 Llera Llera NPCSG00 #municipios de España
 Llerena Llerena NPCSG00 #municipios de España
 Llers Llers NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9959,6 +10414,8 @@ Loiu Loiu NPCSG00 #municipios de España
 Loja Loja NPCSG00 # Ecuador
 Lojo Lojo NPCNSP0 #apellido
 Lola Lola NPFSSP0 # avl
+Loles Loles NPFSSP0 #hipocorístico
+Lolo Lolo NPMSSP0 #hipocorístico
 Lolol Lolol NPCSG00 #municipios de Chile
 Lolotla Lolotla NPCSG00 #municipios de México
 Lombardo Lombardo NPMSSP0 # avl
@@ -9966,6 +10423,7 @@ Lombardía Lombardía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lominchar Lominchar NPCSG00 #municipios de España
 Lomoviejo Lomoviejo NPCSG00 #municipios de España
 Lomé Lomé NPCNG00 # topònim-apertium-falta-gènere-nombre
+Loncho Loncho NPMSSP0 #hipocorístico
 Loncoche Loncoche NPCSG00 #municipios de Chile
 Loncopué Loncopué NPCSG00 #municipios de Argentina
 London London NPCNSP0
@@ -9980,6 +10438,7 @@ Longino Longino NPMSSP0 # avl
 Longobardi Longobardi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Longobucco Longobucco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Longás Longás NPCSG00 #municipios de España
+Loni Loni NPMSSP0 #hipocorístico
 Lonquimay Lonquimay NPCSG00 #municipios de Argentina
 Looser Looser NPCNSP0 # medical
 Lope Lope NPCNSP0
@@ -9989,8 +10448,12 @@ Lopes Lopes NPCNSP0 #apellido
 Loporzano Loporzano NPCSG00 #municipios de España
 Lorca Lorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lorcha Lorcha NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lore Lore NPFSSP0 #hipocorístico
+Lore Lore NPMSSP0 #hipocorístico
 Lorea Lorea NPFSSP0 #nombre propio de mujer
 Loredana Loredana NPFSSP0 #nombre propio de mujer
+Loren Loren NPFSSP0 #hipocorístico
+Loren Loren NPMSSP0 #hipocorístico
 Lorena Lorena NPFSG00 # topònim-apertium
 Lorena Lorena NPFSSP0 # avl
 Lorente Lorente NPCNSP0 #apellido
@@ -10030,6 +10493,7 @@ Lozoya Lozoya NPCSG00 #municipios de España
 Lozoyuela-Navas-Sieteiglesias Lozoyuela-Navas-Sieteiglesias NPCSG00 #municipios de España
 Lozère Lozère NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lu Lu NPCNSP0 #apellido
+LuLuqui LuLuqui NPMSSP0 #hipocorístico
 Luana Luana NPFSSP0 #nombre propio de mujer
 Luanda Luanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lubián Lubián NPCSG00 #municipios de España
@@ -10046,6 +10510,12 @@ Lucena Lucena NPCSG00
 Luceni Luceni NPCSG00 #municipios de España
 Lucero Lucero NPCNSP0 # wiki common surnames
 Luchente Luchente NPCNG00 # topònim-apertium-falta-gènere-nombre
+Luchi Luchi NPFSSP0 #hipocorístico
+Luchi Luchi NPMSSP0 #hipocorístico
+Luchita Luchita NPFSSP0 #hipocorístico
+Luchito Luchito NPMSSP0 #hipocorístico
+Luchín Luchín NPMSSP0 #hipocorístico
+Luci Luci NPFSSP0 #hipocorístico
 Luciana Luciana NPFSSP0 # avl
 Luciano Luciano NPMSSP0 # avl
 Lucien Lucien NPMSSP0
@@ -10062,6 +10532,7 @@ Lucrecia Lucrecia NPFSSP0 # avl
 Lucrecio Lucrecio NPMSSP0 # avl
 Lucy Lucy NPFSSP0
 Lucía Lucía NPFSSP0 # avl
+Ludi Ludi NPFSSP0 #hipocorístico
 Ludiente Ludiente NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ludivina Ludivina NPFSSP0
 Ludmila Ludmila NPFSSP0 # avl
@@ -10082,11 +10553,26 @@ Lugo Lugo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lugones Lugones NPCSG00 # Argentina LO
 Lugros Lugros NPCSG00 #municipios de España
 Luhansk Luhansk NPCSG00
+Luichi Luichi NPMSSP0 #hipocorístico
 Luigi Luigi NPCNSP0 # wiki
+Luija Luija NPMSSP0 #hipocorístico
+Luije Luije NPMSSP0 #hipocorístico
+Luilli Luilli NPMSSP0 #hipocorístico
 Luis Luis NPMSSP0 # avl
 Luisa Luisa NPFSSP0 # avl
+Luisen Luisen NPMSSP0 #hipocorístico
+Luisfer Luisfer NPMSSP0 #hipocorístico
+Luisgui Luisgui NPMSSP0 #hipocorístico
+Luisi Luisi NPFSSP0 #hipocorístico
 Luisiana Luisiana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Luisico Luisico NPMSSP0 #hipocorístico
+Luisillo Luisillo NPMSSP0 #hipocorístico
+Luisito Luisito NPMSSP0 #hipocorístico
+Luisma Luisma NPMSSP0 #hipocorístico
+Luismari Luismari NPMSSP0 #hipocorístico
+Luismi Luismi NPMSSP0 #hipocorístico
 Lujan Lujan NPCSG00 #municipios de Argentina
+Luji Luji NPFSSP0 #hipocorístico
 Luján Luján NPCSG00 # Argentina
 Luka Luka NPMSSP0 #nombre propio de hombre
 Lukas Lukas NPMSSP0 #nombre propio de hombre
@@ -10094,6 +10580,7 @@ Lukashenko Lukashenko NPCNSP0
 Luken Luken NPMSSP0 #nombre propio de hombre
 Lukács Lukács NPCNSP0
 Lula Lula NPMSSP0
+Luli Luli NPFSSP0 #hipocorístico
 Lulio Lulio NPMSSP0 # avl
 Lully Lully NPMSSP0
 Lumaco Lumaco NPCSG00 #municipios de Chile
@@ -10101,6 +10588,7 @@ Lumbaqui Lumbaqui NPCSG00 # Ecuador
 Lumbier Lumbier NPCSG00 #municipios de España
 Lumbrales Lumbrales NPCSG00 #municipios de España
 Lumbreras Lumbreras NPCSG00 #municipios de España
+Lumi Lumi NPMSSP0 #hipocorístico
 Luminita Luminita NPFSSP0 #nombre propio de mujer
 Lumo Lumo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lumpiaque Lumpiaque NPCSG00 #municipios de España
@@ -10121,10 +10609,12 @@ Luquin Luquin NPCSG00 #municipios de España
 Luquino Luquino NPMSSP0 # avl
 Lur Lur NPFSSP0 #nombre propio de mujer
 Lurdes Lurdes NPFSSP0 # avl
+Luri Luri NPFSSP0 #hipocorístico
 Luruaco Luruaco NPCSG00 #municipios de Colombia
 Lusaka Lusaka NPCNG00 # topònim-apertium-falta-gènere-nombre
 Luschka Luschka NPCNSP0 # medical
 Lutardo Lutardo NPMSSP0 # avl
+Lute Lute NPMSSP0 #hipocorístico
 Lutecia Lutecia NPFSSP0 # avl
 Lutero Lutero NPMSSP0 # avl
 Lutgarda Lutgarda NPFSSP0 # avl
@@ -10200,10 +10690,12 @@ Macintosh Macintosh NPCNSP0 # medical
 Macián Macián NPMSSP0 # avl
 Mackenzie Mackenzie NPCNSP0
 Maclaurin Maclaurin NPCNSP0
+Maclovio Maclovio NPMSSP0 #hipocorístico
 Macotera Macotera NPCSG00 #municipios de España
 Macris Macris NPFSSP0 # avl
 Macrobús Macrobús NPMSO00
 Macron Macron NPCNSP0
+Macu Macu NPFSSP0 #hipocorístico
 Macul Macul NPCSG00 #municipios de Chile
 Macuspana Macuspana NPCSG00 #municipios de México
 Madagascar Madagascar NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10214,6 +10706,7 @@ Maddi Maddi NPFSSP0 #nombre propio de mujer
 Madeira Madeira NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madelung Madelung NPCNSP0 # medical
 Maderuelo Maderuelo NPCSG00 #municipios de España
+Madi Madi NPFSSP0 #hipocorístico
 Madison Madison NPCNSP0 # wiki
 Madremanya Madremanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Madrid Madrid NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10233,6 +10726,9 @@ Maeso Maeso NPCNSP0 #apellido
 Maestre Maestre NPCNSP0 # medical
 Maeterlinck Maeterlinck NPCNSP0
 Mafalda Mafalda NPFSSP0 # avl
+Mafe Mafe NPFSSP0 #hipocorístico
+Mafer Mafer NPFSSP0 #hipocorístico
+Mafi Mafi NPFSSP0 #hipocorístico
 Mafucci Mafucci NPCNSP0 # medical
 Magacela Magacela NPCSG00 #municipios de España
 Magali Magali NPFSSP0 #nombre propio de mujer
@@ -10256,10 +10752,14 @@ Magnolia Magnolia NPFSSP0 # avl
 Magnus Magnus NPCNSP0
 Magreb Magreb NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maguarichi Maguarichi NPCSG00 #municipios de México
+Mague Mague NPFSSP0 #hipocorístico
+Magui Magui NPFSSP0 #hipocorístico
 Maguilla Maguilla NPCSG00 #municipios de España
+Maguita Maguita NPFSSP0 #hipocorístico
 Maguncia Maguncia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Magán Magán NPCSG00 #municipios de España
 Magín Magín NPMSSP0 # avl
+Magüi Magüi NPFSSP0 #hipocorístico
 Magüí Magüí NPCSG00 #municipios de Colombia
 Mahaim Mahaim NPCNSP0 # medical
 Mahamadou Mahamadou NPMSSP0 #nombre propio de hombre
@@ -10294,6 +10794,7 @@ Maine Maine NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mainero Mainero NPCSG00 #municipios de México
 Mainque Mainque NPCSG00 #municipios de Argentina
 Mainz Mainz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Maipa Maipa NPFSSP0 #hipocorístico
 Maipo Maipo NPCSG00 #municipios de Chile
 Maipú Maipú NPCSG00 # Argentina LO
 Maira Maira NPFSSP0 #nombre propio de mujer
@@ -10301,6 +10802,7 @@ Mairana Mairana NPCSG00 # Bolivia
 Mairena Mairena NPCSG00
 Maitane Maitane NPFSSP0 #nombre propio de mujer
 Maite Maite NPFSSP0 # avl
+Maitechu Maitechu NPFSSP0 #hipocorístico
 Majadahonda Majadahonda NPCSG00
 Majadas Majadas NPCSG00 #municipios de España
 Majaelrayo Majaelrayo NPCSG00 #municipios de España
@@ -10308,6 +10810,7 @@ Majagual Majagual NPCSG00 #municipios de Colombia
 Majda Majda NPFSSP0 #nombre propio de mujer
 Majencio Majencio NPMSSP0 # avl
 Majid Majid NPMSSP0 #nombre propio de hombre
+Maju Maju NPFSSP0 #hipocorístico
 Maján Maján NPCSG00 #municipios de España
 Makallé Makallé NPCSG00 #municipios de Argentina
 Maksim Maksim NPMSSP0 #nombre propio de hombre
@@ -10353,6 +10856,7 @@ Malloa Malloa NPCSG00 #municipios de Chile
 Mallorca Mallorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mallén Mallén NPCSG00 #municipios de España
 Malmö Malmö NPCNG00 # topònim-apertium-falta-gènere-nombre
+Maloles Maloles NPFSSP0 #hipocorístico
 Malpartida Malpartida NPCSG00 #municipios de España
 Malpigio Malpigio NPCNSP0 # medical
 Malpàs Malpàs NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10368,6 +10872,7 @@ Malvino Malvino NPMSSP0 # avl
 Malvito Malvito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malí Malí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malón Malón NPCSG00 #municipios de España
+Malú Malú NPFSSP0 #hipocorístico
 Mamadou Mamadou NPMSSP0 #nombre propio de hombre
 Mamani Mamani NPCNSP0 #apellido
 Mamblas Mamblas NPCSG00 #municipios de España
@@ -10380,6 +10885,7 @@ Mamporal Mamporal NPCSG00 # Venezuela
 Mamés Mamés NPMSSP0 # avl
 Man Man NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manabí Manabí NPCSG00 # Ecuador
+Manacho Manacho NPMSSP0 #hipocorístico
 Manacor Manacor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Managua Managua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manaldo Manaldo NPMSSP0 # avl
@@ -10396,18 +10902,23 @@ Manchita Manchita NPCSG00 #municipios de España
 Manchones Manchones NPCSG00 #municipios de España
 Manciles Manciles NPCSG00 #municipios de España
 Mancini Mancini NPCNSP0
+Mancio Mancio NPMSSP0 #hipocorístico
 Mancor Mancor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mandatoriccio Mandatoriccio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mandayona Mandayona NPCSG00 #municipios de España
+Mandis Mandis NPMSSP0 #hipocorístico
 Mandonio Mandonio NPMSSP0 # avl
+Mandy Mandy NPFSSP0 #hipocorístico
 Maneiro Maneiro NPCSG00 # Venezuela
 Manel Manel NPMSSP0 #nombre propio de hombre
 Manex Manex NPMSSP0 #nombre propio de hombre
 Manfreda Manfreda NPFSSP0 # avl
 Manfredi Manfredi NPCSG00 #municipios de Argentina
 Manfredo Manfredo NPMSSP0 # avl
+Mange Mange NPFSSP0 #hipocorístico
 Mangone Mangone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manhattan Manhattan NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mani Mani NPMSSP0 #hipocorístico
 Manila Manila NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manilva Manilva NPCSG00 #municipios de España
 Manises Manises NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10422,6 +10933,7 @@ Manoli Manoli NPFSSP0
 Manolita Manolita NPFSSP0
 Manolo Manolo NPMSSP0 # avl
 Manon Manon NPFSSP0
+Manosmari Manosmari NPMSSP0 #hipocorístico
 Manquillos Manquillos NPCSG00 #municipios de España
 Manresa Manresa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manrique Manrique NPMSSP0 # avl
@@ -10432,6 +10944,8 @@ Manta Manta NPCSG00 #municipios de Colombia
 Mantiel Mantiel NPCSG00 #municipios de España
 Mantinos Mantinos NPCSG00 #municipios de España
 Mantua Mantua NPCNG00 # topònim-apertium-falta-gènere-nombre
+Manu Manu NPFSSP0 #hipocorístico
+Manu Manu NPMSSP0 #hipocorístico
 Manuel Manuel NPMSSP0 # avl
 Manuela Manuela NPFSSP0 # avl
 Manzanares Manzanares NPCSG00 #municipios de Colombia
@@ -10442,12 +10956,17 @@ Manzanera Manzanera NPCSG00 #municipios de España
 Manzanilla Manzanilla NPCSG00 #municipios de España
 Manzanillo Manzanillo NPCSG00 #municipios de España
 Maní Maní NPCSG00 #municipios de Colombia
+Mapao Mapao NPFSSP0 #hipocorístico
 Mapastepec Mapastepec NPCSG00 #municipios de México
+Mapau Mapau NPFSSP0 #hipocorístico
 Mapfre Mapfre NPCNO00
+Mapi Mapi NPFSSP0 #hipocorístico
 Mapimí Mapimí NPCSG00 #municipios de México
 Mapiripana Mapiripana NPCSG00 #municipios de Colombia
 Mapiripán Mapiripán NPCSG00 #municipios de Colombia
+Mapis Mapis NPFSSP0 #hipocorístico
 Mapleson Mapleson NPCNSP0 # medical
+Mapu Mapu NPFSSP0 #hipocorístico
 Maputo Maputo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maqueda Maqueda NPCSG00 #municipios de España
 Maquiavelo Maquiavelo NPMSSP0 # avl
@@ -10474,6 +10993,8 @@ Marc Marc NPMSSP0 #nombre propio de hombre
 Marcabelí Marcabelí NPCSG00 # Ecuador
 Marcano Marcano NPCSG00 # Venezuela
 Marcatosa Marcatosa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Marce Marce NPFSSP0 #hipocorístico
+Marce Marce NPMSSP0 #hipocorístico
 Marcedusa Marcedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marcel Marcel NPCNSP0 # wiki
 Marcela Marcela NPFSSP0 # avl
@@ -10483,6 +11004,7 @@ Marcelina Marcelina NPFSSP0 # avl
 Marcelino Marcelino NPMSSP0 # avl
 Marcellinara Marcellinara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Marcelo Marcelo NPMSSP0 # avl
+Marceloco Marceloco NPMSSP0 #hipocorístico
 March March NPCNSP0
 Marchagaz Marchagaz NPCSG00 #municipios de España
 Marchal Marchal NPCSG00 #municipios de España
@@ -10493,6 +11015,7 @@ Marchigüe Marchigüe NPCSG00 #municipios de Chile
 Marcia Marcia NPFSSP0 # avl
 Marcial Marcial NPMSSP0 # avl
 Marciala Marciala NPFSSP0 # avl
+Marcian Marcian NPMSSP0 #hipocorístico
 Marciana Marciana NPFSSP0 # avl
 Marciano Marciano NPMSSP0 # avl
 Marcilla Marcilla NPCSG00 #municipios de España
@@ -10510,10 +11033,13 @@ Margalef Margalef NPCSG00 #municipios de España
 Margalida Margalida NPFSSP0 #nombre propio de mujer
 Marganell Marganell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Margaret Margaret NPFSSP0 # wiki
+Margari Margari NPFSSP0 #hipocorístico
 Margarida Margarida NPFSSP0 #nombre propio de mujer
 Margarita Margarita NPFSSP0 # avl
 Margot Margot NPFSSP0
 Mari Mari NPFSSP0 # avl
+Mariajo Mariajo NPFSSP0 #hipocorístico
+Mariale Mariale NPFSSP0 #hipocorístico
 Mariam Mariam NPFSSP0 #nombre propio de mujer
 Mariama Mariama NPFSSP0 #nombre propio de mujer
 Marian Marian NPFSSP0
@@ -10524,22 +11050,33 @@ Marianna Marianna NPFSSP0 #nombre propio de mujer
 Marianne Marianne NPFSSP0 #nombre propio de mujer
 Mariano Mariano NPMSSP0 # avl
 Mariara Mariara NPCSG00 # Venezuela
+Mariave Mariave NPFSSP0 #hipocorístico
 Maribel Maribel NPFSSP0 # avl
+Maricarmen Maricarmen NPFSSP0 #hipocorístico
 Maricel Maricel NPFSSP0 #nombre propio de mujer
 Maricela Maricela NPFSSP0 #nombre propio de mujer
+Mariceli Mariceli NPFSSP0 #hipocorístico
+Marichuy Marichuy NPFSSP0 #hipocorístico
 Maricruz Maricruz NPFSSP0
 Maridueña Maridueña NPCSG00 # Ecuador
 Marie Marie NPFSSP0 #nombre propio de mujer
 Marie-Fox-Alajouanine Marie-Fox-Alajouanine NPCNSP0 # medical
+Mariel Mariel NPFSSP0 #hipocorístico
 Mariela Mariela NPFSSP0
 Mariem Mariem NPFSSP0 #nombre propio de mujer
 Marieta Marieta NPFSSP0 #nombre propio de mujer
+Marifer Marifer NPFSSP0 #hipocorístico
 Marigüitar Marigüitar NPCSG00 # Venezuela
 Mariia Mariia NPFSSP0 #nombre propio de mujer
+Marijose Marijose NPFSSP0 #hipocorístico
+Marijó Marijó NPFSSP0 #hipocorístico
 Mariluz Mariluz NPFSSP0 #nombre propio de mujer
 Marilyn Marilyn NPFSSP0
 Mariló Mariló NPFSSP0 # avl
+Marilú Marilú NPFSSP0 #hipocorístico
+Marimar Marimar NPFSSP0 #hipocorístico
 Marimón Marimón NPCNSP0 #apellido
+Marin Marin NPFSSP0 #hipocorístico
 Marina Marina NPFSSP0 # avl
 Marinaleda Marinaleda NPCSG00 #municipios de España
 Marinela Marinela NPFSSP0 #nombre propio de mujer
@@ -10552,14 +11089,22 @@ Mariola Mariola NPFSSP0 # avl
 Marion Marion NPFSSP0 #nombre propio de mujer
 Mariona Mariona NPFSSP0 # avl
 Maripa Maripa NPCSG00 # Venezuela
+Maripaz Maripaz NPFSSP0 #hipocorístico
 Maripí Maripí NPCSG00 #municipios de Colombia
 Mariquina Mariquina NPCSG00 #municipios de Chile
 Mariquita Mariquita NPCSG00 #municipios de Colombia
 Marisa Marisa NPFSSP0 # avl
+Marisela Marisela NPFSSP0 #hipocorístico
 Marisol Marisol NPFSSP0 # avl
+Marita Marita NPFSSP0 #hipocorístico
+Marite Marite NPFSSP0 #hipocorístico
+Maritere Maritere NPFSSP0 #hipocorístico
+Marito Marito NPMSSP0 #hipocorístico
 Maritza Maritza NPFSSP0
 Marius Marius NPMSSP0 #nombre propio de hombre
 Marivent Marivent NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mariviqui Mariviqui NPFSSP0 #hipocorístico
+Mariví Mariví NPFSSP0 #hipocorístico
 Mariya Mariya NPFSSP0 #nombre propio de mujer
 Marián Marián NPFSSP0 # avl
 Mariña Mariña NPFSSP0 #nombre propio de mujer
@@ -10593,6 +11138,8 @@ Marquelia Marquelia NPCSG00 #municipios de México
 Marques Marques NPCNSP0 #apellido
 Marquetalia Marquetalia NPCSG00 #municipios de Colombia
 Marquina Marquina NPCNG00 # topònim-apertium-falta-gènere-nombre
+Marquis Marquis NPMSSP0 #hipocorístico
+Marquitos Marquitos NPMSSP0 #hipocorístico
 Marr Marr NPCNSP0
 Marracos Marracos NPCSG00 #municipios de España
 Marrakech Marrakech NPCSG00 # topònim-apertium
@@ -10611,10 +11158,12 @@ Marte Marte NPMSG00 # topònim-apertium
 Marte Marte NPMSSP0 # avl
 Martel Martel NPCNSP0 #apellido
 Martha Martha NPFSSP0
+Marti Marti NPFSSP0 #hipocorístico
 Martiago Martiago NPCSG00 #municipios de España
 Martiherrero Martiherrero NPCSG00 #municipios de España
 Martina Martina NPFSSP0 # avl
 Martinamor Martinamor NPCSG00 #municipios de España
+Martincito Martincito NPMSSP0 #hipocorístico
 Martinet Martinet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martiniana Martiniana NPFSSP0 # avl
 Martiniano Martiniano NPMSSP0 # avl
@@ -10623,15 +11172,23 @@ Martins Martins NPCNSP0 #apellido
 Martiriana Martiriana NPFSSP0 # avl
 Martiriano Martiriano NPMSSP0 # avl
 Martirio Martirio NPCSSP0 # avl
+Martita Martita NPFSSP0 #hipocorístico
 Martiño Martiño NPMSSP0 #nombre propio de hombre
+Marto Marto NPMSSP0 #hipocorístico
+Martona Martona NPFSSP0 #hipocorístico
 Martone Martone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martorell Martorell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martorelles Martorelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martos Martos NPCNSP0
+Martu Martu NPFSSP0 #hipocorístico
+Martu Martu NPMSSP0 #hipocorístico
+Martucha Martucha NPFSSP0 #hipocorístico
+Martuki Martuki NPFSSP0 #hipocorístico
 Martí Martí NPCNSP0 # wiki
 Martín Martín NPCNSP0 # wiki, common surnames
 Martínez Martínez NPCNSP0 # wiki common surnames
 Maru Maru NPCSSP0
+Maruca Maruca NPFSSP0 #hipocorístico
 Marugán Marugán NPCSG00 #municipios de España
 Maruja Maruja NPFSSP0 # avl
 Marulanda Marulanda NPCSG00 #municipios de Colombia
@@ -10710,10 +11267,13 @@ Matet Matet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mateu Mateu NPMSSP0 #nombre propio de hombre
 Mathausen Mathausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mathias Mathias NPMSSP0 #nombre propio de hombre
+Mati Mati NPFSSP0 #hipocorístico
+Mati Mati NPMSSP0 #hipocorístico
 Matilda Matilda NPFSSP0 # avl
 Matilde Matilde NPFSSP0 # avl
 Matilla Matilla NPCNSP0 #apellido
 Matillas Matillas NPCSG00 #municipios de España
+Matiu Matiu NPMSSP0 #hipocorístico
 Matlapa Matlapa NPCSG00 #municipios de México
 Matola Matola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Matos Matos NPCNSP0 #apellido
@@ -10723,6 +11283,7 @@ Mattaldi Mattaldi NPCSG00 #municipios de Argentina
 Matteo Matteo NPMSSP0 #nombre propio de hombre
 Matthew Matthew NPCNSP0 # wiki
 Mattia Mattia NPMSSP0 #nombre propio de hombre
+Matu Matu NPMSSP0 #hipocorístico
 Maturín Maturín NPCSG00 # Venezuela
 Matusalén Matusalén NPMSSP0 # avl
 Matute Matute NPCSG00 #municipios de España
@@ -10731,6 +11292,7 @@ Maule Maule NPCSG00 # Chile
 Maullín Maullín NPCSG00 #municipios de Chile
 Maura Maura NPFSSP0 # avl
 Mauri Mauri NPCNSP0 #apellido
+Mauri Mauri NPMSSP0 #hipocorístico
 Maurice Maurice NPCNSP0 # wiki
 Mauricia Mauricia NPFSSP0 # avl
 Mauricio Mauricio NPMSG00 # topònim-apertium
@@ -10745,6 +11307,7 @@ Maverick Maverick NPCNSP0
 Mavi Mavi NPFSSP0 # avl
 Max Max NPMSSP0 # avl
 Maxcanú Maxcanú NPCSG00 #municipios de México
+Maxi Maxi NPMSSP0 #hipocorístico
 Maxim Maxim NPMSSP0 #nombre propio de hombre
 Maximiana Maximiana NPFSSP0 # avl
 Maximiano Maximiano NPMSSP0 # avl
@@ -10752,9 +11315,14 @@ Maximiliana Maximiliana NPFSSP0 # avl
 Maximiliano Maximiliano NPMSSP0 # avl
 Maximina Maximina NPFSSP0 # avl
 Maximino Maximino NPMSSP0 # avl
+Maxito Maxito NPMSSP0 #hipocorístico
 Maya Maya NPFSSP0 # avl
 Mayalde Mayalde NPCSG00 #municipios de España
 Mayapán Mayapán NPCSG00 #municipios de México
+Mayelo Mayelo NPMSSP0 #hipocorístico
+Mayita Mayita NPFSSP0 #hipocorístico
+Mayito Mayito NPFSSP0 #hipocorístico
+Mayito Mayito NPMSSP0 #hipocorístico
 Mayol Mayol NPCNSP0 #apellido
 Mayorga Mayorga NPCSG00
 Mayotte Mayotte NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10783,6 +11351,7 @@ Mazzarrone Mazzarrone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mazón Mazón NPCNSP0 #apellido
 Maçanes Maçanes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mañaria Mañaria NPCSG00 #municipios de España
+Mañe Mañe NPMSSP0 #hipocorístico
 Mañeru Mañeru NPCSG00 #municipios de España
 Mañueta Mañueta NPCSG00 #municipios de España
 Mañón Mañón NPCSG00 #municipios de España
@@ -10871,11 +11440,14 @@ Melanio Melanio NPMSSP0 # avl
 Melany Melany NPFSSP0 #nombre propio de mujer
 Melas Melas NPCNSP0 # medical
 Melbourne Melbourne NPCNG00 # topònim-apertium-falta-gènere-nombre
+Melchi Melchi NPMSSP0 #hipocorístico
 Melchor Melchor NPMSSP0 # avl
 Melchora Melchora NPFSSP0 # avl
+Melda Melda NPFSSP0 #hipocorístico
 Meleda Meleda NPCNSP0 # medical
 Melgar Melgar NPCSG00 #municipios de Colombia
 Melgarejo Melgarejo NPCNSP0
+Meli Meli NPFSSP0 #hipocorístico
 Meliana Meliana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melibea Melibea NPFSSP0 # avl
 Melibeo Melibeo NPMSSP0 # avl
@@ -10894,12 +11466,15 @@ Melitona Melitona NPFSSP0 # avl
 Melitón Melitón NPMSSP0 # avl
 Melián Melián NPCNSP0 #apellido
 Melkersson-Rosenthal Melkersson-Rosenthal NPCNSP0
+Melly Melly NPFSSP0 #hipocorístico
 Melo Melo NPCSG00 # Uruguay
 Melody Melody NPFSSP0 #nombre propio de mujer
 Meloni Meloni NPCNSP0
 Melquiades Melquiades NPMSSP0 #nombre propio de hombre
 Melquisedec Melquisedec NPMSSP0 # avl
 Melquíades Melquíades NPMSSP0 # avl
+Melu Melu NPMSSP0 #hipocorístico
+Melucho Melucho NPMSSP0 #hipocorístico
 Melville Melville NPCNSP0
 Melvin Melvin NPCNSP0
 Meléndez Meléndez NPCNSP0
@@ -10912,6 +11487,8 @@ Mena Mena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menacho Menacho NPCNSP0 #apellido
 Menandro Menandro NPMSSP0 # avl
 Menasalbas Menasalbas NPCSG00 #municipios de España
+Menchito Menchito NPFSSP0 #hipocorístico
+Menchu Menchu NPFSSP0 #hipocorístico
 Menchú Menchú NPCNSP0
 Mencio Mencio NPMSSP0 # avl
 Mencía Mencía NPFSSP0 # avl
@@ -10941,6 +11518,7 @@ Mengamuñoz Mengamuñoz NPCSG00 #municipios de España
 Mengele Mengele NPCNSP0
 Mengual Mengual NPCNSP0 #apellido
 Mengíbar Mengíbar NPCSG00 #municipios de España
+Meni Meni NPFSSP0 #hipocorístico
 Menkes Menkes NPCNSP0 # medical
 Menorca Menorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Menuhin Menuhin NPCNSP0
@@ -10956,11 +11534,15 @@ Mercadona Mercadona NPCNO00
 Merce Merce NPFSSP0 #nombre propio de mujer
 Mercedes Mercedes NPCNO00
 Mercedes Mercedes NPFSSP0
+Merche Merche NPFSSP0 #hipocorístico
+Merchi Merchi NPFSSP0 #hipocorístico
 Merchán Merchán NPCNSP0 #apellido
+Merci Merci NPFSSP0 #hipocorístico
 Mercosur Mercosur NPMSO00
 Mercurio Mercurio NPMSG00 # topònim-apertium
 Mercurio Mercurio NPMSSP0 # avl
 Mercè Mercè NPFSSP0 #nombre propio de mujer
+Meri Meri NPFSSP0 #hipocorístico
 Meriam Meriam NPFSSP0 #nombre propio de mujer
 Merichell Merichell NPFSSP0 # avl
 Meridiana Meridiana NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11044,6 +11626,7 @@ Mieza Mieza NPCSG00 #municipios de España
 Migdonio Migdonio NPMSSP0 # avl
 Migliarino Migliarino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Migliaro Migliaro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Migu Migu NPMSSP0 #hipocorístico
 Miguel Miguel NPMSSP0 # avl
 Miguela Miguela NPFSSP0 # avl
 Miguelina Miguelina NPFSSP0 #nombre propio de mujer
@@ -11057,6 +11640,7 @@ Mijaran Mijaran NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mijares Mijares NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mijas Mijas NPCSG00 #municipios de España
 Mijaíl Mijaíl NPMSSP0 # wiki
+Mika Mika NPFSSP0 #hipocorístico
 Mike Mike NPCNSP0 # wiki
 Mikel Mikel NPMSSP0 #nombre propio de hombre
 Mikulicz Mikulicz NPCNSP0 # medical
@@ -11065,9 +11649,13 @@ Milagros Milagros NPCNSP0 # avl
 Milagrosa Milagrosa NPFSSP0 # avl
 Milanesado Milanesado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Milano Milano NPMSSP0 # avl
+Milantas Milantas NPMSSP0 #hipocorístico
+Mile Mile NPFSSP0 #hipocorístico
 Milei Milei NPCNSP0
 Miles Miles NPCNSP0 # wiki
 Mileto Mileto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Milio Milio NPMSSP0 #hipocorístico
+Miliuco Miliuco NPMSSP0 #hipocorístico
 Mill Mill NPCNSP0 # wiki
 Millana Millana NPCSG00 #municipios de España
 Millanes Millanes NPCSG00 #municipios de España
@@ -11082,18 +11670,23 @@ Millán Millán NPCSG00 # topònim-apertium
 Millán Millán NPMSSP0 # avl
 Millán-Astray Millán-Astray NPCNSP0
 Milmarcos Milmarcos NPCSG00 #municipios de España
+Milo Milo NPMSSP0 #hipocorístico
 Milosevic Milosevic NPCNSP0
 Miloud Miloud NPMSSP0 #nombre propio de hombre
 Milouda Milouda NPFSSP0 #nombre propio de mujer
 Milton Milton NPCNSP0
 Milwaukee Milwaukee NPCNG00 # topònim-apertium-falta-gènere-nombre
 Milán Milán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mimi Mimi NPFSSP0 #hipocorístico
 Mimoun Mimoun NPMSSP0 #nombre propio de hombre
 Mimouna Mimouna NPFSSP0 #nombre propio de mujer
 Mimount Mimount NPFSSP0 #nombre propio de mujer
+Mimí Mimí NPFSSP0 #hipocorístico
 Mina Mina NPFSSP0 # avl
 Minatitlán Minatitlán NPCSG00 # México
 Minaya Minaya NPCSG00 #municipios de España
+Mincho Mincho NPMSSP0 #hipocorístico
+Minchu Minchu NPMSSP0 #hipocorístico
 Minecraft Minecraft NPCNO00
 Minerva Minerva NPFSSP0 # avl
 Minervo Minervo NPMSSP0 # avl
@@ -11109,9 +11702,11 @@ Minnelli Minnelli NPCNSP0
 Minnesota Minnesota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsk Minsk NPCNG00 # topònim-apertium-falta-gènere-nombre
 Minsky Minsky NPCNSP0
+Minés Minés NPFSSP0 #hipocorístico
 Mioara Mioara NPFSSP0 #nombre propio de mujer
 Miqueas Miqueas NPMSSP0 # avl
 Miquel Miquel NPMSSP0 #nombre propio de hombre
+Miqui Miqui NPFSSP0 #hipocorístico
 Miquihuana Miquihuana NPCSG00 #municipios de México
 Mir Mir NPCNO00
 Mira Mira NPFSSP0 # avl
@@ -11144,6 +11739,7 @@ Mirela Mirela NPFSSP0 #nombre propio de mujer
 Mirella Mirella NPFSSP0 #nombre propio de mujer
 Miret Miret NPCNSP0 #apellido
 Mireya Mireya NPFSSP0 # avl
+Miri Miri NPFSSP0 #hipocorístico
 Mirian Mirian NPFSSP0 #nombre propio de mujer
 Mirila Mirila NPFSSP0 # avl
 Miro Miro NPMSSP0 # avl
@@ -11159,6 +11755,7 @@ Mirón Mirón NPMSSP0 # avl
 Misael Misael NPMSSP0 #nombre propio de hombre
 Misano Misano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Misantla Misantla NPCSG00 #municipios de México
+Mise Mise NPFSSP0 #hipocorístico
 Misericordia Misericordia NPFSSP0 # avl
 Misisipi Misisipi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Misisipí Misisipí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11172,6 +11769,7 @@ Mitontic Mitontic NPCSG00 #municipios de México
 Mitríades Mitríades NPMSSP0 # avl
 Mitsuda Mitsuda NPCNSP0 # medical
 Mitterrand Mitterrand NPCNSP0
+Mitza Mitza NPFSSP0 #hipocorístico
 Mitú Mitú NPCSG00 #municipios de Colombia
 Mixtla Mixtla NPCSG00 #municipios de México
 Mixtlán Mixtlán NPCSG00 #municipios de México
@@ -11241,6 +11839,7 @@ Moll Moll NPCNSP0 # medical
 Mollaret Mollaret NPCNSP0 # medical
 Molledo Molledo NPCSG00 #municipios de España
 Mollendo Mollendo NPCSG00 # Perú
+Mollergui Mollergui NPMSSP0 #hipocorístico
 Mollerussa Mollerussa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mollet Mollet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mollina Mollina NPCSG00 #municipios de España
@@ -11255,6 +11854,7 @@ Momax Momax NPCSG00 #municipios de México
 Mombeltrán Mombeltrán NPCSG00 #municipios de España
 Momblona Momblona NPCSG00 #municipios de España
 Mombuey Mombuey NPCSG00 #municipios de España
+Mome Mome NPMSSP0 #hipocorístico
 Momil Momil NPCSG00 #municipios de Colombia
 Mompou Mompou NPCNSP0
 Mompó Mompó NPCNSP0 #apellido
@@ -11266,7 +11866,13 @@ Monasterio Monasterio NPCSG00 #municipios de España
 Moncada Moncada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moncalvillo Moncalvillo NPCSG00 #municipios de España
 Moncayo Moncayo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Moncha Moncha NPFSSP0 #hipocorístico
+Monche Monche NPMSSP0 #hipocorístico
 Monchet Monchet NPCNSP0 # medical
+Monchi Monchi NPMSSP0 #hipocorístico
+Monchis Monchis NPMSSP0 #hipocorístico
+Monchita Monchita NPFSSP0 #hipocorístico
+Monchito Monchito NPMSSP0 #hipocorístico
 Moncho Moncho NPCNSP0
 Monckeberg Monckeberg NPCNSP0 # medical
 Moncloa Moncloa NPFSG00
@@ -11299,7 +11905,10 @@ Mongiana Mongiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongolia Mongolia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongrassano Mongrassano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mongua Mongua NPCSG00 #municipios de Colombia
+Mongué Mongué NPMSSP0 #hipocorístico
 Monguí Monguí NPCSG00 #municipios de Colombia
+Monguín Monguín NPMSSP0 #hipocorístico
+Moni Moni NPFSSP0 #hipocorístico
 Monika Monika NPFSSP0 #nombre propio de mujer
 Moniquirá Moniquirá NPCSG00 #municipios de Colombia
 Monleras Monleras NPCSG00 #municipios de España
@@ -11314,8 +11923,10 @@ Monroyo Monroyo NPCSG00 #municipios de España
 Monsagro Monsagro NPCSG00 #municipios de España
 Monsalupe Monsalupe NPCSG00 #municipios de España
 Monsalve Monsalve NPCNSP0 #apellido
+Monse Monse NPFSSP0 #hipocorístico
 Monsefú Monsefú NPCSG00 # Perú
 Monserrat Monserrat NPFSSP0 #nombre propio de mujer
+Monsi Monsi NPFSSP0 #hipocorístico
 Mont-ral Mont-ral NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mont-ras Mont-ras NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mont-ros Mont-ros NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11397,6 +12008,7 @@ Montgarri Montgarri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montgat Montgat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montgomery Montgomery NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montgó Montgó NPMSSP0 # avl
+Monti Monti NPFSSP0 #hipocorístico
 Montichelvo Montichelvo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montiel Montiel NPFSSP0 # avl
 Montijo Montijo NPCSG00 #municipios de España
@@ -11422,6 +12034,7 @@ Montse Montse NPFSSP0 # avl
 Montseny Montseny NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montserrat Montserrat NPCSG00 # topònim-apertium
 Montserrat Montserrat NPFSSP0 # avl
+Montsina Montsina NPFSSP0 #hipocorístico
 Montsià Montsià NPCNG00 # topònim-apertium-falta-gènere-nombre
 Montuiri Montuiri NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monturque Monturque NPCSG00 #municipios de España
@@ -11455,6 +12068,7 @@ Morató Morató NPCNSP0 #apellido
 Moravia Moravia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moraña Moraña NPCSG00 #municipios de España
 Morcillo Morcillo NPCSG00 #municipios de España
+Morcio Morcio NPMSSP0 #hipocorístico
 Morcín Morcín NPCSG00 #municipios de España
 Moreira Moreira NPCNSP0 #apellido
 Morejón Morejón NPCNSP0 #apellido
@@ -11480,6 +12094,7 @@ Morichal Morichal NPCSG00 #municipios de Colombia
 Morigerati Morigerati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moriles Moriles NPCSG00 #municipios de España
 Morille Morille NPCSG00 #municipios de España
+Morio Morio NPMSSP0 #hipocorístico
 Moris Moris NPCSG00 #municipios de México
 Moriscos Moriscos NPCSG00 #municipios de España
 Morison Morison NPCNSP0 # medical
@@ -11571,12 +12186,15 @@ Mulegé Mulegé NPCSG00 #municipios de México
 Mulet Mulet NPCNSP0 #apellido
 Mulhacén Mulhacén NPMSG00
 Muller Muller NPCNSP0
+Mumo Mumo NPMSSP0 #hipocorístico
 Munar Munar NPCNSP0 #apellido
 Mundaka Mundaka NPCSG00 #municipios de España
+Mundi Mundi NPMSSP0 #hipocorístico
 Munera Munera NPCSG00 #municipios de España
 Mungia Mungia NPCSG00 #municipios de España
 Muniesa Muniesa NPCSG00 #municipios de España
 Munilla Munilla NPCSG00 #municipios de España
+Muno Muno NPMSSP0 #hipocorístico
 Munson Munson NPCNSP0 # medical
 Muntanyola Muntanyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Munteanu Munteanu NPCNSP0 #apellido
@@ -11601,6 +12219,7 @@ Murta Murta NPFSSP0 # avl
 Murueta Murueta NPCSG00 #municipios de España
 Muruzábal Muruzábal NPCSG00 #municipios de España
 Museros Museros NPCNG00 # topònim-apertium-falta-gènere-nombre
+Musi Musi NPFSSP0 #hipocorístico
 Musikverein Musikverein NPFSO00
 Musk Musk NPCNSP0
 Muskiz Muskiz NPCSG00 #municipios de España
@@ -11658,6 +12277,7 @@ Mérida Mérida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mérimée Mérimée NPCNSP0
 Mérope Mérope NPFSSP0 # avl
 México México NPCSG00 # topònim-apertium
+Míchel Míchel NPMSSP0 #hipocorístico
 Míguez Míguez NPCNSP0 #apellido
 Mínguez Mínguez NPCNSP0 #apellido
 Míriam Míriam NPFSSP0 # avl
@@ -11689,10 +12309,16 @@ Nabucodonosor Nabucodonosor NPMSSP0 # avl
 Nacajuca Nacajuca NPCSG00 #municipios de México
 Nacha Nacha NPFSSP0 # avl
 Nacher Nacher NPCNSP0 #apellido
+Nachete Nachete NPMSSP0 #hipocorístico
+Nachi Nachi NPFSSP0 #hipocorístico
+Nachi Nachi NPMSSP0 #hipocorístico
+Nachito Nachito NPMSSP0 #hipocorístico
 Nacho Nacho NPMSSP0 # avl
+Nachín Nachín NPMSSP0 #hipocorístico
 Nadal Nadal NPCNSP0
 Nadezda Nadezda NPFSSP0 #nombre propio de mujer
 Nadezhda Nadezhda NPFSSP0 #nombre propio de mujer
+Nadi Nadi NPFSSP0 #hipocorístico
 Nadia Nadia NPFSSP0 # avl
 Nadiia Nadiia NPFSSP0 #nombre propio de mujer
 Nadina Nadina NPFSSP0 # avl
@@ -11735,6 +12361,9 @@ Namiquipa Namiquipa NPCSG00 #municipios de México
 Nanawa Nanawa NPCSG00 # Paraguay
 Nancagua Nancagua NPCSG00 #municipios de Chile
 Nancy Nancy NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nanda Nanda NPFSSP0 #hipocorístico
+Nando Nando NPMSSP0 #hipocorístico
+Nani Nani NPFSSP0 #hipocorístico
 Nankín Nankín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nantes Nantes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Naolinco Naolinco NPCSG00 #municipios de México
@@ -11749,8 +12378,10 @@ Narboneta Narboneta NPCSG00 #municipios de España
 Narcisa Narcisa NPFSSP0 # avl
 Narciso Narciso NPMSSP0 # avl
 Narcís Narcís NPMSSP0 #nombre propio de hombre
+Narito Narito NPMSSP0 #hipocorístico
 Nariño Nariño NPCSG00
 Narnia Narnia NPFSG00
+Naro Naro NPMSSP0 #hipocorístico
 Naroa Naroa NPFSSP0 #nombre propio de mujer
 Narros Narros NPCSG00 #municipios de España
 Narváez Narváez NPCNSP0
@@ -11777,6 +12408,7 @@ Nathalie Nathalie NPFSSP0
 Nathan Nathan NPMSSP0
 Nati Nati NPFSSP0 # avl
 Natividad Natividad NPFSSP0 # avl
+Natu Natu NPFSSP0 #hipocorístico
 Natán Natán NPMSSP0 # avl
 Natívitas Natívitas NPCSG00 #municipios de México
 Naucalpan Naucalpan NPMSG00
@@ -11848,9 +12480,14 @@ Naya Naya NPFSSP0 #nombre propio de mujer
 Nayade Nayade NPFSSP0 #nombre propio de mujer
 Nayara Nayara NPFSSP0 # avl
 Nayarit Nayarit NPCSG00
+Naye Naye NPFSSP0 #hipocorístico
 Nayeli Nayeli NPFSSP0 #nombre propio de mujer
+Nayi Nayi NPFSSP0 #hipocorístico
+Nayita Nayita NPFSSP0 #hipocorístico
 Nayla Nayla NPFSSP0 #nombre propio de mujer
 Nayra Nayra NPFSSP0 #nombre propio de mujer
+Naza Naza NPFSSP0 #hipocorístico
+Naza Naza NPMSSP0 #hipocorístico
 Nazar Nazar NPCSG00 #municipios de España
 Nazarena Nazarena NPFSSP0 # avl
 Nazareno Nazareno NPMSSP0 # avl
@@ -11870,6 +12507,8 @@ Nebot Nebot NPCNSP0 #apellido
 Nebraska Nebraska NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nebreda Nebreda NPCSG00 #municipios de España
 Necaxa Necaxa NPCSG00
+Necho Necho NPFSSP0 #hipocorístico
+Nechon Nechon NPMSSP0 #hipocorístico
 Nechí Nechí NPCSG00 #municipios de Colombia
 Necochea Necochea NPCSG00 # Argentina
 Necoclí Necoclí NPCSG00 #municipios de Colombia
@@ -11892,7 +12531,9 @@ Neizan Neizan NPMSSP0 #nombre propio de hombre
 Nekane Nekane NPFSSP0 #nombre propio de mujer
 Nel Nel NPMSSP0 #nombre propio de hombre
 Nela Nela NPFSSP0 #nombre propio de mujer
+Neli Neli NPFSSP0 #hipocorístico
 Nelia Nelia NPFSSP0 #nombre propio de mujer
+Nellita Nellita NPFSSP0 #hipocorístico
 Nelly Nelly NPCNSP0
 Nelson Nelson NPCNSP0
 Nemesia Nemesia NPFSSP0 # avl
@@ -11914,9 +12555,13 @@ Nerpio Nerpio NPCSG00 #municipios de España
 Neruda Neruda NPCNSP0 # wiki
 Nerva Nerva NPCSG00 #municipios de España
 Nerón Nerón NPMSSP0 # avl
+Nesha Nesha NPFSSP0 #hipocorístico
+Nesi Nesi NPFSSP0 #hipocorístico
 Nestares Nestares NPCSG00 #municipios de España
+Nesti Nesti NPMSSP0 #hipocorístico
 Nestoria Nestoria NPFSSP0 # avl
 Netanyahu Netanyahu NPCNSP0
+Neti Neti NPFSSP0 #hipocorístico
 Neumann Neumann NPCNSP0 # wiki
 Neuquén Neuquén NPCSG00
 Neus Neus NPFSSP0 #nombre propio de mujer
@@ -11931,6 +12576,7 @@ Nezha Nezha NPFSSP0 #nombre propio de mujer
 Nguane Nguane NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niamey Niamey NPCNG00 # topònim-apertium-falta-gènere-nombre
 Niang Niang NPCNSP0 #apellido
+Nica Nica NPFSSP0 #hipocorístico
 Nicandra Nicandra NPFSSP0 # avl
 Nicandro Nicandro NPMSSP0 # avl
 Nicanor Nicanor NPMSSP0 # avl
@@ -11980,11 +12626,14 @@ Nikolas Nikolas NPMSSP0 #nombre propio de hombre
 Nikolay Nikolay NPMSSP0 #nombre propio de hombre
 Nikole Nikole NPFSSP0 #nombre propio de mujer
 Nil Nil NPMSSP0 #nombre propio de hombre
+Nila Nila NPFSSP0 #hipocorístico
 Nilo Nilo NPMSG00 # topònim-apertium
 Nilo Nilo NPMSSP0 # avl
 Nimaima Nimaima NPCSG00 #municipios de Colombia
 Nimes Nimes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Nimo Nimo NPMSSP0 #hipocorístico
 Nina Nina NPFSSP0 # avl
+Nines Nines NPFSSP0 #hipocorístico
 Ninfa Ninfa NPFSSP0 # avl
 Ninhue Ninhue NPCSG00 #municipios de Chile
 Nino Nino NPFSSP0 #nombre propio de mujer
@@ -11996,6 +12645,7 @@ Niscemi Niscemi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nisrin Nisrin NPFSSP0 #nombre propio de mujer
 Nisrine Nisrine NPFSSP0 #nombre propio de mujer
 Nissen Nissen NPCNSP0 # medical
+Nita Nita NPFSSP0 #hipocorístico
 Nitria Nitria NPCNG00
 Niue Niue NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nixon Nixon NPCNSP0 # wiki
@@ -12017,6 +12667,7 @@ Nocara Nocara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nocera Nocera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nocupétaro Nocupétaro NPCSG00 #municipios de México
 Noel Noel NPMSSP0 # avl
+Noeli Noeli NPFSSP0 #hipocorístico
 Noelia Noelia NPFSSP0 # avl
 Noemí Noemí NPFSSP0 # avl
 Noetinger Noetinger NPCSG00 #municipios de Argentina
@@ -12097,8 +12748,11 @@ Nunes Nunes NPCNSP0 #apellido
 Nuno Nuno NPMSSP0 #nombre propio de hombre
 Nuquí Nuquí NPCSG00 #municipios de Colombia
 Nur Nur NPFSSP0 #nombre propio de mujer
+Nuri Nuri NPFSSP0 #hipocorístico
 Nuria Nuria NPFSG00 # topònim-apertium
 Nuria Nuria NPFSSP0 # avl
+Nurieta Nurieta NPFSSP0 #hipocorístico
+Nurita Nurita NPFSSP0 #hipocorístico
 Nursultán Nursultán NPCSG00
 Nussbaum Nussbaum NPCNSP0
 Nuuk Nuuk NPCNG00
@@ -12265,7 +12919,9 @@ Oleksandr Oleksandr NPMSSP0 #nombre propio de hombre
 Oleksandra Oleksandra NPFSSP0 #nombre propio de mujer
 Olena Olena NPFSSP0 #nombre propio de mujer
 Olesa Olesa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Olfo Olfo NPMSSP0 #hipocorístico
 Olga Olga NPFSSP0 # avl
+Olguita Olguita NPFSSP0 #hipocorístico
 Olha Olha NPFSSP0 #nombre propio de mujer
 Oliana Oliana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oliba Oliba NPMSSP0 # avl
@@ -12318,6 +12974,7 @@ Omaha Omaha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Omaima Omaima NPFSSP0 #nombre propio de mujer
 Omaira Omaira NPFSSP0 #nombre propio de mujer
 Omar Omar NPMSSP0 # avl
+Omarcito Omarcito NPMSSP0 #hipocorístico
 Omaro Omaro NPMSSP0 # avl
 Omayma Omayma NPFSSP0 #nombre propio de mujer
 Omealca Omealca NPCSG00 #municipios de México
@@ -12465,6 +13122,7 @@ Osaka Osaka NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osama Osama NPMSSP0 #nombre propio de hombre
 Osasuna Osasuna NPMSO00
 Osborne Osborne NPCNSP0
+Oscarín Oscarín NPMSSP0 #hipocorístico
 Oseas Oseas NPMSSP0 # avl
 Oseja Oseja NPCSG00 #municipios de España
 Osetia Osetia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12479,6 +13137,8 @@ Osornillo Osornillo NPCSG00 #municipios de España
 Osorno Osorno NPCSG00 # Chile
 Ospina Ospina NPCNSP0
 Ospino Ospino NPCSG00 # Venezuela
+Osqui Osqui NPMSSP0 #hipocorístico
+Osquitar Osquitar NPMSSP0 #hipocorístico
 Ossama Ossama NPMSSP0 #nombre propio de hombre
 Ostellato Ostellato NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ostia Ostia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12487,6 +13147,7 @@ Osumacinta Osumacinta NPCSG00 #municipios de México
 Osuna Osuna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Osvalda Osvalda NPFSSP0 # avl
 Osvaldo Osvaldo NPMSSP0 # avl
+Osvi Osvi NPMSSP0 #hipocorístico
 Oswaldo Oswaldo NPCNSP0
 Ot Ot NPMSSP0 #nombre propio de hombre
 Otanche Otanche NPCSG00 #municipios de Colombia
@@ -12566,6 +13227,8 @@ PSE PSE NPMSO00
 PSG PSG NPMSO00
 PSN PSN NPCNO00
 PSOE PSOE NPCNO00 # wiki
+Pableras Pableras NPMSSP0 #hipocorístico
+Pablete Pablete NPMSSP0 #hipocorístico
 Pablito Pablito NPMSSP0 # familiar
 Pablo Pablo NPMSSP0 # avl
 Pac-Man Pac-Man NPCNSP0
@@ -12573,7 +13236,10 @@ Paca Paca NPFSSP0 # avl
 Pacasmayo Pacasmayo NPCSG00 # Perú
 Pachavita Pachavita NPCSG00 #municipios de Colombia
 Pacheco Pacheco NPCNSP0
+Pachi Pachi NPFSSP0 #hipocorístico
+Pachi Pachi NPMSSP0 #hipocorístico
 Pacho Pacho NPCSG00 #municipios de Colombia
+Paci Paci NPFSSP0 #hipocorístico
 Paciana Paciana NPFSSP0 # avl
 Paciano Paciano NPMSSP0 # avl
 Paciencia Paciencia NPFSSP0 # avl
@@ -12647,6 +13313,7 @@ Palenzuela Palenzuela NPCSG00 #municipios de España
 Palermiti Palermiti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palermo Palermo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Palestina Palestina NPFSG00
+Palini Palini NPMSSP0 #hipocorístico
 Palizzi Palizzi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pallagorio Pallagorio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pallars Pallars NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12673,6 +13340,7 @@ Palpalá Palpalá NPCSG00 # Argentina LO
 Pals Pals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paltauf Paltauf NPCNSP0 # medical
 Paludi Paludi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pame Pame NPFSSP0 #hipocorístico
 Pamela Pamela NPFSSP0 # avl
 Pamesa Pamesa NPCNO00
 Pamies Pamies NPCNSP0 #apellido
@@ -12689,6 +13357,7 @@ Panabá Panabá NPCSG00 #municipios de México
 Panambí Panambí NPCSG00 #municipios de Argentina
 Panamá Panamá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pancha Pancha NPFSSP0 # avl
+Panchita Panchita NPFSSP0 #hipocorístico
 Pancho Pancho NPMSSP0 # avl
 Pancholo Pancholo NPCSG00 # Paraguay
 Pancoast Pancoast NPCNSP0 # medical
@@ -12723,15 +13392,19 @@ Pantón Pantón NPCSG00 #municipios de España
 Panucio Panucio NPMSSP0 # avl
 Pao Pao NPCSG00 # Venezuela
 Paola Paola NPFSSP0 # avl
+Paolistono Paolistono NPMSSP0 #hipocorístico
+Paolito Paolito NPMSSP0 #hipocorístico
 Paolo Paolo NPCNSP0 # wiki
 Papalotla Papalotla NPCSG00 #municipios de México
 Papantla Papantla NPCSG00 #municipios de México
 Papasidero Papasidero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Papatrigo Papatrigo NPCSG00 #municipios de España
 Papeete Papeete NPCNG00 # topònim-apertium-falta-gènere-nombre
+Papico Papico NPMSSP0 #hipocorístico
 Papunahua Papunahua NPCSG00 #municipios de Colombia
 Papúa Papúa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paquetexpress Paquetexpress NPCNO00
+Paqui Paqui NPFSSP0 #hipocorístico
 Paquita Paquita NPFSSP0
 Paquito Paquito NPMSSP0
 Paracelso Paracelso NPMSSP0 # avl
@@ -12793,6 +13466,7 @@ Pascal Pascal NPCNSP0
 Pascasia Pascasia NPFSSP0 # avl
 Pascasio Pascasio NPMSSP0 # avl
 Pasco Pasco NPCSG00 # Perú
+Pascu Pascu NPMSSP0 #hipocorístico
 Pascual Pascual NPMSSP0 # avl
 Pascuala Pascuala NPFSSP0 # avl
 Pascualcobo Pascualcobo NPCSG00 #municipios de España
@@ -12805,6 +13479,7 @@ Pasteur Pasteur NPCNSP0 # wiki
 Pastor Pastor NPMSSP0 # avl
 Pastora Pastora NPFSSP0 # avl
 Pastores Pastores NPCSG00 #municipios de España
+Pastorita Pastorita NPFSSP0 #hipocorístico
 Pastrana Pastrana NPCSG00 #municipios de España
 Pastriz Pastriz NPCSG00 #municipios de España
 Pasífae Pasífae NPFSSP0 # avl
@@ -12814,10 +13489,14 @@ Patagonia Patagonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Patate Patate NPCSG00 # Ecuador
 Patau Patau NPCNSP0 # medical
 Paterna Paterna NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pati Pati NPFSSP0 #hipocorístico
+Pati Pati NPMSSP0 #hipocorístico
 Patiño Patiño NPCNSP0
 Patmos Patmos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Patones Patones NPCSG00 #municipios de España
 Patreon Patreon NPMSO00
+Patri Patri NPFSSP0 #hipocorístico
+Patri Patri NPMSSP0 #hipocorístico
 Patricia Patricia NPFSSP0 # avl
 Patricio Patricio NPMSSP0 # avl
 Patrick Patrick NPCNSP0 # wiki
@@ -12830,11 +13509,19 @@ Patía Patía NPCSG00 #municipios de Colombia
 Pau Pau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Paul Paul NPMSSP0 # wiki
 Paula Paula NPFSSP0 # avl
+Pauli Pauli NPFSSP0 #hipocorístico
+Pauli Pauli NPMSSP0 #hipocorístico
 Paulina Paulina NPFSSP0 # avl
 Pauline Pauline NPFSSP0 #nombre propio de mujer
 Pauling Pauling NPCNSP0 # wiki
 Paulino Paulino NPMSSP0 # avl
+Paulis Paulis NPFSSP0 #hipocorístico
+Paulis Paulis NPMSSP0 #hipocorístico
+Paulita Paulita NPFSSP0 #hipocorístico
+Pauloque Pauloque NPMSSP0 #hipocorístico
 Pauna Pauna NPCSG00 #municipios de Colombia
+Pausi Pausi NPFSSP0 #hipocorístico
+Pausi Pausi NPMSSP0 #hipocorístico
 Pavarotti Pavarotti NPCNSP0
 Pavel Pavel NPMSSP0 #nombre propio de hombre
 Pavies Pavies NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12845,6 +13532,7 @@ Paya Paya NPCSG00 #municipios de Colombia
 Payara Payara NPCSG00 # Venezuela
 Paymogo Paymogo NPCSG00 #municipios de España
 Payogasta Payogasta NPCSG00 #municipios de Argentina
+Payola Payola NPFSSP0 #hipocorístico
 Paysandú Paysandú NPCSG00 # Uruguay
 Payán Payán NPCNSP0 #apellido
 Paz Paz NPCNSP0 # wiki common surnames
@@ -12868,6 +13556,8 @@ Pedrera Pedrera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedret Pedret NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedrezuela Pedrezuela NPCSG00 #municipios de España
 Pedreño Pedreño NPCNSP0 #apellido
+Pedri Pedri NPMSSP0 #hipocorístico
+Pedrito Pedrito NPMSSP0 #hipocorístico
 Pedro Pedro NPMSSP0 # avl
 Pedro-Rodríguez Pedro-Rodríguez NPCSG00 #municipios de España
 Pedroche Pedroche NPCSG00 #municipios de España
@@ -12875,6 +13565,7 @@ Pedrola Pedrola NPCSG00 #municipios de España
 Pedrosa Pedrosa NPCNSP0 #apellido
 Pedroso Pedroso NPCSG00 #municipios de España
 Pedroza Pedroa NPCNSP0
+Pedrín Pedrín NPMSSP0 #hipocorístico
 Pegalajar Pegalajar NPCSG00 #municipios de España
 Pegaso Pegaso NPMSSP0 # avl
 Pegasus Pegasus NPMSSP0
@@ -12889,6 +13580,7 @@ Pelabravo Pelabravo NPCSG00 #municipios de España
 Pelagia Pelagia NPFSSP0 # avl
 Pelagio Pelagio NPMSSP0 # avl
 Pelahustán Pelahustán NPCSG00 #municipios de España
+Pelancha Pelancha NPFSSP0 #hipocorístico
 Pelarco Pelarco NPCSG00 #municipios de Chile
 Pelarrodríguez Pelarrodríguez NPCSG00 #municipios de España
 Pelaya Pelaya NPFSSP0 # avl
@@ -12909,6 +13601,7 @@ Pemuco Pemuco NPCSG00 #municipios de Chile
 Penagos Penagos NPCSG00 #municipios de España
 Penalva Penalva NPCNSP0 #apellido
 Pencahue Pencahue NPCSG00 #municipios de Chile
+Pencho Pencho NPMSSP0 #hipocorístico
 Penderecki Penderecki NPCNSP0
 Pendred Pendred NPCNSP0 # medical
 Penedès Penedès NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12929,6 +13622,16 @@ Peníscola Peníscola NPCSG00 #municipios de España
 Pep Pep NPMSSP0 #nombre propio de hombre
 Pepa Pepa NPFSSP0 # avl
 Pepe Pepe NPMSSP0 # avl
+Pepechente Pepechente NPMSSP0 #hipocorístico
+Pepelu Pepelu NPMSSP0 #hipocorístico
+Pepelucho Pepelucho NPMSSP0 #hipocorístico
+Pepeluis Pepeluis NPMSSP0 #hipocorístico
+Pepemongo Pepemongo NPMSSP0 #hipocorístico
+Pepenacho Pepenacho NPMSSP0 #hipocorístico
+Pepenando Pepenando NPMSSP0 #hipocorístico
+Pepevi Pepevi NPMSSP0 #hipocorístico
+Pepi Pepi NPFSSP0 #hipocorístico
+Pepín Pepín NPMSSP0 #hipocorístico
 Peque Peque NPCSG00 #municipios de Colombia
 Peque Peque NPCSG00 #municipios de España
 Peracense Peracense NPCSG00 #municipios de España
@@ -13031,7 +13734,9 @@ Petrés Petrés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Petín Petín NPCSG00 #municipios de España
 Peutz-Jeghers Peutz-Jeghers NPCNSP0 # medical
 Peyer Peyer NPCNSP0 # medical
+Peyo Peyo NPMSSP0 #hipocorístico
 Peyronie Peyronie NPCNSP0 # medical
+Peyuco Peyuco NPMSSP0 #hipocorístico
 Peña Peña NPCNSP0 # wiki common surnames
 Peñacaballera Peñacaballera NPCSG00 #municipios de España
 Peñacerrada-Urizaharra Peñacerrada-Urizaharra NPCSG00 #municipios de España
@@ -13105,6 +13810,8 @@ Pijijiapan Pijijiapan NPCSG00 #municipios de México
 Pikachu Pikachu NPMSSP0
 Piketty Piketty NPCNSP0
 Pilar Pilar NPCSSP0 # avl
+Pilarica Pilarica NPFSSP0 #hipocorístico
+Pilarín Pilarín NPFSSP0 #hipocorístico
 Pilas Pilas NPCSG00 #municipios de España
 Pilato Pilato NPMSSP0 # avl
 Pilatos Pilatos NPMSSP0 # avl
@@ -13112,8 +13819,12 @@ Pilcaniyeu Pilcaniyeu NPCSG00 #municipios de Argentina
 Pilcaya Pilcaya NPCSG00 #municipios de México
 Piles Piles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pili Pili NPFSSP0 # avl
+Pilita Pilita NPFSSP0 #hipocorístico
 Pilos Pilos NPCSG00
 Piloña Piloña NPCSG00 #municipios de España
+Pilu Pilu NPFSSP0 #hipocorístico
+Piluca Piluca NPFSSP0 #hipocorístico
+Piluchi Piluchi NPFSSP0 #hipocorístico
 Pimampiro Pimampiro NPCSG00 # Ecuador
 Pimentel Pimentel NPCNSP0
 Pina Pina NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13228,6 +13939,7 @@ Poblet Poblet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Poblete Poblete NPCNSP0 # wiki common surnames
 Poboleda Poboleda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Poch Poch NPCNSP0 #apellido
+Pocholo Pocholo NPMSSP0 #hipocorístico
 Pocito Pocito NPCSG00 #municipios de Argentina
 Poco Poco NPMSSP0 # avl
 Poe Poe NPCNSP0 # wiki
@@ -13257,6 +13969,7 @@ Polina Polina NPFSSP0 #nombre propio de mujer
 Polinesia Polinesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Polinyà Polinyà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Polistena Polistena NPCNG00 # topònim-apertium-falta-gènere-nombre
+Polito Polito NPMSSP0 #hipocorístico
 Pollença Pollença NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pollock Pollock NPCNSP0
 Pollos Pollos NPCSG00 #municipios de España
@@ -13282,6 +13995,7 @@ Pomán Pomán NPCSG00 #municipios de Argentina
 Ponce Ponce NPCNSP0 # wiki
 Ponce Ponce NPCNSP0 # wiki common surnames
 Ponchielli Ponchielli NPCNSP0
+Ponchis Ponchis NPMSSP0 #hipocorístico
 Poncia Poncia NPFSSP0 # avl
 Ponciana Ponciana NPFSSP0 # avl
 Ponciano Ponciano NPMSSP0 # avl
@@ -13436,6 +14150,7 @@ Provenza Provenza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Providence Providence NPCNG00 # topònim-apertium-falta-gènere-nombre
 Providencia Providencia NPFSSP0 # avl
 Prozac Prozac NPMSO00
+Pruden Pruden NPMSSP0 #hipocorístico
 Prudencia Prudencia NPFSSP0 # avl
 Prudenciana Prudenciana NPFSSP0 # avl
 Prudenciano Prudenciano NPMSSP0 # avl
@@ -13506,6 +14221,7 @@ Puntagorda Puntagorda NPCSG00 #municipios de España
 Puntallana Puntallana NPCSG00 #municipios de España
 Punxín Punxín NPCSG00 #municipios de España
 Punyab Punyab NPMSG00
+Pupe Pupe NPFSSP0 #hipocorístico
 Pupiales Pupiales NPCSG00 #municipios de Colombia
 Puqueldón Puqueldón NPCSG00 #municipios de Chile
 Pura Pura NPFSSP0 # avl
@@ -13514,6 +14230,7 @@ Puras Puras NPCSG00 #municipios de España
 Purcell Purcell NPCNSP0
 Purchena Purchena NPCSG00 #municipios de España
 Pureza Pureza NPFSSP0 # avl
+Puri Puri NPFSSP0 #hipocorístico
 Purificación Purificación NPFSSP0 # avl
 Purkinje Purkinje NPCNSP0 # medical
 Purmamarca Purmamarca NPCSG00 # Argentina LO
@@ -13580,8 +14297,10 @@ Quebec Quebec NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quebradanegra Quebradanegra NPCSG00 #municipios de Colombia
 Quecedo Quecedo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Quecholac Quecholac NPCSG00 #municipios de México
+Quechu Quechu NPMSSP0 #hipocorístico
 Quechultenango Quechultenango NPCSG00 #municipios de México
 Queckendstedt Queckendstedt NPCNSP0 # medical
+Queco Queco NPMSSP0 #hipocorístico
 Queen Queen NPCNSP0 # wiki
 Queen Quenn NPCNO00
 Queens Queens NPCSG00
@@ -13592,6 +14311,8 @@ Quel Quel NPCSG00 #municipios de España
 Quellón Quellón NPCSG00 #municipios de Chile
 Quemada Quemada NPCSG00 #municipios de España
 Quemchi Quemchi NPCSG00 #municipios de Chile
+Queni Queni NPFSSP0 #hipocorístico
+Queno Queno NPMSSP0 #hipocorístico
 Quequén Quequén NPCSG00 # Argentina
 Quer Quer NPCSG00 #municipios de España
 Queralbs Queralbs NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13616,6 +14337,7 @@ Quibdó Quibdó NPCSG00 # Colombia
 Quibor Quibor NPCSG00 # Venezuela
 Quica Quica NPFSSP0 # avl
 Quicena Quicena NPCSG00 #municipios de España
+Quichi Quichi NPFSSP0 #hipocorístico
 Quico Quico NPMSSP0 # avl
 Quiindy Quiindy NPCSG00 # Paraguay
 Quijana Quijana NPCNSP0
@@ -13645,6 +14367,7 @@ Quinchía Quinchía NPCSG00 #municipios de Colombia
 Quincke Quincke NPCNSP0 # medical
 Quindío Quindío NPMSG00
 Quines Quines NPCSG00 #municipios de Argentina
+Quini Quini NPMSSP0 #hipocorístico
 Quino Quino NPMSSP0 # avl
 Quinsaloma Quinsaloma NPCSG00 # Ecuador
 Quintana Quintana NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13719,8 +14442,10 @@ Radamés Radamés NPMSSP0 # avl
 Raddusa Raddusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Radermercker Radermercker NPCNSP0 # medical
 Radiante Radiante NPMSSP0 # avl
+Rado Rado NPMSSP0 #hipocorístico
 Radouane Radouane NPMSSP0 #nombre propio de hombre
 Radu Radu NPMSSP0 #nombre propio de hombre
+Rael Rael NPMSSP0 #hipocorístico
 Rafa Rafa NPMSSP0 # avl
 Rafael Rafael NPMSSP0 # avl
 Rafaela Rafaela NPFSSP0 # avl
@@ -13730,8 +14455,14 @@ Rafelbunyol Rafelbunyol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelbuñol Rafelbuñol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelcofer Rafelcofer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafelguaraf Rafelguaraf NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rafeta Rafeta NPMSSP0 #hipocorístico
+Rafi Rafi NPFSSP0 #hipocorístico
+Rafi Rafi NPMSSP0 #hipocorístico
 Rafik Rafik NPMSSP0 #nombre propio de hombre
+Rafiqui Rafiqui NPMSSP0 #hipocorístico
 Rafsanyani Rafsanyani NPCNSP0
+Rafuchi Rafuchi NPMSSP0 #hipocorístico
+Rafucho Rafucho NPMSSP0 #hipocorístico
 Raga Raga NPCNSP0 #apellido
 Ragalna Ragalna NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ragonvalia Ragonvalia NPCSG00 #municipios de Colombia
@@ -13757,12 +14488,17 @@ Ramallo Ramallo NPCSG00 #municipios de Argentina
 Rambo Rambo NPMSSP0
 Rambos Rambo NPMPSP0
 Ramfis Ramfis NPMSSP0
+Rami Rami NPMSSP0 #hipocorístico
 Ramira Ramira NPFSSP0 # avl
 Ramiriquí Ramiriquí NPCSG00 #municipios de Colombia
 Ramiro Ramiro NPMSSP0 # avl
 Ramirás Ramirás NPCSG00 #municipios de España
 Ramis Ramis NPCNSP0
 Ramona Ramona NPFSSP0 # avl
+Ramoncito Ramoncito NPMSSP0 #hipocorístico
+Ramoncín Ramoncín NPMSSP0 #hipocorístico
+Ramoni Ramoni NPFSSP0 #hipocorístico
+Ramonita Ramonita NPFSSP0 #hipocorístico
 Ramos Ramos NPCNSP0 # wiki common surnames
 Ramsay-Hunt Ramsay-Hunt NPCNSP0 # medical
 Ramsés Ramsés NPMSSP0 # avl
@@ -13770,6 +14506,7 @@ Ramálah Ramálah NPFSG00
 Ramírez Ramírez NPCNSP0 # wiki common surnames
 Ramón Ramón NPMSSP0 # avl
 Rancagua Rancagua NPCSG00
+Rancaio Rancaio NPMSSP0 #hipocorístico
 Ranco Ranco NPCSG00 #municipios de Chile
 Rancul Rancul NPCSG00 #municipios de Argentina
 Randazzo Randazzo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13783,6 +14520,8 @@ Ranvier Ranvier NPCNSP0 # medical
 Rapariegos Rapariegos NPCSG00 #municipios de España
 Rapunzel Rapunzel NPFSSP0
 Raquel Raquel NPFSSP0 # avl
+Raqui Raqui NPFSSP0 #hipocorístico
+Rarra Rarra NPFSSP0 #hipocorístico
 Rascafría Rascafría NPCSG00 #municipios de España
 Rashkind Rashkind NPCNSP0 # medical
 Rasines Rasines NPCSG00 #municipios de España
@@ -13794,6 +14533,9 @@ Rathke Rathke NPCNSP0 # medical
 Ratisbona Ratisbona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ratzinger Ratzinger NPCNSP0
 Rauch Rauch NPCSG00 #municipios de Argentina
+Rauli Rauli NPMSSP0 #hipocorístico
+Raulito Raulito NPMSSP0 #hipocorístico
+Raulín Raulín NPMSSP0 #hipocorístico
 Rauscher Rauscher NPCNSP0
 Ravelo Ravelo NPCNSP0 #apellido
 Ravena Ravena NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13811,6 +14553,7 @@ Read Read NPCNSP0 # medical
 Reagan Reagan NPCNSP0 # wiki
 Real Real NPCSG00 #municipios de España
 Realicó Realicó NPCSG00 #municipios de Argentina
+Rebe Rebe NPFSSP0 #hipocorístico
 Rebeca Rebeca NPFSSP0 # avl
 Rebecca Rebecca NPFSSP0 #nombre propio de mujer
 Rebollar Rebollar NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13836,12 +14579,16 @@ Redován Redován NPCNG00 # topònim-apertium-falta-gènere-nombre
 Redueña Redueña NPCSG00 #municipios de España
 Refetoff Refetoff NPCNSP0 # medical
 Refsum Refsum NPCNSP0 # medical
+Refu Refu NPMSSP0 #hipocorístico
+Refuqui Refuqui NPMSSP0 #hipocorístico
 Regencós Regencós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Regensburg Regensburg NPCNG00 # topònim-apertium-falta-gènere-nombre
+Regi Regi NPFSSP0 #hipocorístico
 Regimbaldo Regimbaldo NPMSSP0 # avl
 Regina Regina NPFSSP0 # avl
 Reginalda Reginalda NPFSSP0 # avl
 Reginaldo Reginaldo NPMSSP0 # avl
+Reginita Reginita NPFSSP0 #hipocorístico
 Regino Regino NPMSSP0 # avl
 Rego Rego NPCNSP0 #apellido
 Regueira Regueira NPCNSP0 #apellido
@@ -13877,23 +14624,28 @@ Remo Remo NPMSSP0 # avl
 Remolinos Remolinos NPCSG00 #municipios de España
 Remondo Remondo NPCSG00 #municipios de España
 Remón Remón NPCNSP0 #apellido
+Rena Rena NPMSSP0 #hipocorístico
 Renaico Renaico NPCSG00 #municipios de Chile
 Renania Renania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Renania-Palatinado Renania-Palatinado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Renarda Renarda NPFSSP0 # avl
 Renardo Renardo NPMSSP0 # avl
 Renata Renata NPFSSP0 # avl
+Renatita Renatita NPFSSP0 #hipocorístico
 Renato Renato NPMSSP0 # avl
 Renau Renau NPCNG00 # topònim-apertium-falta-gènere-nombre
+Renchu Renchu NPFSSP0 #hipocorístico
 Rende Rende NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rendón Rendón NPCNSP0 #apellido
 Renedo Renedo NPCNSP0 #apellido
 Renera Renera NPCSG00 #municipios de España
 Renfe Renfe NPCNO00
+Reni Reni NPFSSP0 #hipocorístico
 Renieblas Renieblas NPCSG00 #municipios de España
 Renoir Renoir NPCNSP0 # wiki
 Renovardo Renovardo NPMSSP0 # avl
 Rentería Rentería NPCNG00 # topònim-apertium-falta-gènere-nombre
+Renzo Renzo NPMSSP0 #hipocorístico
 René René NPMSSP0
 Reocín Reocín NPCSG00 #municipios de España
 Repelón Repelón NPCSG00 #municipios de Colombia
@@ -13958,10 +14710,13 @@ Ricard Ricard NPMSSP0 #nombre propio de hombre
 Ricarda Ricarda NPFSSP0 # avl
 Ricardo Ricardo NPMSSP0 # avl
 Ricart Ricart NPCNSP0 #apellido
+Ricart Ricart NPMSSP0 #hipocorístico
 Ricaurte Ricaurte NPCSG00 #municipios de Colombia
 Riccardo Riccardo NPMSSP0 #nombre propio de hombre
 Richard Richard NPCNSP0 # wiki
 Richelieu Richelieu NPMSSP0
+Riches Riches NPMSSP0 #hipocorístico
+Richi Richi NPMSSP0 #hipocorístico
 Richmond Richmond NPCNG00 # topònim-apertium-falta-gènere-nombre
 Richter Richter NPCNSP0 # wiki
 Rick Rick NPCNSP0 # wiki
@@ -13985,6 +14740,7 @@ Riga Riga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rigalda Rigalda NPFSSP0 # avl
 Rigaldo Rigaldo NPMSSP0 # avl
 Rigo Rigo NPCNSP0 #apellido
+Rigo Rigo NPMSSP0 #hipocorístico
 Rigoberta Rigoberta NPFSSP0 # avl
 Rigoberto Rigoberto NPMSSP0 # avl
 Rihab Rihab NPFSSP0 #nombre propio de mujer
@@ -14022,10 +14778,12 @@ Ripollès Ripollès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riposto Riposto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riquelme Riquelme NPCNSP0 # wiki common surnames
 Riquerio Riquerio NPMSSP0 # avl
+Riqui Riqui NPMSSP0 #hipocorístico
 Risaralda Risaralda NPCSG00
 Risco Risco NPCSG00 #municipios de España
 Rishi Rishi NPMSSP0
 Risorgimento Risorgimento NPMSO00
+Risto Risto NPMSSP0 #hipocorístico
 Rita Rita NPFSSP0 # avl
 Ritaj Ritaj NPFSSP0 #nombre propio de mujer
 Ritz Ritz NPCNSP0
@@ -14079,22 +14837,28 @@ Roccabernarda Roccabernarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roccaforte Roccaforte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roces Roces NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rocha Rocha NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rochi Rochi NPFSSP0 #hipocorístico
+Roci Roci NPFSSP0 #hipocorístico
+Rociíto Rociíto NPFSSP0 #hipocorístico
 Rocky Rocky NPCNSP0
 Rocío Rocío NPCSSP0 # avl
 Rodeiro Rodeiro NPCSG00 #municipios de España
 Rodes Rodes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rodesia Rodesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rodezno Rodezno NPCSG00 #municipios de España
+Rodi Rodi NPMSSP0 #hipocorístico
 Rodica Rodica NPFSSP0 #nombre propio de mujer
 Rodin Rodin NPCNSP0
 Rodoblado Rodoblado NPMSSP0 # avl
 Rodolfa Rodolfa NPFSSP0 # avl
 Rodolfo Rodolfo NPMSSP0 # avl
 Rodonyà Rodonyà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rodri Rodri NPMSSP0 #hipocorístico
 Rodriga Rodriga NPFSSP0 # avl
 Rodrigo Rodrigo NPMSSP0 # avl
 Rodríguez Rodríguez NPCNSP0
 Rodríguez Rodríguez NPCNSP0 # wiki common surnames
+Roge Roge NPMSSP0 #hipocorístico
 Rogelia Rogelia NPFSSP0 # avl
 Rogelio Rogelio NPMSSP0 # avl
 Roger Roger NPMSSP0
@@ -14118,14 +14882,21 @@ Rolando Rolando NPMSSP0 # avl
 Roldanillo Roldanillo NPCSG00 #municipios de Colombia
 Roldán Roldán NPCNSP0 # wiki common surnames
 Roldán Roldán NPMSSP0 # avl
+Roli Roli NPMSSP0 #hipocorístico
+Rolis Rolis NPMSSP0 #hipocorístico
 Rollamienta Rollamienta NPCSG00 #municipios de España
 Rolling Rolling NPCNSP0
 Rolls-Royce Rolls-Royce NPCNSP0
 Rollán Rollán NPCSG00 #municipios de España
+Rolán Rolán NPMSSP0 #hipocorístico
 Roma Roma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Romagnosi Romagnosi NPCNSP0
 Romaisa Romaisa NPFSSP0 #nombre propio de mujer
 Romana Romana NPFSSP0 # avl
+Romancho Romancho NPMSSP0 #hipocorístico
+Romancio Romancio NPMSSP0 #hipocorístico
+Romancito Romancito NPMSSP0 #hipocorístico
+Romancín Romancín NPMSSP0 #hipocorístico
 Romangordo Romangordo NPCSG00 #municipios de España
 Romanones Romanones NPCSG00 #municipios de España
 Romanos Romanos NPCSG00 #municipios de España
@@ -14139,6 +14910,7 @@ Romeo Romeo NPMSSP0 # avl
 Romero Romero NPCNSP0 # wiki common surnames
 Romero Romero NPCSSP0 # avl
 Romeu Romeu NPCNSP0 #apellido
+Romi Romi NPMSSP0 #hipocorístico
 Romina Romina NPFSSP0 # avl
 Romita Romita NPCSG00 #municipios de México
 Romualda Romualda NPFSSP0 # avl
@@ -14152,6 +14924,8 @@ Roncesvalles Roncesvalles NPCSG00 #municipios de Colombia
 Roncesvalles Roncesvalles NPCSG00 #municipios de España
 Ronda Ronda NPCSG00 #municipios de España
 Rondón Rondón NPCSG00 # Venezuela
+Roni Roni NPFSSP0 #hipocorístico
+Ronnie Ronnie NPFSSP0 #hipocorístico
 Roosevelt Roosevelt NPCNSP0 # wiki
 Roque Roque NPMSSP0 # avl
 Roquetes Roquetes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14183,6 +14957,7 @@ Rosendo Rosendo NPMSSP0 # avl
 Roser Roser NPFSSP0 #nombre propio de mujer
 Roses Roses NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roseto Roseto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rosi Rosi NPFSSP0 #hipocorístico
 Rosina Rosina NPFSSP0 #nombre propio de mujer
 Rosique Rosique NPCNSP0 #apellido
 Rosmery Rosmery NPFSSP0 #nombre propio de mujer
@@ -14211,6 +14986,9 @@ Ruan Ruan NPCSG00
 Ruanda Ruanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ruanes Ruanes NPCSG00 #municipios de España
 Rubena Rubena NPCSG00 #municipios de España
+Rubencho Rubencho NPMSSP0 #hipocorístico
+Rubencito Rubencito NPMSSP0 #hipocorístico
+Rubi Rubi NPMSSP0 #hipocorístico
 Rubiales Rubiales NPCSG00 #municipios de España
 Rubicón Rubicón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubik Rubik NPCNSP0
@@ -14219,30 +14997,37 @@ Rubio Rubio NPCNSP0
 Rubite Rubite NPCSG00 #municipios de España
 Rubiá Rubiá NPCSG00 #municipios de España
 Rubió Rubió NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rubo Rubo NPMSSP0 #hipocorístico
 Rubén Rubén NPMSSP0 # avl
 Rubí Rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rucandio Rucandio NPCSG00 #municipios de España
 Ruda Ruda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rudecindo Rudecindo NPMSSP0
+Rudi Rudi NPMSSP0 #hipocorístico
 Rudolf Rudolf NPCNSP0 # wiki
 Ruente Ruente NPCSG00 #municipios de España
 Ruesca Ruesca NPCSG00 #municipios de España
 Ruesga Ruesga NPCSG00 #municipios de España
 Ruffini Ruffini NPCNSP0 # medical
+Rufi Rufi NPMSSP0 #hipocorístico
 Rufina Rufina NPFSSP0 # avl
 Rufino Rufino NPMSSP0 # avl
 Rufián Rufián NPCNSP0
 Rufo Rufo NPMSSP0 # avl
+Rufus Rufus NPMSSP0 #hipocorístico
 Rugat Rugat NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rui Rui NPMSSP0 #hipocorístico
 Ruidera Ruidera NPCSG00 #municipios de España
 Ruiloba Ruiloba NPCSG00 #municipios de España
 Ruipérez Ruipérez NPCNSP0 #apellido
 Ruiz Ruiz NPCNSP0 # wiki common surnames
 Ruiz Ruiz NPMSSP0 # avl
+Ruli Ruli NPMSSP0 #hipocorístico
 Rull Rull NPCNSP0 #apellido
 Rumania Rumania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rumanía Rumanía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rummikub Rummikub NPMSO00
+Rupe Rupe NPMSSP0 #hipocorístico
 Ruperta Ruperta NPFSSP0 # avl
 Ruperto Ruperto NPMSSP0 # avl
 Rupit Rupit NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14258,6 +15043,7 @@ Rusu Rusu NPCNSP0 #apellido
 Rut Rut NPFSSP0 # avl
 Rute Rute NPCSG00 #municipios de España
 Ruth Ruth NPFSSP0 # avl
+Ruthy Ruthy NPFSSP0 #hipocorístico
 Rutilia Rutilia NPFSSP0 # avl
 Rutilio Rutilio NPMSSP0 # avl
 Ruymán Ruymán NPMSSP0 #nombre propio de hombre
@@ -14280,11 +15066,16 @@ Récalde Récalde NPCNSP0 #apellido
 Régula Régula NPFSSP0 # avl
 Régulo Régulo NPMSSP0 # avl
 Rémulo Rémulo NPMSSP0 # avl
+Rícar Rícar NPMSSP0 #hipocorístico
+Ríchar Ríchar NPMSSP0 #hipocorístico
+Ríchard Ríchard NPMSSP0 #hipocorístico
 Ríos Ríos NPCNSP0 # wiki common surnames
 Ròse Ròse NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ròtova Ròtova NPCSG00 #municipios de España
+Róber Róber NPMSSP0 #hipocorístico
 Ródano Ródano NPMSG00 # wiki
 Ródenas Ródenas NPCSG00 #municipios de España
+Róller Róller NPMSSP0 #hipocorístico
 Rómulo Rómulo NPMSSP0 # avl
 Róterdam Róterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rótova Rótova NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14513,6 +15304,7 @@ Salvaleón Salvaleón NPCSG00 #municipios de España
 Salvat Salvat NPCNSP0
 Salvatierra Salvatierra NPCSG00 #municipios de España
 Salvatore Salvatore NPMSSP0 #nombre propio de hombre
+Salvi Salvi NPMSSP0 #hipocorístico
 Salvia Salvia NPFSSP0 # avl
 Salvini Salvini NPCNSP0
 Salvio Salvio NPMSSP0 # avl
@@ -14545,6 +15337,7 @@ Sampacho Sampacho NPCSG00 #municipios de Argentina
 Samper Samper NPCNSP0 #apellido
 Sampieri Sampieri NPCNSP0
 Sampués Sampués NPCSG00 #municipios de Colombia
+Samu Samu NPMSSP0 #hipocorístico
 Samuel Samuel NPMSSP0 # avl
 Samuhú Samuhú NPCSG00 #municipios de Argentina
 San'a San'a NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14569,11 +15362,13 @@ Sandalia Sandalia NPFSSP0 # avl
 Sandalio Sandalio NPMSSP0 # avl
 Sande Sande NPCNSP0 #apellido
 Sanders Sanders NPCNSP0
+Sandi Sandi NPFSSP0 #hipocorístico
 Sandiás Sandiás NPCSG00 #municipios de España
 Sando Sando NPCSG00 #municipios de España
 Sandoná Sandoná NPCSG00 #municipios de Colombia
 Sandoval Sandoval NPCNSP0 # wiki common surnames
 Sandra Sandra NPFSSP0 # avl
+Sandrita Sandrita NPFSSP0 #hipocorístico
 Sandro Sandro NPMSSP0 # avl
 Sandu Sandu NPCNSP0 #apellido
 Sanet Sanet NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14584,6 +15379,7 @@ Sangineto Sangineto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sangolquí Sangolquí NPCSG00 # Ecuador
 Sangüesa Sangüesa NPCSG00 #municipios de España
 Sanhueza Sanhueza NPCNSP0 # wiki common surnames
+Sani Sani NPFSSP0 #hipocorístico
 Sanjuan Sanjuan NPCNSP0 #apellido
 Sanjurjo Sanjurjo NPCNSP0
 Sanlúcar Sanlúcar NPCSG00
@@ -14647,6 +15443,7 @@ Sarah Sarah NPCNSP0 # wiki
 Sarai Sarai NPFSSP0 #nombre propio de mujer
 Sarajevo Sarajevo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Saramago Saramago NPCNSP0
+Sarandonga Sarandonga NPFSSP0 #hipocorístico
 Sarare Sarare NPCSG00 # Venezuela
 Saravena Saravena NPCSG00 # Colombia
 Saray Saray NPFSSP0 # avl
@@ -14656,6 +15453,7 @@ Sareb Sareb NPFSO00
 Sargentillo Sargentillo NPCSG00 # Ecuador
 Sariego Sariego NPCSG00 #municipios de España
 Sariegos Sariegos NPCSG00 #municipios de España
+Sarita Sarita NPFSSP0 #hipocorístico
 Sariñena Sariñena NPCSG00 #municipios de España
 Saro Saro NPCSG00 #municipios de España
 Sarr Sarr NPCNSP0 #apellido
@@ -14671,6 +15469,7 @@ Sartajada Sartajada NPCSG00 #municipios de España
 Sarthe Sarthe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sartre Sartre NPCNSP0
 Sartze Sartze NPCSG00 #municipios de España
+Sarus Sarus NPFSSP0 #hipocorístico
 Sasaima Sasaima NPCSG00 #municipios de Colombia
 Sasamón Sasamón NPCSG00 #municipios de España
 Sassari Sassari NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14751,10 +15550,13 @@ Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
 Seagate Seagate NPCNO00
 Seattle Seattle NPCNG00 # topònim-apertium-falta-gènere-nombre
+Seba Seba NPMSSP0 #hipocorístico
+Sebas Sebas NPMSSP0 #hipocorístico
 Sebastiana Sebastiana NPFSSP0 # avl
 Sebastià Sebastià NPMSSP0 #nombre propio de hombre
 Sebastián Sebastián NPMSSP0 # avl
 Sebastopol Sebastopol NPCSG00 # topònim-apertium
+Sebio Sebio NPMSSP0 #hipocorístico
 Sebúlcor Sebúlcor NPCSG00 #municipios de España
 Secastilla Secastilla NPCSG00 #municipios de España
 Sechura Sechura NPCSG00 # Perú
@@ -14796,6 +15598,7 @@ Sella Sella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sellent Sellent NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sellick Sellick NPCNSP0 # medical
 Selma Selma NPFSG00
+Selmo Selmo NPMSSP0 #hipocorístico
 Selva Selva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sem Sem NPMSSP0 # avl
 Semillas Semillas NPCSG00 #municipios de España
@@ -14809,6 +15612,7 @@ Sena Sena NPMSG00 # topònim-apertium-falta-gènere-nombre
 Senado Senado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senan Senan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sencelles Sencelles NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sendo Sendo NPMSSP0 #hipocorístico
 Sendoa Sendoa NPMSSP0 #nombre propio de hombre
 Sendra Sendra NPCNSP0 #apellido
 Senegal Senegal NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14840,6 +15644,7 @@ Serapiona Serapiona NPFSSP0 # avl
 Serapión Serapión NPMSSP0 # avl
 Serban Serban NPCNSP0 #apellido
 Serbia Serbia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Serch Serch NPMSSP0 #hipocorístico
 Seregni Seregni NPCSG00 # Uruguay
 Serena Serena NPFSSP0 # avl
 Sereno Sereno NPMSSP0 # avl
@@ -14898,6 +15703,7 @@ Setla Setla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Setla-Mirarrosa-Miraflor Setla-Mirarrosa-Miraflor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Settingiano Settingiano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Seva Seva NPCNG00 # topònim-apertium-falta-gènere-nombre
+Seve Seve NPMSSP0 #hipocorístico
 Sever Sever NPCNSP0 # medical
 Severa Severa NPFSSP0 # avl
 Severiana Severiana NPFSSP0 # avl
@@ -14923,6 +15729,7 @@ Sharon Sharon NPFSSP0 #nombre propio de mujer
 Shaw Shaw NPCNSP0
 Sheehan Sheehan NPCNSP0 # medical
 Sheila Sheila NPFSSP0 # avl
+Sheili Sheili NPFSSP0 #hipocorístico
 Shelley Shelley NPCNSP0
 Sheraton Sheraton NPCNO00
 Sherezade Sherezade NPFSSP0 #nombre propio de mujer
@@ -14977,6 +15784,7 @@ Silvano Silvano NPMSSP0 # avl
 Silveria Silveria NPFSSP0 # avl
 Silverio Silverio NPMSSP0 # avl
 Silvestre Silvestre NPMSSP0 # avl
+Silvi Silvi NPFSSP0 #hipocorístico
 Silvia Silvia NPFSSP0 # avl
 Silvina Silvina NPFSSP0 # avl
 Silvino Silvino NPMSSP0 # avl
@@ -14993,6 +15801,8 @@ Simijaca Simijaca NPCSG00 #municipios de Colombia
 Simití Simití NPCSG00 #municipios de Colombia
 Simojovel Simojovel NPCSG00 #municipios de México
 Simona Simona NPFSSP0 # avl
+Simoncho Simoncho NPMSSP0 #hipocorístico
+Simoncito Simoncito NPMSSP0 #hipocorístico
 Simonds Simonds NPCNSP0 # medical
 Simone Simone NPFSSP0 #nombre propio de mujer
 Simone Simone NPMSSP0 #nombre propio de hombre
@@ -15009,6 +15819,7 @@ Sinarques Sinarques NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sinaí Sinaí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sincelejo Sincelejo NPCSG00 # Colombia
 Sinclair Sinclair NPCNSP0
+Sindo Sindo NPMSSP0 #hipocorístico
 Sineu Sineu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sinforosa Sinforosa NPFSSP0 # avl
 Sinforoso Sinforoso NPMSSP0 # avl
@@ -15075,7 +15886,9 @@ Socotá Socotá NPCSG00 #municipios de Colombia
 Socovos Socovos NPCSG00 #municipios de España
 Socuéllamos Socuéllamos NPCSG00 #municipios de España
 Sodoma Sodoma NPFSG00
+Sofi Sofi NPFSSP0 #hipocorístico
 Sofiane Sofiane NPMSSP0 #nombre propio de hombre
+Sofieta Sofieta NPFSSP0 #hipocorístico
 Sofiia Sofiia NPFSSP0 #nombre propio de mujer
 Sofián Sofián NPMSSP0 #nombre propio de hombre
 Sofonías Sofonías NPMSSP0 # avl
@@ -15095,8 +15908,10 @@ Solarana Solarana NPCSG00 #municipios de España
 Solbes Solbes NPCNSP0
 Soldati Soldati NPCSG00 # Argentina LO
 Soldevila Soldevila NPCNSP0 #apellido
+Sole Sole NPFSSP0 #hipocorístico
 Soledad Soledad NPFSSP0 # avl
 Solera Solera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Solete Solete NPFSSP0 #hipocorístico
 Solidarność Solidarność NPCSO00
 Soliedra Soliedra NPCSG00 #municipios de España
 Solimán Solimán NPMSSP0 # avl
@@ -15126,6 +15941,7 @@ Sondika Sondika NPCSG00 #municipios de España
 Soneja Soneja NPCNG00 # topònim-apertium-falta-gènere-nombre
 Song Song NPCNSP0 # wiki
 Sonia Sonia NPFSSP0 # avl
+Sonny Sonny NPMSSP0 #hipocorístico
 Sonora Sonora NPCSG00
 Sonseca Sonseca NPCSG00 #municipios de España
 Sonsoles Sonsoles NPFSSP0 # avl
@@ -15361,6 +16177,7 @@ Susanne Susanne NPFSSP0 #nombre propio de mujer
 Susi Susi NPFSSP0 # avl
 Susqueda Susqueda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Susticacán Susticacán NPCSG00 #municipios de México
+Susu Susu NPFSSP0 #hipocorístico
 Susupuato Susupuato NPCSG00 #municipios de México
 Sutamarchán Sutamarchán NPCSG00 #municipios de Colombia
 Sutatausa Sutatausa NPCSG00 #municipios de Colombia
@@ -15425,6 +16242,7 @@ Tabita Tabita NPFSSP0 #nombre propio de mujer
 Taboada Taboada NPCSG00 #municipios de España
 Taboadela Taboadela NPCSG00 #municipios de España
 Tabuenca Tabuenca NPCSG00 #municipios de España
+Tachete Tachete NPMSSP0 #hipocorístico
 Tacia Tacia NPFSSP0 # avl
 Tacio Tacio NPMSSP0 # avl
 Tacna Tacna NPCSG00 # Perú
@@ -15491,6 +16309,7 @@ Tamayo Tamayo NPCNSP0
 Tamazula Tamazula NPCSG00 #municipios de México
 Tamazunchale Tamazunchale NPCSG00 #municipios de México
 Tame Tame NPCSG00 #municipios de Colombia
+Tami Tami NPFSSP0 #hipocorístico
 Tamiahua Tamiahua NPCSG00 #municipios de México
 Tamimount Tamimount NPFSSP0 #nombre propio de mujer
 Taminango Taminango NPCSG00 #municipios de Colombia
@@ -15516,15 +16335,20 @@ Tanganika Tanganika NPCSG00
 Tangier Tangier NPCNSP0 # medical
 Tangua Tangua NPCSG00 #municipios de Colombia
 Tanhuato Tanhuato NPCSG00 #municipios de México
+Tani Tani NPFSSP0 #hipocorístico
+Tani Tani NPMSSP0 #hipocorístico
 Tania Tania NPFSSP0 # avl
 Taniche Taniche NPCSG00 #municipios de México
 Tanit Tanit NPFSSP0 #nombre propio de mujer
 Tanlajás Tanlajás NPCSG00 #municipios de México
 Tanner Tanner NPCNSP0 # medical
+Tanny Tanny NPFSSP0 #hipocorístico
 Tano Tano NPMSSP0 # avl
+Tante Tante NPMSSP0 #hipocorístico
 Tanti Tanti NPCSG00 #municipios de Argentina
 Tantima Tantima NPCSG00 #municipios de México
 Tantoyuca Tantoyuca NPCSG00 #municipios de México
+Tantín Tantín NPMSSP0 #hipocorístico
 Tanya Tanya NPFSSP0 #nombre propio de mujer
 Tanzania Tanzania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taoufik Taoufik NPMSSP0 #nombre propio de hombre
@@ -15537,6 +16361,7 @@ Tapia Tapia NPCNSP0 # wiki common surnames
 Tapilula Tapilula NPCSG00 #municipios de México
 Tapioles Tapioles NPCSG00 #municipios de España
 Tapso Tapso NPCSG00 #municipios de Argentina
+Taqui Taqui NPMSSP0 #hipocorístico
 Taquimilán Taquimilán NPCSG00 #municipios de Argentina
 Taradell Taradell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taragudo Taragudo NPCSG00 #municipios de España
@@ -15598,10 +16423,14 @@ Tasnim Tasnim NPFSSP0 #nombre propio de mujer
 Tasquillo Tasquillo NPCSG00 #municipios de México
 Tatacuá Tatacuá NPCSG00 #municipios de Argentina
 Tatatila Tatatila NPCSG00 #municipios de México
+Tati Tati NPFSSP0 #hipocorístico
+Tati Tati NPMSSP0 #hipocorístico
+Tatia Tatia NPFSSP0 #hipocorístico
 Tatiana Tatiana NPFSSP0 # avl
 Tatoeba Tatoeba NPCNO00
 Tatoeba Tatoeba NPCNO00 # wiki
 Tatras Tatras NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tatán Tatán NPMSSP0 #hipocorístico
 Tauramena Tauramena NPCSG00 #municipios de Colombia
 Taurianova Taurianova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tausa Tausa NPCSG00 #municipios de Colombia
@@ -15610,6 +16439,8 @@ Tauste Tauste NPCSG00 #municipios de España
 Tavapy Tavapy NPCSG00 # Paraguay
 Tavaí Tavaí NPCSG00 # Paraguay
 Tavertet Tavertet NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tavi Tavi NPMSSP0 #hipocorístico
+Tavo Tavo NPMSSP0 #hipocorístico
 Tavèrnoles Tavèrnoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tawara Tawara NPCNSP0 # medical
 Tay-Sachs Tay-Sachs NPCNSP0 # medical
@@ -15627,12 +16458,15 @@ Teaneck Teaneck NPCSG00
 Teapa Teapa NPCSG00 #municipios de México
 Teba Teba NPCSG00 #municipios de España
 Tebaida Tebaida NPFSG00
+Teban Teban NPMSSP0 #hipocorístico
 Tebas Tebas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tebicuary Tebicuary NPCSG00 # Paraguay
 Tebicuarymí Tebicuarymí NPCSG00 # Paraguay
+Tebo Tebo NPMSSP0 #hipocorístico
 Tecalitlán Tecalitlán NPCSG00 #municipios de México
 Tecamachalco Tecamachalco NPCSG00 #municipios de México
 Tecate Tecate NPCSG00 #municipios de México
+Techu Techu NPFSSP0 #hipocorístico
 Tecka Tecka NPCSG00 #municipios de Argentina
 Tecla Tecla NPFSSP0 # avl
 Tecoanapa Tecoanapa NPCSG00 #municipios de México
@@ -15645,6 +16479,13 @@ Tecozautla Tecozautla NPCSG00 #municipios de México
 Tecpatán Tecpatán NPCSG00 #municipios de México
 Tecuala Tecuala NPCSG00 #municipios de México
 Tecámac Tecámac NPCSG00 #municipios de México
+Ted Ted NPFSSP0 #hipocorístico
+Ted Ted NPMSSP0 #hipocorístico
+Tedi Tedi NPFSSP0 #hipocorístico
+Tedi Tedi NPMSSP0 #hipocorístico
+Tefa Tefa NPFSSP0 #hipocorístico
+Tefi Tefi NPFSSP0 #hipocorístico
+Tefo Tefo NPMSSP0 #hipocorístico
 Tegucigalpa Tegucigalpa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tegueste Tegueste NPCSG00 #municipios de España
 Teguise Teguise NPCSG00 #municipios de España
@@ -15706,6 +16547,8 @@ Tenamaxtlán Tenamaxtlán NPCSG00 #municipios de México
 Tenampa Tenampa NPCSG00 #municipios de México
 Tenampulco Tenampulco NPCSG00 #municipios de México
 Tenancingo Tenancingo NPCSG00 #municipios de México
+Tencha Tencha NPFSSP0 #hipocorístico
+Tencho Tencho NPMSSP0 #hipocorístico
 Tendilla Tendilla NPCSG00 #municipios de España
 Tenebrón Tenebrón NPCSG00 #municipios de España
 Tenejapa Tenejapa NPCSG00 #municipios de México
@@ -15818,6 +16661,7 @@ Tetiz Tetiz NPCSG00 #municipios de México
 Tetlatlahuca Tetlatlahuca NPCSG00 #municipios de México
 Tetuán Tetuán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tetyana Tetyana NPFSSP0 #nombre propio de mujer
+Teté Teté NPFSSP0 #hipocorístico
 Teuchitlán Teuchitlán NPCSG00 #municipios de México
 Teulada Teulada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Teusaquillo Teusaquillo NPCSG00
@@ -15843,6 +16687,7 @@ Thanksgiving Thanksgiving NPMSO00
 Thaís Thaís NPFSSP0 # avl
 Theo Theo NPMSSP0 #nombre propio de hombre
 Theodor Theodor NPCNSP0 # wiki
+Ther Ther NPFSSP0 #hipocorístico
 Theresienstadt Theresienstadt NPCSG00
 Thiago Thiago NPMSSP0 #nombre propio de hombre
 Thiessen Thiessen NPCNSP0
@@ -15916,15 +16761,19 @@ Timón Timón NPMSSP0 # avl
 Tina Tina NPFSSP0 # avl
 Tinajo Tinajo NPCSG00 #municipios de España
 Tinaquillo Tinaquillo NPCSG00 # Venezuela
+Tincho Tincho NPMSSP0 #hipocorístico
 Tinel Tinel NPCNSP0 # medical
 Tineo Tineo NPCSG00 #municipios de España
 Tingambato Tingambato NPCSG00 #municipios de México
 Tingüindín Tingüindín NPCSG00 #municipios de México
+Tini Tini NPFSSP0 #hipocorístico
+Tinita Tinita NPFSSP0 #hipocorístico
 Tinjacá Tinjacá NPCSG00 #municipios de Colombia
 Tino Tino NPMSSP0 # avl
 Tinoco Tinoco NPCNSP0 #apellido
 Tinogasta Tinogasta NPCSG00 #municipios de Argentina
 Tinum Tinum NPCSG00 #municipios de México
+Tinín Tinín NPMSSP0 #hipocorístico
 Tipacoque Tipacoque NPCSG00 #municipios de Colombia
 Tiquipaya Tiquipaya NPCSG00 # Bolivia
 Tiquisio Tiquisio NPCSG00 #municipios de Colombia
@@ -15940,9 +16789,12 @@ Tirso Tirso NPMSSP0 # avl
 Tirupur Tirupur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tirúa Tirúa NPCSG00 #municipios de Chile
 Tisbe Tisbe NPFSSP0 # avl
+Tish Tish NPFSSP0 #hipocorístico
+Tista Tista NPMSSP0 #hipocorístico
 Titaguas Titaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Titanic Titanic NPCNG00 # topònim-apertium-falta-gènere-nombre
 Titicaca Titicaca NPCSG00
+Titina Titina NPFSSP0 #hipocorístico
 Titiribí Titiribí NPCSG00 #municipios de Colombia
 Tito Tito NPMSSP0 # avl
 Titulcia Titulcia NPCSG00 #municipios de España
@@ -16004,6 +16856,7 @@ Tobar Tobar NPCNSP0
 Tobarra Tobarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tobatí Tobatí NPCSG00 # Paraguay
 Tobed Tobed NPCSG00 #municipios de España
+Tobi Tobi NPMSSP0 #hipocorístico
 Tobía Tobía NPCSG00 #municipios de España
 Tobías Tobías NPMSSP0 # avl
 Toca Toca NPCSG00 #municipios de Colombia
@@ -16018,7 +16871,9 @@ Tocumbo Tocumbo NPCSG00 #municipios de México
 Tocuyito Tocuyito NPCSG00 # Venezuela
 Toda Toda NPFSSP0 # avl
 Todd Todd NPCNSP0 # medical
+Todio Todio NPMSSP0 #hipocorístico
 Todolella Todolella NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tofi Tofi NPMSSP0 #hipocorístico
 Toga Toga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Togo Togo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Togüí Togüí NPCSG00 #municipios de Colombia
@@ -16032,8 +16887,10 @@ Toledo Toledo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toledo Toledo NPCNSP0 # wiki common surnames
 Tolhuin Tolhuin NPCSG00 # Argentina LO
 Tolimán Tolimán NPCSG00 #municipios de México
+Tolin Tolin NPMSSP0 #hipocorístico
 Tolkien Tolkien NPCNSP0 # wiki
 Tollos Tollos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tolo Tolo NPMSSP0 #hipocorístico
 Tolocirio Tolocirio NPCSG00 #municipios de España
 Tolomeo Tolomeo NPMSSP0 # avl
 Tolosa Tolosa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16046,9 +16903,12 @@ Tolva Tolva NPCSG00 #municipios de España
 Tom Tom NPMSSP0 # wiki
 Tomares Tomares NPCSG00 #municipios de España
 Tomasa Tomasa NPFSSP0 # avl
+Tomaso Tomaso NPMSSP0 #hipocorístico
+Tomasín Tomasín NPMSSP0 #hipocorístico
 Tomatlán Tomatlán NPCSG00 #municipios de México
 Tomelloso Tomelloso NPCSG00
 Tomeu Tomeu NPMSSP0 #nombre propio de hombre
+Tomi Tomi NPMSSP0 #hipocorístico
 Tomiño Tomiño NPCSG00 #municipios de España
 Tomás Tomás NPMSSP0 # avl
 Tona Tona NPCSG00 # topònim-apertium
@@ -16061,7 +16921,9 @@ Tonayán Tonayán NPCSG00 #municipios de México
 Tonga Tonga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toni Toni NPCNSP0
 Toni Toni NPMSSP0 # avl
+Tonia Tonia NPFSSP0 #hipocorístico
 Tonila Tonila NPCSG00 #municipios de México
+Tonio Tonio NPMSSP0 #hipocorístico
 Tono Tono NPMSSP0 # avl
 Tony Tony NPCNSP0 # wiki
 Topaipí Topaipí NPCSG00 #municipios de Colombia
@@ -16082,6 +16944,7 @@ Tordoia Tordoia NPCSG00 #municipios de España
 Tordómar Tordómar NPCSG00 #municipios de España
 Torelló Torelló NPCNG00 # topònim-apertium-falta-gènere-nombre
 Toreno Toreno NPCSG00 #municipios de España
+Tori Tori NPFSSP0 #hipocorístico
 Toribia Toribia NPFSSP0 # avl
 Toribio Toribio NPMSSP0 # avl
 Torija Torija NPCSG00 #municipios de España
@@ -16200,6 +17063,7 @@ Totalán Totalán NPCSG00 #municipios de España
 Totana Totana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Totanés Totanés NPCSG00 #municipios de España
 Totatiche Totatiche NPCSG00 #municipios de México
+Toto Toto NPMSSP0 #hipocorístico
 Totolac Totolac NPCSG00 #municipios de México
 Totolapa Totolapa NPCSG00 #municipios de México
 Totolapan Totolapan NPCSG00 #municipios de México
@@ -16218,7 +17082,13 @@ Tous Tous NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tovar Tovar NPCNSP0
 Towne Towne NPCNSP0 # medical
 Toya Toya NPFSSP0 # avl
+Toyo Toyo NPMSSP0 #hipocorístico
 Toén Toén NPCSG00 #municipios de España
+Toñeta Toñeta NPFSSP0 #hipocorístico
+Toñi Toñi NPFSSP0 #hipocorístico
+Toñito Toñito NPMSSP0 #hipocorístico
+Toño Toño NPMSSP0 #hipocorístico
+Toñín Toñín NPMSSP0 #hipocorístico
 Trabada Trabada NPCSG00 #municipios de España
 Trabadelo Trabadelo NPCSG00 #municipios de España
 Trabaldo Trabaldo NPMSSP0 # avl
@@ -16326,6 +17196,7 @@ Tuca Tuca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tucacas Tucacas NPCSG00 # Venezuela
 Tucaní Tucaní NPCSG00 # Venezuela
 Tucapel Tucapel NPCSG00 #municipios de Chile
+Tucho Tucho NPMSSP0 #hipocorístico
 Tuchín Tuchín NPCSG00 # Colombia
 Tucumán Tucumán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tucupido Tucupido NPCSG00 # Venezuela
@@ -16372,6 +17243,7 @@ Turicato Turicato NPCSG00 #municipios de México
 Turing Turing NPCNSP0
 Turing Turing NPCNSP0 # wiki
 Turingia Turingia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Turito Turito NPMSSP0 #hipocorístico
 Turkestán Turkestán NPCSG00 # topònim-apertium
 Turkmenistán Turkmenistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Turleque Turleque NPCSG00 #municipios de España
@@ -16430,11 +17302,13 @@ Tárraga Tárraga NPCNSP0 #apellido
 Tébar Tébar NPCSG00 #municipios de España
 Téllez Téllez NPCNSP0
 Térmens Térmens NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tésar Tésar NPMSSP0 #hipocorístico
 Tías Tías NPCSG00 #municipios de España
 Tíbet Tíbet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tíjola Tíjola NPCSG00 #municipios de España
 Tírig Tírig NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tírvia Tírvia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tóbal Tóbal NPMSSP0 #hipocorístico
 Tópaga Tópaga NPCSG00 #municipios de Colombia
 Tórtoles Tórtoles NPCSG00 #municipios de España
 Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16580,6 +17454,7 @@ Uribia Uribia NPCSG00 # Colombia
 Uriburu Uriburu NPCSG00 #municipios de Argentina
 Uriel Uriel NPMSSP0 # avl
 Urique Urique NPCSG00 #municipios de México
+Uris Uris NPFSSP0 #hipocorístico
 Urkabustaiz Urkabustaiz NPCSG00 #municipios de España
 Urko Urko NPMSSP0 #nombre propio de hombre
 Urnieta Urnieta NPCSG00 #municipios de España
@@ -16811,6 +17686,7 @@ Valmadrid Valmadrid NPCSG00 #municipios de España
 Valmala Valmala NPCSG00 #municipios de España
 Valmojado Valmojado NPCSG00 #municipios de España
 Valmore Valmore NPCSG00 # Venezuela
+Valo Valo NPMSSP0 #hipocorístico
 Valonia Valonia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Valpalmas Valpalmas NPCSG00 #municipios de España
 Valparaíso Valparaíso NPCSG00
@@ -16832,9 +17708,13 @@ València València NPCSG00 #municipios de España
 Valéry Valéry NPCNSP0
 Vancouver Vancouver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vandellòs Vandellòs NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vando Vando NPMSSP0 #hipocorístico
+Vane Vane NPFSSP0 #hipocorístico
 Vanegas Vanegas NPCNSP0
 Vanesa Vanesa NPFSSP0 # avl
 Vanessa Vanessa NPFSSP0
+Vani Vani NPFSSP0 #hipocorístico
+Vani Vani NPMSSP0 #hipocorístico
 Vania Vania NPFSSP0 # avl
 Vanina Vanina NPFSSP0
 Vanuatu Vanuatu NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16844,10 +17724,13 @@ Varela Varela NPCNSP0
 Varennes Varennes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vargas Vargas NPCNSP0 # wiki common surnames
 Varinia Varinia NPFSSP0 # avl
+Varito Varito NPMSSP0 #hipocorístico
 Varoufakis Varoufakis NPCNSP0
 Varradòs Varradòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Varsovia Varsovia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Varu Varu NPMSSP0 #hipocorístico
 Varèse Varèse NPCNSP0
+Varín Varín NPMSSP0 #hipocorístico
 Vasconcelos Vasconcelos NPCNSP0
 Vasil Vasil NPMSSP0 #nombre propio de hombre
 Vasile Vasile NPMSSP0 #nombre propio de hombre
@@ -16882,6 +17765,7 @@ Velay Velay NPCNG00 # topònim-apertium-falta-gènere-nombre
 Velayos Velayos NPCSG00 #municipios de España
 Velefique Velefique NPCSG00 #municipios de España
 Velilla Velilla NPCSG00 #municipios de España
+Velino Velino NPMSSP0 #hipocorístico
 Vellisca Vellisca NPCSG00 #municipios de España
 Velliza Velliza NPCSG00 #municipios de España
 Veloso Veloso NPCNSP0 #apellido
@@ -16928,6 +17812,7 @@ Verea Verea NPCSG00 #municipios de España
 Vergara Vergara NPCNSP0 # wiki common surnames
 Vergel Vergel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Verges Verges NPCNG00 # topònim-apertium-falta-gènere-nombre
+Verguille Verguille NPMSSP0 #hipocorístico
 Vermeer Vermeer NPCNSP0 # wiki
 Vermont Vermont NPCNG00 # topònim-apertium-falta-gènere-nombre
 Verne Verne NPCNSP0
@@ -16950,6 +17835,7 @@ Vesubio Vesubio NPMSG00
 Vetagrande Vetagrande NPCSG00 #municipios de México
 Vetas Vetas NPCSG00 #municipios de Colombia
 Vetula Vetula NPCNG00 # topònim-apertium-falta-gènere-nombre
+Veva Veva NPFSSP0 #hipocorístico
 Vezdemarbán Vezdemarbán NPCSG00 #municipios de España
 Viabrea Viabrea NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viacha Viacha NPCSG00 # Bolivia
@@ -16962,6 +17848,7 @@ Viator Viator NPCSG00 #municipios de España
 Vibonati Vibonati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viboral Viboral NPCSG00 # Colombia
 Vic Vic NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vica Vica NPFSSP0 #hipocorístico
 Vicedo Vicedo NPCNSP0 #apellido
 Vicen Vicen NPFSSP0 # avl
 Vicens Vicens NPCNSP0 #apellido
@@ -17251,6 +18138,7 @@ Villeguillo Villeguillo NPCSG00 #municipios de España
 Villel Villel NPCSG00 #municipios de España
 Villena Villena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Villeta Villeta NPCSG00 # Paraguay
+Villi Villi NPFSSP0 #hipocorístico
 Villodre Villodre NPCSG00 #municipios de España
 Villodrigo Villodrigo NPCSG00 #municipios de España
 Villoldo Villoldo NPCSG00 #municipios de España
@@ -17274,6 +18162,7 @@ Vinalesa Vinalesa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vinalopó Vinalopó NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vinaroz Vinaroz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vinaròs Vinaròs NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vince Vince NPMSSP0 #hipocorístico
 Vincent Vincent NPCNSP0 # medical
 Vincenzo Vincenzo NPMSSP0 #nombre propio de hombre
 Vinces Vinces NPCSG00 # Ecuador
@@ -17282,6 +18171,7 @@ Vinci Vinci NPCNSP0 # wiki
 Vindel Vindel NPCSG00 #municipios de España
 Vinebre Vinebre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vinhana Vinhana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vini Vini NPMSSP0 #hipocorístico
 Vinicio Vinicio NPMSSP0 # avl
 Vinto Vinto NPCSG00 # Bolivia
 Vinuesa Vinuesa NPCSG00 #municipios de España
@@ -17290,21 +18180,27 @@ Vinyols Vinyols NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viola Viola NPFSSP0 # avl
 Violante Violante NPFSSP0 # avl
 Violeta Violeta NPFSSP0 # avl
+Violetita Violetita NPFSSP0 #hipocorístico
 Viollet-le-Duc Viollet-le-Duc NPCNSP0
 Viorel Viorel NPMSSP0 #nombre propio de hombre
 Viorica Viorica NPFSSP0 #nombre propio de mujer
 Viotá Viotá NPCSG00 #municipios de Colombia
+Viqui Viqui NPFSSP0 #hipocorístico
 Viracachá Viracachá NPCSG00 #municipios de Colombia
 Virasoro Virasoro NPCSG00 # Argentina
 Virchinia Virchinia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Virgi Virgi NPFSSP0 #hipocorístico
 Virgilia Virgilia NPFSSP0 # avl
 Virgilio Virgilio NPMSSP0 # avl
 Virginia Virginia NPFSG00 # topònim-apertium
 Virginia Virginia NPFSSP0 # avl
 Virginio Virginio NPMSSP0 # avl
+Viri Viri NPFSSP0 #hipocorístico
 Viriato Viriato NPMSSP0 # avl
 Viridiana Viridiana NPFSSP0 # avl
 Viridiano Viridiano NPMSSP0 # avl
+Virita Virita NPFSSP0 #hipocorístico
+Virtu Virtu NPFSSP0 #hipocorístico
 Virú Virú NPCSG00 # Perú
 Visiedo Visiedo NPCSG00 #municipios de España
 Visitación Visitación NPFSSP0 # avl
@@ -17321,10 +18217,15 @@ Vitaliy Vitaliy NPMSSP0 #nombre propio de hombre
 Vitelia Vitelia NPFSSP0 # avl
 Vitelio Vitelio NPMSSP0 # avl
 Viterbo Viterbo NPCSG00 #municipios de Colombia
+Viti Viti NPMSSP0 #hipocorístico
 Vitigudino Vitigudino NPCSG00 #municipios de España
+Vititor Vititor NPMSSP0 #hipocorístico
 Vito Vito NPMSSP0 # avl
+Vitoco Vitoco NPMSSP0 #hipocorístico
+Vitolo Vitolo NPMSSP0 #hipocorístico
 Vitoria Vitoria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vitoria-Gasteiz Vitoria-Gasteiz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vitín Vitín NPMSSP0 #hipocorístico
 Vivaldi Vivaldi NPCNSP0
 Vivanco Vivanco NPCNSP0 #apellido
 Vivancos Vivancos NPCNSP0 #apellido
@@ -17332,6 +18233,7 @@ Vivarés Vivarés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viveiro Viveiro NPCSG00 #municipios de España
 Viver Viver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Viveros Viveros NPCSG00 #municipios de España
+Vivi Vivi NPFSSP0 #hipocorístico
 Vivian Vivian NPFSSP0 #nombre propio de mujer
 Viviana Viviana NPFSSP0 # avl
 Viviano Viviano NPMSSP0 # avl
@@ -17409,6 +18311,7 @@ Walthard Walthard NPCNSP0 # medical
 Wamba Wamba NPMSSP0 # avl
 Wanda Wanda NPCSSP0 # avl
 Wang Wang NPCNSP0 #apellido
+Wardo Wardo NPMSSP0 #hipocorístico
 Warhol Warhol NPCNSP0
 Warner Warner NPCNO00
 Warnes Warnes NPCSG00 # Bolivia
@@ -17431,6 +18334,8 @@ Welander Welander NPCNSP0 # medical
 Wellington Wellington NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wells Wells NPCNSP0
 Wembley Wembley NPCSG00
+Wence Wence NPMSSP0 #hipocorístico
+Wences Wences NPMSSP0 #hipocorístico
 Wenceslao Wenceslao NPMSSP0 # avl
 Wenceslava Wenceslava NPFSSP0 # avl
 Wendy Wendy NPFSSP0
@@ -17463,10 +18368,15 @@ WikiLeaks WikiLeaks NPMNO00
 Wikipedia Wikipedia NPFSO00
 Wikipedias Wikipedia NPFPO00
 Wikisource Wikisource NPCNO00 # wiki
+Wilchi Wilchi NPMSSP0 #hipocorístico
 Wilde Wilde NPCNSP0
+Wilf Wilf NPMSSP0 #hipocorístico
+Wilfi Wilfi NPMSSP0 #hipocorístico
+Wilfre Wilfre NPMSSP0 #hipocorístico
 Wilfreda Wilfreda NPFSSP0 # avl
 Wilfredo Wilfredo NPMSSP0 # avl
 Wilhelm Wilhelm NPCNSP0 # wiki
+Wili Wili NPMSSP0 #hipocorístico
 Willebrand Willebrand NPCNSP0 # medical
 Willendorf Willendorf NPCNSP0
 William William NPCNSP0
@@ -17525,6 +18435,8 @@ Xalpatláhuac Xalpatláhuac NPCSG00 #municipios de México
 Xaltocan Xaltocan NPCSG00 #municipios de México
 Xaló Xaló NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xana Xana NPFSSP0 #nombre propio de mujer
+Xandra Xandra NPFSSP0 #hipocorístico
+Xandro Xandro NPMSSP0 #hipocorístico
 Xarafull Xarafull NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xavi Xavi NPMSSP0
 Xavier Xavier NPMSSP0
@@ -17540,6 +18452,7 @@ Xert Xert NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xerta Xerta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xest Xest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xestalgar Xestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Xevi Xevi NPMSSP0 #hipocorístico
 Xi Xi NPCNSP0
 Xia Xia NPCNSP0 #apellido
 Xian Xian NPMSSP0 #nombre propio de hombre
@@ -17553,7 +18466,9 @@ Xicotlán Xicotlán NPCSG00 #municipios de México
 Xicoténcatl Xicoténcatl NPCSG00 #municipios de México
 Xilitla Xilitla NPCSG00 #municipios de México
 Xilxes Xilxes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Xime Xime NPFSSP0 #hipocorístico
 Ximena Ximena NPFSSP0
+Ximo Ximo NPMSSP0 #hipocorístico
 Xinyi Xinyi NPFSSP0 #nombre propio de mujer
 Xiomara Xiomara NPFSSP0 #nombre propio de mujer
 Xirivella Xirivella NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17649,6 +18564,7 @@ Yavaraté Yavaraté NPCSG00 #municipios de Colombia
 Yaxcabá Yaxcabá NPCSG00 #municipios de México
 Yaxe Yaxe NPCSG00 #municipios de México
 Yaxkukul Yaxkukul NPCSG00 #municipios de México
+Yayis Yayis NPFSSP0 #hipocorístico
 Yazmina Yazmina NPFSSP0 #nombre propio de mujer
 Yaú Yaú NPCSG00 # Paraguay
 Yby Yby NPCSG00 # Paraguay
@@ -17665,6 +18581,7 @@ Yeda Yeda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yegros Yegros NPCSG00 # Paraguay
 Yehualtepec Yehualtepec NPCSG00 #municipios de México
 Yeles Yeles NPCSG00 #municipios de España
+Yeli Yeli NPFSSP0 #hipocorístico
 Yelo Yelo NPCSG00 #municipios de España
 Yemen Yemen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yenifer Yenifer NPFSSP0 #nombre propio de mujer
@@ -17675,9 +18592,11 @@ Yerai Yerai NPMSSP0 #nombre propio de hombre
 Yeray Yeray NPMSSP0 # avl
 Yesa Yesa NPCSG00 #municipios de España
 Yesenia Yesenia NPFSSP0 #nombre propio de mujer
+Yesi Yesi NPFSSP0 #hipocorístico
 Yessica Yessica NPFSSP0
 Yeste Yeste NPCSG00 #municipios de España
 Yevgueni Yevgueni NPMSSP0
+Yeyo Yeyo NPMSSP0 #hipocorístico
 Ygatimí Ygatimí NPCSG00 # Paraguay
 Yguazú Yguazú NPCSG00 # Paraguay
 Yhaguy Yhaguy NPCSG00 # Paraguay
@@ -17685,6 +18604,9 @@ Yhú Yhú NPCSG00 # Paraguay
 Yi Yi NPMSSP0 #nombre propio de hombre
 Yibuti Yibuti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ying Ying NPFSSP0 #nombre propio de mujer
+Yisus Yisus NPMSSP0 #hipocorístico
+Yiya Yiya NPMSSP0 #hipocorístico
+Yiyo Yiyo NPMSSP0 #hipocorístico
 Ylenia Ylenia NPFSSP0 #nombre propio de mujer
 Yoana Yoana NPFSSP0 #nombre propio de mujer
 Yobaín Yobaín NPCSG00 #municipios de México
@@ -17696,13 +18618,17 @@ Yohana Yohana NPFSSP0 #nombre propio de mujer
 Yokohama Yokohama NPCSG00
 Yola Yola NPFSSP0 # avl
 Yolanda Yolanda NPFSSP0 # avl
+Yoli Yoli NPFSSP0 #hipocorístico
 Yolombó Yolombó NPCSG00 #municipios de Colombia
 Yon Yon NPMSSP0 #nombre propio de hombre
+Yona Yona NPMSSP0 #hipocorístico
 Yonatan Yonatan NPMSSP0 #nombre propio de hombre
 Yonathan Yonathan NPMSSP0 #nombre propio de hombre
 Yondó Yondó NPCSG00 #municipios de Colombia
+Yoni Yoni NPMSSP0 #hipocorístico
 Yonne Yonne NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yopal Yopal NPCSG00 # Colombia
+Yorch Yorch NPMSSP0 #hipocorístico
 Yordan Yordan NPMSSP0 #nombre propio de hombre
 York York NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yorkshire Yorkshire NPCSG00
@@ -17720,6 +18646,7 @@ Youssef Youssef NPCNSP0 # medical
 Youssouf Youssouf NPMSSP0 #nombre propio de hombre
 Youssoufia Youssoufia NPCSG00
 Youssra Youssra NPFSSP0 #nombre propio de mujer
+Yoya Yoya NPFSSP0 #hipocorístico
 Ypacaraí Ypacaraí NPCSG00 # Paraguay
 Ypané Ypané NPCSG00 # Paraguay
 Ypejhú Ypejhú NPCSG00 # Paraguay
@@ -17729,12 +18656,16 @@ Yu Yu NPCNSP0 #apellido
 Yubero Yubero NPCNSP0 #apellido
 Yucatán Yucatán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yucatán Yucatán NPCSG00
+Yudi Yudi NPFSSP0 #hipocorístico
 Yugoslavia Yugoslavia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Yuli Yuli NPFSSP0 #hipocorístico
 Yulia Yulia NPFSSP0 #nombre propio de mujer
 Yuliana Yuliana NPFSSP0 #nombre propio de mujer
 Yuliia Yuliia NPFSSP0 #nombre propio de mujer
 Yuliya Yuliya NPFSSP0 #nombre propio de mujer
+Yuma Yuma NPFSSP0 #hipocorístico
 Yumara Yumara NPFSSP0 #nombre propio de mujer
+Yumari Yumari NPFSSP0 #hipocorístico
 Yumbel Yumbel NPCSG00 #municipios de Chile
 Yumbo Yumbo NPCSG00 #municipios de Colombia
 Yuncler Yuncler NPCSG00 #municipios de España
@@ -17755,6 +18686,7 @@ Yuste Yuste NPMSSP0 # avl
 Yusuf Yusuf NPMSSP0 # avl
 Yuto Yuto NPCSG00 #municipios de Argentina
 Yuty Yuty NPCSG00 # Paraguay
+Yuya Yuya NPFSSP0 #hipocorístico
 Yvonne Yvonne NPFSSP0
 Yánez Yánez NPCNSP0 #apellido
 Yátova Yátova NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17769,6 +18701,7 @@ Zabala Zabala NPCNSP0
 Zabaleta Zabaleta NPCNSP0 #apellido
 Zabaltza Zabaltza NPCSG00 #municipios de España
 Zabalza Zabalza NPCSG00 #municipios de España
+Zabeth Zabeth NPFSSP0 #hipocorístico
 Zabulón Zabulón NPMSSP0 # avl
 Zacapala Zacapala NPCSG00 #municipios de México
 Zacapoaxtla Zacapoaxtla NPCSG00 #municipios de México
@@ -17779,6 +18712,8 @@ Zacatelco Zacatelco NPCSG00 #municipios de México
 Zacatepec Zacatepec NPCSG00 #municipios de México
 Zacatlán Zacatlán NPCSG00 #municipios de México
 Zacazonapan Zacazonapan NPCSG00 #municipios de México
+Zack Zack NPMSSP0 #hipocorístico
+Zacky Zacky NPMSSP0 #hipocorístico
 Zacualpan Zacualpan NPCSG00 #municipios de México
 Zael Zael NPCSG00 #municipios de España
 Zafarraya Zafarraya NPCSG00 #municipios de España
@@ -17796,7 +18731,10 @@ Zaid Zaid NPMSSP0 #nombre propio de hombre
 Zaida Zaida NPFSSP0 # avl
 Zaidín Zaidín NPCSG00 #municipios de España
 Zainab Zainab NPFSSP0 #nombre propio de mujer
+Zaira Zaira NPFSSP0 #hipocorístico
 Zaire Zaire NPCNG00 # topònim-apertium-falta-gènere-nombre
+Zairi Zairi NPFSSP0 #hipocorístico
+Zairita Zairita NPFSSP0 #hipocorístico
 Zakaria Zakaria NPMSSP0 #nombre propio de hombre
 Zakariae Zakariae NPMSSP0 #nombre propio de hombre
 Zakia Zakia NPFSSP0 #nombre propio de mujer
@@ -17804,6 +18742,7 @@ Zaldibar Zaldibar NPCSG00 #municipios de España
 Zaldibia Zaldibia NPCSG00 #municipios de España
 Zalduondo Zalduondo NPCSG00 #municipios de España
 Zalla Zalla NPCSG00 #municipios de España
+Zalo Zalo NPMSSP0 #hipocorístico
 Zamarra Zamarra NPCSG00 #municipios de España
 Zamayón Zamayón NPCSG00 #municipios de España
 Zambia Zambia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17852,6 +18791,7 @@ Zebedeo Zebedeo NPMSSP0 # avl
 Zeberio Zeberio NPCSG00 #municipios de España
 Zegama Zegama NPCSG00 #municipios de España
 Zeiss Zeiss NPCNSP0 # medical
+Zeke Zeke NPMSSP0 #hipocorístico
 Zelandia Zelandia NPFSG00
 Zelaya Zelaya NPCNSP0
 Zelenski Zelenski NPCNSP0
@@ -17920,7 +18860,10 @@ Zongozotla Zongozotla NPCSG00 #municipios de México
 Zoom Zoom NPMSO00
 Zoquiapan Zoquiapan NPCSG00 #municipios de México
 Zoquitlán Zoquitlán NPCSG00 #municipios de México
+Zora Zora NPFSSP0 #hipocorístico
 Zoraida Zoraida NPFSSP0 # avl
+Zorda Zorda NPFSSP0 #hipocorístico
+Zori Zori NPFSSP0 #hipocorístico
 Zorita Zorita NPCSG00 #municipios de España
 Zoroastro Zoroastro NPMSSP0 # avl
 Zorobabel Zorobabel NPMSSP0 # avl
@@ -17940,6 +18883,7 @@ Zufre Zufre NPCSG00 #municipios de España
 Zugarramurdi Zugarramurdi NPCSG00 #municipios de España
 Zuheros Zuheros NPCSG00 #municipios de España
 Zuia Zuia NPCSG00 #municipios de España
+Zule Zule NPFSSP0 #hipocorístico
 Zuleima Zuleima NPFSSP0 #nombre propio de mujer
 Zulema Zulema NPFSSP0 # avl
 Zulia Zulia NPCSG00 # Venezuela
@@ -18003,6 +18947,8 @@ oXygen oXygen NPMSO00
 Àngels Àngels NPFSSP0 #nombre propio de mujer
 Ábaco Ábaco NPMSSP0 # avl
 Ábalos Ábalos NPCSG00 #municipios de España
+Ádal Ádal NPMSSP0 #hipocorístico
+Ádolf Ádolf NPMSSP0 #hipocorístico
 África África NPFSG00 # topònim-apertium
 África África NPFSSP0 # avl
 Ágata Ágata NPFSSP0 # avl
@@ -18045,6 +18991,7 @@ oXygen oXygen NPMSO00
 Éfeso Éfeso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Éibar Éibar NPCSG00
 Éller Éller NPCNG00 # topònim-apertium-falta-gènere-nombre
+Élmer Élmer NPMSSP0 #hipocorístico
 Énguera Énguera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Épila Épila NPCSG00 #municipios de España
 Étienne Étienne NPMSSP0
@@ -18059,10 +19006,14 @@ oXygen oXygen NPMSO00
 Íscar Íscar NPCSG00 #municipios de España
 Íñigo Íñigo NPMSSP0 # avl
 Íñiguez Íñiguez NPCNSP0 #apellido
+Ñaco Ñaco NPMSSP0 #hipocorístico
 Ñacunday Ñacunday NPCSG00 # Paraguay
+Ñaki Ñaki NPMSSP0 #hipocorístico
 Ñancay Ñancay NPCSG00 # Argentina LO
 Ñeembucú Ñeembucú NPCSG00 # Paraguay
 Ñemby Ñemby NPCSG00 # Paraguay
+Ñico Ñico NPMSSP0 #hipocorístico
+Ñimo Ñimo NPMSSP0 #hipocorístico
 Ñiquén Ñiquén NPCSG00 #municipios de Chile
 Ñorquinco Ñorquinco NPCSG00 #municipios de Argentina
 Ñuble Ñuble NPCSG00 # Chile
