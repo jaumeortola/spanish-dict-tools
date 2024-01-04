@@ -10025,6 +10025,7 @@ Layos Layos NPCSG00 #municipios de España
 Laza Laza NPCSG00 #municipios de España
 Lazagurría Lazagurría NPCSG00 #municipios de España
 Lazcano Lazcano NPCNSP0 #apellido
+Lazio Lazio NPCSO00
 Lazkao Lazkao NPCSG00 #municipios de España
 Laínez Laínez NPCNSP0 #apellido
 LeVeen LeVeen NPCNSP0 # medical

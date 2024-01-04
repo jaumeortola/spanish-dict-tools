@@ -669,6 +669,7 @@ DJ=categories: MFI;fonts: sigla;
 DNA=categories: MI;fonts: dr;
 DNI=categories: MI;fonts: sigla;
 DNS=categories: MFI;fonts: sigla;
+DNU=categories: MI;fonts: sigla,Argentina;
 DNasa=categories: FI;fonts: medical;
 DO=categories: MFI;fonts: sigla;
 DRM=categories: MI;fonts: fundeu;
