@@ -4280,6 +4280,7 @@ autooscilador autoosciladora=categories: A;fonts: LT;
 autopartista=categories: A;fonts: dr;
 autopolarizado autopolarizada=categories: A;fonts: LT;
 autoprogramable=categories: A;fonts: LT;
+autopromocional=categories: A;fonts: derivat;
 autopropulsado autopropulsada=categories: A;fonts: LT;
 autopropulsor autopropulsora=categories: A;fonts: LT;
 autoral=categories: A;fonts: fundeu;

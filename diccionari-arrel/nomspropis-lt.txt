@@ -2445,6 +2445,7 @@ Barber Barber NPCNSP0 #apellido
 Barberán Barberán NPCNSP0 #apellido
 Barbie Barbie NPFSSP0
 Barbies Barbie NPFPSP0
+Barbizon Barbizon NPCSG00
 Barbolla Barbolla NPCSG00 #municipios de España
 Barbosa Barbosa NPCNSP0
 Barbués Barbués NPCSG00 #municipios de España
@@ -7893,6 +7894,7 @@ Goñi Goñi NPCSG00 #municipios de España
 Goñita Goñita NPFSSP0 #hipocorístico
 Graaf Graaf NPCNSP0 # medical
 Grace Grace NPCNSP0 # wiki
+Graceland Graceland NPCSG00
 Gracia Gracia NPFSG00 # topònim-apertium
 Gracia Gracia NPFSSP0 # avl
 Graciana Graciana NPFSSP0 # avl
@@ -8193,6 +8195,7 @@ Güímar Güímar NPCSG00 #municipios de España
 H&S H&S NPCNO00
 HAL HAL NPMSSP0
 HBO HBO NPCNSP0
+HEC HEC NPFSO00 # HEC Paris
 Haab Haab NPCNSP0 # medical
 Habacuc Habacuc NPMSSP0 # avl
 Habib Habib NPMSSP0 #nombre propio de hombre
