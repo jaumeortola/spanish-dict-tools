@@ -40624,6 +40624,7 @@ marchista=categories: MF;fonts: dr;
 marchitamiento=categories: M;fonts: LT;
 marchitez=categories: F;fonts: LT;
 marcialidad=categories: F;fonts: LT;
+marcianito=categories: M;fonts: derivado;
 marciano marciana=categories: MF;fonts: LT;
 marco=categories: M;fonts: LT;
 marcolador marcoladora=categories: MF;fonts: LT;
