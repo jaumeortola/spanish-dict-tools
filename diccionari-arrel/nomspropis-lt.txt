@@ -16149,10 +16149,12 @@ Sullivan Sullivan NPCNSP0
 Sulpicia Sulpicia NPFSSP0 # avl
 Sulpicio Sulpicio NPMSSP0 # avl
 Sultepec Sultepec NPCSG00 #municipios de México
+Sulzberger Sulzberger NPCNSP0
 Sumacàrcer Sumacàrcer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumacárcel Sumacárcel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumatra Sumatra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sumi Sumi NPCSG00
+Summerhill Summerhill NPCSO00
 Sun Sun NPCNSP0 #apellido
 Sunak Sunak NPCNSP0
 Sunbilla Sunbilla NPCSG00 #municipios de España
