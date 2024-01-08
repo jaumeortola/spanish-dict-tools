@@ -5064,6 +5064,7 @@ Colcapirhua Colcapirhua NPCSG00 # Bolivia
 Colchagua Colchagua NPCSG00 #municipios de Chile
 Colchane Colchane NPCSG00 #municipios de Chile
 Colera Colera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Coleridge Coleridge NPCNSP0
 Coles Coles NPCSG00 #municipios de España
 Colgate Colgate NPCNO00
 Colima Colima NPCSG00
@@ -6102,6 +6103,7 @@ Edesia Edesia NPFSSP0 # avl
 Edesio Edesio NPMSSP0 # avl
 Edgar Edgar NPMSSP0
 Edgardo Edgardo NPMSSP0
+Edgeworth Edgeworth NPCNSP0
 Edilberto Edilberto NPMSSP0
 Edimburgo Edimburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Edipo Edipo NPMSSP0 # avl
@@ -9323,6 +9325,7 @@ Jesusra Jesusra NPMSSP0 #hipocorístico
 Jesé Jesé NPMSSP0 # avl
 Jesús Jesús NPMSSP0 # avl
 Jete Jete NPCSG00 #municipios de España
+Jevons Jevons NPCNSP0
 Jezabel Jezabel NPFSSP0 # avl
 Jhonatan Jhonatan NPMSSP0 #nombre propio de hombre
 Jiang Jiang NPCNSP0 #apellido
@@ -18589,6 +18592,7 @@ Yegros Yegros NPCSG00 # Paraguay
 Yehualtepec Yehualtepec NPCSG00 #municipios de México
 Yeles Yeles NPCSG00 #municipios de España
 Yeli Yeli NPFSSP0 #hipocorístico
+Yellowstone Yellowstone NPCSG00
 Yelo Yelo NPCSG00 #municipios de España
 Yemen Yemen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yenifer Yenifer NPFSSP0 #nombre propio de mujer

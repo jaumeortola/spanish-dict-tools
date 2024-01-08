@@ -15240,6 +15240,7 @@ gruiforme=categories: A;fonts: dr;
 grullero grullera=categories: A;fonts: LT;
 grullo grulla=categories: A;fonts: dr;
 grumoso grumosa=categories: A;fonts: LT;
+grunge=categories: AI;fonts: english;
 grupal=categories: A;fonts: LT;
 grupuscular=categories: A;fonts: dr;
 grutesco grutesca=categories: A;fonts: LT;
