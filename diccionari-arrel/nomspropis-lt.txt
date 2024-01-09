@@ -2593,6 +2593,7 @@ Bayern Bayern NPCSO00
 Bayes Bayes NPCNSP0 # medical
 Bayley Bayley NPCNSP0 # medical
 Bayona Bayona NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bayreuth Bayreuth NPCSG00
 Bayárcal Bayárcal NPCSG00 #municipios de España
 Baz Baz NPCNSP0 #apellido
 Baza Baza NPCSG00 #municipios de España
@@ -4929,6 +4930,7 @@ Claravalls Claravalls NPCNG00 # topònim-apertium-falta-gènere-nombre
 Clari Clari NPFSSP0 #hipocorístico
 Clariana Clariana NPFSSP0 # avl
 Clariano Clariano NPMSSP0 # avl
+Claridge Claridge NPCNSP0
 Clarisa Clarisa NPFSSP0 # avl
 Clariso Clariso NPMSSP0 # avl
 Clark Clark NPCNSP0 # wiki
@@ -6236,6 +6238,7 @@ Elián Elián NPMSSP0 # avl
 Eljas Eljas NPCSG00 #municipios de España
 Elling Elling NPCNSP0
 Ellington Ellington NPCNSP0
+Ellsworth Ellsworth NCSG00
 Ellsworth-Howard Ellsworth-Howard NPCNSP0 # medical
 Elma Elma NPFSSP0 # avl
 Elmet Elmet NPCNG00 # topònim-apertium-falta-gènere-nombre
