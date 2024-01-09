@@ -22758,6 +22758,7 @@ multirreincidente=categories: A;fonts: dpej;
 multirriesgo=categories: AI;fonts: dr;
 multisectorial=categories: A;fonts: LT;
 multisecular=categories: A;fonts: dr;
+multisensorial=categories: A;fonts: derivat;
 multiservicio=categories: AI;fonts: derivat;
 multisimétrico multisimétrica=categories: A;fonts: LT;
 multiterritorial=categories: A;fonts: derivat;

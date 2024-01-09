@@ -7035,6 +7035,7 @@ reevaluar=categories: V;model:actuar;fonts: ap;
 reexaminar=categories: V;model:amar;fonts: LT;
 reexpedir=categories: V;model:pedir;fonts: LT;
 reexportar=categories: V;model:amar;fonts: LT;
+refacturar=categories: V;model:amar;fonts: prefix;
 referenciar=categories: V;model:amar;fonts: LT;
 referir=categories: V;model:digerir;fonts: LT;
 refinanciar=categories: V;model:amar;fonts: LT;
