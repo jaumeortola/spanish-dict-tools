@@ -53648,6 +53648,7 @@ ralenti=categories: M;fonts: LT;
 ralentización=categories: F;fonts: dr;
 ralentí [pl. ralentíes o ralentís]=categories: M;fonts: LT;
 raleza=categories: F;fonts: LT;
+rali=categories: M;fonts: fundeu;
 rallador=categories: M;fonts: LT;
 ralladura=categories: F;fonts: LT;
 ralliforme=categories: M;fonts: LT;

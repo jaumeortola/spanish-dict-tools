@@ -14452,6 +14452,7 @@ Radamanto Radamanto NPMSSP0
 Radamés Radamés NPMSSP0 # avl
 Raddusa Raddusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Radermercker Radermercker NPCNSP0 # medical
+Radetzky Radetzky NPCNSP0
 Radiante Radiante NPMSSP0 # avl
 Rado Rado NPMSSP0 #hipocorístico
 Radouane Radouane NPMSSP0 #nombre propio de hombre
@@ -19047,4 +19048,3 @@ oXygen oXygen NPMSO00
 Úrsula Úrsula NPFSSP0 # avl
 Útica Útica NPCSG00 #municipios de Colombia
 Łódź Łódź NPCSG00 # topònim-apertium
-Radetzky Radetzky NPCNSP0
