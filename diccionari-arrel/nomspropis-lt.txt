@@ -2452,6 +2452,7 @@ Barbués Barbués NPCSG00 #municipios de España
 Barbuñales Barbuñales NPCSG00 #municipios de España
 Barbézieux Barbézieux NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barca Barca NPCSG00 #municipios de España
+Barcala Barcala NPCNSP0
 Barcarrota Barcarrota NPCSG00 #municipios de España
 Barcelona Barcelona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barceloneta Barceloneta NPCNG00 # topònim-apertium-falta-gènere-nombre
