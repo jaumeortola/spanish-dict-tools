@@ -5876,6 +5876,7 @@ Diógenes Diógenes NPMSSP0 # avl
 Djibril Djibril NPMSSP0 #nombre propio de hombre
 Djokovic Djokovic NPCNSP0
 Dmitri Dmitri NPMSSP0
+Dnipró Dnipró NPCSG00
 Dniéper Dniéper NPMSG00
 Dniéster Dniéster NPMSG00
 Docampo Docampo NPCNSP0 #apellido
@@ -11280,6 +11281,7 @@ Mathausen Mathausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mathias Mathias NPMSSP0 #nombre propio de hombre
 Mati Mati NPFSSP0 #hipocorístico
 Mati Mati NPMSSP0 #hipocorístico
+Matignon Matignon NPCSG00
 Matilda Matilda NPFSSP0 # avl
 Matilde Matilde NPFSSP0 # avl
 Matilla Matilla NPCNSP0 #apellido

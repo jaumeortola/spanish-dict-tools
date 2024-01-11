@@ -222,6 +222,7 @@ cataplum cataplum I
 catorce catorce DN0CP0
 ce ce I
 chao chao I
+chapeau chapeau I
 chau chau I
 che che I
 chis chis I
