@@ -8503,6 +8503,7 @@ cuarto cuarta=categories: AO;fonts: LT;
 cuartogénito cuartogénita=categories: A;fonts: dr;
 cuarzoso cuarzosa=categories: A;fonts: LT;
 cuasidominante=categories: A;fonts: medical;
+cuasiterminado cuasiterminada=categories: A;fonts: derivat;
 cuasiveraniego cuasiveraniega=categories: A;fonts: fundeu;
 cuate=categories: A;fonts: LT;
 cuaternario cuaternaria=categories: A;fonts: LT;
