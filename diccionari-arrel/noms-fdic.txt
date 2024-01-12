@@ -19546,6 +19546,7 @@ cuarzo=categories: M;fonts: LT;
 cuasia=categories: F;fonts: LT;
 cuasicontrato=categories: M;fonts: LT;
 cuasidelito=categories: M;fonts: LT;
+cuasipartícula=categories: F;fonts: fundeu;
 cuasiposesión=categories: F;fonts: LT;
 cuatachismo=categories: M;fonts: dr;
 cuatacho cuatacha=categories: MF;fonts: dr;
