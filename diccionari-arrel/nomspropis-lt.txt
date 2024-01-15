@@ -7787,6 +7787,7 @@ Giuseppe Giuseppe NPMSSP0 # wiki
 Giza Giza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gizaburuaga Gizaburuaga NPCSG00 #municipios de España
 Gladis Gladis NPFSSP0 # avl
+Gladwell Gladwell NPCNSP0
 Gladys Gladys NPFSSP0
 Glanzmann Glanzmann NPCNSP0 # medical
 Glasgow Glasgow NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9800,7 +9801,44 @@ Kyrle Kyrle NPCNSP0 # medical
 Kárpov Kárpov NPCNSP0
 Köebner Köebner NPCNSP0 # medical
 Königsberg Königsberg NPCNG00 # topònim-apertium-falta-gènere-nombre
+L'Alacantí L'Alacantí NPCSG00
+L'Albagés L'Albagés NPCSG00
+L'Albi L'Albi NPCSG00
+L'Albiol L'Albiol NPCSG00
+L'Alcalatén L'Alcalatén NPCSG00
+L'Alcoià L'Alcoià NPCSG00
+L'Alcora L'Alcora NPCSG00
+L'Alcúdia L'Alcúdia NPCSG00
+L'Alcúdia de Crespins L'Alcúdia de Crespins NPCSG00
+L'Aldea L'Aldea NPCSG00
+L'Aleixar L'Aleixar NPCSG00
+L'Alfàs L'Alfàs NPCSG00
+L'Alfàs del Pi L'Alfàs del Pi NPCSG00
+L'Alguenya L'Alguenya NPCSG00
+L'Alqueria d'Asnar L'Alqueria d'Asnar NPCSG00
+L'Alqueria de la Comtessa L'Alqueria de la Comtessa NPCSG00
+L'Ametlla de Mar L'Ametlla de Mar NPCSG00
+L'Ametlla del Vallès L'Ametlla del Vallès NPCSG00
+L'Ampolla L'Ampolla NPCSG00
 L'Aquila L'Aquila NPCNG00 # topònim-apertium-falta-gènere-nombre
+L'Aranyó L'Aranyó NPCSG00
+L'Arboç L'Arboç NPCSG00
+L'Argentera L'Argentera NPCSG00
+L'Armentera L'Armentera NPCSG00
+L'Atzúbia L'Atzúbia NPCSG00
+L'Eliana L'Eliana NPCSG00
+L'Empordà L'Empordà NPCSG00
+L'Escala L'Escala NPCSG00
+L'Espluga Calba L'Espluga Calba NPCSG00
+L'Espluga de Francolí L'Espluga de Francolí NPCSG00
+L'Espunyola L'Espunyola NPCSG00
+L'Esquirol L'Esquirol NPCSG00
+L'Estany L'Estany NPCSG00
+L'Horta L'Horta NPCSG00
+L'Hospitalet de Llobregat L'Hospitalet de Llobregat NPCSG00
+L'Olleria L'Olleria NPCSG00
+L'Orxa L'Orxa NPCSG00
+L'Énova L'Énova NPCSG00
 LATAM LATAM NPFSG00
 LEC LEC NPFSO00
 LOMCE LMOCE NPFSO00
@@ -12795,6 +12833,7 @@ Núñez Núñez NPCNSP0 # wiki common surnames
 O'Brien O'Brien NPCNSP0
 O'Connor O'Connor NPCNSP0
 O'Donnell O'Donnell NPCNSP0
+O'Higgins O'Higgins NPCNSP0
 O'Higgins O'Higgins NPCSG00 #municipios de Chile
 O'Neill O'Neill NPCNSP0
 O'Sullivan O'Sullivan NPCNSP0
@@ -18931,34 +18970,43 @@ d'Alembert d'Alembert NPCNSP0
 easyJet easyJet NPCNO00
 iCat iCat NPCNO00
 iTunes iTunes NPCNO00
-l'Alacantí l'Alacantí NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Albagés l'Albagés NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Albi l'Albi NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Albiol l'Albiol NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Alcalatén l'Alcalatén NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Alcoià l'Alcoià NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Alcora l'Alcora NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Alcúdia l'Alcúdia NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Aldea l'Aldea NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Aleixar l'Aleixar NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Alfàs l'Alfàs NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Alguenya l'Alguenya NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Ampolla l'Ampolla NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Aranyó l'Aranyó NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Arboç l'Arboç NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Argentera l'Argentera NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Armentera l'Armentera NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Atzúbia l'Atzúbia NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Eliana l'Eliana NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Empordà l'Empordà NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Escala l'Escala NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Espunyola l'Espunyola NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Esquirol l'Esquirol NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Estany l'Estany NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Horta l'Horta NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Olleria l'Olleria NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Orxa l'Orxa NPCNG00 # topònim-apertium-falta-gènere-nombre
-l'Ènova l'Ènova NPCNG00 # topònim-apertium-falta-gènere-nombre
+l'Alacantí l'Alacantí NPCSG00
+l'Albagés l'Albagés NPCSG00
+l'Albi l'Albi NPCSG00
+l'Albiol l'Albiol NPCSG00
+l'Alcalatén l'Alcalatén NPCSG00
+l'Alcoià l'Alcoià NPCSG00
+l'Alcora l'Alcora NPCSG00
+l'Alcúdia de Crespins l'Alcúdia de Crespins NPCSG00
+l'Alcúdia l'Alcúdia NPCSG00
+l'Aldea l'Aldea NPCSG00
+l'Aleixar l'Aleixar NPCSG00
+l'Alfàs del Pi l'Alfàs del Pi NPCSG00
+l'Alfàs l'Alfàs NPCSG00
+l'Alguenya l'Alguenya NPCSG00
+l'Alqueria d'Asnar l'Alqueria d'Asnar NPCSG00
+l'Alqueria de la Comtessa l'Alqueria de la Comtessa NPCSG00
+l'Ametlla de Mar l'Ametlla de Mar NPCSG00
+l'Ametlla del Vallès l'Ametlla del Vallès NPCSG00
+l'Ampolla l'Ampolla NPCSG00
+l'Aranyó l'Aranyó NPCSG00
+l'Arboç l'Arboç NPCSG00
+l'Argentera l'Argentera NPCSG00
+l'Armentera l'Armentera NPCSG00
+l'Atzúbia l'Atzúbia NPCSG00
+l'Eliana l'Eliana NPCSG00
+l'Empordà l'Empordà NPCSG00
+l'Escala l'Escala NPCSG00
+l'Espluga Calba l'Espluga Calba NPCSG00
+l'Espluga de Francolí l'Espluga de Francolí NPCSG00
+l'Espunyola l'Espunyola NPCSG00
+l'Esquirol l'Esquirol NPCSG00
+l'Estany l'Estany NPCSG00
+l'Horta l'Horta NPCSG00
+l'Hospitalet de Llobregat l'Hospitalet de Llobregat NPCSG00
+l'Olleria l'Olleria NPCSG00
+l'Orxa l'Orxa NPCSG00
+l'Énova l'Énova NPCSG00
 oXygen oXygen NPMSO00
 Àger Àger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Àneu Àneu NPFSG00 # topònim-apertium-falta-gènere-nombre
