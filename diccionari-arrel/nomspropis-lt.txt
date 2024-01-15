@@ -9823,7 +9823,6 @@ L'Atzúbia L'Atzúbia NPCSG00
 L'Eliana L'Eliana NPCSG00
 L'Empordà L'Empordà NPCSG00
 L'Escala L'Escala NPCSG00
-L'Espluga Calba L'Espluga Calba NPCSG00
 L'Espunyola L'Espunyola NPCSG00
 L'Esquirol L'Esquirol NPCSG00
 L'Estany L'Estany NPCSG00
