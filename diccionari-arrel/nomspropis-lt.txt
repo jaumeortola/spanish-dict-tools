@@ -10697,6 +10697,7 @@ Lübeck Lübeck NPCNG00 # topònim-apertium-falta-gènere-nombre
 MIES MIES NPMSO00
 MIR MIR NPCNO00
 MWC MWC NPMSO00
+Ma'an Ma'an NPCSG00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mabel Mabel NPFSSP0 # avl
 Mac Mac NPCNO00 # wiki
