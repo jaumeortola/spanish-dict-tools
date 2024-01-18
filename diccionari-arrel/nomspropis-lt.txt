@@ -12516,6 +12516,7 @@ Navia Navia NPCSG00 #municipios de España
 Navier-Stokes Navier-Stokes NPCNSP0
 Navojoa Navojoa NPCSG00 # México
 Navolato Navolato NPCSG00 #municipios de México
+Navona Navona NPFSG00
 Navàs Navàs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Navès Navès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nawal Nawal NPFSSP0 #nombre propio de mujer
