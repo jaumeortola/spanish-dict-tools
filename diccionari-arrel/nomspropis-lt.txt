@@ -7170,6 +7170,7 @@ Fram Fram NPCSG00 # Paraguay
 Framingham Framingham NPCNG00
 Fran Fran NPMSSP0 # avl
 France France NPCNSP0 # wiki
+France-Presse France-Presse NPCNO00
 Francesc Francesc NPMSSP0
 Francesca Francesca NPFSSP0 #nombre propio de mujer
 Franceschetti Franceschetti NPCNSP0 # medical
