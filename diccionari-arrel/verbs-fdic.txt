@@ -3206,6 +3206,7 @@ desmarañar=categories: V;model:amar;fonts: LT;
 desmarcar=categories: V;model:abarcar;fonts: LT;
 desmatar=categories: V;model:amar;fonts: LT;
 desmayar=categories: V;model:amar;fonts: LT;
+desmedicalizar=categories: V;model:abalanzar;fonts: derivat;
 desmedir=categories: V;model:pedir;fonts: LT;
 desmedrar=categories: V;model:amar;fonts: LT;
 desmejorar=categories: V;model:amar;fonts: LT;

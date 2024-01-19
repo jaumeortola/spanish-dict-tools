@@ -3591,6 +3591,7 @@ CDC CDC NPCNO00
 CDE CDE NPCNO00
 CDMX CDMX NPFSG00
 CDU CDU NPFSO00
+CEDA CEDA NPFSO00
 CEOE CEOE NPFSO00
 CES CES NPCNO00
 CEST CEST NPCNO00 # wiki
@@ -3890,6 +3891,7 @@ Camus Camus NPCNSP0
 Camuñas Camuñas NPCSG00 #municipios de España
 Camós Camós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Canadá Canadá NPCNG00 # topònim-apertium-falta-gènere-nombre
+Canalejas Canalejas NPCNSP0
 Canales Canales NPCSG00 #municipios de España
 Canalete Canalete NPCSG00 #municipios de Colombia
 Canaletto Canaletto NPCNSP0
@@ -7348,6 +7350,7 @@ Fuster Fuster NPCNSP0 #apellido
 Fustiñana Fustiñana NPCSG00 #municipios de España
 Futaleufú Futaleufú NPCSG00 #municipios de Chile
 Futani Futani NPCNG00 # topònim-apertium-falta-gènere-nombre
+Futbolísimos Futbolísimos NPMPO00
 Futrono Futrono NPCSG00 #municipios de Chile
 Futuna Futuna NPCSG00
 Fábrega Fábrega NPCNSP0 #apellido
@@ -8707,6 +8710,7 @@ Humiliano Humiliano NPMSSP0 # avl
 Humilladero Humilladero NPCSG00 #municipios de España
 Hummel Hummel NPCNSP0
 Hummel Hummel NPCNSP0 # wiki
+Hundertwasser Hundertwasser NPCNSP0
 Hungría Hungría NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hunt Hunt NPCNSP0 # medical
 Hunter Hunter NPCNSP0 # medical
@@ -15085,6 +15089,7 @@ Rupérez Rupérez NPCNSP0 #apellido
 Rurrenabaque Rurrenabaque NPCSG00 # Bolivia
 Rus Rus NPCSG00 #municipios de España
 Rusia Rusia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rusiñol Rusiñol NPCNSP0
 Ruslán Ruslán NPMSSP0 #nombre propio de hombre
 Russell Russell NPCNSP0 # wiki
 Russell-Silver Russell-Silver NPCNSP0 # medical
