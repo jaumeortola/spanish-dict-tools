@@ -26906,6 +26906,7 @@ pseudoesférico pseudoesférica=categories: A;fonts: LT;
 pseudohistórico pseudohistórica=categories: A;fonts: derivat;
 pseudomorfo pseudomorfa=categories: A;fonts: LT;
 pseudopartitivo pseudopartitiva=categories: A;fonts: dr;
+pseudopedagógico pseudopedagógica=categories: A;fonts: derivat;
 pseudoracémico pseudoracémica=categories: A;fonts: LT;
 pseudotopológico pseudotopológica=categories: A;fonts: LT;
 psicasténico psicasténica=categories: A;fonts: LT;
