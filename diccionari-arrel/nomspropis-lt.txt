@@ -2482,6 +2482,7 @@ Barinitas Barinitas NPCSG00 # Venezuela
 Barjas Barjas NPCSG00 #municipios de España
 Barletta Barletta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barlovento Barlovento NPCSG00 #municipios de España
+Barna Barna NPCNG00 #acortamiento
 Barnaul Barnaul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barnés Barnés NPCNSP0 #apellido
 Baroja Baroja NPCNSP0 # wiki
@@ -7938,6 +7939,7 @@ Granollers Granollers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grant Grant NPCNSP0 # wiki
 Granucillo Granucillo NPCSG00 #municipios de España
 Granyanella Granyanella NPCNG00 # topònim-apertium-falta-gènere-nombre
+Graná Graná NPCNG00 #acortamiento
 Gras Gras NPCNSP0 #apellido
 Grass Grass NPCNSP0 # wiki
 Grassbase Grassbase NPCNSP0 # wiki

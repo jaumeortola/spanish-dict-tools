@@ -157,6 +157,10 @@ otrora otrora RG
 otrosí otrosí RG
 peor peor RG
 poco poco RG
+porfaplís porfaplís RG #acortamiento
+porfi porfi RG #acortamiento
+porfiplís porfiplís RG #acortamiento
+porfis porfis RG #acortamiento
 primero primero RG
 pronto pronto RG
 prontísimo prontísimo RG
