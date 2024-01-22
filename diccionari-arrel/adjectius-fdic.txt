@@ -31154,6 +31154,7 @@ superamable=categories: A;fonts: derivat;
 superamigo superamiga=categories: A;fonts: derivat;
 superante=categories: A;fonts: dr;
 superapalancado superapalancada=categories: A;fonts: derivat;
+superapasionante=categories: A;fonts: derivat;
 superatento superatenta=categories: A;fonts: LT;
 superatractivo superatractiva=categories: A;fonts: derivat;
 superavanzado superavanzada=categories: A;fonts: derivat;
