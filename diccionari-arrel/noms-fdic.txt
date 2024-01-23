@@ -659,6 +659,7 @@ CUIT=categories: MFI;fonts: sigla, mx;
 CURP=categories: FI;fonts: sigla, México;
 Cancelaría=categories: FS;fonts: dr;
 Cinquecento=categories: MS;fonts: italià;
+Trecento=categories: MS;fonts: italià;
 CoA=categories: FI;fonts: medical; #coenzima
 Corpus=categories: MI;fonts: dr;
 Cuasimodo=categories: MS;fonts: dr;
