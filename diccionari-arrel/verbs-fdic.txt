@@ -6562,6 +6562,7 @@ preanunciar=categories: V;model:amar;fonts: ap;
 preavisar=categories: V;model:amar;fonts: ap;
 prebendar=categories: V;model:amar;fonts: LT;
 precalentar=categories: V;model:alentar;fonts: LT;
+precancelar=categories: V;model:amar;fonts: derivat;
 precarizar=categories: V;model:abalanzar;fonts: dr;
 precaucionar=categories: V;model:amar;fonts: LT;
 precautelar=categories: V;model:amar;fonts: LT;

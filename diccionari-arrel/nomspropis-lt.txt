@@ -3576,6 +3576,7 @@ Bélgorod Bélgorod NPCSG00
 Bérchules Bérchules NPCSG00 #municipios de España
 Bérgamo Bérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bétera Bétera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Béziers Béziers NPCSG00
 Bío-Bío Bío-Bío NPCSG00 #municipios de Chile
 Bòssost Bòssost NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bósforo Bósforo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -19092,4 +19093,3 @@ oXygen oXygen NPMSO00
 Úrsula Úrsula NPFSSP0 # avl
 Útica Útica NPCSG00 #municipios de Colombia
 Łódź Łódź NPCSG00 # topònim-apertium
-Béziers Béziers NPCSG00
