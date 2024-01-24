@@ -811,6 +811,7 @@ anticuar=categories: V;model:actuar;fonts: LT;
 antiguar=categories: V;model:averiguar;fonts: LT;
 antipatizar=categories: V;model:abalanzar;fonts: dr;
 antojar=categories: V;model:amar;fonts: LT;
+antologar=categories: V;model:cargar;fonts: LT;
 antologizar=categories: V;model:abalanzar;fonts: dr;
 antropizar=categories: V;model:abalanzar;fonts: ap;
 antropomorfizar=categories: V;model:abalanzar;fonts: dr;
