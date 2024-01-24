@@ -6438,6 +6438,7 @@ cenobial=categories: A;fonts: LT;
 cenobítico cenobítica=categories: A;fonts: LT;
 cenocárpico cenocárpica=categories: A;fonts: LT;
 censal=categories: A;fonts: LT;
+precensal=categories: A;fonts: derivat;
 censitario censitaria=categories: A;fonts: dr;
 censor censora=categories: A;fonts: LT;
 censorino censorina=categories: A;fonts: dr;
