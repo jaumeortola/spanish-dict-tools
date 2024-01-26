@@ -2093,6 +2093,7 @@ Atoyatempan Atoyatempan NPCSG00 #municipios de México
 Atrato Atrato NPCSG00 #municipios de Colombia
 Atuntaqui Atuntaqui NPCSG00 # Ecuador
 Atwood Atwood NPCNSP0
+Atxaga Atxaga NPCNSP0
 Atxondo Atxondo NPCSG00 #municipios de España
 Atyrá Atyrá NPCSG00 # Paraguay
 Atzacan Atzacan NPCSG00 #municipios de México
@@ -2483,6 +2484,7 @@ Barjas Barjas NPCSG00 #municipios de España
 Barletta Barletta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barlovento Barlovento NPCSG00 #municipios de España
 Barna Barna NPCNG00 #acortamiento
+Barnasants Barnasants NPMNO00
 Barnaul Barnaul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Barnés Barnés NPCNSP0 #apellido
 Baroja Baroja NPCNSP0 # wiki
@@ -8256,7 +8258,7 @@ Hamlet Hamlet NPMSSP0 # avl
 Hamman Hamman NPCNSP0 # medical
 Hamman-Rich Hamman-Rich NPCNSP0 # medical
 Hammurabi Hammurabi NPCNSP0
-Hampshire Hampshire NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hampshire Hampshire NPCSG00 # topònim-apertium
 Hamza Hamza NPMSSP0 #nombre propio de hombre
 Hamás Hamás NPCSO00
 Hamílcar Hamílcar NPMSSP0 # avl
@@ -11119,6 +11121,7 @@ Marieta Marieta NPFSSP0 #nombre propio de mujer
 Marifer Marifer NPFSSP0 #hipocorístico
 Marigüitar Marigüitar NPCSG00 # Venezuela
 Mariia Mariia NPFSSP0 #nombre propio de mujer
+Mariinski Mariinski NPMSO00
 Marijose Marijose NPFSSP0 #hipocorístico
 Marijó Marijó NPFSSP0 #hipocorístico
 Mariluz Mariluz NPFSSP0 #nombre propio de mujer
