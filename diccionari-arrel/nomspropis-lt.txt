@@ -9771,6 +9771,7 @@ Korngold Korngold NPCNSP0
 Korsakoff Korsakoff NPCNSP0 # medical
 Kortezubi Kortezubi NPCSG00 #municipios de España
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kotte Kotte NPCSG00
 Krabbe Krabbe NPCNSP0 # medical
 Krasimir Krasimir NPMSSP0 #nombre propio de hombre
 Krause Krause NPCNSP0 # medical
@@ -12400,6 +12401,7 @@ Naiala Naiala NPFSSP0 #nombre propio de mujer
 Naiara Naiara NPFSSP0 #nombre propio de mujer
 Naila Naila NPFSSP0 # avl
 Naima Naima NPFSSP0 #nombre propio de mujer
+Naipyidó Naipyidó NPCSG00
 Nairobi Nairobi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Najat Najat NPFSSP0 #nombre propio de mujer
 Najia Najia NPFSSP0 #nombre propio de mujer
@@ -12541,6 +12543,7 @@ Nayeli Nayeli NPFSSP0 #nombre propio de mujer
 Nayi Nayi NPFSSP0 #hipocorístico
 Nayita Nayita NPFSSP0 #hipocorístico
 Nayla Nayla NPFSSP0 #nombre propio de mujer
+Naypyidaw Naypyidaw NPCSG00
 Nayra Nayra NPFSSP0 #nombre propio de mujer
 Naza Naza NPFSSP0 #hipocorístico
 Naza Naza NPMSSP0 #hipocorístico
