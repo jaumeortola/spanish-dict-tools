@@ -11037,6 +11037,7 @@ Marais Marais NPCNSP0
 Maram Maram NPFSSP0 #nombre propio de mujer
 Maranchón Maranchón NPCSG00 #municipios de España
 Marata Marata NPFSSP0 # avl
+Maravall Maravall NPCNSP0
 Maravatío Maravatío NPCSG00 #municipios de México
 Marazoleja Marazoleja NPCSG00 #municipios de España
 Marazuela Marazuela NPCSG00 #municipios de España
@@ -15669,6 +15670,7 @@ Seminara Seminara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sempere Sempere NPCSG00 #municipios de España
 Sempronia Sempronia NPFSSP0 # avl
 Sempronio Sempronio NPMSSP0 # avl
+Semprún Semprún NPCNSP0
 Semprún Semprún NPCSG00 # Venezuela
 Semíramis Semíramis NPFSSP0 # avl
 Sena Sena NPMSG00 # topònim-apertium-falta-gènere-nombre
