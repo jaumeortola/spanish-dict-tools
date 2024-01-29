@@ -19837,6 +19837,7 @@ juncoso juncosa=categories: A;fonts: LT;
 juncáceo juncácea=categories: A;fonts: dr;
 juninense=categories: A;fonts: dr;
 juntero juntera=categories: A;fonts: dr;
+juntito juntita=categories: A;fonts: diminutive;
 junto junta=categories: A;fonts: LT;
 juntísimo juntísima=categories: A;fonts: superlative;
 jupiterino jupiterina=categories: A;fonts: LT;
