@@ -55099,6 +55099,7 @@ rencilla=categories: F;fonts: LT;
 renco renca=categories: MF;fonts: LT;
 rencor=categories: M;fonts: LT;
 rencoso rencosa=categories: MF;fonts: LT;
+rencuentro=categories: M;fonts: fundeu;
 renculillo=categories: M;fonts: dr;
 renda=categories: F;fonts: LT;
 rendaje=categories: M;fonts: LT;
