@@ -60045,6 +60045,7 @@ sudsudeste=categories: M;fonts: LT;
 sudsudoeste=categories: M;fonts: LT;
 sudueste=categories: MS;fonts: dr;
 sueco sueca=categories: MF;fonts: LT;
+suegrecito suegrecita=categories: MF;fonts: diminutive;
 suegro suegra=categories: MF;fonts: LT;
 suela=categories: F;fonts: LT;
 suelazo=categories: M;fonts: dr;
