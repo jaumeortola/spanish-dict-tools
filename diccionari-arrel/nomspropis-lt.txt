@@ -7885,6 +7885,7 @@ Goretti Goretti NPFSSP0 #nombre propio de mujer
 Gorga Gorga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gorgo Gorgo NPMSSP0 #hipocorístico
 Gorka Gorka NPMSSP0 #nombre propio de hombre
+Gorki Gorki NPCNSP0
 Gorliz Gorliz NPCSG00 #municipios de España
 Gormaz Gormaz NPCSG00 #municipios de España
 Goro Goro NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7986,6 +7987,7 @@ Grisén Grisén NPCSG00 #municipios de España
 Griñón Griñón NPMSSP0 # avl
 Groenlandia Groenlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grosseto  Grosseto  NPCNG00 # topònim-apertium-falta-gènere-nombre
+Grossman Grossman NPCNSP0
 Grosz Grosz NPCNSP0
 Grotteria Grotteria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grover Grover NPCNSP0 # medical
@@ -12351,6 +12353,7 @@ Músorgski Músorgski NPCNSP0 # wiki
 Múzquiz Múzquiz NPCSG00 #municipios de México
 Müller Müller NPCNSP0
 Münchhausen Münchhausen NPCNG00 # topònim-apertium-falta-gènere-nombre
+Münzenberg Münzenberg NPCNSP0
 N'Djanema N'Djanema NPCNG00 # topònim-apertium-falta-gènere-nombre
 NAFTA NAFTA NPMSO00
 NBA NBA NPFSO00
@@ -18904,6 +18907,7 @@ Zinacatepec Zinacatepec NPCSG00 #municipios de México
 Zinapécuaro Zinapécuaro NPCSG00 #municipios de México
 Zineb Zineb NPFSSP0 #nombre propio de mujer
 Zináparo Zináparo NPCSG00 #municipios de México
+Zinóviev Zinóviev NPCNSP0
 Ziordia Ziordia NPCSG00 #municipios de España
 Ziortza Ziortza NPFSSP0 #nombre propio de mujer
 Ziortza-Bolibar Ziortza-Bolibar NPCSG00 #municipios de España
