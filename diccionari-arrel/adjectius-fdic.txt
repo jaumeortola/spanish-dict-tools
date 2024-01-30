@@ -27187,6 +27187,7 @@ putañero=categories: AM;fonts: dr;
 puteril=categories: A;fonts: dr;
 putero=categories: AM;fonts: LT;
 putesco putesca=categories: A;fonts: LT;
+putinista=categories: A;fonts: derivat;
 puto puta=categories: A;fonts: LT;
 putrefactivo putrefactiva=categories: A;fonts: LT;
 putrefacto putrefacta=categories: A;fonts: LT;

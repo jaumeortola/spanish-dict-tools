@@ -53037,6 +53037,7 @@ puterío=categories: M;fonts: dr;
 puti=categories: M;fonts: wiki, acortamiento;
 puticlub [pl. puticlubes o puticlubs]=categories: M;fonts: LT;
 putiferio=categories: M;fonts: dr;
+putinismo=categories: MS;fonts: derivat;
 putita=categories: F;fonts: diminutive;
 puto=categories: M;fonts: LT;
 putrefacción=categories: F;fonts: LT;
