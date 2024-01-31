@@ -629,6 +629,7 @@ BMP=categories: MFI;fonts: sigla;
 BTT=categories: MFI;fonts: termcat;
 Busolfan=categories: MS;fonts: LT;
 CAD=categories: MFI;fonts: LT;
+CCD=categories: MI;fonts: sigla;
 CCTV=categories: MI;fonts: sigla;
 CD-ROM=categories: MI;fonts: dr;
 CD=categories: MI;fonts: dr;
