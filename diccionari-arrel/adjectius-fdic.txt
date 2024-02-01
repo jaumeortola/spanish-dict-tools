@@ -30352,6 +30352,7 @@ situable=categories: A;fonts: LT;
 situacional=categories: A;fonts: LT;
 siux=categories: AI;fonts: LT;
 siálico siálica=categories: A;fonts: LT;
+ska=categories: AI;fonts: termcat;
 smithsoniano smithsoniana=categories: A;fonts: LT;
 snob [pl. snobs]=categories: A;fonts: LT;
 sobacal=categories: A;fonts: dr;
