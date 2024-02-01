@@ -59950,6 +59950,7 @@ subcero=categories: M;fonts: LT;
 subclase=categories: F;fonts: LT;
 subclave=categories: F;fonts: LT;
 subclavero=categories: M;fonts: dr;
+subclima=categories: M;fonts: LT;
 subclán=categories: M;fonts: LT;
 subclímax=categories: MI;fonts: LT;
 subcola=categories: F;fonts: LT;

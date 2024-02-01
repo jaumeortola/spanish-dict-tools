@@ -9030,6 +9030,7 @@ Iseo Iseo NPMSSP0 # avl
 Isern Isern NPCNSP0 #apellido
 Ishak Ishak NPMSSP0 #nombre propio de hombre
 Ishango Ishango NPCSG00
+Ishtar Ishtar NPFSSP0
 Isidora Isidora NPFSSP0 # avl
 Isidoro Isidoro NPMSSP0 # avl
 Isidra Isidra NPFSSP0 # avl
