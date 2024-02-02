@@ -9778,6 +9778,7 @@ Korsakoff Korsakoff NPCNSP0 # medical
 Kortezubi Kortezubi NPCSG00 #municipios de España
 Kosovo Kosovo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kotte Kotte NPCSG00
+Koussevitzky Koussevitzky NPCNSP0
 Krabbe Krabbe NPCNSP0 # medical
 Krasimir Krasimir NPMSSP0 #nombre propio de hombre
 Krause Krause NPCNSP0 # medical
@@ -11220,6 +11221,7 @@ Marta Marta NPFSSP0 # avl
 Marte Marte NPMSG00 # topònim-apertium
 Marte Marte NPMSSP0 # avl
 Martel Martel NPCNSP0 #apellido
+Martenot Martenot NPCNSP0
 Martha Martha NPFSSP0
 Marti Marti NPFSSP0 #hipocorístico
 Martiago Martiago NPCSG00 #municipios de España
@@ -17312,6 +17314,7 @@ Tunuyán Tunuyán NPCSG00 # Argentina LO
 Tupiza Tupiza NPCSG00 # Bolivia
 Tupungato Tupungato NPCSG00 #municipios de Argentina
 Tur Tur NPCNSP0 #apellido
+Turangalila Turangalila NPFSO00
 Turbaco Turbaco NPCSG00 # Colombia
 Turbaná Turbaná NPCSG00 #municipios de Colombia
 Turbo Turbo NPCSG00 #municipios de Colombia
