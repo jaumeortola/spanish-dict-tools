@@ -15906,6 +15906,7 @@ Sinlabajos Sinlabajos NPCSG00 #municipios de España
 Sinsacate Sinsacate NPCSG00 #municipios de Argentina
 Sintes Sintes NPCNSP0 #apellido
 Sintra Sintra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sion Sion NPCSG00
 Sipple Sipple NPCNSP0 # medical
 Sipí Sipí NPCSG00 #municipios de Colombia
 Siquisique Siquisique NPCSG00 # Venezuela
