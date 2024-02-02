@@ -255,6 +255,7 @@
 ABC ABC NPCNO00
 ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
+ADDA ADDA NPMSO00
 AEMET AEMET NPFSO00
 AENA AENA NPFSO00
 AFIP AFIP NPFSO00
@@ -2953,6 +2954,7 @@ Berni Berni NPMSSP0 #hipocorístico
 Berninches Berninches NPCSG00 #municipios de España
 Bernini Bernini NPCNSP0
 Bernoulli Bernoulli NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bernstein Bernstein NPCNSP0
 Bernuy-Zapardiel Bernuy-Zapardiel NPCSG00 #municipios de España
 Bernárdez Bernárdez NPCNSP0 #apellido
 Berriatua Berriatua NPCSG00 #municipios de España
@@ -4065,6 +4067,7 @@ Carintia Carintia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Caripe Caripe NPCSG00 # Venezuela
 Caripito Caripito NPCSG00 # Venezuela
 Carirubana Carirubana NPCSG00 # Venezuela
+Carissimi Carissimi NPCNSP0
 Carito Carito NPFSSP0 #hipocorístico
 Cariñena Cariñena NPCSG00 #municipios de España
 Cariño Cariño NPCSG00 #municipios de España
@@ -10314,6 +10317,7 @@ Lina Lina NPFSSP0 # avl
 Linares Linares NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lincoln Lincoln NPCNSP0
 Linda Linda NPFSSP0 # avl
+Lindberg Lindberg NPCNSP0
 Lineweaver-Burk Lineweaver-Burk NPCNSP0 # medical
 Linguaglossa Linguaglossa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lini Lini NPFSSP0 #hipocorístico
@@ -14136,6 +14140,7 @@ Pott Pott NPCNSP0 # medical
 Potter Potter NPCNSP0 # wiki
 Poty Poty NPCSG00 # Paraguay
 Pou Pou NPCNSP0 #apellido
+Poulenc Poulenc NPCNSP0
 Pouliquen Pouliquen NPCNSP0 # medical
 Poveda Poveda NPCNSP0
 Povedano Povedano NPCNSP0 #apellido
@@ -16160,6 +16165,7 @@ Strachan Strachan NPCNSP0 # medical
 Strassmann Strassmann NPCNSP0 # medical
 Strauss Strauss NPCNSP0
 Strauss-Kahn Strauss-Kahn NPCNSP0
+Stravinski Stravinski NPCNSP0
 Streisand Streisand NPCNSP0
 Strindberg Strindberg NPCNSP0
 Struthers Struthers NPCNSP0 # medical

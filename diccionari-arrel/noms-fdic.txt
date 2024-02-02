@@ -27968,6 +27968,7 @@ eurocomunismo=categories: M;fonts: dr;
 euroconector=categories: M;fonts: dr;
 eurocracia=categories: F;fonts: dr;
 eurocrédito=categories: M;fonts: LT;
+eurodance=categories: MS;fonts: wiki;
 eurodiputado eurodiputada=categories: MF;fonts: LT;
 eurodivisa=categories: F;fonts: LT;
 eurodólar=categories: M;fonts: LT;
