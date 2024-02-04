@@ -4468,6 +4468,7 @@ Cepitá Cepitá NPCSG00 #municipios de Colombia
 Ceraso Ceraso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cerbón Cerbón NPCSG00 #municipios de España
 Cerc Cerc NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cercas Cercas NPCNSP0
 Cerceda Cerceda NPCSG00 #municipios de España
 Cercedilla Cercedilla NPCSG00 #municipios de España
 Cerchiara Cerchiara NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7871,6 +7872,7 @@ Gonzo Gonzo NPMSSP0 #hipocorístico
 González González NPCNSP0 # wiki common surnames
 Gonzálvez Gonzálvez NPCNSP0 #apellido
 Gonçalves Gonçalves NPCNSP0 #apellido
+Goodhart Goodhart NPCNSP0
 Goodman Goodman NPCNSP0
 Goodpasture Goodpasture NPCNSP0 # medical
 Google Google NPCNO00 # wiki
@@ -18373,6 +18375,7 @@ Víznar Víznar NPCSG00 #municipios de España
 W3C W3C NPMSO00
 WHATSAPP WHATSAPP NPCNO00
 WWE WWE NPCNO00
+Wachowski Wachowski NPCNSP0
 Wada Wada NPCNSP0 # medical
 Wael Wael NPMSSP0 #nombre propio de hombre
 Wafae Wafae NPFSSP0 #nombre propio de mujer

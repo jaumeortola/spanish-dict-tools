@@ -7038,6 +7038,7 @@ redactar=categories: V;model:amar;fonts: LT;
 redar=categories: V;model:amar;fonts: LT;
 redargüir=categories: V;model:argüir;fonts: LT;
 redecir=categories: V;model:predecir;fonts: LT;
+redecorar=categories: V;model:amar;fonts: LT;
 redefinir=categories: V;model:partir;fonts: LT;
 redelimitar=categories: V;model:amar;fonts: ap;
 redenominar=categories: V;model:amar;fonts: ap;

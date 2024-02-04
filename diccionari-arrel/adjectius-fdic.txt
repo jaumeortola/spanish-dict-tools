@@ -27516,6 +27516,7 @@ raquimedular=categories: A;fonts: medical;
 raquídeo raquídea=categories: A;fonts: LT;
 raquítico raquítica=categories: A;fonts: LT;
 rarificativo rarificativa=categories: A;fonts: LT;
+rarito rarita=categories: A;fonts: diminutive;
 raro rara [sup. rarísimo]=categories: A;fonts: LT;
 rarámuri=categories: A;fonts: dr;
 rasante=categories: A;fonts: LT;
