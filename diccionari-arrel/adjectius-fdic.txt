@@ -1688,6 +1688,7 @@ alteradísimo alteradísima=categories: A;fonts: superlative;
 alterante=categories: A;fonts: dr;
 alterativo alterativa=categories: A;fonts: dr;
 altercador altercadora=categories: A;fonts: LT;
+altermundialista=categories: A;fonts: derivat;
 alternante=categories: A;fonts: LT;
 alternativo alternativa=categories: A;fonts: LT;
 alterno alterna=categories: A;fonts: LT;

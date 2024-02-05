@@ -8767,11 +8767,13 @@ ICANN ICANN NPFSO00
 ICETEX ICETEX NPMSO00
 ICO ICO NPMSO00
 IEEE IEEE NPMSO00
+IESE IESE NPMSO00
 IESS IESS NPMSO00
 IFS IFS NPCNO00
 IGSS IGSS NPMSO00
 IMSS IMSS NPMSO00
 INE INE NPMSO00
+INEF INEF NPMSO00
 INEGI INEGI NPMSO00
 ING ING NPCNO00
 INS INS NPMSO00
@@ -12176,6 +12178,7 @@ Morote Morote NPCNSP0 #apellido
 Morricone Morricone NPCNSP0
 Morrison Morrison NPCSG00 #municipios de Argentina
 Morroa Morroa NPCSG00 #municipios de Colombia
+Mortadelo Mortadelo NPMSSP0
 Morte Morte NPCNSP0 #apellido
 Morton Morton NPCNSP0 # medical
 Morés Morés NPCSG00 #municipios de España
@@ -12187,6 +12190,7 @@ Moscheles Moscheles NPCNSP0
 Moscova Moscova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Moscú Moscú NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mosela Mosela NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mosin-Nagant Mosin-Nagant NPCNO00
 Mosquera Mosquera NPCNSP0
 Mosqueruela Mosqueruela NPCSG00 #municipios de España
 Mossy Mossy NPCNSP0 # medical
@@ -12367,6 +12371,7 @@ N'Djanema N'Djanema NPCNG00 # topònim-apertium-falta-gènere-nombre
 NAFTA NAFTA NPMSO00
 NBA NBA NPFSO00
 NIIF NIIF NPFPO00
+NKVD NKVD NPMSO00
 Naamán Naamán NPMSSP0 # avl
 Nabarniz Nabarniz NPCSG00 #municipios de España
 Nabil Nabil NPMSSP0 #nombre propio de hombre
@@ -15139,6 +15144,7 @@ Rágama Rágama NPCSG00 #municipios de España
 Rágol Rágol NPCSG00 #municipios de España
 Ránquil Ránquil NPCSG00 #municipios de Chile
 Ráquira Ráquira NPCSG00 #municipios de Colombia
+Räikkönen Räikkönen NPCNSP0
 Récalde Récalde NPCNSP0 #apellido
 Régula Régula NPFSSP0 # avl
 Régulo Régulo NPMSSP0 # avl
@@ -15594,6 +15600,7 @@ Schiff Schiff NPCNSP0 # medical
 Schilling Schilling NPCNSP0 # medical
 Schimmelbusch Schimmelbusch NPCNSP0 # medical
 Schiötz Schiötz NPCNSP0 # medical
+Schlesinger Schlesinger NPCNSP0
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lanterman Schmidt-Lanterman NPCNSP0 # medical
@@ -15602,6 +15609,7 @@ Scholz Scholz NPCNSP0
 School School NPCNO00 # English
 Schopenhauer Schopenhauer NPCNSP0
 Schröder Schröder NPCNSP0
+Schrödinger Schrödinger NPCNSP0
 Schubert Schubert NPCNSP0 # wiki
 Schuchardt Schuchardt NPCNSP0 # medical
 Schuller Schuller NPCNSP0 # medical
@@ -15831,6 +15839,7 @@ Sicuani Sicuani NPCSG00 # Perú
 Sidamon Sidamon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Siderno Siderno NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sidibe Sidibe NPCNSP0 #apellido
+Siebold Siebold NPCNSP0
 Siena Siena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sienes Sienes NPCSG00 #municipios de España
 Siero Siero NPCSG00 #municipios de España
@@ -19119,3 +19128,4 @@ oXygen oXygen NPMSO00
 Úrsula Úrsula NPFSSP0 # avl
 Útica Útica NPCSG00 #municipios de Colombia
 Łódź Łódź NPCSG00 # topònim-apertium
+Žižek Žižek NPCNSP0
