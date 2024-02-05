@@ -14956,6 +14956,7 @@ Rojales Rojales NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rojals Rojals NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rojano Rojano NPCNSP0 #apellido
 Rojas Rojas NPCNSP0 # wiki common surnames
+Rojas-Marcos Rojas-Marcos NPCNSP0
 Rokitansky-Küster Rokitansky-Küster NPCNSP0 # medical
 Roku Roku NPCNO00
 Roland Roland NPCNSP0
@@ -15465,6 +15466,7 @@ Sanhueza Sanhueza NPCNSP0 # wiki common surnames
 Sani Sani NPFSSP0 #hipocorístico
 Sanjuan Sanjuan NPCNSP0 #apellido
 Sanjurjo Sanjurjo NPCNSP0
+Sanliurfa Sanliurfa NPCSG00
 Sanlúcar Sanlúcar NPCSG00
 Sans Sans NPCNSP0 #apellido
 Sansol Sansol NPCSG00 #municipios de España
@@ -15811,6 +15813,7 @@ Shanghái Shanghái NPCNG00 # dpan
 Shanghái Shanghái NPCNSP0 # wiki
 Shannon Shannon NPCNSP0
 Shara Shata NPFSSP0
+Sharon Sharon NPFSSP0
 Sharon Sharon NPFSSP0 #nombre propio de mujer
 Shaw Shaw NPCNSP0
 Sheehan Sheehan NPCNSP0 # medical
@@ -17535,6 +17538,7 @@ Urduliz Urduliz NPCSG00 #municipios de España
 Urduña Urduña NPCSG00 #municipios de España
 Ures Ures NPCSG00 #municipios de México
 Ureña Ureña NPCNSP0
+Urfa Urfa NPCSG00
 Urgel Urgel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urgell Urgell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uri Uri NPCSG00
@@ -19128,4 +19132,5 @@ oXygen oXygen NPMSO00
 Úrsula Úrsula NPFSSP0 # avl
 Útica Útica NPCSG00 #municipios de Colombia
 Łódź Łódź NPCSG00 # topònim-apertium
+Şanlıurfa Şanlıurfa NPCSG00
 Žižek Žižek NPCNSP0
