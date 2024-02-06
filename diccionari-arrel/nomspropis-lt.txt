@@ -4673,6 +4673,7 @@ Cheste Cheste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chesterton Chesterton NPCNSP0
 Chete Chete NPMSSP0 #hipocorístico
 Chetumal Chetumal NPCSG00 # México
+Chewbacca Chewbacca NPMSSP0
 Cheyenne Cheyenne NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cheyne-Stokes Cheyne-Stokes NPCNSP0 # medical
 Chiapas Chiapas NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5444,6 +5445,7 @@ Crohn Crohn NPCNSP0 # medical
 Crooke Crooke NPCNSP0 # medical
 Cropalati Cropalati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Crosia Crosia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Crosse Crosse NPCNSP0
 Crouzon Crouzon NPCNSP0 # medical
 Cruci Cruci NPFSSP0 #hipocorístico
 Crucita Crucita NPFSSP0 #hipocorístico
@@ -6020,6 +6022,7 @@ Dupuytren Dupuytren NPCNSP0 # medical
 Durango Durango NPCNG00 # topònim-apertium-falta-gènere-nombre
 Durango Durango NPCSG00
 Durania Durania NPCSG00 #municipios de Colombia
+Durex Durex NPCNSP0
 Durkheim Durkheim NPCNSP0
 Durruti Durruti NPCNSP0
 Duruelo Duruelo NPCSG00 #municipios de España
@@ -14853,6 +14856,7 @@ Riosucio Riosucio NPCSG00 # Colombia
 Riotorto Riotorto NPCSG00 #municipios de España
 Riotuerto Riotuerto NPCSG00 #municipios de España
 Rioverde Rioverde NPCSG00 # México
+Ripley Ripley NPCNSP0
 Ripoll Ripoll NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ripollet Ripollet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ripollès Ripollès NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -15954,6 +15958,7 @@ Sluder Sluder NPCNSP0 # medical
 Smail Smail NPMSSP0 #nombre propio de hombre
 Smith Smith NPCNSP0 # wiki
 Smith-Robinson Smith-Robinson NPCNSP0 # medical
+Snape Snape NPCNSP0
 Snoopy Snoopy NPMSSP0
 Soacha Soacha NPCSG00 # Colombia
 Soares Soares NPCNSP0 #apellido

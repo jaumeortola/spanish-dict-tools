@@ -3775,6 +3775,7 @@ audiogénico audiogénica=categories: A;fonts: LT;
 audiovisual=categories: A;fonts: LT;
 auditivo auditiva=categories: A;fonts: LT;
 auditorio auditoria=categories: A;fonts: LT;
+audiófilo audiófila=categories: A;fonts: wiki;
 augurador auguradora=categories: A;fonts: LT;
 augural=categories: A;fonts: LT;
 augustal=categories: A;fonts: LT;
