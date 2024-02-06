@@ -37291,7 +37291,6 @@ jazmín=categories: M;fonts: LT;
 jazz=categories: M;fonts: LT;
 jazzista=categories: MF;fonts: LT;
 jazzman [pl. jazzmen]=categories: M;fonts: english;
-jazzwoman [pl. jazzwomen]=categories: F;fonts: english;
 jea=categories: F;fonts: dr;
 jean=categories: M;fonts: dr;
 jeans=categories: MI;fonts: LT;
