@@ -7499,6 +7499,7 @@ Gameza Gameza NPCSG00 #municipios de Colombia
 Gamiro Gamiro NPMSSP0 # avl
 Gamiz-Fika Gamiz-Fika NPCSG00 #municipios de España
 Gamones Gamones NPCSG00 #municipios de España
+Gampola Gampola NPCSG00
 Gamstorp Gamstorp NPCNSP0 # medical
 Gancedo Gancedo NPCSG00 # Argentina LO
 Gandesa Gandesa NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13869,6 +13870,7 @@ Pichincha Pichincha NPCNO00
 Pichu Pichu NPMSSP0
 Pichucalco Pichucalco NPCSG00 #municipios de México
 Pick Pick NPCNSP0 # medical
+Pickwick Pickwick NPCNSP0
 Picón Picón NPCSG00 #municipios de España
 Piedad Piedad NPFSSP0 # avl
 Piedecuesta Piedecuesta NPCSG00 # Colombia
@@ -14811,6 +14813,7 @@ Ricomano Ricomano NPMSSP0 # avl
 Ricote Ricote NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rida Rida NPMSSP0 #nombre propio de hombre
 Ridaura Ridaura NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ridley Ridley NPCNSP0
 Riedel Riedel NPCNSP0 # medical
 Rieger Rieger NPCNSP0 # medical
 Riello Riello NPCSG00 #municipios de España
