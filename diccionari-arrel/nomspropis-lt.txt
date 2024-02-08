@@ -5997,6 +5997,7 @@ Duarte Duarte NPCNSP0 # wiki common surnames
 Dubai Dubai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dubin-Johnson Dubin-Johnson NPCNSP0 # medical
 Dublín Dublín NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dubois Dubois NPCNSP0
 Dubuffet Dubuffet NPCNSP0
 Duchamp Duchamp NPCNSP0
 Duchenne Duchenne NPCNSP0 # medical
@@ -6077,6 +6078,7 @@ ELCCO ELCCO NPCNO00
 ENAIRE ENAIRE NPCSO00
 ERC ERC NPCNO00
 ESA ESA NPFSO00
+ESADE ESADE NPFSO00
 ESMUC ESMUC NPFSO00
 EUA EUA NPMPG00
 EURES EURES NPFNO00
@@ -11687,6 +11689,7 @@ Michelena Michelena NPCSG00 # Venezuela
 Michelle Michelle NPCNSP0
 Michigan Michigan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Michoacán Michoacán NPCSG00
+Mickey Mickey NPMSSP0
 Micronesia Micronesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Microsoft Microsoft NPCNO0 # wiki
 Midas Midas NPMSSP0 # avl
@@ -14389,6 +14392,7 @@ Queco Queco NPMSSP0 #hipocorístico
 Queen Queen NPCNSP0 # wiki
 Queen Quenn NPCNO00
 Queens Queens NPCSG00
+Queenstown Queenstown NPCSG00
 Quehué Quehué NPCSG00 #municipios de Argentina
 Queilén Queilén NPCSG00 #municipios de Chile
 Queixans Queixans NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -18436,7 +18440,7 @@ Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Wegener Wegener NPCNSP0
 Wei Wei NPMSSP0 #nombre propio de hombre
 Welander Welander NPCNSP0 # medical
-Wellington Wellington NPCNG00 # topònim-apertium-falta-gènere-nombre
+Wellington Wellington NPCSG00 # topònim-apertium-falta-gènere-nombre
 Wells Wells NPCNSP0
 Wembley Wembley NPCSG00
 Wence Wence NPMSSP0 #hipocorístico
