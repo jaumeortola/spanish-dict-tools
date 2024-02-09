@@ -7997,6 +7997,7 @@ Grisolia Grisolia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grisén Grisén NPCSG00 #municipios de España
 Griñón Griñón NPMSSP0 # avl
 Groenlandia Groenlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gropius Gropius NPCNSP0
 Grosseto  Grosseto  NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grossman Grossman NPCNSP0
 Grosz Grosz NPCNSP0
@@ -11451,6 +11452,7 @@ McCormick McCormick NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
+McFadden McFadden NPCNSP0
 McGraw-Hill McGraw-Hill NPCNO00
 McKay McKay NPCNSP0
 McKinley McKinley NPCSG00
