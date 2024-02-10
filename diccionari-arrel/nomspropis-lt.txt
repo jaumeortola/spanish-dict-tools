@@ -3600,6 +3600,7 @@ CDU CDU NPFSO00
 CEDA CEDA NPFSO00
 CEOE CEOE NPFSO00
 CES CES NPCNO00
+CESAC CESAC NPMSO00
 CEST CEST NPCNO00 # wiki
 CFE CFE NPFSO00
 CFK CFK NPFSSP0 #Cristina Fernández de Kirchner
@@ -5624,6 +5625,8 @@ Cútar Cútar NPCSG00 #municipios de España
 D'aubuisson D'aubuisson NPCNSP0 # wiki common surnames
 DGAIA DGAIA NPFSO00
 DGT DGT NPFSO00
+DGTI DGTI NPMSO00
+DICRIM DICRIM NPMSO00
 DLE DLE NPMSO00
 DRAE DRAE NPMSO00
 DRV DRV NPCNO00
@@ -6773,6 +6776,7 @@ FEDER FEDER NPMNO00
 FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00 # wiki
 FIL FIL NPFNO00
+FITUR FITUR NPFSO00
 FMI FMI NPMSO00
 FROB FROB NPMSO00
 FSE FSE NPCNO00
@@ -7041,6 +7045,7 @@ Fisterra Fisterra NPCSG00 #municipios de España
 Fitero Fitero NPCSG00 #municipios de España
 Fito Fito NPMSSP0 #hipocorístico
 Fitur Fitur NPCSO00
+Fitur Fitur NPFSO00
 Fitzgerald Fitzgerald NPCNSP0
 Fiumefreddo Fiumefreddo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiyi Fiyi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7513,6 +7518,7 @@ Gandía Gandía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ganna Ganna NPFSSP0 #nombre propio de mujer
 Ganser Ganser NPCNSP0 # medical
 Gante Gante NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gantt Gantt NPCNSP0
 Gao Gao NPCNSP0 #apellido
 Gaona Gaona NPCNSP0 #apellido
 Garaballa Garaballa NPCSG00 #municipios de España
@@ -7751,6 +7757,7 @@ Gilbuena Gilbuena NPCSG00 #municipios de España
 Gilda Gilda NPFSSP0 # avl
 Gilena Gilena NPCSG00 #municipios de España
 Gilet Gilet NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gilgamesh Gilgamesh NPMSSP0
 Gilles Gilles NPCNSP0 # medical
 Gillespie Gillespie NPCNSP0
 Gimenells Gimenells NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8549,6 +8556,7 @@ Hohenau Hohenau NPCSG00 # Paraguay
 Holanda Holanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Holguera Holguera NPCSG00 #municipios de España
 Holguín Holguín NPCNSP0 #apellido
+Hollomon Hollomon NPCNSP0
 Hollywood Hollywood NPCNG00 # topònim-apertium-falta-gènere-nombre
 Holmes Holmes NPCNSP0 # wiki
 Holofernes Holofernes NPMSSP0 # avl
@@ -8776,6 +8784,7 @@ ICO ICO NPMSO00
 IEEE IEEE NPCNO00
 IESE IESE NPMSO00
 IESS IESS NPMSO00
+IFEMA IFEMA NPFSO00
 IFS IFS NPCNO00
 IGSS IGSS NPMSO00
 IMSS IMSS NPMSO00
@@ -8840,6 +8849,7 @@ Idoia Idoia NPFSSP0 # avl
 Idoya Idoya NPFSSP0 #nombre propio de mujer
 Idrissa Idrissa NPMSSP0 #nombre propio de hombre
 Iekora Iekora NPCSG00 #municipios de España
+Ifema Ifema NPFSO00
 Ifigenia Ifigenia NPFSSP0 # avl
 Ifigenio Ifigenio NPMSSP0 # avl
 Igantzi Igantzi NPCSG00 #municipios de España
@@ -10027,6 +10037,7 @@ Larraun Larraun NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larraya Larraya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Larrañaga Larrañaga NPCNSP0 #apellido
 Larrea Larrea NPCNSP0 #apellido
+Larreal Larreal NPCNSP0
 Larrocha Larrocha NPCNSP0
 Larrodrigo Larrodrigo NPCSG00 #municipios de España
 Larrosa Larrosa NPCNSP0 #apellido
@@ -10490,6 +10501,7 @@ Loles Loles NPFSSP0 #hipocorístico
 Lolo Lolo NPMSSP0 #hipocorístico
 Lolol Lolol NPCSG00 #municipios de Chile
 Lolotla Lolotla NPCSG00 #municipios de México
+Lombardi Lombardi NPCNSP0
 Lombardo Lombardo NPMSSP0 # avl
 Lombardía Lombardía NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lominchar Lominchar NPCSG00 #municipios de España
@@ -10509,6 +10521,7 @@ Longida Longida NPCSG00 #municipios de España
 Longino Longino NPMSSP0 # avl
 Longobardi Longobardi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Longobucco Longobucco NPCNG00 # topònim-apertium-falta-gènere-nombre
+Longoria Longoria NPCNSP0
 Longás Longás NPCSG00 #municipios de España
 Loni Loni NPMSSP0 #hipocorístico
 Lonquimay Lonquimay NPCSG00 #municipios de Argentina
@@ -14817,6 +14830,7 @@ Ricoaldo Ricoaldo NPMSSP0 # avl
 Ricomana Ricomana NPFSSP0 # avl
 Ricomano Ricomano NPMSSP0 # avl
 Ricote Ricote NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ricœur Ricœur NPCNSP0
 Rida Rida NPMSSP0 #nombre propio de hombre
 Ridaura Ridaura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ridley Ridley NPCNSP0
@@ -14931,6 +14945,7 @@ Roccabernarda Roccabernarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roccaforte Roccaforte NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roces Roces NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rocha Rocha NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rochambeau Rochambeau NPCNSP0
 Rochi Rochi NPFSSP0 #hipocorístico
 Roci Roci NPFSSP0 #hipocorístico
 Rociíto Rociíto NPFSSP0 #hipocorístico
@@ -16767,6 +16782,7 @@ Tetipac Tetipac NPCSG00 #municipios de México
 Tetis Tetis NPFSSP0 # avl
 Tetiz Tetiz NPCSG00 #municipios de México
 Tetlatlahuca Tetlatlahuca NPCSG00 #municipios de México
+Tetreault Tetreault NPCNSP0
 Tetuán Tetuán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tetyana Tetyana NPFSSP0 #nombre propio de mujer
 Teté Teté NPFSSP0 #hipocorístico
@@ -17412,6 +17428,7 @@ Tébar Tébar NPCSG00 #municipios de España
 Téllez Téllez NPCNSP0
 Térmens Térmens NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tésar Tésar NPMSSP0 #hipocorístico
+Tétreault Tétreault NPCNSP0
 Tías Tías NPCSG00 #municipios de España
 Tíbet Tíbet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tíjola Tíjola NPCSG00 #municipios de España
@@ -17936,6 +17953,7 @@ Versalles Versalles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vertavillo Vertavillo NPCSG00 #municipios de España
 Verzino Verzino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Verín Verín NPCSG00 #municipios de España
+Verón Verón NPCNSP0
 Verónica Verónica NPFSSP0 # avl
 Vesoul Vesoul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vespasiana Vespasiana NPFSSP0 # avl

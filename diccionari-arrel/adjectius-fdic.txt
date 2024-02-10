@@ -13093,6 +13093,7 @@ fondado fondada=categories: A;fonts: LT;
 fondongo fondonga=categories: A;fonts: dr;
 fondón fondona=categories: A;fonts: LT;
 fonemático fonemática=categories: A;fonts: LT;
+fonoaudiológico fonoaudiológica=categories: A;fonts: derivative;
 fonoestilístico fonoestilística=categories: A;fonts: LT;
 fonográfico fonográfica=categories: A;fonts: LT;
 fonológico fonológica=categories: A;fonts: LT;
