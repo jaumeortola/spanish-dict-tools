@@ -6301,6 +6301,7 @@ pagar=categories: V;model:cargar;fonts: LT;
 paginar=categories: V;model:amar;fonts: LT;
 pairar=categories: V;model:amar;fonts: LT;
 pajarear=categories: V;model:amar;fonts: LT;
+pajear=categories: V;model:amar;fonts: dr;
 paladear=categories: V;model:amar;fonts: LT;
 palatalizar=categories: V;model:abalanzar;fonts: LT;
 palear=categories: V;model:amar;fonts: LT;

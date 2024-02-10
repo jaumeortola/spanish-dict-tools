@@ -11762,6 +11762,7 @@ espacial=categories: A;fonts: LT;
 espacialísimo espacialísima=categories: A;fonts: superlative;
 espacioso espaciosa=categories: A;fonts: LT;
 espaciosísimo espaciosísima=categories: A;fonts: superlative;
+espaciotemporal=categories: A;fonts: dr;
 espagírico espagírica=categories: A;fonts: dr;
 espaldudo espalduda=categories: A;fonts: LT;
 espantable=categories: A;fonts: dr;

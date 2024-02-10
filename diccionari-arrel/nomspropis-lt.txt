@@ -1814,6 +1814,7 @@ Ariguaní Ariguaní NPCSG00 #municipios de Colombia
 Arija Arija NPCSG00 #municipios de España
 Ario Ario NPMSSP0 # avl
 Arismendi Arismendi NPCSG00 # Venezuela
+Aristarco Aristarco NPMSSP0
 Aristarco Aristarco NPMSSP0 # avl
 Aristeo Aristeo NPMSSP0 #hipocorístico
 Aristot Aristot NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8524,6 +8525,7 @@ Hinojales Hinojales NPCSG00 #municipios de España
 Hinojares Hinojares NPCSG00 #municipios de España
 Hinojos Hinojos NPCSG00 #municipios de España
 Hinojosa Hinojosa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hipatia Hipatia NPFSSP0
 Hipona Hipona NPCNSP0
 Hippel-Lindau Hippel-Lindau NPCNSP0 # medical
 Hipócrates Hipócrates NPMSSP0 # avl
@@ -18511,6 +18513,7 @@ Willendorf Willendorf NPCNSP0
 William William NPCNSP0
 Williams Williams NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0 # medical
+Williamson Williamson NPCNSP0
 Willie Willie NPCNSP0
 Wilma Wilma NPFSSP0 #nombre propio de mujer
 Wilms Wilms NPCNSP0 # medical
