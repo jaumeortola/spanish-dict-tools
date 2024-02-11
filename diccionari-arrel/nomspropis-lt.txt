@@ -18508,6 +18508,7 @@ Wilfreda Wilfreda NPFSSP0 # avl
 Wilfredo Wilfredo NPMSSP0 # avl
 Wilhelm Wilhelm NPCNSP0 # wiki
 Wili Wili NPMSSP0 #hipocorístico
+Will Will NPCNSP0
 Willebrand Willebrand NPCNSP0 # medical
 Willendorf Willendorf NPCNSP0
 William William NPCNSP0
