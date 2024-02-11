@@ -15861,6 +15861,7 @@ hidrotermal=categories: A;fonts: LT;
 hidroterápico hidroterápica=categories: A;fonts: LT;
 hidrotimétrico hidrotimétrica=categories: A;fonts: LT;
 hidrotratado hidrotratada=categories: A;fonts: derivat;
+hidrotratador hidrotratadora=categories: A;fonts: derivative;
 hidrotérmico hidrotérmica=categories: A;fonts: LT;
 hidroxiacético hidroxiacética=categories: A;fonts: LT;
 hidroxibutírico hidroxibutírica=categories: A;fonts: LT;

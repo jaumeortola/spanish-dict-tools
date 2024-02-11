@@ -3617,6 +3617,7 @@ COI COI NPMSO00
 COP COP NPCNO00
 COPE COPE NPFSO00
 COU COU NPMNO00
+CPE CPE NPCNO00
 CSD CSD NPMSO00
 CSU CSU NPFSO00
 CTA CTA NPCNO00
@@ -3891,6 +3892,7 @@ Camporrobles Camporrobles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camporrélls Camporrélls NPCSG00 #municipios de España
 Campos Campos NPCNSP0 # wiki common surnames
 Campotéjar Campotéjar NPCSG00 #municipios de España
+Campoverde Campoverde NPCNSP0
 Campoy Campoy NPCNSP0 #apellido
 Camprodon Camprodon NPCNG00 # topònim-apertium-falta-gènere-nombre
 Camprovín Camprovín NPCSG00 #municipios de España
@@ -8788,6 +8790,7 @@ IESE IESE NPMSO00
 IESS IESS NPMSO00
 IFEMA IFEMA NPFSO00
 IFS IFS NPCNO00
+IGAC IGAC NPMSO00
 IGSS IGSS NPMSO00
 IMSS IMSS NPMSO00
 INE INE NPMSO00
@@ -10742,6 +10745,7 @@ Lújar Lújar NPCSG00 #municipios de España
 Lübeck Lübeck NPCNG00 # topònim-apertium-falta-gènere-nombre
 MIES MIES NPMSO00
 MIR MIR NPCNO00
+MITUR MITUR NPMSO00
 MWC MWC NPMSO00
 Ma'an Ma'an NPCSG00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
