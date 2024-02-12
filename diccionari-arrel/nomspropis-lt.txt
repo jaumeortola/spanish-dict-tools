@@ -4087,6 +4087,7 @@ Carlos Carlos NPMSSP0 # avl
 Carlota Carlota NPFSSP0 # avl
 Carlotta Carlotta NPFSSP0 #nombre propio de mujer
 Carlssen Carlssen NPCNSP0
+Carlyle Carlyle NPCNSP0
 Carme Carme NPCSG00 #municipios de España
 Carmela Carmela NPFSSP0 # avl
 Carmelilla Carmelilla NPFSSP0 #hipocorístico
