@@ -10680,6 +10680,7 @@ Lumbrales Lumbrales NPCSG00 #municipios de España
 Lumbreras Lumbreras NPCSG00 #municipios de España
 Lumi Lumi NPMSSP0 #hipocorístico
 Luminita Luminita NPFSSP0 #nombre propio de mujer
+Lumière Lumière NPCNSP0
 Lumo Lumo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lumpiaque Lumpiaque NPCSG00 #municipios de España
 Luna Luna NPCNSP0 # wiki common surnames

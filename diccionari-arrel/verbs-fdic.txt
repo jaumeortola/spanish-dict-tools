@@ -6651,6 +6651,7 @@ prefigurar=categories: V;model:amar;fonts: LT;
 prefijar=categories: V;model:amar;fonts: LT;
 prefinanciar=categories: V;model:amar;fonts: ap;
 pregonar=categories: V;model:amar;fonts: LT;
+pregrabar=categories: V;model:amar;fonts: derivative;
 preguntar=categories: V;model:amar;fonts: LT;
 preincubar=categories: V;model:amar;fonts: LT; 
 preinscribir=categories: V;model:escribir;fonts: ap;
