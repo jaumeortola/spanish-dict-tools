@@ -14906,7 +14906,7 @@ Risto Risto NPMSSP0 #hipocorístico
 Rita Rita NPFSSP0 # avl
 Ritaj Ritaj NPFSSP0 #nombre propio de mujer
 Ritz Ritz NPCNSP0
-Ritz-Carlton Ritz-Carlton NPCSO00
+Ritz-Carlton Ritz-Carlton NPCNO00
 Riu Riu NPCNSP0 #apellido
 Riudarenes Riudarenes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riudaura Riudaura NPCNG00 # topònim-apertium-falta-gènere-nombre
