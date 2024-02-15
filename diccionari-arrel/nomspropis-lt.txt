@@ -5708,6 +5708,7 @@ Darfur Darfur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dari Dari NPMSSP0 #hipocorístico
 Daria Daria NPFSSP0 #nombre propio de mujer
 Darier Darier NPCNSP0 # medical
+Darién Darién NPMSG00
 Darjeeling Darjeeling NPCSG00
 Darmstadt Darmstadt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Darnius Darnius NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6488,6 +6489,7 @@ Erronkari Erronkari NPCSG00 #municipios de España
 Erundina Erundina NPFSSP0 #nombre propio de mujer
 Erustes Erustes NPCSG00 #municipios de España
 Ervigio Ervigio NPMSSP0 # avl
+Esade Esade NPFSO00
 Esaú Esaú NPMSSP0 # avl
 Escalante Escalante NPCNSP0
 Escaldes-Engordany Escaldes-Engordany NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6892,6 +6894,7 @@ Fe Fe NPFSSP0 # avl
 Febres Febres NPCSG00 # Venezuela
 Febronia Febronia NPFSSP0 # avl
 Fede Fede NPCNSP0 # medical
+Fedea Fedea NPFSO00
 Federer Federer NPCNSP0
 Federica Federica NPFSSP0 # avl
 Federico Federico NPMSSP0 # avl
