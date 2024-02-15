@@ -61651,6 +61651,7 @@ tecnificación=categories: F;fonts: LT;
 tecnoagricultura=categories: FS;fonts: fundeu;
 tecnociencia=categories: F;fonts: LT;
 tecnocracia=categories: F;fonts: LT;
+tecnocultura=categories: F;fonts: termcat;
 tecnoeducación=categories: FS;fonts: fundeu;
 tecnoestructura=categories: F;fonts: LT;
 tecnoestrés=categories: MS;fonts: fundeu;
