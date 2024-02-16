@@ -3618,6 +3618,7 @@ COP COP NPCNO00
 COPE COPE NPFSO00
 COU COU NPMNO00
 CPE CPE NPCNO00
+CRTVG CRTVG NPFSO00
 CSD CSD NPMSO00
 CSU CSU NPFSO00
 CTA CTA NPCNO00
@@ -5679,6 +5680,7 @@ Dalías Dalías NPCSG00 #municipios de España
 Damasco Damasco NPCNG00 # topònim-apertium-falta-gènere-nombre
 Damiana Damiana NPFSSP0 # avl
 Damiata Damiata NPFSSP0 # avl
+Damien Damien NPMSSP0
 Damià Damià NPMSSP0 #nombre propio de hombre
 Damián Damián NPMSSP0 # avl
 Damocles Damocles NPMSSP0 # avl
@@ -16365,6 +16367,7 @@ TV1 TV1 NPCSO00
 TV2 TV2 NPCSO00
 TV3 TV3 NPCSO00
 TVE TVE NPFSO00
+TVG TVG NPFSO00
 Tabacundo Tabacundo NPCSG00 # Ecuador
 Tabarca Tabarca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tabares Tabares NPCNSP0 #apellido

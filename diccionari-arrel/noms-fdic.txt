@@ -20665,6 +20665,7 @@ datafax [pl. datafaxes]=categories: M;fonts: LT;
 datagrama=categories: M;fonts: LT;
 datario=categories: M;fonts: dr;
 dataría=categories: F;fonts: LT;
+dataset [pl. datasets]=categories: M;fonts: english;
 datero datera=categories: MF;fonts: dr;
 datificación=categories: F;fonts: fundeu;
 datilera=categories: F;fonts: LT;
