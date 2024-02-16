@@ -6959,7 +6959,7 @@ Ferrandis Ferrandis NPCNSP0 #apellido
 Ferrandiz Ferrandiz NPCNSP0 #apellido
 Ferrando Ferrando NPCNSP0
 Ferrari Ferrari NPCNO00 # wiki
-Ferraz Ferraz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ferraz Ferraz NPCNSP0 # calle, apellido
 Ferreira Ferreira NPCSG00
 Ferreiro Ferreiro NPCNSP0 #apellido
 Ferreolo Ferreolo NPMSSP0 # avl
