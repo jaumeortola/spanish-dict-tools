@@ -15458,6 +15458,7 @@ Samo Samo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Samoa Samoa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Samos Samos NPCSG00 #municipios de España
 Samotracia Samotracia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Samoyedia Samoyedia NPFSG00
 Sampacho Sampacho NPCSG00 #municipios de Argentina
 Samper Samper NPCNSP0 #apellido
 Sampieri Sampieri NPCNSP0
@@ -18667,6 +18668,9 @@ Yajalón Yajalón NPCSG00 #municipios de México
 Yakarta Yakarta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yalta Yalta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yalí Yalí NPCSG00 #municipios de Colombia
+Yamalia Yamalia NPFSG00
+Yamalia-Nenetsia Yamalia-Nenetsia NPFSG00
+Yamalo-Nénets Yamalo-Nénets NPCSG00
 Yamila Yamila NPFSSP0 #nombre propio de mujer
 Yamile Yamile NPFSSP0 #nombre propio de mujer
 Yamileth Yamileth NPFSSP0 #nombre propio de mujer
