@@ -707,6 +707,7 @@ GPID=categories: MI;fonts: sigla;
 GPS=categories: MI;fonts: LT;
 GPU=categories: FI;fonts: LT;
 GR=categories: MI;fonts: sigla;
+Gesamtkunstwerk=categories: FS;fonts: German;
 GnRH=categories: FI;fonts: medical;
 Génesis=categories: MI;fonts: wiki;
 H1N1=categories: MFI;fonts: termcat;

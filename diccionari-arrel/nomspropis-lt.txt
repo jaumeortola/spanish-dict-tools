@@ -4561,6 +4561,7 @@ Chalán Chalán NPCSG00 #municipios de Colombia
 Chamartín Chamartín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambo Chambo NPCSG00 # Ecuador
+Chamfort Chamfort NPCNSP0
 Chamical Chamical NPCSG00 #municipios de Argentina
 Chamilo Chamilo NPMSSP0 #hipocorístico
 Chamonix Chamonix NPCNG00 # topònim-apertium-falta-gènere-nombre
