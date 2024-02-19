@@ -4015,6 +4015,7 @@ Caralampio Caralampio NPMSSP0 # avl
 Caramanta Caramanta NPCSG00 #municipios de Colombia
 Caranavi Caranavi NPCSG00 # Bolivia
 Carapeguá Carapeguá NPCSG00 # Paraguay
+Carastathis Carastathis NPCNSP0
 Carataunas Carataunas NPCSG00 #municipios de España
 Caravaca Caravaca NPCNSP0 #apellido
 Caravaggio Caravaggio NPCNSP0
@@ -5535,6 +5536,7 @@ Cundejo Cundejo NPMSSP0 #hipocorístico
 Cundinamarca Cundinamarca NPCSG00
 Cunduacán Cunduacán NPCSG00 #municipios de México
 Cuneo Cuneo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cunill Cunill NPCNSP0
 Cunit Cunit NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cunningham Cunningham NPCNSP0
 Cuntis Cuntis NPCSG00 #municipios de España
@@ -5787,6 +5789,7 @@ Demetria Demetria NPFSSP0 # avl
 Demetrio Demetrio NPMSSP0 # avl
 Demofonte Demofonte NPMSSP0 # avl
 Deméter Deméter NPFSSP0 # avl
+Demócrates Demócrates NPMSSP0
 Demócrito Demócrito NPMSSP0 # avl
 Demóstenes Demóstenes NPMSSP0 # avl
 Dena Dena NPFSSP0 #hipocorístico
@@ -9503,6 +9506,7 @@ Josué Josué NPMSSP0 # avl
 José José NPMSSP0 # avl
 Josías Josías NPMSSP0 # avl
 Jou Jou NPCNG00 # topònim-apertium-falta-gènere-nombre
+Jovany Jovany NPMSSP0
 Jove Jove NPCNSP0 #apellido
 Jover Jover NPCNSP0 #apellido
 Jovi Jovi NPMSSP0 #hipocorístico
@@ -10249,6 +10253,7 @@ Levallois Levallois NPCNSP0
 Leviatana Leviatana NPFSSP0 # avl
 Leviatán Leviatán NPMSSP0 # avl
 Levina Levina NPFSSP0 # avl
+Levinson Levinson NPCNSP0
 Leví Leví NPMSSP0 # avl
 Lewis Lewis NPCNSP0
 Lewis Lewis NPCNSP0 # wiki
@@ -10260,6 +10265,7 @@ Leyre Leyre NPFSSP0 # avl
 Leyva Leyva NPCNSP0 #apellido
 Leza Leza NPCSG00 #municipios de España
 Lezama Lezama NPCSG00 # Argentina LO
+Lezano Lezano NPCNSP0
 Lezcano Lezcano NPCNSP0 #apellido
 Lezo Lezo NPCSG00 #municipios de España
 Lezuza Lezuza NPCSG00 #municipios de España
@@ -12415,6 +12421,7 @@ Nabila Nabila NPFSSP0 #nombre propio de mujer
 Nablus Nablus NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nabot Nabot NPCNSP0 # medical
 Naboth Naboth NPCNSP0 # medical
+Nabucco Nabucco NPCNSP0
 Nabucodonosor Nabucodonosor NPMSSP0 # avl
 Nacajuca Nacajuca NPCSG00 #municipios de México
 Nacha Nacha NPFSSP0 # avl
@@ -14793,6 +14800,7 @@ Reyero Reyero NPCSG00 #municipios de España
 Reyes Reyes NPCNSP0 # wiki common surnames
 Reynolds Reynolds NPCNSP0 # medical
 Reynosa Reynosa NPCSG00 # México
+Reynoso Reynoso  NPCNSP0
 Rezmondo Rezmondo NPCSG00 #municipios de España
 Reznos Reznos NPCSG00 #municipios de España
 Reíllo Reíllo NPCSG00 #municipios de España
@@ -15282,6 +15290,7 @@ Sahuaripa Sahuaripa NPCSG00 #municipios de México
 Sahuayo Sahuayo NPCSG00 # México
 Sahuquillo Sahuquillo NPCNSP0 #apellido
 Sahún Sahún NPCSG00 #municipios de España
+Said Said NPCNSP0
 Saida Saida NPFSSP0 #nombre propio de mujer
 Saidi Saidi NPCNSP0 #apellido
 Saigón Saigón NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16515,6 +16524,7 @@ Taravaus Taravaus NPCNG00 # topònim-apertium-falta-gènere-nombre
 Taravilla Taravilla NPCSG00 #municipios de España
 Tarazona Tarazona NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tarazá Tarazá NPCSG00 #municipios de Colombia
+Tarcicio Tarcicio NPMSSP0
 Tardajos Tardajos NPCSG00 #municipios de España
 Tardelcuende Tardelcuende NPCSG00 #municipios de España
 Tardienta Tardienta NPCSG00 #municipios de España
@@ -18370,6 +18380,7 @@ Vitoco Vitoco NPMSSP0 #hipocorístico
 Vitolo Vitolo NPMSSP0 #hipocorístico
 Vitoria Vitoria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vitoria-Gasteiz Vitoria-Gasteiz NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vittorio Vittorio NPMSSP0
 Vitín Vitín NPMSSP0 #hipocorístico
 Vivaldi Vivaldi NPCNSP0
 Vivanco Vivanco NPCNSP0 #apellido
@@ -18961,6 +18972,7 @@ Zentla Zentla NPCSG00 #municipios de México
 Zenón Zenón NPMSSP0 # avl
 Zepeda Zepeda NPCNSP0
 Zerain Zerain NPCSG00 #municipios de España
+Zerón Zerón NPCNSP0
 Zestoa Zestoa NPCSG00 #municipios de España
 Zetaquira Zetaquira NPCSG00 #municipios de Colombia
 Zeus Zeus NPMSSP0 # avl

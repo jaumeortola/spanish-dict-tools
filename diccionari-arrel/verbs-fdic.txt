@@ -8109,6 +8109,7 @@ transvasar=categories: V;model:amar;fonts: LT;
 tranzar=categories: V;model:abalanzar;fonts: LT;
 trapacear=categories: V;model:amar;fonts: LT;
 trapalear=categories: V;model:amar;fonts: LT;
+trapear=categories: V;model:amar;fonts: LT;
 trapichear=categories: V;model:amar;fonts: LT;
 trapisondear=categories: V;model:amar;fonts: LT;
 traquear=categories: V;model:amar;fonts: LT;
