@@ -34874,3 +34874,4 @@ zíngaro zíngara=categories: A;fonts: LT;
 úrsido úrsida=categories: A;fonts: LT;
 útero-placentario útero-placentaria=categories: A;fonts: medical;
 útil=categories: A;fonts: LT;
+cianobacteriano cianobacteriana=categories: A;fonts: derivat;
