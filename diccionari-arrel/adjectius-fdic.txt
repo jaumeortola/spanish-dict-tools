@@ -11341,7 +11341,6 @@ enteral=categories: A;fonts: medical;
 enterizo enteriza=categories: A;fonts: LT;
 enternecedor enternecedora=categories: A;fonts: LT;
 entero entera [sup. enterísimo]=categories: A;fonts: LT;
-enterocromafin enterocromafines=categories: A;fonts: LT;
 enterocutáneo enterocutánea=categories: A;fonts: medical;
 enterocélico enterocélica=categories: A;fonts: LT;
 enterohepático enterohepática=categories: A;fonts: medical;
