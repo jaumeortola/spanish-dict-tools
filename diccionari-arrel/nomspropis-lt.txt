@@ -5390,6 +5390,7 @@ Cracovia Cracovia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Craig Craig NPCNSP0
 Cramer Cramer NPCNSP0 # medical
 Cranagh Cranagh NPCNSP0
+Crawford Crawford NPCNSP0
 Crecente Crecente NPCSG00 #municipios de España
 Credé Credé NPCNSP0 # medical
 Creixell Creixell NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -19200,4 +19201,3 @@ oXygen oXygen NPMSO00
 Łódź Łódź NPCSG00 # topònim-apertium
 Şanlıurfa Şanlıurfa NPCSG00
 Žižek Žižek NPCNSP0
-Crawford Crawford NPCNSP0
