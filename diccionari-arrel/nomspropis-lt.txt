@@ -14801,7 +14801,7 @@ Reyero Reyero NPCSG00 #municipios de España
 Reyes Reyes NPCNSP0 # wiki common surnames
 Reynolds Reynolds NPCNSP0 # medical
 Reynosa Reynosa NPCSG00 # México
-Reynoso Reynoso  NPCNSP0
+Reynoso Reynoso NPCNSP0
 Rezmondo Rezmondo NPCSG00 #municipios de España
 Reznos Reznos NPCSG00 #municipios de España
 Reíllo Reíllo NPCSG00 #municipios de España
