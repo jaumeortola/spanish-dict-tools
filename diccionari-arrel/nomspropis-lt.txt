@@ -1844,6 +1844,7 @@ Armallones Armallones NPCSG00 #municipios de España
 Armand Armand NPMSSP0 #nombre propio de hombre
 Armanda Armanda NPFSSP0 # avl
 Armando Armando NPMSSP0 # avl
+Armani Armani NPCNSP0
 Armañanzas Armañanzas NPCSG00 #municipios de España
 Armendáriz Armendáriz NPCNSP0 #apellido
 Armengol Armengol NPMSSP0 # avl
