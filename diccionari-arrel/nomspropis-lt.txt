@@ -2002,6 +2002,7 @@ Aspe Aspe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aspect Aspect NPCNSP0 # medical
 Aspect-Crouzon Aspect-Crouzon NPCNSP0 # medical
 Assane Assane NPMSSP0 #nombre propio de hombre
+Assange Assange NPCNSP0
 Assia Assia NPFSSP0 #nombre propio de mujer
 Assumpció Assumpció NPFSSP0 #nombre propio de mujer
 Assumpta Assumpta NPFSSP0 #nombre propio de mujer
@@ -4088,6 +4089,7 @@ Carlomagno Carlomagno NPMSSP0 # avl
 Carlos Carlos NPMSSP0 # avl
 Carlota Carlota NPFSSP0 # avl
 Carlotta Carlotta NPFSSP0 #nombre propio de mujer
+Carlson Carlson NPCNSP0
 Carlssen Carlssen NPCNSP0
 Carlyle Carlyle NPCNSP0
 Carme Carme NPCSG00 #municipios de España
@@ -4992,6 +4994,7 @@ Cler Cler NPFSSP0 #hipocorístico
 Clermont-Ferrand Clermont-Ferrand NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleto Cleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cleveland Cleveland NPCNG00 # topònim-apertium-falta-gènere-nombre
+Clifford Clifford NPCNSP0
 Climent Climent NPCNSP0 #apellido
 Clint Clint NPMSSP0
 Clinton Clinton NPCNSP0 # wiki
@@ -9517,6 +9520,7 @@ Jovita Jovita NPCSG00 # Argentina LO
 Joy Joy NPFSSP0 #nombre propio de mujer
 João João NPMSSP0
 Joèu Joèu NPCNG00 # topònim-apertium-falta-gènere-nombre
+Jrushchov Jrushchov NPCNSP0
 Juampa Juampa NPMSSP0 #hipocorístico
 Juampe Juampe NPMSSP0 #hipocorístico
 Juampi Juampi NPMSSP0 #hipocorístico
@@ -10404,6 +10408,8 @@ Liudmila Liudmila NPFSSP0 #nombre propio de mujer
 Liudmyla Liudmyla NPFSSP0 #nombre propio de mujer
 Liverpool Liverpool NPCNG00 # topònim-apertium-falta-gènere-nombre
 Livia Livia NPFSSP0 # avl
+Livingston Livingston NPCSG00
+Livingstone Livingstone NPCNSP00
 Livio Livio NPMSSP0 # avl
 Liviu Liviu NPMSSP0 #nombre propio de hombre
 Livorno Livorno NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14938,6 +14944,7 @@ Riviera Riviera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rizziconi Rizziconi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Riópar Riópar NPCSG00 #municipios de España
 Riós Riós NPCSG00 #municipios de España
+Riúrik Riúrik NPMSSP0
 Rkia Rkia NPFSSP0 #nombre propio de mujer
 Roa Roa NPCSG00 #municipios de España
 Roales Roales NPCSG00 #municipios de España
@@ -15214,6 +15221,7 @@ Róller Róller NPMSSP0 #hipocorístico
 Rómulo Rómulo NPMSSP0 # avl
 Róterdam Róterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rótova Rótova NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rúrik Rúrik NPMSSP0
 S&P S&P NPCNO00
 SAT SAT NPCNO00
 SEAT SEAT NPCNO00 # wiki
