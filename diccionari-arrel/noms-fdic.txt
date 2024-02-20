@@ -50,6 +50,7 @@
 #biathlon [pl. biathlones]=categories: M;fonts: LT;
 #bibí=categories: M;fonts: dr;
 #binguí=categories: M;fonts: dr;
+#bio=categories: F;fonts: LT;
 #bitcóin [pl. bitcoines]=categories: M;fonts: fundeu;
 #bocací=categories: M;fonts: dr;
 #bocapí=categories: M;fonts: dr;
@@ -9346,7 +9347,6 @@ binodo=categories: M;fonts: LT;
 binomio=categories: M;fonts: LT;
 binza=categories: F;fonts: LT;
 binóculo=categories: M;fonts: LT;
-bio=categories: F;fonts: LT;
 bioacumulación=categories: F;fonts: LT;
 bioalcohol=categories: M;fonts: LT;
 biobanco=categories: M;fonts: esadir;
