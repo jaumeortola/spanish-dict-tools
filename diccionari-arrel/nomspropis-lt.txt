@@ -7867,6 +7867,7 @@ Gogh Gogh NPCNSP0 # wiki
 Goicoechea Goicoechea NPCNSP0
 Goikoetxea Goikoetxea NPCNSP0 #apellido
 Goizueta Goizueta NPCSG00 #municipios de España
+Goldberg Goldberg NPCNSP0
 Goldfinger Goldfinger NPCNSP0
 Goldman Goldman NPCNSP0 # medical
 Goldman-Favre Goldman-Favre NPCNSP0 # medical
@@ -18578,6 +18579,7 @@ Wolpe Wolpe NPCNSP0 # medical
 Wonderland Wonderland NPCSG00
 WooCommerce WooCommerce NPCNO00
 Wood Wood NPCNSP0 # medical
+Woodward Woodward NPCNSP0
 Woody Woody NPCNSP0
 Woolf Woolf NPCNSP0 # wiki
 Wordle Wordle NPMSO00
