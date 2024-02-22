@@ -2123,6 +2123,7 @@ adulterador adulteradora=categories: MF;fonts: LT;
 adulterio=categories: M;fonts: LT;
 adultez=categories: F;fonts: LT;
 adulto adulta=categories: MF;fonts: LT;
+adultocentrismo=categories: M;fonts: wiki;
 adulón adulona=categories: MF;fonts: LT;
 adumbración=categories: F;fonts: LT;
 adustez=categories: F;fonts: LT;

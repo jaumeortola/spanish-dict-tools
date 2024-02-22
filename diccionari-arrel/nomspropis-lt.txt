@@ -433,6 +433,7 @@ Acebo Acebo NPCSG00 #municipios de España
 Acedera Acedera NPCSG00 #municipios de España
 Aceh Aceh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Acehúche Acehúche NPCSG00 #municipios de España
+Acemoglu Acemoglu NPCNSP0
 Acered Acered NPCSG00 #municipios de España
 Acesto Acesto NPMSSP0 # avl
 Aceuchal Aceuchal NPCSG00 #municipios de España
@@ -2158,6 +2159,7 @@ Auxilio Auxilio NPCSSP0 # avl
 Auñón Auñón NPCSG00 #municipios de España
 Avalon Avalon NPCSG00
 Avast Avast NPCNO00
+Avdíivka Avdíivka NPCSG00
 Aveinte Aveinte NPCSG00 #municipios de España
 Avelina Avelina NPFSSP0 # avl
 Avelino Avelino NPMSSP0 # avl
@@ -3374,6 +3376,7 @@ Brenner Brenner NPCNSP0 # medical
 Brent Brent NPCNSP0
 Breogan Breogan NPMSSP0 #nombre propio de hombre
 Breslow Breslow NPCNSP0 # medical
+Brest-Litovsk Brest-Litovsk NPCSG00
 Bretaña Bretaña NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bretocino Bretocino NPCSG00 #municipios de España
 Bretó Bretó NPCSG00 #municipios de España
@@ -3509,6 +3512,7 @@ Bundesrat Bundesrat NPMSO00
 Bundestag Bundestag NPMSO00
 Buniel Buniel NPCSG00 #municipios de España
 Bunnell Bunnell NPCNSP0 # medical
+Bunsen Bunsen NPCNSP0
 Bunyol Bunyol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bunyola Bunyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buonabitacolo Buonabitacolo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8002,6 +8006,7 @@ Gregor Gregor NPCNSP0 # medical
 Gregori Gregori NPCNSP0 #apellido
 Gregoria Gregoria NPFSSP0 # avl
 Gregorio Gregorio NPMSSP0 # avl
+Gremlins Gremlins NPMPSP0
 Grenoble Grenoble NPCNG00 # topònim-apertium-falta-gènere-nombre
 Greta Greta NPFSSP0 # avl
 Greuze Greuze NPCNSP0
@@ -8496,6 +8501,7 @@ Herveo Herveo NPCSG00 #municipios de Colombia
 Hervás Hervás NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hervías Hervías NPCSG00 #municipios de España
 Herzegovina Herzegovina NPCNG00 # topònim-apertium-falta-gènere-nombre
+Herzog Herzog NPCNSP0
 Heráclito Heráclito NPMSSP0 # avl
 Heródoto Heródoto NPMSSP0 # avl
 Herófilo Herófilo NPCNSP0 # medical
@@ -10962,6 +10968,7 @@ Malika Malika NPFSSP0 #nombre propio de mujer
 Malinalco Malinalco NPCSG00
 Malinaltepec Malinaltepec NPCSG00 #municipios de México
 Malito Malito NPCNG00 # topònim-apertium-falta-gènere-nombre
+Malkovich Malkovich NPCNSP0
 Malla Malla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mallabia Mallabia NPCSG00 #municipios de España
 Mallama Mallama NPCSG00 #municipios de Colombia
@@ -11593,6 +11600,7 @@ Meloni Meloni NPCNSP0
 Melquiades Melquiades NPMSSP0 #nombre propio de hombre
 Melquisedec Melquisedec NPMSSP0 # avl
 Melquíades Melquíades NPMSSP0 # avl
+Melrose Melrose NPCSG00
 Melu Melu NPMSSP0 #hipocorístico
 Melucho Melucho NPMSSP0 #hipocorístico
 Melville Melville NPCNSP0
@@ -14269,6 +14277,7 @@ Priscila Priscila NPFSSP0 # avl
 Priscilo Priscilo NPMSSP0 # avl
 Prisco Prisco NPMSSP0 # avl
 Pristina Pristina NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pritzker Pritzker NPCNSP0
 Proaza Proaza NPCSG00 #municipios de España
 Procmes Procmes NPMSSP0 # avl
 Procopio Procopio NPMSSP0 # avl
@@ -14711,6 +14720,7 @@ Redouan Redouan NPMSSP0 #nombre propio de hombre
 Redouane Redouane NPMSSP0 #nombre propio de hombre
 Redovà Redovà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Redován Redován NPCNG00 # topònim-apertium-falta-gènere-nombre
+Redpack Redpack NPCNSP0 # empresa mexicana
 Redueña Redueña NPCSG00 #municipios de España
 Refetoff Refetoff NPCNSP0 # medical
 Refsum Refsum NPCNSP0 # medical
@@ -16092,6 +16102,7 @@ Somontín Somontín NPCSG00 #municipios de España
 Somosierra Somosierra NPCSG00 #municipios de España
 Somoza Somoza NPCNSP0
 Sonadell Sonadell NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sondheim Sondheim NPCNSP0
 Sondika Sondika NPCSG00 #municipios de España
 Soneja Soneja NPCNG00 # topònim-apertium-falta-gènere-nombre
 Song Song NPCNSP0 # wiki
