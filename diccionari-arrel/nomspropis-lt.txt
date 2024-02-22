@@ -3437,6 +3437,7 @@ Bruguez Bruguez NPCSG00 # Paraguay
 Bruna Bruna NPFSSP0 # avl
 Brunei Brunei NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brunet Brunet NPCNSP0 #apellido
+Brunete Brunete NPCSG00
 Brunete Brunete NPMSSP0 # avl
 Brunilda Brunilda NPFSSP0 # avl
 Brunisenda Brunisenda NPFSSP0 # avl
@@ -5818,6 +5819,7 @@ Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
 Depp Depp NPCNSP0
 Dercum Dercum NPCNSP0 # medical
+Derek Derek NPMSSP0
 Derek Derek NPMSSP0 #nombre propio de hombre
 Derio Derio NPCSG00 #municipios de España
 Derna Derna NPCSG00
@@ -6682,6 +6684,7 @@ Etxebarri Etxebarri NPCSG00 #municipios de España
 Etxebarria Etxebarria NPCSG00 #municipios de España
 Etxeberria Etxeberria NPCNSP0 #apellido
 Etzatlán Etzatlán NPCSG00 #municipios de México
+Etéocles Etéocles NPMSSP0
 Eucadio Eucadio NPMSSP0 # avl
 Euclides Euclides NPMSSP0 # avl
 Eudald Eudald NPMSSP0 #nombre propio de hombre
@@ -8613,6 +8616,7 @@ Hontanaya Hontanaya NPCSG00 #municipios de España
 Hontangas Hontangas NPCSG00 #municipios de España
 Hontecillas Hontecillas NPCSG00 #municipios de España
 Hontoba Hontoba NPCSG00 #municipios de España
+Hooke Hooke NPCNSP0
 Hoover Hoover NPCNSP0
 Hopelchén Hopelchén NPCSG00 #municipios de México
 Hopkins Hopkins NPCNSP0
@@ -9526,6 +9530,7 @@ Jovina Jovina NPFSSP0 # avl
 Jovino Jovino NPMSSP0 # avl
 Jovita Jovita NPCSG00 # Argentina LO
 Joy Joy NPFSSP0 #nombre propio de mujer
+Joyce Joyce NPCNSP0
 João João NPMSSP0
 Joèu Joèu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Jrushchov Jrushchov NPCNSP0
@@ -9901,7 +9906,11 @@ L'Orxa L'Orxa NPCSG00
 L'Énova L'Énova NPCSG00
 LATAM LATAM NPFSG00
 LEC LEC NPFSO00
+LGPL LGPL NPCNO00
+LOE LOE NPFSO00
+LOGSE LOGSE NPFSO00
 LOMCE LMOCE NPFSO00
+LOMLOE LOMLOE NPFSO00
 Labajos Labajos NPCSG00 #municipios de España
 Labastida Labastida NPCSG00 #municipios de España
 Labateca Labateca NPCSG00 #municipios de Colombia
@@ -15538,6 +15547,7 @@ Sangüesa Sangüesa NPCSG00 #municipios de España
 Sanhueza Sanhueza NPCNSP0 # wiki common surnames
 Sani Sani NPFSSP0 #hipocorístico
 Sanjuan Sanjuan NPCNSP0 #apellido
+Sanjurjada Sanjurjada NPFSO00
 Sanjurjo Sanjurjo NPCNSP0
 Sanliurfa Sanliurfa NPCSG00
 Sanlúcar Sanlúcar NPCSG00
@@ -16512,6 +16522,7 @@ Tania Tania NPFSSP0 # avl
 Taniche Taniche NPCSG00 #municipios de México
 Tanit Tanit NPFSSP0 #nombre propio de mujer
 Tanlajás Tanlajás NPCSG00 #municipios de México
+Tannenberg Tannenberg NPCSG00
 Tanner Tanner NPCNSP0 # medical
 Tanny Tanny NPFSSP0 #hipocorístico
 Tano Tano NPMSSP0 # avl
