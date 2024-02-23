@@ -3086,6 +3086,7 @@ Binswanger Binswanger NPCNSP0 # medical
 Binéfar Binéfar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Biobío Biobío NPCSG00 # Chile
 Bioko Bioko NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bioparc Bioparc NPMSG00
 Biosca Biosca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Biota Biota NPCSG00 #municipios de España
 Birbeck Birbeck NPCNSP0 # medical
