@@ -9821,7 +9821,9 @@ Koestler Koestler NPCNSP0
 Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kojewnikow Kojewnikow NPCNSP0 # medical
+Koldo Koldo NPMSSP0
 Koldo Koldo NPMSSP0 #nombre propio de hombre
+Koldobika Koldobika NPMSSP0
 Koldobika Koldobika NPMSSP0 #nombre propio de hombre
 Kolmogórov Kolmogórov NPCNSP0
 Komodo Komodo NPMSG00
@@ -19235,5 +19237,3 @@ oXygen oXygen NPMSO00
 Łódź Łódź NPCSG00 # topònim-apertium
 Şanlıurfa Şanlıurfa NPCSG00
 Žižek Žižek NPCNSP0
-Koldobika Koldobika NPMSSP0
-Koldo Koldo NPMSSP0
