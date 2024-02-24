@@ -19235,3 +19235,5 @@ oXygen oXygen NPMSO00
 Łódź Łódź NPCSG00 # topònim-apertium
 Şanlıurfa Şanlıurfa NPCSG00
 Žižek Žižek NPCNSP0
+Koldobika Koldobika NPMSSP0
+Koldo Koldo NPMSSP0
