@@ -34872,6 +34872,7 @@ homocisteína=categories: F;fonts: medical;
 homocistinuria=categories: F;fonts: medical;
 homoclima=categories: M;fonts: LT;
 homocromía=categories: F;fonts: LT;
+homoerotismo=categories: M;fonts: derivat;
 homoestructura=categories: F;fonts: LT;
 homofibra=categories: F;fonts: LT;
 homofobia=categories: F;fonts: LT;
