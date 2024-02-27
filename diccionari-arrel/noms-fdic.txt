@@ -28787,6 +28787,7 @@ fanguero=categories: M;fonts: dr;
 fani=categories: M;fonts: fundéu;
 fanotrón=categories: M;fonts: LT;
 fanpage [pl. fanpages]=categories: F;fonts: LT;
+fanta=categories: F;fonts: marca;
 fantasma=categories: M;fonts: LT;
 fantasmagoría=categories: F;fonts: LT;
 fantasmeo=categories: M;fonts: termcat, rae;

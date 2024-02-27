@@ -6865,6 +6865,7 @@ Faneras Faneras NPCNSP0 # medical
 Fani Fani NPFSSP0
 Fanlo Fanlo NPCSG00 #municipios de España
 Fanny Fanny NPFSSP0 #nombre propio de mujer
+Fanta Fanta NPFSO00
 Fantin-Latour Fantin-Latour NPCNSP0
 Fanzara Fanzara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Farache Farache NPMSSP0 # avl
