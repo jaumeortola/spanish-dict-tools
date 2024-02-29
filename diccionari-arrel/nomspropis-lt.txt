@@ -19147,6 +19147,7 @@ oXygen oXygen NPMSO00
 Àneu Àneu NPFSG00 # topònim-apertium-falta-gènere-nombre
 Àngels Àngels NPFSSP0 #nombre propio de mujer
 Ábaco Ábaco NPMSSP0 # avl
+Ábalos Ábalos NPCNSP0
 Ábalos Ábalos NPCSG00 #municipios de España
 Ádal Ádal NPMSSP0 #hipocorístico
 Ádolf Ádolf NPMSSP0 #hipocorístico
