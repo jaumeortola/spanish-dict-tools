@@ -19167,8 +19167,8 @@ oXygen oXygen NPMSO00
 Álvara Álvara NPFSSP0 # avl
 Álvarez Álvarez NPCNSP0 # wiki common surnames
 Álvaro Álvaro NPMSSP0 # avl
+Ámstel Ámstel NPMSG00
 Ámsterdam Ámsterdam NPCNG00 # topònim-apertium-falta-gènere-nombre
-Ámsterl Ámstel NPMSG00
 Áncash Áncash NPCSG00 # Perú
 Ándalus Ándalus NPMSG00 # wiki
 Ángel Ángel NPMSSP0 # avl
