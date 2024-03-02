@@ -45641,6 +45641,7 @@ nueva=categories: F;fonts: LT;
 nueve=categories: MFI;fonts: numeral,LT;
 nuez=categories: F;fonts: LT;
 nueza=categories: F;fonts: LT;
+nugget=categories: M;fonts: english;
 nulidad=categories: F;fonts: LT;
 nulificación=categories: F;fonts: LT;
 nulo=categories: M;fonts: LT;

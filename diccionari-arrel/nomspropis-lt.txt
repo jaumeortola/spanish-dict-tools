@@ -15153,6 +15153,7 @@ Rubencho Rubencho NPMSSP0 #hipocorístico
 Rubencito Rubencito NPMSSP0 #hipocorístico
 Rubi Rubi NPMSSP0 #hipocorístico
 Rubiales Rubiales NPCSG00 #municipios de España
+Rubianes Rubianes NPCNSP0
 Rubicón Rubicón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubik Rubik NPCNSP0
 Rubinstein Rubinstein NPCNSP0
