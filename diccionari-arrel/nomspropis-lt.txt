@@ -7673,6 +7673,7 @@ Gelsa Gelsa NPCSG00 #municipios de España
 Gelu Gelu NPMSSP0 #hipocorístico
 Gelves Gelves NPCSG00 #municipios de España
 Gema Gema NPFSSP0 # avl
+Gemini Gemini NPMSO00
 Geminiani Geminiani NPCNSP0
 Gemma Gemma NPFSSP0 #nombre propio de mujer
 Gemuño Gemuño NPCSG00 #municipios de España
@@ -10604,6 +10605,8 @@ Loseta Loseta NPCSSP0 # avl
 Lossada Lossada NPCSG00 # Venezuela
 Lot Lot NPMSSP0 # avl
 Lotario Lotario NPMSSP0 # avl
+Lotte Lotte NPCNO00
+Lotte Lotte NPFSSP0
 Lotus Lotus NPCNO00
 Loubna Loubna NPFSSP0 #nombre propio de mujer
 Louis Louis NPMSSP0 # wiki
@@ -11513,6 +11516,7 @@ McCormick McCormick NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
+McDowell McDowell NPCNSP0
 McFadden McFadden NPCNSP0
 McGraw-Hill McGraw-Hill NPCNO00
 McKay McKay NPCNSP0
