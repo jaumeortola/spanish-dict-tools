@@ -16224,6 +16224,7 @@ Springsteen Springsteen NPCNSP0
 Sputnik Sputnik NPCNO00
 Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Staiti Staiti NPCNG00 # topònim-apertium-falta-gènere-nombre
+Stajánov Stajánov NPCNSP0
 Stalin Stalin NPCNSP0 # wiki
 Stalingrado Stalingrado NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stallman Stallman NPCNSP0
@@ -18474,6 +18475,7 @@ Voyager Voyager NPCNSP0 # wiki
 Vozmediano Vozmediano NPCSG00 #municipios de España
 Vulcano Vulcano NPMSSP0 # avl
 Vulpellac Vulpellac NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vygotsky Vygotsky NPCNSP0
 Válor Válor NPCSG00 #municipios de España
 Vásquez Vásquez NPCNSP0 # wiki common surnames
 Vázquez Vázquez NPCNSP0 # wiki common surnames
