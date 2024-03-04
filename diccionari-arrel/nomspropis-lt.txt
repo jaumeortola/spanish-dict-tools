@@ -16396,6 +16396,7 @@ Sáenz Sáenz NPCNSP0
 Sáez Sáez NPCNSP0 # wiki common surnames
 Sáhara Sáhara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sáiz Sáiz NPCNSP0 #apellido
+Sájarov Sájarov NPCNSP0
 Sánchez Sánchez NPCNSP0 # wiki common surnames
 Sáric Sáric NPCSG00 #municipios de México
 Sársfield Sársfield NPCSG00 # Argentina LO
