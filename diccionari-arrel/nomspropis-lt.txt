@@ -5376,6 +5376,7 @@ Courbet Courbet NPCNSP0
 Cournand Cournand NPCNSP0 # medical
 Courvoisier Courvoisier NPCNSP0 # medical
 Couso Couso NPCNSP0 #apellido
+Cousteau Cousteau NPCNSP0
 Couto Couto NPCNSP0 #apellido
 Couvelaire Couvelaire NPCNSP0 # medical
 Covadonga Covadonga NPFSSP0 # avl
@@ -17525,6 +17526,7 @@ UNESCO UNESCO NPFSO00 # wiki
 UNIX UNIX NPCNO00 # wiki
 UOC UOC NPFSO00
 UPC UPC NPFSO00
+UPN UPN NPFSO00
 URSS URSS NPFSG00 # topònim-apertium
 USA USA NPMPG00 # anglicism
 USAID USAID NPCSO00
