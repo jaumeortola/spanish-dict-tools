@@ -6215,6 +6215,7 @@ Ejulve Ejulve NPCSG00 #municipios de España
 Ejutla Ejutla NPCSG00 #municipios de México
 Ekain Ekain NPMSSP0 #nombre propio de hombre
 Ekaitz Ekaitz NPMSSP0 #nombre propio de hombre
+Ekaizer Ekaizer NPCNSP0
 Ekaterimburgo Ekaterimburgo NPCSG00
 Ekaterina Ekaterina NPFSSP0 #nombre propio de mujer
 Ekhi Ekhi NPMSSP0 #nombre propio de hombre
@@ -18501,6 +18502,7 @@ Wachowski Wachowski NPCNSP0
 Wada Wada NPCNSP0 # medical
 Wael Wael NPMSSP0 #nombre propio de hombre
 Wafae Wafae NPFSSP0 #nombre propio de mujer
+Wagensberg Wagensberg NPCNSP0
 Wagner Wagner NPCNSP0 # wiki
 Walda Walda NPFSSP0 # avl
 Waldenströn Waldenströn NPCNSP0 # medical
