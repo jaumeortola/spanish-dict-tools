@@ -31314,6 +31314,7 @@ supercorto supercorta=categories: A;fonts: derivat;
 supercortés=categories: A;fonts: derivat;
 supercostoso supercostosa=categories: A;fonts: derivat;
 supercrítico supercrítica=categories: A;fonts: LT;
+supercuco cupercuca=categories: A;fonts: derivat;
 supercuidado supercuidada=categories: A;fonts: derivat;
 supercurioso supercuriosa=categories: A;fonts: derivat;
 supercómodo supercómoda=categories: A;fonts: derivat;
