@@ -3619,6 +3619,7 @@ CIS CIS NPMSO00
 CIU CIU NPFNO00 #Uruguay
 CLP CLP NPCNO00
 CNI CNI NPMSO00
+CNMV CNMV NPFSO00
 CNP CNP NPMSO00
 CNT CNT NPFSO00
 COI COI NPMSO00
@@ -7942,6 +7943,7 @@ Gosling Gosling NPCNSP0
 Gospor Gospor NPMSSP0 #hipocorístico
 Gotarrendura Gotarrendura NPCSG00 #municipios de España
 Gotemburgo Gotemburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gotham Gotham NPCSG00
 Gotor Gotor NPCSG00 #municipios de España
 Gotzon Gotzon NPMSSP0 #nombre propio de hombre
 Gouda Gouda NPCSG00
