@@ -3619,6 +3619,7 @@ CIS CIS NPMSO00
 CIU CIU NPFNO00 #Uruguay
 CLP CLP NPCNO00
 CNI CNI NPMSO00
+CNMC CNMC NPFSO00
 CNMV CNMV NPFSO00
 CNP CNP NPMSO00
 CNT CNT NPFSO00
@@ -14342,6 +14343,7 @@ Puchuncaví Puchuncaví NPCSG00 #municipios de Chile
 Pucón Pucón NPCSG00 #municipios de Chile
 Pucú Pucú NPCSG00 # Paraguay
 Pudahuel Pudahuel NPCSG00 #municipios de Chile
+Pudong Pudong NPCSG00
 Puebla Puebla NPCSG00
 Pueblorrico Pueblorrico NPCSG00 #municipios de Colombia
 Puebloviejo Puebloviejo NPCSG00 # Ecuador
@@ -15265,6 +15267,7 @@ SEP SEP NPCNO00
 SEPE SEPE NPMSO00
 SER SER NPCSO00
 SIGGRAPH SIGGRAPH NPCNO00
+SME SME NPCNO00
 SNP SNP NPMSO00
 SOFORT SOFORT NPCNO00
 SPD SPD NPMSO00
