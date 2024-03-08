@@ -8494,6 +8494,7 @@ Hero Hero NPMSSP0 # avl
 Herodes Herodes NPMSSP0 # avl
 Herodías Herodías NPFSSP0 # avl
 Heros Heros NPMSSP0 # avl
+Herralde Herralde NPCNSP0
 Herramélluri Herramélluri NPCSG00 #municipios de España
 Herranz Herranz NPCNSP0 #apellido
 Herrera Herrera NPCNG00 # topònim-apertium-falta-gènere-nombre
