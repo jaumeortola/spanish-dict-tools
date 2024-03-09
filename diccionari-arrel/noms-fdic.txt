@@ -55995,6 +55995,7 @@ retroneumoperitoneografía=categories: F;fonts: medical;
 retrooclusión=categories: F;fonts: LT;
 retropilastra=categories: F;fonts: LT;
 retropié=categories: M;fonts: dr;
+retropropagación=categories: F;fonts: termcat;
 retropropulsión=categories: F;fonts: LT;
 retroproyección=categories: F;fonts: LT;
 retroproyector=categories: M;fonts: LT;

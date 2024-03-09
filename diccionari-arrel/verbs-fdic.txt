@@ -7441,6 +7441,7 @@ retroceder=categories: V;model:temer;fonts: LT;
 retrogradar=categories: V;model:amar;fonts: LT;
 retroiluminar=categories: V;model:amar;fonts: LT;
 retronar=categories: V;model:sonar;fonts: ap;
+retropropagar=categories: V;model:cargar;fonts: derivat;
 retrotraer=categories: V;model:traer;fonts: LT;
 retrovender=categories: V;model:temer;fonts: LT;
 retrucar=categories: V;model:abarcar;fonts: LT;

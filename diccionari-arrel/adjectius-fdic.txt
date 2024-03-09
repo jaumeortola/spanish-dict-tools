@@ -29521,6 +29521,7 @@ semirrígido semirrígida=categories: A;fonts: LT;
 semisalvaje=categories: A;fonts: dr;
 semiseco semiseca=categories: A;fonts: LT;
 semisimple=categories: A;fonts: LT;
+semisupervisado semisupervisada=categories: A;fonts: derivat;
 semisólido semisólida=categories: A;fonts: LT;
 semita=categories: A;fonts: LT;
 semitendinoso semitendinosa=categories: A;fonts: medical;
