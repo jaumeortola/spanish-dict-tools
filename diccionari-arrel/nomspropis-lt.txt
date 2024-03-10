@@ -5059,6 +5059,7 @@ Cocteau Cocteau NPCNSP0
 Cocula Cocula NPCSG00 #municipios de México
 Codazzi Codazzi NPCNSP0
 Codegua Codegua NPCSG00 #municipios de Chile
+Coderch Coderch NPCNSP0
 Codigoro Codigoro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Codivilla Codivilla NPCNSP0 # medical
 Codman Codman NPCNSP0 # medical
@@ -5170,6 +5171,7 @@ Compromís Compromís NPMSO00
 Compton Compton NPCNSP0 # medical
 Compuwave Compuwave NPCNO00
 Comte Comte NPCNSP0
+Comédie-Française Comédie-Française NPFSO00
 Cona Cona NPFSSP0 #hipocorístico
 Conakri Conakri NPCSG00 # topònim-apertium-falta-gènere
 Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5767,6 +5769,7 @@ Deba Deba NPCSG00 #municipios de España
 Deborah Deborah NPFSSP0
 Debussy Debussy NPCNSP0
 Decio Decio NPMSSP0 # avl
+Decroly Decroly NPCNSP0
 Defoe Defoe NPCNSP0
 Degas Degas NPCNSP0
 Degaña Degaña NPCSG00 #municipios de España
@@ -6533,6 +6536,7 @@ Esclaramundo Esclaramundo NPMSSP0 # avl
 Escobar Escobar NPCNSP0 # wiki common surnames
 Escobedo Escobedo NPCNSP0
 Escocia Escocia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Escolano Escolano NPCNSP0
 Escolástica Escolástica NPFSSP0 # avl
 Escolástico Escolástico NPMSSP0 # avl
 Escopete Escopete NPCSG00 #municipios de España
@@ -9673,6 +9677,7 @@ Kahlo Kahlo NPCNSP0
 Kahneman Kahneman NPCNSP0
 Kahoot Kahoot NPCNO00
 Kai Kai NPMSSP0 #nombre propio de hombre
+Kai-shek Kai-shek NPCNSP0
 Kajovka Kajovka NPFSG00
 Kalimantan Kalimantan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaliningrado Kaliningrado NPCNG00 # topònim-apertium-falta-gènere-nombre
