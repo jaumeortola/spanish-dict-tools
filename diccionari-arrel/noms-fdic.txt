@@ -45076,6 +45076,7 @@ neuroctomía=categories: F;fonts: medical;
 neurodermatitis=categories: FI;fonts: medical;
 neurodermitis=categories: FI;fonts: medical;
 neurodesarrollo=categories: M;fonts: wiki;
+neurodetonante=categories: M;fonts: neolosfera;
 neurodiversidad=categories: F;fonts: LT;
 neuroecografía=categories: F;fonts: medical;
 neuroeje=categories: M;fonts: LT;

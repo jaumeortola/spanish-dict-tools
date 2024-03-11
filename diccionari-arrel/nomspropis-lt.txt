@@ -2916,6 +2916,7 @@ Bergman Bergman NPCNSP0
 Bergoglio Bergoglio NPCNSP0
 Bergondo Bergondo NPCSG00 #municipios de España
 Bergonié-Tribondeau Bergonié-Tribondeau NPCNSP0 # medical
+Bergson Bergson NPCNSP0
 Berguedà Berguedà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bergés Bergés NPCNSP0 #apellido
 Berisso Berisso NPCSG00 # Argentina LO
@@ -3473,6 +3474,7 @@ Buctzotz Buctzotz NPCSG00 #municipios de México
 Buda Buda NPMSSP0 # avl
 Budapest Budapest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Budd-Chiari Budd-Chiari NPCNSP0 # medical
+Buddenbrook Buddenbrook NPCNSP0
 Budia Budia NPCSG00 #municipios de España
 Buenafuente Buenafuente NPCNSP0
 Buenamadre Buenamadre NPCSG00 #municipios de España
@@ -7747,6 +7749,7 @@ Geroncio Geroncio NPMSSP0 # avl
 Gers Gers NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gerstmann Gerstmann NPCNSP0 # medical
 Gerstmann-Straussler-Scheinker Gerstmann-Straussler-Scheinker NPCNSP0 # medical
+Gersónides Gersónides NPMSSP0
 Gertrudis Gertrudis NPFSSP0 # avl
 Gervasia Gervasia NPFSSP0 # avl
 Gervasio Gervasio NPMSSP0 # avl
