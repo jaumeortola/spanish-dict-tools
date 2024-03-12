@@ -1871,6 +1871,7 @@ amistosísimo amistosísima=categories: A;fonts: superlative;
 amitolocal=categories: A;fonts: LT;
 amitótico amitótica=categories: A;fonts: LT;
 ammonita=categories: A;fonts: LT;
+amnistiable=categories: A;fonts: derivat;
 amniótico amniótica=categories: A;fonts: LT;
 amnésico amnésica=categories: A;fonts: LT;
 amodorrido amodorrida=categories: A;fonts: dr;
