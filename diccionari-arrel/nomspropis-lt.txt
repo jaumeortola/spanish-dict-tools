@@ -8605,6 +8605,7 @@ Hollomon Hollomon NPCNSP0
 Hollywood Hollywood NPCNG00 # topònim-apertium-falta-gènere-nombre
 Holmes Holmes NPCNSP0 # wiki
 Holofernes Holofernes NPMSSP0 # avl
+Holstein Holstein NPCSG00
 Holyrood Holyrood NPCSG00
 Holyroodhouse Holyroodhouse NPCSG00
 Holzhausen Holzhausen NPCNSP0
@@ -15712,6 +15713,7 @@ Schilling Schilling NPCNSP0 # medical
 Schimmelbusch Schimmelbusch NPCNSP0 # medical
 Schiötz Schiötz NPCNSP0 # medical
 Schlesinger Schlesinger NPCNSP0
+Schleswig Schleswig NPCSG00
 Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-nombre
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lanterman Schmidt-Lanterman NPCNSP0 # medical
