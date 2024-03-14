@@ -48049,6 +48049,7 @@ partideño partideña=categories: MF;fonts: dr;
 partidillo=categories: M;fonts: LT;
 partidismo=categories: M;fonts: LT;
 partidista=categories: MF;fonts: LT;
+partidito=categories: M;fonts: diminutive;
 partido=categories: M;fonts: LT;
 partidocracia=categories: F;fonts: dr;
 partidor partidora=categories: MF;fonts: LT;
