@@ -2345,6 +2345,7 @@ copiar=categories: V;model:amar;fonts: LT;
 copinar=categories: V;model:amar;fonts: LT;
 copipegar=categories: V;model:cargar;fonts: fundeu; 
 coplear=categories: V;model:amar;fonts: LT;
+copresentar=categories: V;model:amar;fonts: derivat;
 coproducir=categories: V;model:conducir;fonts: ap;
 coprotagonizar=categories: V;model:abalanzar;fonts: dr;
 copular=categories: V;model:amar;fonts: LT;
