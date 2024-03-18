@@ -7018,6 +7018,7 @@ Fidela Fidela NPFSSP0 # avl
 Fidelia Fidelia NPFSSP0 # avl
 Fidelina Fidelina NPFSSP0 #nombre propio de mujer
 Fidelio Fidelio NPMSSP0 # avl
+Fidesz Fidesz NPCSO00
 Fidias Fidias NPMSSP0 # avl
 Figaredo Figaredo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Figaró-Montmany Figaró-Montmany NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8514,6 +8515,7 @@ Herráez Herráez NPCNSP0 #apellido
 Herráiz Herráiz NPCNSP0 #apellido
 Herrán Herrán NPCSG00 #municipios de Colombia
 Hers Hers NPCNSP0 # medical
+Hertz Hertz NPCNSP0
 Hertzsprung Hertzsprung NPCNSP0
 Herté Herté NPMSSP0 # avl
 Herveo Herveo NPCSG00 #municipios de Colombia
@@ -11474,6 +11476,7 @@ Maximiliano Maximiliano NPMSSP0 # avl
 Maximina Maximina NPFSSP0 # avl
 Maximino Maximino NPMSSP0 # avl
 Maxito Maxito NPMSSP0 #hipocorístico
+Maxwell Maxwell NPCNSP0
 Maya Maya NPFSSP0 # avl
 Mayalde Mayalde NPCSG00 #municipios de España
 Mayapán Mayapán NPCSG00 #municipios de México
@@ -13196,6 +13199,7 @@ Orba Orba NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orbaitzeta Orbaitzeta NPCSG00 #municipios de España
 Orbara Orbara NPCSG00 #municipios de España
 Orbita Orbita NPCSG00 #municipios de España
+Orbán Orbán NPCNSP0
 Orcajo Orcajo NPCSG00 #municipios de España
 Orcau Orcau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orce Orce NPCSG00 #municipios de España
@@ -18640,6 +18644,7 @@ Woodward Woodward NPCNSP0
 Woody Woody NPCNSP0
 Woolf Woolf NPCNSP0 # wiki
 Wordle Wordle NPMSO00
+Wordsworth Wordsworth NPCNSP0
 Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 World World NPCNG00 # English
 Wright Wright NPCNSP0 # wiki
