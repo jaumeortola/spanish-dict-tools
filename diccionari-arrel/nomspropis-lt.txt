@@ -9144,6 +9144,7 @@ Itacurubí Itacurubí NPCSG00 # Paraguay
 Itagui Itagui NPCSG00 #municipios de Colombia
 Itagüí Itagüí NPCSG00 # Colombia
 Itahisa Itahisa NPFSSP0 #nombre propio de mujer
+Itaipú Itaipú NPCSG00 #represa entre Paraguay y Brasil
 Itakyry Itakyry NPCSG00 # Paraguay
 Italia Italia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Italó Italó NPCSG00 #municipios de Argentina
