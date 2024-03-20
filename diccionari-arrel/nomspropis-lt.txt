@@ -4975,6 +4975,7 @@ Clau Clau NPFSSP0 #hipocorístico
 Clau Clau NPMSSP0 #hipocorístico
 Claude Claude NPCNSP0 # wiki
 Claude-Bernard-Horner Claude-Bernard-Horner NPCNSP0 # medical
+Claudel Claudel NPCNSP0
 Claudi Claudi NPFSSP0 #hipocorístico
 Claudi Claudi NPMSSP0 #hipocorístico
 Claudia Claudia NPFSSP0 # avl
@@ -7980,6 +7981,7 @@ Graciano Graciano NPMSSP0 # avl
 Graciela Graciela NPFSSP0 # avl
 Graciliana Graciliana NPFSSP0 # avl
 Graciliano Graciliano NPMSSP0 # avl
+Gracián Gracián NPCNSP0
 Gradefes Gradefes NPCSG00 #municipios de España
 Gradenigo Gradenigo NPCNSP0 # medical
 Grado Grado NPCSG00 #municipios de España
@@ -9749,6 +9751,7 @@ Kawtar Kawtar NPFSSP0 #nombre propio de mujer
 Kayser-Fleischer Kayser-Fleischer NPCNSP0 # medical
 Kazajistán Kazajistán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kearns-Sayre Kearns-Sayre NPCNSP0 # medical
+Keats Keats NPCNSP0
 Keeling Keeling NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kehr Kehr NPCNSP0 # medical
 Keila Keila NPFSSP0 #nombre propio de mujer
@@ -14294,6 +14297,7 @@ Presencio Presencio NPCSG00 #municipios de España
 Presentación Presentación NPFSSP0 # avl
 Presley Presley NPCNSP0
 Prestige Prestige NPMSO00
+Pretenders Pretenders NPMPO00
 Pretoria Pretoria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Prezi Prezi NPMSO00
 Pribnow Pribnow NPCNSP0 # medical

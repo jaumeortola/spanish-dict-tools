@@ -10572,6 +10572,7 @@ donostiarra=categories: A;fonts: LT;
 donosísimo donosísima=categories: A;fonts: superlative;
 donquijotesco donquijotesca=categories: A;fonts: dr;
 dopaminérgico dopaminérgica=categories: A;fonts: medical;
+dopamínico dopamínica=categories: A;fonts: derivat;
 dopante=categories: A;fonts: dr;
 doppler=categories: A;fonts: dr;
 dorace=categories: A;fonts: dr;
