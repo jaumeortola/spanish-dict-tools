@@ -5372,6 +5372,7 @@ Cotes Cotes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coti Coti NPFSSP0 #hipocorístico
 Cotija Cotija NPCSG00 #municipios de México
 Cotillas Cotillas NPCSG00 #municipios de España
+Cotino Cotino NPCNSP0
 Cotobade Cotobade NPCSG00 #municipios de España
 Cotoca Cotoca NPCSG00 # Bolivia
 Cotorra Cotorra NPCSG00 #municipios de Colombia
@@ -13443,6 +13444,7 @@ Padua Padua NPCNG00 # topònim-apertium-falta-gènere-nombre
 Padul Padul NPCSG00 #municipios de España
 Padules Padules NPCSG00 #municipios de España
 Padín Padín NPCNSP0 #apellido
+Paesa Paesa NPCNSP0
 Paganini Paganini NPCNSP0
 Pages Pages NPCNSP0
 Paget Paget NPCNSP0 # medical
@@ -19002,6 +19004,7 @@ Zapater Zapater NPCNSP0 #apellido
 Zapatoca Zapatoca NPCSG00 #municipios de Colombia
 Zapayán Zapayán NPCSG00 #municipios de Colombia
 Zapico Zapico NPCNSP0 #apellido
+Zaplana Zaplana NPCNSP0
 Zapopan Zapopan NPCSG00
 Zapotiltic Zapotiltic NPCSG00 #municipios de México
 Zapotitlán Zapotitlán NPCSG00

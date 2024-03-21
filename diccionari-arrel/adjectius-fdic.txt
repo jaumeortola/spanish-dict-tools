@@ -34676,6 +34676,7 @@ zapateador zapateadora=categories: A;fonts: LT;
 zapatero zapatera=categories: A;fonts: LT;
 zapatista=categories: A;fonts: LT;
 zapatudo zapatuda=categories: A;fonts: LT;
+zaplanista=categories: A;fonts: derivat;
 zapoteco zapoteca=categories: A;fonts: LT;
 zarabandista=categories: A;fonts: LT;
 zaragatero zaragatera=categories: A;fonts: LT;

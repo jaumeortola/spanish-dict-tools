@@ -67489,6 +67489,7 @@ zapeo=categories: MS;fonts: dr;
 zaperoco=categories: M;fonts: dr;
 zapita=categories: F;fonts: dr;
 zapito=categories: M;fonts: dr;
+zaplanismo=categories: M;fonts: derivat;
 zapotal=categories: M;fonts: LT;
 zapotazo=categories: M;fonts: dr;
 zapote=categories: M;fonts: LT;
