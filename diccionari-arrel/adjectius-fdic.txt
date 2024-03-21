@@ -7875,6 +7875,7 @@ consonante=categories: A;fonts: LT;
 consonántico consonántica=categories: A;fonts: LT;
 consorcial=categories: A;fonts: LT;
 conspicuo conspicua=categories: A;fonts: LT;
+conspiracionista=categories: A;fonts: derivative;
 conspiranoico conspiranoica=categories: A;fonts: fundeu;
 conspirativo conspirativa=categories: A;fonts: dr;
 conspiratorio conspiratoria=categories: A;fonts: LT;
