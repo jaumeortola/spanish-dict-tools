@@ -4778,6 +4778,7 @@ Chiprana Chiprana NPCSG00 #municipios de España
 Chipre Chipre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Chiquilistlán Chiquilistlán NPCSG00 #municipios de México
 Chiquinquirá Chiquinquirá NPCSG00 # Colombia
+Chirbes Chirbes NPCNSP0
 Chirico Chirico NPCNSP0
 Chiriguaná Chiriguaná NPCSG00 #municipios de Colombia
 Chirivel Chirivel NPCSG00 #municipios de España
@@ -15701,6 +15702,8 @@ Saurina Saurina NPFSSP0 # avl
 Saurino Saurino NPMSSP0 # avl
 Saus Saus NPCNG00 # topònim-apertium-falta-gènere-nombre
 Savelli Savelli NPCNG00 # topònim-apertium-falta-gènere-nombre
+Savonarola Savonarola NPMNSP0
+Savonarolas Savonarola NPMPSP0
 Sax Sax NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sayago Sayago NPCNSP0 #apellido
 Sayalonga Sayalonga NPCSG00 #municipios de España
