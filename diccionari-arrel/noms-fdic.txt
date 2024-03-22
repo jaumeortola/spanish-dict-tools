@@ -49755,6 +49755,7 @@ picrotoxina=categories: F;fonts: LT;
 picto picta=categories: MF;fonts: LT;
 pictografía=categories: F;fonts: LT;
 pictograma=categories: M;fonts: LT;
+pictopueblo=categories: M;fonts: fundeu;
 picuala=categories: F;fonts: dr;
 picudilla=categories: F;fonts: dr;
 piculina=categories: F;fonts: dr;
