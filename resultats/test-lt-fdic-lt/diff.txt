@@ -1,15 +1,5 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
-20681,20682c20681
-< brunch brunch NCMP000
-< brunch brunch NCMS000
----
-> brunch brunch NCMN000
-122637,122638c122636
-< showcooking showcooking NCMP000
-< showcooking showcooking NCMS000
----
-> showcooking showcooking NCMN000
 ** Compara adjectius **
 ** Compara verbs **
 ** Altres errors **

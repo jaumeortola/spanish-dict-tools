@@ -3543,7 +3543,7 @@ Burnett Burnett NPCNSP0 # medical
 Burney Burney NPCNSP0 # medical
 Buroz Buroz NPCSG00 # Venezuela
 Burriana Burriana NPCNG00 # topònim-apertium-falta-gènere-nombre
-Burroughs Burroughs NPCNSO0
+Burroughs Burroughs NPCNSP0
 Burrow Burrow NPCNSP0 # medical
 Burujón Burujón NPCSG00 #municipios de España
 Burundi Burundi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6294,7 +6294,7 @@ Elián Elián NPMSSP0 # avl
 Eljas Eljas NPCSG00 #municipios de España
 Elling Elling NPCNSP0
 Ellington Ellington NPCNSP0
-Ellsworth Ellsworth NCSG00
+Ellsworth Ellsworth NPCSG00
 Ellsworth-Howard Ellsworth-Howard NPCNSP0 # medical
 Elma Elma NPFSSP0 # avl
 Elmet Elmet NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10455,7 +10455,7 @@ Liudmyla Liudmyla NPFSSP0 #nombre propio de mujer
 Liverpool Liverpool NPCNG00 # topònim-apertium-falta-gènere-nombre
 Livia Livia NPFSSP0 # avl
 Livingston Livingston NPCSG00
-Livingstone Livingstone NPCNSP00
+Livingstone Livingstone NPCNSP0
 Livio Livio NPMSSP0 # avl
 Liviu Liviu NPMSSP0 #nombre propio de hombre
 Livorno Livorno NPCNG00 # topònim-apertium-falta-gènere-nombre
