@@ -5386,6 +5386,7 @@ Cournand Cournand NPCNSP0 # medical
 Courvoisier Courvoisier NPCNSP0 # medical
 Couso Couso NPCNSP0 #apellido
 Cousteau Cousteau NPCNSP0
+Coutinho Coutinho NPCNSP0
 Couto Couto NPCNSP0 #apellido
 Couvelaire Couvelaire NPCNSP0 # medical
 Covadonga Covadonga NPFSSP0 # avl
@@ -18818,6 +18819,7 @@ Ybycuí Ybycuí NPCSG00 # Paraguay
 Ybyrarobaná Ybyrarobaná NPCSG00 # Paraguay
 Ybytymí Ybytymí NPCSG00 # Paraguay
 Ycuamandiyú Ycuamandiyú NPCSG00 # Paraguay
+Yeats Yeats NPCNSP0
 Yebes Yebes NPCSG00 #municipios de España
 Yebra Yebra NPCSG00 #municipios de España
 Yecapixtla Yecapixtla NPCSG00 #municipios de México
