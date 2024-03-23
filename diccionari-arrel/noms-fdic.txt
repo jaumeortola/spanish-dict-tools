@@ -710,6 +710,7 @@ FP=categories: MFI;fonts: sigla;
 FPS=categories: MFI;fonts: LT;
 FTP=categories: MI;fonts: termcat;
 GIF=categories: MI;fonts: wiki;
+GP=categories: MI;fonts: sigla;
 GPID=categories: MI;fonts: sigla;
 GPS=categories: MI;fonts: LT;
 GPU=categories: FI;fonts: LT;
