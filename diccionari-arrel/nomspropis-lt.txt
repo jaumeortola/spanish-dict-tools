@@ -2995,6 +2995,8 @@ Berzocana Berzocana NPCSG00 #municipios de España
 Berzosa Berzosa NPCNSP0 #apellido
 Berzosilla Berzosilla NPCSG00 #municipios de España
 Besalú Besalú NPCNG00 # topònim-apertium-falta-gènere-nombre
+Besanzón Besanzón NPCSG00
+Besançon Besançon NPCSG00
 Besarabia Besarabia NPFSG00
 Bescanó Bescanó NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bescaran Bescaran NPCNG00 # topònim-apertium-falta-gènere-nombre
