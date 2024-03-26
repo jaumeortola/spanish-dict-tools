@@ -3440,6 +3440,7 @@ Brueghel Brueghel NPCNSP0
 Bruguez Bruguez NPCSG00 # Paraguay
 Bruna Bruna NPFSSP0 # avl
 Brunei Brunei NPCNG00 # topònim-apertium-falta-gènere-nombre
+Brunelleschi Brunelleschi NPCNSP0
 Brunet Brunet NPCNSP0 #apellido
 Brunete Brunete NPCSG00
 Brunete Brunete NPMSSP0 # avl
