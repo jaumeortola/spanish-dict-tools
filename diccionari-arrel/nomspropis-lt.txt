@@ -13735,6 +13735,7 @@ Pedara Pedara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedivigliano Pedivigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedralba Pedralba NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedralbes Pedralbes NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pedraz Pedraz NPCNSP0
 Pedraza Pedraza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedreguer Pedreguer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pedreira Pedreira NPCNSP0 #apellido
