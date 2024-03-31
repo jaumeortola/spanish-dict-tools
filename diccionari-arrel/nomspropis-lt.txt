@@ -2959,7 +2959,7 @@ Bernhard Bernhard NPCNSP0
 Berni Berni NPMSSP0 #hipocorístico
 Berninches Berninches NPCSG00 #municipios de España
 Bernini Bernini NPCNSP0
-Bernoulli Bernoulli NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bernoulli Bernoulli NPCNSP0
 Bernstein Bernstein NPCNSP0
 Bernuy-Zapardiel Bernuy-Zapardiel NPCSG00 #municipios de España
 Bernárdez Bernárdez NPCNSP0 #apellido
@@ -5911,6 +5911,7 @@ Dioni Dioni NPMSSP0 #hipocorístico
 Dionisia Dionisia NPFSSP0 # avl
 Dionisio Dionisio NPMSSP0 # avl
 Diop Diop NPCNSP0 #apellido
+Dior Dior NPCNSP0
 Diosdado Diosdado NPMSSP0 # avl
 Diouf Diouf NPCNSP0 #apellido
 Dipignano Dipignano NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11570,6 +11571,7 @@ Medardo Medardo NPMSSP0 # avl
 Medea Medea NPFSSP0 # avl
 Medel Medel NPCNSP0 #apellido
 Medellín Medellín NPCSG00
+Medemblik Medemblik NPCSG00
 Mederico Mederico NPMSSP0 # avl
 Mederos Mederos NPCNSP0 #apellido
 MediaMarkt MediaMarkt NPCNO00

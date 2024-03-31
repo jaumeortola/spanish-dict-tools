@@ -122,6 +122,7 @@ QR=categories: AI;fonts: dr;
 RGB=categories: AI;fonts: sigla;
 SSD=categories: AI;fonts: sigla;
 SinObraDerivada=categories: AI;fonts: CC;
+WASP=categories: AI;fonts: English;
 XL=categories: AI;fonts: wiki;
 XXL=categories: AI;fonts: wiki;
 XXXL=categories: AI;fonts: wiki;
