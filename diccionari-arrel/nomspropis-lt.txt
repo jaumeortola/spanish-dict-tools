@@ -4284,6 +4284,7 @@ Castilla Castilla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Castilla-León Castilla-León NPCNG00 # topònim-apertium-falta-gènere-nombre
 Castillazuelo Castillazuelo NPCSG00 #municipios de España
 Castillejo-Sierra Castillejo-Sierra NPCSG00 #municipios de España
+Castillejos Castillejos NPMPG00
 Castillo Castillo NPCNSP0 # wiki common surnames
 Castillo-Albaráñez Castillo-Albaráñez NPCSG00 #municipios de España
 Castillonroy Castillonroy NPCSG00 #municipios de España
@@ -5164,6 +5165,7 @@ Comenges Comenges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Comenius Comenius NPCNSP0
 Comesaña Comesaña NPCNSP0 #apellido
 Comillas Comillas NPCSG00 #municipios de España
+Comintern Comintern NPMSO00
 Comitán Comitán NPCSG00 # México
 Commodore Commodore NPCNSP0 # wiki
 Commonwealth Commonwealth NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8615,6 +8617,7 @@ Holguín Holguín NPCNSP0 #apellido
 Hollomon Hollomon NPCNSP0
 Hollywood Hollywood NPCNG00 # topònim-apertium-falta-gènere-nombre
 Holmes Holmes NPCNSP0 # wiki
+Holodomor Holodomor NPMSO00
 Holofernes Holofernes NPMSSP0 # avl
 Holstein Holstein NPCSG00
 Holyrood Holyrood NPCSG00
@@ -8889,6 +8892,7 @@ Ibrillos Ibrillos NPCSG00 #municipios de España
 Ibros Ibros NPCSG00 #municipios de España
 Ibsen Ibsen NPCNSP0
 Ibtissam Ibtissam NPFSSP0 #nombre propio de mujer
+Ibárruri Ibárruri NPCNSP0
 Ibáñez Ibáñez NPCNSP0
 Ica Ica NPCSG00 # Perú
 Icaria Icaria NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11250,6 +11254,7 @@ Marina Marina NPFSSP0 # avl
 Marinaleda Marinaleda NPCSG00 #municipios de España
 Marinela Marinela NPFSSP0 #nombre propio de mujer
 Marines Marines NPCNG00 # topònim-apertium-falta-gènere-nombre
+Marinetti Marinetti NPCNSP0
 Marinilla Marinilla NPCSG00 # Colombia
 Marino Marino NPMSSP0 # avl
 Mario Mario NPMSSP0 # avl

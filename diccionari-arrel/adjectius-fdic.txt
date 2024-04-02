@@ -29601,6 +29601,7 @@ semipúblico semipública=categories: A;fonts: derivat;
 semiquímico semiquímica=categories: A;fonts: LT;
 semirrecto=categories: AM;fonts: dr;
 semirredondo semirredonda=categories: A;fonts: LT;
+semirreverencial=categories: A;fonts: derivat;
 semirrápido semirrápida=categories: A;fonts: LT;
 semirrígido semirrígida=categories: A;fonts: LT;
 semisalvaje=categories: A;fonts: dr;
