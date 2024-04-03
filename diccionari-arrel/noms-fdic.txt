@@ -15582,6 +15582,7 @@ ciberocupación=categories: F;fonts: fundeu;
 ciberpunk=categories: MF;fonts: wiki;
 ciberseguridad=categories: F;fonts: user;
 ciberseminario=categories: M;fonts: fundeu;
+ciberterrorismo=categories: M;fonts: derivat;
 ciberviolencia=categories: F;fonts: wiki;
 cibi=categories: M;fonts: dr;
 cibiaca=categories: F;fonts: dr;

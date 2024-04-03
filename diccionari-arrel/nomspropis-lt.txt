@@ -8582,6 +8582,8 @@ Hinojares Hinojares NPCSG00 #municipios de España
 Hinojos Hinojos NPCSG00 #municipios de España
 Hinojosa Hinojosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hipatia Hipatia NPFSSP0
+Hipercor Hipercor NPMNO00
+Hiperión Hiperión NPMSSP0
 Hipona Hipona NPCNSP0
 Hippel-Lindau Hippel-Lindau NPCNSP0 # medical
 Hipócrates Hipócrates NPMSSP0 # avl
