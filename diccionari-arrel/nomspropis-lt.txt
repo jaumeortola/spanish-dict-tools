@@ -12877,6 +12877,7 @@ Noja Noja NPCSG00 #municipios de España
 Nolan Nolan NPCNSP0
 Nolasco Nolasco NPMSSP0 # avl
 Nolay Nolay NPCSG00 #municipios de España
+Nolotil Nolotil NPMSO00
 Nombela Nombela NPCSG00 #municipios de España
 Nombrevilla Nombrevilla NPCSG00 #municipios de España
 Nonaspe Nonaspe NPCSG00 #municipios de España
@@ -17954,6 +17955,7 @@ València València NPCSG00 #municipios de España
 Valéry Valéry NPCNSP0
 Vancouver Vancouver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vandellòs Vandellòs NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vanderbilt Vanderbilt NPCNSP0
 Vando Vando NPMSSP0 #hipocorístico
 Vane Vane NPFSSP0 #hipocorístico
 Vanegas Vanegas NPCNSP0
