@@ -8575,6 +8575,7 @@ Himalayas Himalaya NPMPG00
 Himberto Himberto NPMSSP0 # avl
 Himeneo Himeneo NPMSSP0 # avl
 Hind Hind NPFSSP0 #nombre propio de mujer
+Hindemith Hindemith NPCNSP0
 Hinman Hinman NPCNSP0 # medical
 Hinojal Hinojal NPCSG00 #municipios de España
 Hinojales Hinojales NPCSG00 #municipios de España
@@ -12319,6 +12320,7 @@ Motegi Motegi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Motilleja Motilleja NPCSG00 #municipios de España
 MotoGP MotoGP NPCNO00
 Motorola Motorola NPCNO00
+Motown Motown NPCNO00
 Motozintla Motozintla NPCSG00 #municipios de México
 Motril Motril NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mottafollone Mottafollone NPCNG00 # topònim-apertium-falta-gènere-nombre

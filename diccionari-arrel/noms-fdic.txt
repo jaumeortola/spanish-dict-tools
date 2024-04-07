@@ -40157,6 +40157,7 @@ macrocéfalo macrocéfala=categories: MF;fonts: LT;
 macrocódigo=categories: M;fonts: LT;
 macrodactilia=categories: F;fonts: medical;
 macrodatos=categories: MP;fonts: derivat;
+macrodespliegue=categories: M;fonts: derivat;
 macrodoncia=categories: F;fonts: LT;
 macrodontismo=categories: M;fonts: LT;
 macroeconomía=categories: F;fonts: LT;

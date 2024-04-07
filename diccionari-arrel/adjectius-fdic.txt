@@ -17065,6 +17065,7 @@ implacable=categories: A;fonts: LT;
 implantable=categories: A;fonts: derivat;
 implantador implantadora=categories: A;fonts: LT;
 implaticable=categories: A;fonts: dr;
+implementable=categories: A;fonts: derivat;
 implementador implementadora=categories: A;fonts: LT;
 implicadísimo implicadísima=categories: A;fonts: superlative;
 implicativo implicativa=categories: A;fonts: LT;
