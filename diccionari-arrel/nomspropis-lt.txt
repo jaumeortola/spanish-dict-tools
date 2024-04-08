@@ -12734,6 +12734,7 @@ Nemesia Nemesia NPFSSP0 # avl
 Nemesio Nemesio NPMSSP0 # avl
 Nemocón Nemocón NPCSG00 #municipios de Colombia
 Nenuco Nenuco NPCNO00
+Neom Neom NPCSG00
 Nepal Nepal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nepas Nepas NPCSG00 #municipios de España
 Nepomuceno Nepomuceno NPCNSP0 # wiki
@@ -16160,6 +16161,7 @@ Soltepec Soltepec NPCSG00 #municipios de México
 Solís Solís NPCNSP0
 Solórzano Solórzano NPCSG00
 Somalia Somalia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Somalilandia Somalilandia NPFSG00
 Somerville Somerville NPCSG00
 Somiedo Somiedo NPCSG00 #municipios de España
 Sommatino Sommatino NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -19244,6 +19246,7 @@ oXygen oXygen NPMSO00
 Ángela Ángela NPFSSP0 # avl
 Ángeles Ángeles NPCNSP0 # avl
 Ángelo Ángelo NPMSSP0
+Áqaba Áqaba NPCSG00
 Árbenz Árbenz NPCNSP0
 Árchez Árchez NPCSG00 #municipios de España
 Ártica Ártica NPCNG00 # topònim-apertium-falta-gènere-nombre
