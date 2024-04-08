@@ -4770,6 +4770,7 @@ etimologizar=categories: V;model:abalanzar;fonts: LT;
 etiquetar=categories: V;model:amar;fonts: LT;
 europeizar=categories: V;model:arcaizar;fonts: LT;
 euscaldunizar=categories: V;model:abalanzar;fonts: dr;
+eutanasiar=categories: V;model:enviar;fonts: derivat;
 eutrofizar=categories: V;model:abalanzar;fonts: LT;
 evacuar=categories: V;model:adecuar;fonts: LT;
 evadir=categories: V;model:partir;fonts: LT;
