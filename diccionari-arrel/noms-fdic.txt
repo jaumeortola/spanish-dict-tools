@@ -28421,6 +28421,7 @@ expósito expósita=categories: MF;fonts: LT;
 exquisitez=categories: F;fonts: LT;
 exrepresor exrepresora=categories: MF;fonts: LT;
 exsanguinotransfusión=categories: F;fonts: LT;
+exsenador exsenadora=categories: MF;fonts: derivat;
 exsolución=categories: F;fonts: LT;
 exsubsecretario exsubsecretaria=categories: MF;fonts: derivat;
 extasiamiento=categories: M;fonts: LT;

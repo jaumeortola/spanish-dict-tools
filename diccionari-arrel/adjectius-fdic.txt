@@ -29544,6 +29544,7 @@ semidifunto semidifunta=categories: A;fonts: LT;
 semidirecto semidirecta=categories: A;fonts: LT;
 semidiurno semidiurna=categories: A;fonts: LT;
 semidormido semidormida=categories: A;fonts: LT;
+semidulce=categories: A;fonts: derivat;
 semiduro semidura=categories: A;fonts: LT;
 semielaborado semielaborada=categories: A;fonts: LT;
 semielíptico semielíptica=categories: A;fonts: LT;

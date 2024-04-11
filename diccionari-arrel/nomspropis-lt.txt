@@ -13908,6 +13908,7 @@ Pesquera Pesquera NPCSG00 #municipios de España
 Pestalozzi Pestalozzi NPCNSP0
 Petatlán Petatlán NPCSG00 #municipios de México
 Peter Peter NPMSSP0
+Peterborough Peterborough NPCSG00
 Peters Peters NPCNSP0 # medical
 Petersburgo Petersburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peterson Peterson NPCNSP0 # wiki
@@ -17563,6 +17564,7 @@ Tórtoles Tórtoles NPCSG00 #municipios de España
 Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Túquerres Túquerres NPCSG00 #municipios de Colombia
 UCD UCD NPFSO00
+UCO UCO NPFSO00
 UCR UCR NPFSO00 # Universidad de Costa Rica, University of California...
 UD UD NPCNO00
 UDEF UDEF NPFSO00
