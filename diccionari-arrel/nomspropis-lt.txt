@@ -13416,6 +13416,7 @@ PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00 # wiki
 PCI PCI NPMSO00
 PDS PDS NPMSO00
+PDVSA PDVSA NPFNO00 #Petróleos de Venezuela, S.A.
 PE PE NPCNO00
 PEN PEN NPMSO00
 PET PET NPCNO00
@@ -15314,6 +15315,7 @@ SNP SNP NPMSO00
 SOFORT SOFORT NPCNO00
 SPD SPD NPMSO00
 SPEI SPEI NPMSO00
+SPI SPI NPMNO00 #síndrome de piernas inquietas
 Saad Saad NPMSSP0 #nombre propio de hombre
 Saadia Saadia NPFSSP0 #nombre propio de mujer
 Saatchi Saatchi NPCNSP0
