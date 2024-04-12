@@ -14658,6 +14658,7 @@ Rael Rael NPMSSP0 #hipocorístico
 Rafa Rafa NPMSSP0 # avl
 Rafael Rafael NPMSSP0 # avl
 Rafaela Rafaela NPFSSP0 # avl
+Rafah Rafah NPCSG00
 Rafal Rafal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rafel Rafel NPMSSP0 #nombre propio de hombre
 Rafelbunyol Rafelbunyol NPCNG00 # topònim-apertium-falta-gènere-nombre
