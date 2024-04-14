@@ -26189,6 +26189,7 @@ poliprótico poliprótica=categories: A;fonts: LT;
 polipétalo polipétala=categories: A;fonts: LT;
 poliquístico poliquística=categories: A;fonts: medical;
 polirradicular=categories: A;fonts: LT;
+polirrítmico polirrítmica=categories: A;fonts: derivat;
 polisilábico polisilábica=categories: A;fonts: LT;
 polisinodial=categories: A;fonts: dr;
 polisintético polisintética=categories: A;fonts: LT;

@@ -51167,6 +51167,7 @@ poliquistosis=categories: FI;fonts: medical;
 polirradiculitis=categories: FI;fonts: medical;
 polirradiculoneuritis=categories: FI;fonts: medical;
 polirribosoma=categories: M;fonts: LT;
+polirritmia=categories: F;fonts: wiki;
 polirrítmia=categories: F;fonts: LT;
 polis=categories: FI;fonts: LT;
 polisacárido=categories: M;fonts: LT;

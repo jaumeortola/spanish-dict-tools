@@ -4822,6 +4822,7 @@ Chomsky Chomsky NPCNSP0
 Chon Chon NPFSSP0 #hipocorístico
 Chonchi Chonchi NPCSG00 #municipios de Chile
 Chone Chone NPCSG00 # Ecuador
+Chongqing Chongqing NPCSG00
 Choni Choni NPFSSP0 #hipocorístico
 Chontla Chontla NPCSG00 #municipios de México
 Chopin Chopin NPCNSP0 # wiki
@@ -16958,6 +16959,7 @@ Tiananmén Tiananmén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tianguismanalco Tianguismanalco NPCSG00 #municipios de México
 Tianguistenco Tianguistenco NPCSG00 # México
 Tianguistengo Tianguistengo NPCSG00 #municipios de México
+Tianjin Tianjin NPCSG00
 Tibacuy Tibacuy NPCSG00 #municipios de Colombia
 Tibaná Tibaná NPCSG00 #municipios de Colombia
 Tibasosa Tibasosa NPCSG00 #municipios de Colombia
