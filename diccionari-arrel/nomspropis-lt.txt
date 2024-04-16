@@ -10239,6 +10239,7 @@ Lejanías Lejanías NPCSG00 #municipios de Colombia
 Lekeitio Lekeitio NPCSG00 #municipios de España
 Lekunberri Lekunberri NPCSG00 #municipios de España
 Leli Leli NPFSSP0 #hipocorístico
+Lemaître Lemaître NPCNSP0
 Lemoa Lemoa NPCSG00 #municipios de España
 Lemoiz Lemoiz NPCSG00 #municipios de España
 Lemos Lemos NPCNSP0 #apellido
