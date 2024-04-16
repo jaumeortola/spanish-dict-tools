@@ -41773,6 +41773,7 @@ megacefalia=categories: F;fonts: LT;
 megaciclo=categories: M;fonts: LT;
 megaclítoris=categories: MI;fonts: medical;
 megacontrato=categories: M;fonts: derivat;
+megadecreto=categories: M;fonts: derivat;
 megadontismo=categories: M;fonts: LT;
 megaestrella=categories: F;fonts: derivat;
 megafauna=categories: F;fonts: derivat;
