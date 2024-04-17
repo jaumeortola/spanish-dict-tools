@@ -42663,7 +42663,6 @@ microbrigada=categories: F;fonts: LT;
 microburbuja=categories: F;fonts: LT;
 microbureta=categories: F;fonts: LT;
 microburil=categories: M;fonts: LT;
-microbus=categories: M;fonts: LT;
 microbusero microbusera=categories: MF;fonts: dr;
 microbús=categories: M;fonts: LT;
 microcalcificación=categories: F;fonts: medical;
