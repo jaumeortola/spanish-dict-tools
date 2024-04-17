@@ -5940,6 +5940,7 @@ Docampo Docampo NPCNSP0 #apellido
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dodro Dodro NPCSG00 #municipios de España
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dohnányi Dohnányi NPCNSP0
 Doina Doina NPFSSP0 #nombre propio de mujer
 Dolavon Dolavon NPCSG00 #municipios de Argentina
 Dolomitas Dolomitas NPCPG00
