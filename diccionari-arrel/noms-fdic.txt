@@ -324,6 +324,7 @@
 #mejicano mejicana=categories: MF;fonts: LT;
 #merey=categories: M;fonts: dr;
 #mexica=categories: MF;fonts: LT;
+#microespora=categories: F;fonts: LT; microspora?
 #mildeu=categories: M;fonts: LT;
 #mildéu=categories: M;fonts: dr;
 #mini-bar=categories: M;fonts: LT;
@@ -42828,7 +42829,6 @@ microespectroscopia=categories: F;fonts: LT;
 microespectroscopía=categories: F;fonts: LT;
 microespejo=categories: M;fonts: LT;
 microespiral=categories: M;fonts: LT;
-#microespora=categories: F;fonts: LT; microspora?
 microesporangio=categories: M;fonts: LT;
 microesqueje=categories: M;fonts: LT;
 microestación=categories: F;fonts: LT;
