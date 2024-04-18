@@ -265,6 +265,7 @@ AIReF AIReF NPFSO00
 ALCA ALCA NPFSO00
 AMLO AMLO NPMSSP0
 AMS-800 AMS-800 NPCNSP0 # medical
+ANECA ANECA NPFSO00
 ANSES ANSES NPFSO00
 ANSI ANSI NPCNO00
 AP AP NPCNO00
@@ -10315,6 +10316,7 @@ Leuca Leuca NPFSSP0 # avl
 Leucipo Leucipo NPMSSP0 # avl
 Leuco Leuco NPMSSP0 # avl
 Levallois Levallois NPCNSP0
+Levallois-Perret Levallois-Perret NPCNG00
 Leviatana Leviatana NPFSSP0 # avl
 Leviatán Leviatán NPMSSP0 # avl
 Levina Levina NPFSSP0 # avl
@@ -15757,6 +15759,7 @@ Schleswig-Holstein Schleswig-Holstein NPCNG00 # topònim-apertium-falta-gènere-
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lanterman Schmidt-Lanterman NPCNSP0 # medical
 Schneider Schneider NPCNSP0
+Schoenberg Schoenberg NPCNSP0
 Scholz Scholz NPCNSP0
 School School NPCNO00 # English
 Schopenhauer Schopenhauer NPCNSP0
@@ -15776,6 +15779,7 @@ Schwartz Schwartz NPCNSP0
 Schwartz-Bartter Schwartz-Bartter NPCNSP0 # medical
 Schwarzenegger Schwarzenegger NPCNSP0
 Schweppes Schweppes NPCNO00
+Schönberg Schönberg NPCNSP0
 Schönlein-Henoch Schönlein-Henoch NPCNSP0 # medical
 Sciascia Sciascia NPCNSP0
 Scido Scido NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17570,6 +17574,7 @@ Tópaga Tópaga NPCSG00 #municipios de Colombia
 Tórtoles Tórtoles NPCSG00 #municipios de España
 Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Túquerres Túquerres NPCSG00 #municipios de Colombia
+UC3M UC3M NPFSO00
 UCD UCD NPFSO00
 UCO UCO NPFSO00
 UCR UCR NPFSO00 # Universidad de Costa Rica, University of California...
