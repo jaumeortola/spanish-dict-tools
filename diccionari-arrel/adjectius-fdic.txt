@@ -27760,6 +27760,7 @@ recalentador recalentadora=categories: A;fonts: LT;
 recalescente=categories: A;fonts: LT;
 recalvastro recalvastra=categories: A;fonts: dr;
 recambiable=categories: A;fonts: LT;
+recapitulativo recapitulativa=categories: A;fonts: LT;
 recargable=categories: A;fonts: LT;
 recargadísimo recargadísima=categories: A;fonts: superlative;
 recatadísimo recatadísima=categories: A;fonts: superlative;
