@@ -3074,6 +3074,7 @@ Bilal Bilal NPMSSP0 #nombre propio de hombre
 Bilar Bilar NPCSG00 #municipios de España
 Bilbao Bilbao NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bilderberg Bilderberg NPCNSP0
+Bildu Bildu NPCNO00
 Bildu Bildu NPMSO00
 Bill Bill NPCNSP0 # wiki
 Billboard Billboard NPCNSP0 # wiki
@@ -10370,6 +10371,7 @@ Liceras Liceras NPCSG00 #municipios de España
 Licerio Licerio NPMSSP0 # avl
 Licha Licha NPFSSP0 #hipocorístico
 Licho Licho NPMSSP0 #hipocorístico
+Lichtenberg Lichtenberg NPCNSP0
 Lici Lici NPFSSP0 #hipocorístico
 Licia Licia NPFSSP0 # avl
 Licina Licina NPFSSP0 # avl
@@ -13378,6 +13380,7 @@ Ottawa Ottawa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Otto Otto NPCNSP0 # medical
 Otumba Otumba NPCSG00 #municipios de México
 Otura Otura NPCSG00 #municipios de España
+Otxandiano Otxandiano NPCNSP0
 Otxandio Otxandio NPCSG00 #municipios de España
 Otzoloapan Otzoloapan NPCSG00 #municipios de México
 Otzolotepec Otzolotepec NPCSG00 #municipios de México
@@ -14926,6 +14929,7 @@ Ribota Ribota NPCSG00 #municipios de España
 Ricadi Ricadi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ricard Ricard NPMSSP0 #nombre propio de hombre
 Ricarda Ricarda NPFSSP0 # avl
+Ricardito Ricardito NPMSSP0
 Ricardo Ricardo NPMSSP0 # avl
 Ricart Ricart NPCNSP0 #apellido
 Ricart Ricart NPMSSP0 #hipocorístico
@@ -16225,6 +16229,7 @@ Soros Soros NPCNSP0
 Sorrentino Sorrentino NPCNSP0
 Sorribes Sorribes NPCNSP0 #apellido
 Sort Sort NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sortu Sortu NPCNO00
 Sorvilán Sorvilán NPCSG00 #municipios de España
 Sorzano Sorzano NPCSG00 #municipios de España
 Sosa Sosa NPCNSP0 # wiki common surnames
@@ -17576,6 +17581,7 @@ Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Túquerres Túquerres NPCSG00 #municipios de Colombia
 UC3M UC3M NPFSO00
 UCD UCD NPFSO00
+UCLM UCLM NPFSO00
 UCO UCO NPFSO00
 UCR UCR NPFSO00 # Universidad de Costa Rica, University of California...
 UD UD NPCNO00

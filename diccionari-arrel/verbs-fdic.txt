@@ -7155,6 +7155,7 @@ refrigerar=categories: V;model:amar;fonts: LT;
 refringir=categories: V;model:dirigir;fonts: LT;
 refugiar=categories: V;model:amar;fonts: LT;
 refulgir=categories: V;model:dirigir;fonts: LT;
+refuncionalizar=categories: V;model:abalanzar;fonts: derivat;
 refundar=categories: V;model:amar;fonts: LT;
 refundir=categories: V;model:partir;fonts: LT;
 refunfuñar=categories: V;model:amar;fonts: LT;
