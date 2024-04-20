@@ -6005,6 +6005,7 @@ Doro Doro NPMSSP0 # avl
 Dorotea Dorotea NPFSSP0 # avl
 Doroteo Doroteo NPMSSP0 # avl
 Dorta Dorta NPCNSP0 #apellido
+Dortmund-Ems Dortmund-Ems NPMSG00
 Dorín Dorín NPFSSP0 #hipocorístico
 Dos Dos NPCNSP0 #apellido
 Dosaigües Dosaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17653,6 +17654,7 @@ Ulloa Ulloa NPCSG00 #municipios de Colombia
 Ullrich Ullrich NPCNSP0 # medical
 Ullum Ullum NPCSG00 #municipios de Argentina
 Ullà Ullà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ulm Ulm NPCSG00
 Ulpiana Ulpiana NPFSSP0 # avl
 Ulpiano Ulpiano NPMSSP0 # avl
 Ulrica Ulrica NPFSSP0 # avl
