@@ -834,6 +834,7 @@ SARS=categories: MS;fonts: LT;
 SD=categories: MI;fonts: LT;
 SIG=categories: MI;fonts: sigla;
 SIM=categories: FI;fonts: sigla;
+SIP=categories: MFI;fonts: sigla;
 SL=categories: FI;fonts: sigla;
 SMI=categories: MS;fonts: sigla;
 SMO=categories: MFI;fonts: sigla;

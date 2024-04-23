@@ -19925,6 +19925,7 @@ jazzístico jazzística=categories: A;fonts: LT;
 jaén=categories: A;fonts: dr;
 jebuseo jebusea=categories: A;fonts: dr;
 jediondo jedionda=categories: A;fonts: dr;
+jeltzale=categories: A;fonts: wiki;
 jemal=categories: A;fonts: dr;
 jemer=categories: A;fonts: LT;
 jenízaro jenízara=categories: A;fonts: LT;

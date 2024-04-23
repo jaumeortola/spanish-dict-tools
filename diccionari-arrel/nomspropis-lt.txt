@@ -2269,6 +2269,7 @@ BBVA BBVA NPCNO00
 BCE BCE NPMSO00
 BCN BCN NPCNG00 # topònim-apertium-falta-gènere-nombre
 BCN BCN NPCSG00
+BDS BDS NPCNO00
 BEI BEI NPMSO00
 BID BID NPMSO00
 BMW BMW NPCNO00 # wiki
@@ -6216,6 +6217,7 @@ Egmidio Egmidio NPMSSP0 # avl
 Egoitz Egoitz NPMSSP0 #nombre propio de hombre
 Egüés Egüés NPCSG00 #municipios de España
 Ehlers-Danlos Ehlers-Danlos NPCNSP0 # medical
+EiTB EiTB NPFSO00
 Eibar Eibar NPCSG00 #municipios de España
 Eidan Eidan NPMSSP0 #nombre propio de hombre
 Eiden Eiden NPMSSP0 #nombre propio de hombre
@@ -7443,6 +7445,7 @@ GDPR GDPR NPMSO00
 GIMP GIMP NPMSO00
 GPL GPL NPCNO00 # wiki
 GPT-3 GPT-3 NPMSO00
+GRAPO GRAPO NPMPO00
 GSM GSM NPCNO00
 GSMA GSMA NPFSO00
 Gabaldón Gabaldón NPCSG00 #municipios de España
@@ -11109,6 +11112,7 @@ Manizales Manizales NPCSG00
 Manjabálago Manjabálago NPCSG00 #municipios de España
 Manjarrés Manjarrés NPCSG00 #municipios de España
 Manjón Manjón NPCNSP0 #apellido
+Mankiewicz Mankiewicz NPCNSP0
 Manlleu Manlleu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manola Manola NPFSSP0 # avl
 Manolete Manolete NPMSSP0
@@ -11741,6 +11745,7 @@ Merichell Merichell NPFSSP0 # avl
 Meridiana Meridiana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Meriem Meriem NPFSSP0 #nombre propio de mujer
 Meritxell Meritxell NPFSSP0 #nombre propio de mujer
+Merkava Merkava NPMNO00
 Merkel Merkel NPCNSP0 # medical
 Merlín Merlín NPMSSP0 # avl
 Meroño Meroño NPCNSP0 #apellido
@@ -18677,6 +18682,7 @@ Windhoek Windhoek NPCNG00 # topònim-apertium-falta-gènere-nombre
 Windisch-Grätz Windisch-Grätz NPCNSP0
 Windows Windows NPCNO00 # wiki
 Windsor Windsor NPCNSP0
+Wingfield Wingfield NPCNSP0
 Winifreda Winifreda NPCSG00 #municipios de Argentina
 Wisconsin Wisconsin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wiscott-Aldrich Wiscott-Aldrich NPCNSP0 # medical
