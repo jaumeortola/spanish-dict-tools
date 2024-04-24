@@ -3224,6 +3224,7 @@ Bolsonaro Bolsonaro NPCNSP0
 Bolt Bolt NPCNSP0
 Boltaña Boltaña NPCSG00 #municipios de España
 Bolton Bolton NPCNSP0
+Bolufer Bolufer NPCNSP0
 Bolulla Bolulla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bolvir Bolvir NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bolzano Bolzano NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16296,6 +16297,8 @@ Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Spontini Spontini NPCNSP0
 Sport Sport NPMSO00
 Sporting Sporting NPMSO00
+Springfield Springfield NPCNSP0
+Springfield Springfield NPCSG00
 Springsteen Springsteen NPCNSP0
 Sputnik Sputnik NPCNO00
 Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
