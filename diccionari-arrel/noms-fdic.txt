@@ -40152,6 +40152,7 @@ macrobiocarpia=categories: F;fonts: LT;
 macrobiótica=categories: F;fonts: LT;
 macrobotellón=categories: M;fonts: derivative;
 macrocarpo=categories: M;fonts: LT;
+macrocasino=categories: M;fonts: derivat
 macrocefalia=categories: F;fonts: LT;
 macrocentro=categories: M;fonts: LT;
 macrocinética=categories: FS;fonts: LT;

@@ -11727,6 +11727,7 @@ Mequinensa Mequinensa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mequinenza Mequinenza NPCSG00 #municipios de España
 Meranges Meranges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mercadal Mercadal NPCNSP0 #apellido
+Mercadante Mercadante NPCNSP0
 Mercaderes Mercaderes NPCSG00 #municipios de Colombia
 Mercadona Mercadona NPCNO00
 Merce Merce NPFSSP0 #nombre propio de mujer
@@ -18651,6 +18652,7 @@ Whitney Whitney NPCNSP0
 Wiam Wiam NPFSSP0 #nombre propio de mujer
 Wickam Wickam NPCNSP0 # medical
 Widad Widad NPFSSP0 #nombre propio de mujer
+Widmann Widmann NPCNSP0
 Wifreda Wifreda NPFSSP0 # avl
 Wifredo Wifredo NPMSSP0 # avl
 Wii Wii NPFNO00
