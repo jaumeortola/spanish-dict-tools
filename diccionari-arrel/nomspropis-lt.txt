@@ -9116,6 +9116,7 @@ Iría Iría NPFSSP0 # avl
 Irún Irún NPCNG00 # topònim-apertium-falta-gènere-nombre
 Isa Isa NPFSSP0 # avl
 Isaac Isaac NPMSSP0 # avl
+Isaak Isaak NPMSSP0 # nombre propio masculino
 Isaba Isaba NPCSG00 #municipios de España
 Isabel Isabel NPFSSP0 # avl
 Isabela Isabela NPFSSP0 # avl
@@ -12748,6 +12749,7 @@ Nelly Nelly NPCNSP0
 Nelson Nelson NPCNSP0
 Nemesia Nemesia NPFSSP0 # avl
 Nemesio Nemesio NPMSSP0 # avl
+Nemo Nemo NPMSSP0 #nombre propio masculino
 Nemocón Nemocón NPCSG00 #municipios de Colombia
 Nenuco Nenuco NPCNO00
 Neom Neom NPCSG00

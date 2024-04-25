@@ -5108,6 +5108,7 @@ generizar=categories: V;model:abalanzar;fonts: ap;
 genotipar=categories: V;model:amar;fonts: ap;
 gentilizar=categories: V;model:abalanzar;fonts: dr;
 geometrizar=categories: V;model:abalanzar;fonts: ap;
+gepetear=categories: V;model:amar;fonts: fundeu;
 gerenciar=categories: V;model:amar;fonts: LT;
 germanizar=categories: V;model:abalanzar;fonts: LT;
 germinar=categories: V;model:amar;fonts: LT;
