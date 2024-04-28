@@ -3346,6 +3346,7 @@ Brabos Brabos NPCSG00 #municipios de España
 Bracht Bracht NPCNSP0 # medical
 Bracs Bracs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brad Brad NPMSSP0
+Bradley Bradley NPCNSP0
 Braganza Braganza NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brahim Brahim NPMSSP0 #nombre propio de hombre
 Brais Brais NPMSSP0 #nombre propio de hombre
@@ -10938,6 +10939,7 @@ Magno Magno NPMSSP0 # avl
 Magnolia Magnolia NPFSSP0 # avl
 Magnus Magnus NPCNSP0
 Magreb Magreb NPCNG00 # topònim-apertium-falta-gènere-nombre
+Magritte Magritte NPCNSP0
 Maguarichi Maguarichi NPCSG00 #municipios de México
 Mague Mague NPFSSP0 #hipocorístico
 Magui Magui NPFSSP0 #hipocorístico
