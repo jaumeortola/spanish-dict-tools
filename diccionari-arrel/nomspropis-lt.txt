@@ -2589,6 +2589,7 @@ Baudelaire Baudelaire NPCNSP0
 Baudelocque Baudelocque NPCNSP0 # medical
 Baudilio Baudilio NPMSSP0 # avl
 Bauhaus Bauhaus NPCSO00
+Baumgartner Baumgartner NPCNSP0
 Bausen Bausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bausén Bausén NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bautista Bautista NPMSSP0 # avl
@@ -12729,6 +12730,7 @@ Neculai Neculai NPMSSP0 #nombre propio de hombre
 Ned Ned NPMSSP0
 Neda Neda NPCSG00 #municipios de España
 Neera Neera NPFSSP0 # avl
+Neeskens Neeskens NPCNSP0
 Nefertiti Nefertiti NPFSSP0
 Neftalí Neftalí NPMSSP0 # avl
 Negrals Negrals NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16302,6 +16304,7 @@ Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Spontini Spontini NPCNSP0
 Sport Sport NPMSO00
 Sporting Sporting NPMSO00
+Springer Springer NPCNSP0
 Springfield Springfield NPCNSP0
 Springfield Springfield NPCSG00
 Springsteen Springsteen NPCNSP0
