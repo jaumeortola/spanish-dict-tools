@@ -5375,6 +5375,7 @@ Costasacate Costasacate NPCSG00 #municipios de Argentina
 Costel Costel NPMSSP0 #nombre propio de hombre
 Costen Costen NPCNSP0 # medical
 Costitx Costitx NPCNG00 # topònim-apertium-falta-gènere-nombre
+Costner Costner NPCNSP0
 Costur Costur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cosuenda Cosuenda NPCSG00 #municipios de España
 Cosío Cosío NPCSG00 #municipios de México
