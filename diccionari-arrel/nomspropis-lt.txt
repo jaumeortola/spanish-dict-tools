@@ -2415,6 +2415,7 @@ Banjul Banjul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bankart Bankart NPCNSP0 # medical
 Bankia Bankia NPFSO00
 Bankman-Fried Bankman-Fried NPCNSP0
+Banxico Banxico NPCNO00
 Banyalbufar Banyalbufar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banyoles Banyoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banámichi Banámichi NPCSG00 #municipios de México
@@ -3795,6 +3796,7 @@ Calimera Calimera NPFSSP0 # avl
 Calimero Calimero NPMSSP0 # avl
 Calingasta Calingasta NPCSG00 #municipios de Argentina
 Calipso Calipso NPCSSP0 # avl
+Calisto Calisto NPMSSP0
 Calistro Calistro NPMSSP0 # avl
 Calixta Calixta NPFSSP0 # avl
 Calixto Calixto NPMSSP0 # avl
@@ -6407,6 +6409,7 @@ Enciso Enciso NPCSG00 #municipios de Colombia
 Enciso Enciso NPCSG00 #municipios de España
 Encío Encío NPCSG00 #municipios de España
 Enderbury Enderbury NPCNG00 # topònim-apertium-falta-gènere-nombre
+Endesa Endesa NPCNO00
 Endika Endika NPMSSP0 #nombre propio de hombre
 Endrinal Endrinal NPCSG00 #municipios de España
 Eneas Eneas NPMSSP0 # avl
@@ -7470,6 +7473,7 @@ Gabriela Gabriela NPFSSP0 # avl
 Gabriele Gabriele NPMSSP0 #nombre propio de hombre
 Gabriella Gabriella NPFSSP0 #nombre propio de mujer
 Gabs Gabs NPFSSP0 #hipocorístico
+Gaby Gaby NPFSSP0
 Gabón Gabón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gachala Gachala NPCSG00 #municipios de Colombia
 Gachancipá Gachancipá NPCSG00 #municipios de Colombia
@@ -8426,6 +8430,7 @@ Hegoi Hegoi NPMSSP0 #nombre propio de hombre
 Heidegger Heidegger NPCNSP0
 Heidelberg Heidelberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 Heidi Heidi NPFSSP0 # avl
+Heidy Heidy NPFSSP0
 Heimlich Heimlich NPCNSP0 # medical
 Heine Heine NPCNSP0
 Heinrich Heinrich NPCNSP0 # wiki
@@ -9022,6 +9027,7 @@ Indonesia Indonesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indostán Indostán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indé Indé NPCSG00 #municipios de México
 Indíbil Indíbil NPMSSP0 # avl
+Infonavit Infonavit NPCNO00
 Inge Inge NPFSSP0 #nombre propio de mujer
 Ingham Ingham NPCNG00 # topònim-apertium-falta-gènere-nombre
 Inglaterra Inglaterra NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9710,6 +9716,7 @@ Kabul Kabul NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kaddour Kaddour NPMSSP0 #nombre propio de hombre
 Kadírov Kadírov NPCNSP0
 Kaffir Kaffir NPCNSP0 # medical
+Kafka Kafka NPCNSP0
 Kahlo Kahlo NPCNSP0
 Kahneman Kahneman NPCNSP0
 Kahoot Kahoot NPCNO00
@@ -9994,6 +10001,7 @@ Ladrillar Ladrillar NPCSG00 #municipios de España
 Ladrón Ladrón NPMSSP0 # avl
 Laertes Laertes NPMSSP0 # avl
 Lafora Lafora NPCNSP0 # medical
+Laforet Laforet NPCNSP0
 Lafragua Lafragua NPCSG00 #municipios de México
 Lafuente Lafuente NPCNSP0
 Laganadi Laganadi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10410,6 +10418,7 @@ Ligoria Ligoria NPFSSP0 # avl
 Ligorio Ligorio NPMSSP0 # avl
 Liguria Liguria NPCNG00 # topònim-apertium-falta-gènere-nombre
 Liher Liher NPMSSP0 #nombre propio de hombre
+Likert Likert NPCNSP0
 Likud Likud NPMSO00
 Lili Lili NPFSSP0 #nombre propio de mujer
 Lilia Lilia NPFSSP0 #nombre propio de mujer
@@ -11760,6 +11769,7 @@ Merrf Merrf NPCNSP0 # medical
 Merrit Merrit NPCNSP0 # medical
 Mersin Mersin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Meruelo Meruelo NPCSG00 #municipios de España
+Mery Mery NPFSSP0
 Meryem Meryem NPFSSP0 #nombre propio de mujer
 Mesalina Mesalina NPFSSP0 # avl
 Mesalino Mesalino NPMSSP0 # avl
@@ -15632,6 +15642,7 @@ Sangolquí Sangolquí NPCSG00 # Ecuador
 Sangüesa Sangüesa NPCSG00 #municipios de España
 Sanhueza Sanhueza NPCNSP0 # wiki common surnames
 Sani Sani NPFSSP0 #hipocorístico
+Sanitas Sanitas NPCNO00
 Sanjuan Sanjuan NPCNSP0 #apellido
 Sanjurjada Sanjurjada NPFSO00
 Sanjurjo Sanjurjo NPCNSP0
@@ -16330,6 +16341,7 @@ Stefan Stefan NPMSSP0 #nombre propio de hombre
 Stefanaconi Stefanaconi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Stefania Stefania NPFSSP0 #nombre propio de mujer
 Stefano Stefano NPMSSP0 #nombre propio de hombre
+Stefany Stefany NPFSSP0
 Stein-Leventhal Stein-Leventhal NPCNSP0
 Steiner Steiner NPCNSP0
 Steinert Steinert NPCNSP0 # medical
@@ -18804,6 +18816,7 @@ Xurxo Xurxo NPMSSP0 #nombre propio de hombre
 Xàbia Xàbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xàtiva Xàtiva NPCNG00 # topònim-apertium-falta-gènere-nombre
 Xèrica Xèrica NPCNG00 # topònim-apertium-falta-gènere-nombre
+Xóchitl Xóchitl NPFSSP0
 Yabebyry Yabebyry NPCSG00 # Paraguay
 Yacopí Yacopí NPCSG00 #municipios de Colombia
 Yacuanquer Yacuanquer NPCSG00 #municipios de Colombia
@@ -18971,6 +18984,7 @@ Yugoslavia Yugoslavia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Yuli Yuli NPFSSP0 #hipocorístico
 Yulia Yulia NPFSSP0 #nombre propio de mujer
 Yuliana Yuliana NPFSSP0 #nombre propio de mujer
+Yulieth Yulieth NPFSSP0
 Yuliia Yuliia NPFSSP0 #nombre propio de mujer
 Yuliya Yuliya NPFSSP0 #nombre propio de mujer
 Yuma Yuma NPFSSP0 #hipocorístico
