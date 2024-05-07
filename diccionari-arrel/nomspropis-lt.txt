@@ -18695,6 +18695,7 @@ Willendorf Willendorf NPCNSP0
 William William NPCNSP0
 Williams Williams NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0 # medical
+Williamsburg Williamsburg NPCSG00
 Williamson Williamson NPCNSP0
 Willie Willie NPCNSP0
 Wilma Wilma NPFSSP0 #nombre propio de mujer
