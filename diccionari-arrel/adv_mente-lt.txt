@@ -2030,6 +2030,7 @@ extracelularmente extracelularmente RG # lt2
 extracurricularmente extracurricularmente RG # lt2
 extrajudicialmente extrajudicialmente RG # rae
 extralegalmente extralegalmente RG # de corpus
+extraoficialmente extraoficialmente RG
 extraoficialmente extraoficialmente RG # rae
 extraordinariamente extraordinariamente RG # rae
 extrasensorialmente extrasensorialmente RG # lt2
