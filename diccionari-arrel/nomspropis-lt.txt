@@ -2252,6 +2252,7 @@ Azuaga Azuaga NPCSG00 #municipios de España
 Azuara Azuara NPCSG00 #municipios de España
 Azucena Azucena NPFSSP0 # avl
 Azuelo Azuelo NPCSG00 #municipios de España
+Azurmendi Azurmendi NPCNSP0
 Azután Azután NPCSG00 #municipios de España
 Azuébar Azuébar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Azzeddine Azzeddine NPMSSP0 #nombre propio de hombre
@@ -6719,6 +6720,7 @@ Etxauri Etxauri NPCSG00 #municipios de España
 Etxebarri Etxebarri NPCSG00 #municipios de España
 Etxebarria Etxebarria NPCSG00 #municipios de España
 Etxeberria Etxeberria NPCNSP0 #apellido
+Etxepare Etxepare NPCNSP0
 Etzatlán Etzatlán NPCSG00 #municipios de México
 Etéocles Etéocles NPMSSP0
 Eucadio Eucadio NPMSSP0 # avl
@@ -9625,6 +9627,7 @@ Juanpe Juanpe NPMSSP0 #hipocorístico
 Juanqui Juanqui NPMSSP0 #hipocorístico
 Juanra Juanra NPMSSP0 #hipocorístico
 Juanín Juanín NPMSSP0 #hipocorístico
+Juaristi Juaristi NPCNSP0
 Juañico Juañico NPMSSP0 #hipocorístico
 Jubrique Jubrique NPCSG00 #municipios de España
 Juceno Juceno NPMSSP0 #hipocorístico
@@ -11375,6 +11378,7 @@ Martiniana Martiniana NPFSSP0 # avl
 Martiniano Martiniano NPMSSP0 # avl
 Martinica Martinica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Martins Martins NPCNSP0 #apellido
+Martinů Martinů NPCNSP0
 Martiriana Martiriana NPFSSP0 # avl
 Martiriano Martiriano NPMSSP0 # avl
 Martirio Martirio NPCSSP0 # avl
