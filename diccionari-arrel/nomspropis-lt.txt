@@ -9871,6 +9871,7 @@ Klinefelter Klinefelter NPCNSP0 # medical
 Klippel-Feil Klippel-Feil NPCNSP0 # medical
 Klipper-Trenaunay-Weber Klipper-Trenaunay-Weber NPCNSP0 # medical
 Klüver-Bucy Klüver-Bucy NPCNSP0 # medical
+Knicks Knicks NPMSO00
 Knéset Knéset NPFSO00
 Kobo Kobo NPCNO00
 Koch Koch NPCNSP0 # medical
@@ -14936,6 +14937,7 @@ Riad Riad NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rialp Rialp NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rianxo Rianxo NPCSG00 #municipios de España
 Riaza Riaza NPCSG00 #municipios de España
+Riazor Riazor NPMSG00
 Riaño Riaño NPCSG00 #municipios de España
 Ribadavia Ribadavia NPCSG00 #municipios de España
 Ribadedeva Ribadedeva NPCSG00 #municipios de España
