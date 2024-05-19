@@ -1300,6 +1300,7 @@ Amendolara Amendolara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Amengual Amengual NPCNSP0 #apellido
 Amenhotep Amenhotep NPMSSP0
 Amenofis Amenofis NPMSSP0
+Amenábar Amenábar NPCNSP0
 Amer Amer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ames Ames NPCNSP0 # medical
 Amets Amets NPMSSP0 #nombre propio de hombre
@@ -10643,6 +10644,7 @@ Lope Lope NPMSSP0 # avl
 Lopera Lopera NPCSG00 #municipios de España
 Lopes Lopes NPCNSP0 #apellido
 Loporzano Loporzano NPCSG00 #municipios de España
+Loquillo Loquillo NPMSSP0
 Lorca Lorca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lorcha Lorcha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lore Lore NPFSSP0 #hipocorístico
