@@ -27299,6 +27299,7 @@ provocante=categories: A;fonts: dr;
 provocativo provocativa=categories: A;fonts: LT;
 proxenético proxenética=categories: A;fonts: LT;
 proximal=categories: A;fonts: LT;
+proximooriental=categories: A;fonts: fundeu;
 proximoriental=categories: A;fonts: fundeu;
 proxémico proxémica=categories: A;fonts: medical;
 proyectable=categories: A;fonts: LT;
