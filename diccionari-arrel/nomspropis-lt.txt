@@ -7595,6 +7595,7 @@ Garagoa Garagoa NPCSG00 #municipios de Colombia
 Garai Garai NPCSG00 #municipios de España
 Garaioa Garaioa NPCSG00 #municipios de España
 Garajonay Garajonay NPCSG00
+Garamendi Garamendi NPCNSP0
 Garate Garate NPCNSP0 #apellido
 Garau Garau NPCNSP0 #apellido
 Garay Garay NPCNSP0
@@ -15303,6 +15304,7 @@ Rusiñol Rusiñol NPCNSP0
 Ruslán Ruslán NPMSSP0 #nombre propio de hombre
 Russell Russell NPCNSP0 # wiki
 Russell-Silver Russell-Silver NPCNSP0 # medical
+Rust Rust NPMSO00
 Rusu Rusu NPCNSP0 #apellido
 Rut Rut NPFSSP0 # avl
 Rute Rute NPCSG00 #municipios de España
