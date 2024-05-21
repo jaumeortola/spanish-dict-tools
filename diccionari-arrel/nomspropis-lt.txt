@@ -16345,6 +16345,7 @@ Stanley Stanley NPCNSP0 # wiki
 StarCraft StarCraft NPMNO00
 Stargardt Stargardt NPCNSP0 # medical
 Starling Starling NPCNSP0 # medical
+Stasi Stasi NPFSO00
 Stavanger Stavanger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
 Stefan Stefan NPMSSP0 #nombre propio de hombre
