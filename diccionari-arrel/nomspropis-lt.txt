@@ -3430,6 +3430,7 @@ Brodmann Brodmann NPCNSP0 # medical
 Brognaturo Brognaturo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bronchales Bronchales NPCSG00 #municipios de España
 Bronte Bronte NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bronx Bronx NPMSG00
 Brooke Brooke NPCNSP0 # medical
 Brooklyn Brooklyn NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brooks Brooks NPCNSP0
