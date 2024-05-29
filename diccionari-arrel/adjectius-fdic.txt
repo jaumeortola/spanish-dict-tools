@@ -20587,6 +20587,7 @@ liego liega=categories: A;fonts: LT;
 lienal=categories: A;fonts: LT;
 lientérico lientérica=categories: A;fonts: LT;
 ligamentoso ligamentosa=categories: A;fonts: LT;
+ligerito ligerita=categories: A;fonts: dim;
 ligero ligera [sup. ligerísimo]=categories: A;fonts: LT;
 light=categories: AI;fonts: English;
 lignario lignaria=categories: A;fonts: LT;

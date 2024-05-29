@@ -2377,6 +2377,7 @@ Baleares Baleares NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baleira Baleira NPCSG00 #municipios de España
 Balenyà Balenyà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Balerdi Balerdi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Balfour Balfour NPCNSP0
 Bali Bali NPCNG00 # topònim-apertium-falta-gènere-nombre
 Baliarrain Baliarrain NPCSG00 #municipios de España
 Balint Balint NPCNSP0 # medical
@@ -15320,6 +15321,7 @@ Ruíz Ruíz NPCSG00 #municipios de México
 Ryan Ryan NPMSSP0 #nombre propio de hombre
 Ryanair Ryanair NPCNO00
 Ryder Ryder NPCNO00
+Ryerson Ryerson NPCNSP0
 Rábade Rábade NPCSG00 #municipios de España
 Rábano Rábano NPCSG00 #municipios de España
 Rábanos Rábanos NPCSG00 #municipios de España
