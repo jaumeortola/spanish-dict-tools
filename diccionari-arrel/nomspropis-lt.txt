@@ -1385,6 +1385,7 @@ Anaxágoras Anaxágoras NPMSSP0 # avl
 Anaxímenes Anaxímenes NPMSSP0 # avl
 Anaya Anaya NPCNO00
 Anaís Anaís NPFSSP0 # avl
+Anaïs Anaïs NPFSSP0
 Anbar Anbar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ancasti Ancasti NPCSG00 # Argentina LO
 Anchorage Anchorage NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5202,7 +5203,7 @@ Concaran Concaran NPCSG00 #municipios de Argentina
 Conce Conce NPFSSP0 #hipocorístico
 Concepció Concepció NPFSSP0 #nombre propio de mujer
 Concepción Concepción NPFSSP0 # avl
-Concertgebouw Concertgebouw NPMSO00
+Concertgebouw Concertgebouw NPCSO00
 Concha Concha NPFSSP0 # avl
 Conchalí Conchalí NPCSG00 #municipios de Chile
 Conchi Conchi NPFSSP0 #hipocorístico
