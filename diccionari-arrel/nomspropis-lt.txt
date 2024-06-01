@@ -8379,6 +8379,7 @@ Hao Hao NPMSSP0 #nombre propio de hombre
 Harana Harana NPCSG00 #municipios de España
 Harare Harare NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hardy-Weinberg Hardy-Weinberg NPCNSP0 # medical
+Harfuch Harfuch NPCNSP0
 Haridian Haridian NPFSSP0 #nombre propio de mujer
 Haritz Haritz NPMSSP0 #nombre propio de hombre
 Harlem Harlem NPCSG00
@@ -10854,6 +10855,7 @@ Líbano Líbano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Líjar Líjar NPCSG00 #municipios de España
 Lónguida Lónguida NPCSG00 #municipios de España
 López López NPCNSP0 # wiki common surnames
+López-Dóriga López-Dóriga NPCNSP0
 Löeffgren Löeffgren NPCNSP0 # medical
 Löffler Löffler NPCNSP0 # medical
 Lúcar Lúcar NPCSG00 #municipios de España
@@ -16018,6 +16020,7 @@ Shaw Shaw NPCNSP0
 Sheehan Sheehan NPCNSP0 # medical
 Sheila Sheila NPFSSP0 # avl
 Sheili Sheili NPFSSP0 #hipocorístico
+Sheinbaum Sheinbaum NPCNSP0
 Shelley Shelley NPCNSP0
 Sheraton Sheraton NPCNO00
 Sherezade Sherezade NPFSSP0 #nombre propio de mujer
