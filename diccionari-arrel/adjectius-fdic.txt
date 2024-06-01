@@ -27102,6 +27102,7 @@ procreador procreadora=categories: A;fonts: LT;
 procreativo procreativa=categories: A;fonts: dr;
 proctológico proctológica=categories: A;fonts: dr;
 procíclico procíclica=categories: A;fonts: derivat;
+prodemocracia=categories: AI; fonts: derivat;
 prodemocrático prodemocrática=categories: A;fonts: fundeu;
 prodemócrata=categories: A;fonts: fundeu;
 prodigioso prodigiosa=categories: A;fonts: LT;
