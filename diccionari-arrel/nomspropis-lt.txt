@@ -2146,6 +2146,7 @@ Aussau Aussau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austen Austen NPCNSP0
 Austin Austin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austin-Flint Austin-Flint NPCNSP0 # medical
+Australasia Australasia NPFSG00
 Australia Australia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austrasia Austrasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austria Austria NPCNG00 # topònim-apertium-falta-gènere-nombre
