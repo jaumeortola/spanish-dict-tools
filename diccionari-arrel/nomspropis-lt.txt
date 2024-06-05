@@ -1178,7 +1178,8 @@ Alpont Alpont NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alport Alport NPCNSP0 # medical
 Alpoyeca Alpoyeca NPCSG00 #municipios de México
 Alpuente Alpuente NPCNG00 # topònim-apertium-falta-gènere-nombre
-Alpujarra Alpujarra NPCSG00 #municipios de Colombia
+Alpujarra Alpujarra NPFSG00 #municipios de Colombia
+Alpujarras Alpujarras NPFPG00
 Alquife Alquife NPCSG00 #municipios de España
 Alquézar Alquézar NPCSG00 #municipios de España
 Alsacia Alsacia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9036,6 +9037,7 @@ Indonesia Indonesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indostán Indostán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indé Indé NPCSG00 #municipios de México
 Indíbil Indíbil NPMSSP0 # avl
+Inem Inem NPMSO00 # old
 Infonavit Infonavit NPCNO00
 Inge Inge NPFSSP0 #nombre propio de mujer
 Ingham Ingham NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -9055,6 +9057,7 @@ Inocenta Inocenta NPFSSP0 # avl
 Inocente Inocente NPMSSP0 # avl
 Inriville Inriville NPCSG00 #municipios de Argentina
 Insaf Insaf NPFSSP0 #nombre propio de mujer
+Insalud Insalud NPMSO00 # old
 Instinción Instinción NPCSG00 #municipios de España
 Insua Insua NPCNSP0 #apellido
 Intel Intel NPCNO00 # wiki
@@ -12120,6 +12123,7 @@ Mondrian Mondrian NPCNSP0
 Mondéjar Mondéjar NPCSG00 #municipios de España
 Mondúber Mondúber NPMSSP0 # avl
 Monegrillo Monegrillo NPCSG00 #municipios de España
+Monegros Monegros NPMPG00
 Monells Monells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Monesterio Monesterio NPCSG00 #municipios de España
 Monet Monet NPCNSP0 # wiki
@@ -15236,6 +15240,7 @@ Rossell Rossell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rosselló Rosselló NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rossini Rossini NPCNSP0
 Rota Rota NPCNG00 # topònim-apertium-falta-gènere-nombre
+Rotary Rotary NPCNO00
 Rotglà Rotglà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roth Roth NPCNSP0 # medical
 Rothschild Rothschild NPCNSP0
