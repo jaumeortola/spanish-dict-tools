@@ -6765,11 +6765,13 @@ Euristea Euristea NPFSSP0 # avl
 Euristeo Euristeo NPMSSP0 # avl
 Euro-Collins Euro-Collins NPCNSP0 # medical
 Euroasia Euroasia NPFSG00
+Eurocámara Eurocámara NPFSO00
 Eurofestival Eurofestival NPMSO00
 Eurogrupo Eurogrupo NPMSO00
 Euroliga Euroliga NPFSO00
 Euroligas Euroliga NPFPO00
 Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Europarlamento Europarlamento NPMSO00
 Euroregión Euroregión NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eurosia Eurosia NPFSSP0 # avl
 Eurosio Eurosio NPMSSP0 # avl

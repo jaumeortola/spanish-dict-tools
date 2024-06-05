@@ -60729,6 +60729,7 @@ sparring [pl. sparrings]=categories: M;fonts: LT;
 speaker [pl. speakers]=categories: MF;fonts: LT;
 speos=categories: MI;fonts: LT;
 spin-off [pl. spin-offs]=categories: M;fonts: english;
+spitzenkandidat [pl. spitzenkandidaten]=categories: MF;fonts: German;
 sponsor [pl. sponsors]=categories: MF;fonts: LT;
 spool [pl. spools]=categories: M;fonts: LT;
 spot [pl. spots]=categories: M;fonts: LT;
