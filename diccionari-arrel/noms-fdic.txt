@@ -10787,6 +10787,7 @@ bulárcama=categories: F;fonts: dr;
 bulé=categories: F;fonts: LT;
 bulín=categories: M;fonts: dr;
 bulón=categories: M;fonts: LT;
+bum [pl. bums]=categories: M;fonts: adaptación;
 bumbulín=categories: M;fonts: dr;
 bumbulón=categories: M;fonts: dr;
 bumerán=categories: M;fonts: LT;
