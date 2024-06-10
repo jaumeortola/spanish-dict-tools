@@ -3518,6 +3518,7 @@ Bujalance Bujalance NPCSG00 #municipios de España
 Bujalaro Bujalaro NPCSG00 #municipios de España
 Bujaraloz Bujaraloz NPCSG00 #municipios de España
 Bujumbura Bujumbura NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bukele Bukele NPCNSP0
 Bularros Bularros NPCSG00 #municipios de España
 Bulbuente Bulbuente NPCSG00 #municipios de España
 Bulgaria Bulgaria NPCNG00 # topònim-apertium-falta-gènere-nombre
