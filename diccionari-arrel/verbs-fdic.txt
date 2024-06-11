@@ -3304,6 +3304,7 @@ desnazificar=categories: V;model:abarcar;fonts: derivat;
 desnervar=categories: V;model:amar;fonts: LT;
 desnevar=categories: V;model:nevar;fonts: LT;
 desnivelar=categories: V;model:amar;fonts: LT;
+desnortar=categories: V;model:amar;fonts: dr;
 desnucar=categories: V;model:abarcar;fonts: LT;
 desnuclearizar=categories: V;model:abalanzar;fonts: dr;
 desnudar=categories: V;model:amar;fonts: LT;
