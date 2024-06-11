@@ -46897,6 +46897,7 @@ opilación=categories: F;fonts: LT;
 opilion [pl. opiliones]=categories: M;fonts: LT;
 opilión=categories: M;fonts: LT;
 opinión=categories: F;fonts: LT;
+opinólogo opinóloga=categories: MF;fonts: derivat;
 opio=categories: M;fonts: LT;
 opiomanía=categories: F;fonts: LT;
 opistognacia=categories: F;fonts: LT;

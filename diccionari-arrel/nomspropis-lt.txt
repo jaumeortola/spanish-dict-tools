@@ -1216,6 +1216,7 @@ Alvarín Alvarín NPMSSP0 #hipocorístico
 Alvear Alvear NPCSG00 #municipios de Argentina
 Alves Alves NPCNSP0 #apellido
 Alvi Alvi NPMSSP0 #hipocorístico
+Alvise Alvise NPMSSP0
 Alvo Alvo NPMSSP0 #hipocorístico
 Aly Aly NPMSSP0 #nombre propio de hombre
 Alyssa Alyssa NPFSSP0 #nombre propio de mujer
