@@ -32127,6 +32127,7 @@ gofre=categories: M;fonts: dr;
 gogo-girl [pl. gogo-girls]=categories: F;fonts: LT;
 gol=categories: M;fonts: LT;
 gola=categories: F;fonts: LT;
+golaveraje=categories: M;fonts: fundeu;
 goldre=categories: M;fonts: dr;
 goleada=categories: F;fonts: LT;
 goleador goleadora=categories: MF;fonts: LT;

@@ -191,6 +191,10 @@ ave ave I
 ax ax I
 ay ay I
 ayayay ayayay I
+azzurra azzurro AQ0FS0
+azzurre azzurro AQ0FP0
+azzurri azzurro AQ0MP0
+azzurro azzurro AQ0MS0
 aúpa aúpa I
 bah bah I
 bajo bajo RG

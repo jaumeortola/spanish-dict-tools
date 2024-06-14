@@ -6021,6 +6021,7 @@ Doro Doro NPMSSP0 # avl
 Dorotea Dorotea NPFSSP0 # avl
 Doroteo Doroteo NPMSSP0 # avl
 Dorta Dorta NPCNSP0 #apellido
+Dortmund Dortmund NPCSG00
 Dortmund-Ems Dortmund-Ems NPMSG00
 Dorín Dorín NPFSSP0 #hipocorístico
 Dos Dos NPCNSP0 #apellido
@@ -7721,6 +7722,7 @@ Gelma Gelma NPFSSP0 #hipocorístico
 Gelmiro Gelmiro NPMSSP0 # avl
 Gelo Gelo NPMSSP0 #hipocorístico
 Gelsa Gelsa NPCSG00 #municipios de España
+Gelsenkirchen Gelsenkirchen NPCSG00
 Gelu Gelu NPMSSP0 #hipocorístico
 Gelves Gelves NPCSG00 #municipios de España
 Gema Gema NPFSSP0 # avl
