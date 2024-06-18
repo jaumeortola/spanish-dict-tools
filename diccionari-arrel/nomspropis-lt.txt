@@ -4444,6 +4444,7 @@ Ceci Ceci NPFSSP0 #hipocorístico
 Cecilia Cecilia NPFSSP0 # avl
 Cecilio Cecilio NPMSSP0 # avl
 Ceclavín Ceclavín NPCSG00 #municipios de España
+Cecot Cecot NPFSO00
 Cedanya Cedanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cedeira Cedeira NPCSG00 #municipios de España
 Cedeño Cedeño NPCNSP0 # wiki common surnames
@@ -7264,6 +7265,7 @@ Fraga Fraga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fragonard Fragonard NPCNSP0
 Fram Fram NPCSG00 # Paraguay
 Framingham Framingham NPCNG00
+Framingham Framingham NPCNSP0
 Fran Fran NPMSSP0 # avl
 France France NPCNSP0 # wiki
 France-Presse France-Presse NPCNO00
@@ -8621,6 +8623,7 @@ Hipercor Hipercor NPMNO00
 Hiperión Hiperión NPMSSP0
 Hipona Hipona NPCNSP0
 Hippel-Lindau Hippel-Lindau NPCNSP0 # medical
+Hipra Hipra NPFSO00
 Hipócrates Hipócrates NPMSSP0 # avl
 Hipólita Hipólita NPFSSP0 # avl
 Hipólito Hipólito NPMSSP0 # avl
@@ -11609,6 +11612,7 @@ McDonald's McDonald's NPCNO00
 McDowell McDowell NPCNSP0
 McFadden McFadden NPCNSP0
 McGraw-Hill McGraw-Hill NPCNO00
+McGuinness McGuinness NPCNSP0
 McKay McKay NPCNSP0
 McKinley McKinley NPCSG00
 McLaren McLaren NPCNO00
@@ -18672,6 +18676,7 @@ Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Wegener Wegener NPCNSP0
 Wei Wei NPMSSP0 #nombre propio de hombre
+Weikersheim Weikersheim NPCSG00
 Welander Welander NPCNSP0 # medical
 Wellington Wellington NPCSG00 # topònim-apertium-falta-gènere-nombre
 Wells Wells NPCNSP0

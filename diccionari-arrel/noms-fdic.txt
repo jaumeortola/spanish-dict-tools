@@ -771,6 +771,7 @@ LP=categories: MI;fonts: dr;
 LPO=categories: MFI;fonts: sigla;
 MBA=categories: MI;fonts: sigla;
 MERS=categories: MS;fonts: LT;
+MEUR=categories: MI;fonts: abreviatura;
 MFA=categories: FI;fonts: siglas;
 MP3=categories: MI;fonts: sigla;
 MP4=categories: MI;fonts: sigla;
