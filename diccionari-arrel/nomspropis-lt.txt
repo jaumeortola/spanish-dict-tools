@@ -5294,6 +5294,7 @@ Coqui Coqui NPFSSP0 #hipocorístico
 Coquimatlán Coquimatlán NPCSG00 #municipios de México
 Coquimbo Coquimbo NPCSG00 # Chile
 Cora Cora NPFSSP0 # avl
+Corachan Corachan NPCNSP0
 Coracora Coracora NPCSG00 # Perú
 Coraima Coraima NPFSSP0 #nombre propio de mujer
 Coral Coral NPFSSP0 # avl
@@ -15385,6 +15386,7 @@ SOFORT SOFORT NPCNO00
 SPD SPD NPMSO00
 SPEI SPEI NPMSO00
 SPI SPI NPMNO00 #síndrome de piernas inquietas
+SUSE SUSE NPCNO00
 Saad Saad NPMSSP0 #nombre propio de hombre
 Saadia Saadia NPFSSP0 #nombre propio de mujer
 Saatchi Saatchi NPCNSP0
