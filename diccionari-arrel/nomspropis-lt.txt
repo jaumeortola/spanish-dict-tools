@@ -16501,7 +16501,9 @@ Susana Susana NPFSSP0 # avl
 Susanna Susanna NPFSSP0 #nombre propio de mujer
 Susanne Susanne NPFSSP0 #nombre propio de mujer
 Susi Susi NPFSSP0 # avl
+Susie Susie NPFSSP0
 Susqueda Susqueda NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sussex Sussex NPCSG00
 Susticacán Susticacán NPCSG00 #municipios de México
 Susu Susu NPFSSP0 #hipocorístico
 Susupuato Susupuato NPCSG00 #municipios de México
@@ -16512,7 +16514,7 @@ Sutera Sutera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Suterranya Suterranya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sutton Sutton NPCNSP0 # medical
 Suva Suva NPCNG00 # topònim-apertium-falta-gènere-nombre
-Suzanne Suzanne NPCNSP0
+Suzanne Suzanne NPFSSP0
 Suárez Suárez NPCNSP0 # wiki common surnames
 Suñer Suñer NPCNSP0 #apellido
 Suñé Suñé NPCNSP0 #apellido
