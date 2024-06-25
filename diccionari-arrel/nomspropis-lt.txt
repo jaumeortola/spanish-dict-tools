@@ -7925,6 +7925,7 @@ Godino Godino NPCNSP0 #apellido
 Godofreda Godofreda NPFSSP0 # avl
 Godofredo Godofredo NPMSSP0 # avl
 Godojos Godojos NPCSG00 #municipios de España
+Godot Godot NPMSSP0
 Godoy Godoy NPCNSP0
 Godoy Godoy NPCNSP0 # wiki common surnames
 Goebbels Goebbels NPCNSP0
@@ -12468,6 +12469,7 @@ Murta Murta NPFSSP0 # avl
 Murueta Murueta NPCSG00 #municipios de España
 Muruzábal Muruzábal NPCSG00 #municipios de España
 Museros Museros NPCNG00 # topònim-apertium-falta-gènere-nombre
+Mushkaa Mushkaa NPFSSP0
 Musi Musi NPFSSP0 #hipocorístico
 Musikverein Musikverein NPFSO00
 Musk Musk NPCNSP0
@@ -15511,6 +15513,7 @@ Sainte-Croix Sainte-Croix NPFSG00
 Sainte-Enimie Sainte-Enimie NPCSG00
 Sainte-Geneviève-des-Bois Sainte-Geneviève-des-Bois NPCSG00
 Sainte-Marie Sainte-Marie NPFSG00
+Sainte-Suzanne Sainte-Suzanne NPCNG00
 Sainz Sainz NPCNSP0
 Saioa Saioa NPFSSP0 #nombre propio de mujer
 Saira Saira NPCSG00 #municipios de Argentina
