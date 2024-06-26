@@ -60464,6 +60464,7 @@ solterón solterona=categories: MF;fonts: LT;
 soltura=categories: F;fonts: LT;
 solubilidad=categories: F;fonts: LT;
 solubilización=categories: F;fonts: LT;
+solucionismo=categories: MS;fonts: derivat;
 solución=categories: F;fonts: LT;
 solum [pl. solumes]=categories: M;fonts: LT;
 solutivo=categories: M;fonts: LT;

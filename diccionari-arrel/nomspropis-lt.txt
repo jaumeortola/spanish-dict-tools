@@ -7587,6 +7587,7 @@ Gameza Gameza NPCSG00 #municipios de Colombia
 Gamiro Gamiro NPMSSP0 # avl
 Gamiz-Fika Gamiz-Fika NPCSG00 #municipios de España
 Gamones Gamones NPCSG00 #municipios de España
+Gamper Gamper NPCNSP0
 Gampola Gampola NPCSG00
 Gamstorp Gamstorp NPCNSP0 # medical
 Gancedo Gancedo NPCSG00 # Argentina LO
