@@ -24024,6 +24024,7 @@ dólico=categories: M;fonts: LT;
 dóllimo=categories: M;fonts: dr;
 dómine=categories: M;fonts: LT;
 dómino=categories: M;fonts: LT;
+dónut [pl. dónuts]=categories: M;fonts: dr;
 dórico=categories: M;fonts: LT;
 dúa=categories: F;fonts: dr;
 dúo=categories: M;fonts: LT;
