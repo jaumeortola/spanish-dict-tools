@@ -28046,6 +28046,7 @@ eurodiputado eurodiputada=categories: MF;fonts: LT;
 eurodivisa=categories: F;fonts: LT;
 eurodólar=categories: M;fonts: LT;
 euroemisión=categories: F;fonts: LT;
+euroescaño=categories: M;fonts: derivat;
 euroescepticismo=categories: M;fonts: dr;
 euroesclerosis=categories: FI;fonts: dr;
 eurofuncionario eurofuncionaria=categories: MF;fonts: LT;
