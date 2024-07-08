@@ -14323,6 +14323,7 @@ Portillo Portillo NPCSG00 #municipios de España
 Portland Portland NPCNG00 # topònim-apertium-falta-gènere-nombre
 Porto Porto NPCSG00 #municipios de España
 Porto-Novo Porto-Novo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Portocarrero Portocarrero NPCNSP0 #apellido 
 Portomaggiore Portomaggiore NPCNG00 # topònim-apertium-falta-gènere-nombre
 Portomarín Portomarín NPCSG00 #municipios de España
 Portovelo Portovelo NPCSG00 # Ecuador
