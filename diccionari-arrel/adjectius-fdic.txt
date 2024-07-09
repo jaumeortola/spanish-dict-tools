@@ -21401,6 +21401,7 @@ macroglósico macroglósica=categories: A;fonts: LT;
 macrognático macrognática=categories: A;fonts: LT;
 macrográfico macrográfica=categories: A;fonts: LT;
 macromolecular=categories: A;fonts: LT;
+macronista=categories: A;fonts: derivat;
 macronuclear=categories: A;fonts: LT;
 macroscópico macroscópica=categories: A;fonts: LT;
 macrosociológico macrosociológica=categories: A;fonts: derivat;

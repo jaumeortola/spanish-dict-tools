@@ -10266,7 +10266,9 @@ Leganés Leganés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Legarda Legarda NPCSG00 #municipios de España
 Legaria Legaria NPCSG00 #municipios de España
 Legazpi Legazpi NPCSG00 #municipios de España
+Lego Lego NPCNO00
 Legorreta Legorreta NPCSG00 #municipios de España
+Legos Lego NPMPO00
 Leguizamón Leguizamón NPCNSP0 # wiki common surnames
 Legutio Legutio NPCSG00 #municipios de España
 Leguízamo Leguízamo NPCSG00 #municipios de Colombia

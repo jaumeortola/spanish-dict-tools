@@ -40252,6 +40252,7 @@ macromolécula=categories: F;fonts: LT;
 macromundo=categories: M;fonts: LT;
 macromárketing [pl. macromárketings]=categories: M;fonts: LT;
 macroniquia=categories: F;fonts: medical;
+macronismo=categories: MS;fonts: derivat;
 macronutriente=categories: M;fonts: LT;
 macronúcleo=categories: M;fonts: LT;
 macroordenador=categories: M;fonts: LT;
