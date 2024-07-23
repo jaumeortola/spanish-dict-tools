@@ -65880,6 +65880,7 @@ turinés turinesa=categories: MF;fonts: LT;
 turismo=categories: M;fonts: LT;
 turismofobia=categories: F;fonts: derivat;
 turista=categories: MF;fonts: LT;
+turistificación=categories: F;fonts: fundeu;
 turión=categories: M;fonts: LT;
 turlerín=categories: M;fonts: dr;
 turma=categories: F;fonts: LT;

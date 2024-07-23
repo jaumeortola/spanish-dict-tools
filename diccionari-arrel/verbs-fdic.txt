@@ -8286,6 +8286,7 @@ tupir=categories: V;model:partir;fonts: LT;
 turbar=categories: V;model:amar;fonts: LT;
 turbinar=categories: V;model:amar;fonts: LT;
 turificar=categories: V;model:abarcar;fonts: LT;
+turistificar=categories: V;model:abarcar;fonts: fundeu;
 turnar=categories: V;model:amar;fonts: LT;
 turrar=categories: V;model:amar;fonts: LT;
 tusar=categories: V;model:amar;fonts: LT;
