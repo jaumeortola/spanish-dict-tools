@@ -4879,6 +4879,7 @@ Chunchi Chunchi NPCSG00 # Ecuador
 Churchill Churchill NPCNSP0 # wiki
 Churg-Strauss Churg-Strauss NPCNSP0 # medical
 Churintzio Churintzio NPCSG00 #municipios de México
+Churruca Churruca NPCNSP0
 Churuguara Churuguara NPCSG00 # Venezuela
 Churumuco Churumuco NPCSG00 #municipios de México
 Chusa Chusa NPFSSP0 #hipocorístico
@@ -5143,6 +5144,7 @@ Colldejou Colldejou NPCNG00 # topònim-apertium-falta-gènere-nombre
 Collegats Collegats NPCNG00 # topònim-apertium-falta-gènere-nombre
 Colles Colles NPCNSP0 # medical
 Collet-Sicart Collet-Sicart NPCNSP0 # medical
+Collingwood Collingwood NPCNSP0
 Collins Collins NPCNSP0
 Collipulli Collipulli NPCSG00 #municipios de Chile
 Colliure Colliure NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7105,6 +7107,7 @@ Finck Finck NPCNSP0 # medical
 Fines Fines NPCSG00 #municipios de España
 Finestrat Finestrat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fini Fini NPFSSP0 #hipocorístico
+Finisterre Finisterre NPCSG00
 Finlandia Finlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiol Fiol NPCNSP0 #apellido
 Fiona Fiona NPFSSP0 # avl
@@ -18491,6 +18494,7 @@ Villegas Villegas NPCNSP0
 Villeguillo Villeguillo NPCSG00 #municipios de España
 Villel Villel NPCSG00 #municipios de España
 Villena Villena NPCNG00 # topònim-apertium-falta-gènere-nombre
+Villeneuve Villeneuve NPCSG00
 Villeta Villeta NPCSG00 # Paraguay
 Villi Villi NPFSSP0 #hipocorístico
 Villodre Villodre NPCSG00 #municipios de España
