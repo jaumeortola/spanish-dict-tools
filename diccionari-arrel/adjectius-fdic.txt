@@ -4905,6 +4905,7 @@ bergamasco bergamasca=categories: A;fonts: dr;
 beritense=categories: A;fonts: dr;
 berlanguiano berlanguiana=categories: A;fonts: dr;
 berlinés berlinesa=categories: A;fonts: LT;
+berlusconiano berlusconiana=categories: A;fonts: derivat;
 bermejeño bermejeña=categories: A;fonts: dr;
 bermejizo bermejiza=categories: A;fonts: LT;
 bermejo bermeja=categories: A;fonts: LT;
