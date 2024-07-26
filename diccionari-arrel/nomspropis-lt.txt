@@ -1,3 +1,4 @@
+ 
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1153,6 +1154,7 @@ Alodia Alodia NPFSSP0 # avl
 Alodio Alodio NPMSSP0 # avl
 Aloma Aloma NPFSSP0 # avl
 Alomar Alomar NPMSSP0 # avl
+Alonsito Alonsito NPMSSP0
 Alonso Alonso NPCNSP0 # wiki common surnames
 Alonso Alonso NPMSSP0 # avl
 Alonsotegi Alonsotegi NPCSG00 #municipios de España
@@ -2146,6 +2148,7 @@ Ausias Ausias NPMSSP0 # avl
 Auspitz Auspitz NPCNSP0 # medical
 Aussau Aussau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austen Austen NPCNSP0
+Austerlitz Austerlitz NPCSG00
 Austin Austin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Austin-Flint Austin-Flint NPCNSP0 # medical
 Australasia Australasia NPFSG00
@@ -2720,6 +2723,7 @@ Bella Bella NPFSSP0 # avl
 Bellaguarda Bellaguarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bellantyne Bellantyne NPCNSP0 # medical
 Bellaterra Bellaterra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bellegarde Bellegarde NPCSG00
 Bellini Bellini NPCNSP0
 Bello Bello NPCSG00 #municipios de Colombia
 Bello Bello NPCSG00 #municipios de España
@@ -4965,6 +4969,7 @@ Cirueña Cirueña NPCSG00 #municipios de España
 Cisjordania Cisjordania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cisla Cisla NPCSG00 #municipios de España
 Cisneros Cisneros NPCNSP0
+Cisniega Cisniega NPCNSP0
 Cisse Cisse NPCNSP0 #apellido
 Cistella Cistella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cistierna Cistierna NPCSG00 #municipios de España
@@ -6083,6 +6088,7 @@ Duke Duke NPCNSP0
 Dukes Dukes NPCNSP0 # medical
 Dulcenombre Dulcenombre NPFSSP0 #nombre propio de mujer
 Dulcinea Dulcinea NPFSSP0
+Dumanoir Dumanoir NPCNSP0
 Dumas Dumas NPCNSP0
 Dumbría Dumbría NPCSG00 #municipios de España
 Dumitru Dumitru NPMSSP0 #nombre propio de hombre
@@ -7491,6 +7497,7 @@ Gabri Gabri NPMSSP0 #hipocorístico
 Gabriel Gabriel NPMSSP0 # avl
 Gabriela Gabriela NPFSSP0 # avl
 Gabriele Gabriele NPMSSP0 #nombre propio de hombre
+Gabrielillo Gabrielillo NPMSSP0
 Gabriella Gabriella NPFSSP0 #nombre propio de mujer
 Gabs Gabs NPFSSP0 #hipocorístico
 Gaby Gaby NPFSSP0
@@ -8063,6 +8070,7 @@ Gratallops Gratallops NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grau Grau NPCNG00 # topònim-apertium-falta-gènere-nombre
 Graus Graus NPCSG00 #municipios de España
 Graves-Basedow Graves-Basedow NPCNSP0 # medical
+Gravina Gravina NPCNSP0
 Grazalema Grazalema NPCSG00 #municipios de España
 Graña Graña NPCNSP0 #apellido
 Grañén Grañén NPCSG00 #municipios de España
@@ -8190,6 +8198,7 @@ Guatapé Guatapé NPCSG00 #municipios de Colombia
 Guataquí Guataquí NPCSG00 #municipios de Colombia
 Guatavita Guatavita NPCSG00 #municipios de Colombia
 Guatemala Guatemala NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guatepeor Guatepeor NPCSG00
 Guateque Guateque NPCSG00 #municipios de Colombia
 Guatimozín Guatimozín NPCSG00 #municipios de Argentina
 Guatire Guatire NPCSG00 # Venezuela
@@ -11073,6 +11082,7 @@ Maldà Maldà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maleján Maleján NPCSG00 #municipios de España
 Malen Malen NPFSSP0 #nombre propio de mujer
 Malena Malena NPFSSP0 # avl
+Malespina Malespina NPCNSP0
 Maletto Maletto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malgrat Malgrat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mali Mali NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -18111,6 +18121,7 @@ Veganzones Veganzones NPCSG00 #municipios de España
 Vegaquemada Vegaquemada NPCSG00 #municipios de España
 Vegaviana Vegaviana NPCSG00 #municipios de España
 Veiga Veiga NPCNG00 # topònim-apertium-falta-gènere-nombre
+Vejer Vejer NPCNSP0
 Velada Velada NPCSG00 #municipios de España
 Velamazán Velamazán NPCSG00 #municipios de España
 Velarde Velarde NPCNSP0 #apellido
