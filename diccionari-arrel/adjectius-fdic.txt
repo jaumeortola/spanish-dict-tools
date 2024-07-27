@@ -5605,6 +5605,7 @@ cabreante=categories: A;fonts: LT;
 cabrerizo cabreriza=categories: A;fonts: LT;
 cabrio=categories: AMS;fonts: LT;
 cabrituno cabrituna=categories: A;fonts: LT;
+cabroncito cabroncita=categories: A;fonts: dim;
 cabroncísimo cabroncísima=categories: A;fonts: superlative;
 cabruno cabruna=categories: A;fonts: LT;
 cabrío cabría=categories: A;fonts: LT;
