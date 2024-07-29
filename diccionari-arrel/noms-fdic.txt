@@ -48344,6 +48344,7 @@ parafiscalidad=categories: F;fonts: LT;
 parafonía=categories: F;fonts: LT;
 paraformaldehído=categories: M;fonts: LT;
 parafraseador parafraseadora=categories: MF;fonts: LT;
+parafraseo=categories: M;fonts: derivat;
 parafraste=categories: MF;fonts: LT;
 parafrenia=categories: F;fonts: medical;
 parafunción=categories: F;fonts: LT;
