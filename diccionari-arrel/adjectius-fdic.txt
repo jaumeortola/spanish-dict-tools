@@ -16031,6 +16031,7 @@ hiperconcentrado hiperconcentrada=categories: A;fonts: derivat;
 hiperconductor hiperconductora=categories: A;fonts: LT;
 hiperconectado hiperconectada=categories: A;fonts: LT;
 hiperconsciente=categories: A;fonts: LT;
+hiperconsumista=categories: A;fonts: derivat;
 hipercromo hipercroma=categories: A;fonts: LT;
 hipercromático hipercromática=categories: A;fonts: LT;
 hipercrítico hipercrítica=categories: A;fonts: LT;
