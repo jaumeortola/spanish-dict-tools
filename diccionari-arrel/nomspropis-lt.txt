@@ -279,6 +279,7 @@ Aarón Aarón NPMSSP0 # avl
 Ababuj Ababuj NPCSG00 #municipios de España
 Abacuc Abacuc NPMSSP0 # avl
 Abacus Abacus NPMNO00
+Abadal Abadal NPCNO00 #empresa española
 Abades Abades NPCSG00 #municipios de España
 Abadiño Abadiño NPCSG00 #municipios de España
 Abadía Abadía NPCSG00 #municipios de España
@@ -357,11 +358,13 @@ Abelardo Abelardo NPMSSP0 # avl
 Abella Abella NPCNSP0 #apellido
 Abellán Abellán NPMSSP0 # avl
 Abengibre Abengibre NPCSG00 #municipios de España
+Abengoa Abengoa NPCNO00 #empresa española
 Abenámar Abenámar NPMSSP0 # avl
 Abenójar Abenójar NPCSG00 #municipios de España
 Abercrombie Abercrombie NPCNO00 # marca
 Aberdeen Aberdeen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Aberin Aberin NPCSG00 #municipios de España
+Abertis Abertis NPCNO00 #empresa española
 Abertura Abertura NPCSG00 #municipios de España
 Abezames Abezames NPCSG00 #municipios de España
 AbiWord AbiWord NPMSO00
@@ -372,6 +375,7 @@ Abigaíl Abigaíl NPFSSP0 # avl
 Abilene Abilene NPCSSP0 # avl
 Abilia Abilia NPFSSP0 # avl
 Abilio Abilio NPMSSP0 # avl
+Abiquo Abiquo NPCNO00 #empresa española
 Abisinia Abisinia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abiyán Abiyán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Abizanda Abizanda NPCSG00 #municipios de España
@@ -436,7 +440,9 @@ Acedera Acedera NPCSG00 #municipios de España
 Aceh Aceh NPCNG00 # topònim-apertium-falta-gènere-nombre
 Acehúche Acehúche NPCSG00 #municipios de España
 Acemoglu Acemoglu NPCNSP0
+Aceralia Aceralia NPCNO00 #empresa española
 Acered Acered NPCSG00 #municipios de España
+Acerinox Acerinox NPCNO00 #empresa española
 Acesto Acesto NPMSSP0 # avl
 Aceuchal Aceuchal NPCSG00 #municipios de España
 Aceval Aceval NPCSG00 # Paraguay
@@ -577,6 +583,7 @@ Agatha Agatha NPFSSP0 #nombre propio de mujer
 Agatángel Agatángel NPMSSP0 # avl
 Agatángela Agatángela NPFSSP0 # avl
 Agatón Agatón NPMSSP0 # avl
+Agbar Agbar NPCNO00 #empresa española
 Agelao Agelao NPMSSP0 # avl
 Ageo Ageo NPMSSP0 # avl
 Agesilao Agesilao NPMSSP0 # avl
@@ -1051,6 +1058,7 @@ Alicún Alicún NPCSG00 #municipios de España
 Alida Alida NPFSSP0 # avl
 Alidón Alidón NPMSSP0 # avl
 Alighieri Alighieri NPCNSP0
+Alimerka Alimerka NPCNO00 #empresa española
 Alina Alina NPFSSP0 # avl
 Aline Aline NPFSSP0 #nombre propio de mujer
 Alins Alins NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1119,6 +1127,7 @@ Almendralejo Almendralejo NPCSG00
 Almendros Almendros NPCSG00 #municipios de España
 Almensilla Almensilla NPCSG00 #municipios de España
 Almería Almería NPCNG00 # topònim-apertium-falta-gènere-nombre
+Almirall Almirall NPCNO00 #empresa española
 Almiserat Almiserat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almiserà Almiserà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Almita Almita NPFSSP0 #hipocorístico
@@ -1190,6 +1199,7 @@ Alsina Alsina NPCSG00 # Argentina LO
 Alsodux Alsodux NPCSG00 #municipios de España
 Alström Alström NPCNSP0 # medical
 Altable Altable NPCSG00 #municipios de España
+Altadis Altadis NPCNO00 #empresa española
 Altafulla Altafulla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Altagracia Altagracia NPCSG00 # Venezuela
 Altai Altai NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -1307,6 +1317,7 @@ Amenofis Amenofis NPMSSP0
 Amenábar Amenábar NPCNSP0
 Amer Amer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ames Ames NPCNSP0 # medical
+Ametller Ametller NPCNO00 #empresa española
 Amets Amets NPMSSP0 #nombre propio de hombre
 Ameyugo Ameyugo NPCSG00 #municipios de España
 Amezketa Amezketa NPCSG00 #municipios de España
@@ -1551,6 +1562,7 @@ Anto Anto NPFSSP0 #hipocorístico
 Anto Anto NPMSSP0 #hipocorístico
 Antofagasta Antofagasta NPCSG00
 Antoine Antoine NPCNSP0 # wiki
+Antolin Antolin NPCNO00 #empresa española
 Antolina Antolina NPFSSP0 # avl
 Antolinito Antolinito NPMSSP0 #hipocorístico
 Antolín Antolín NPMSSP0 # avl
@@ -1636,6 +1648,7 @@ Aponte Aponte NPCNSP0 #apellido
 Aporo Aporo NPCSG00 #municipios de México
 Apozol Apozol NPCSG00 #municipios de México
 Apple Apple NPCNO00 # wiki
+Applus+ Applus+ NPCNO00 #empresa española
 Aprigliano Aprigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Apulco Apulco NPCSG00 #municipios de México
 Apuleo Apuleo NPMSSP0 # avl
@@ -1688,6 +1701,7 @@ Arango Arango NPCNSP0
 Aranguren Aranguren NPCNSP0
 Aranjuez Aranjuez NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arano Arano NPCSG00 #municipios de España
+Aranow Aranow NPCNO00 #empresa española
 Aransís Aransís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arantxa Arantxa NPFSSP0 # avl
 Arantza Arantza NPCSG00 #municipios de España
@@ -1932,6 +1946,7 @@ Arrúbal Arrúbal NPCSG00 #municipios de España
 Ars Ars NPCNG00 # topònim-apertium-falta-gènere-nombre
 Arsenia Arsenia NPFSSP0 # avl
 Arsenio Arsenio NPMSSP0 # avl
+Arsys Arsys NPCNO00 #empresa española
 Arsèguel Arsèguel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Artacho Artacho NPCNSP0 #apellido
 Artadi Artadi NPCNSP0
@@ -1988,6 +2003,7 @@ Asencio Asencio NPMSSP0 # avl
 Asenjo Asenjo NPCNSP0 #apellido
 Asensi Asensi NPCNSP0 #apellido
 Asensio Asensio NPMSSP0 #nombre propio de hombre
+Asepeyo Asepeyo NPCNO00 #empresa española
 Aser Aser NPMSSP0 # avl
 Asherman Asherman NPCNSP0 # medical
 Ashjabad Ashjabad NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2103,6 +2119,7 @@ Atolinga Atolinga NPCSG00 #municipios de México
 Atoyac Atoyac NPCSG00 #municipios de México
 Atoyatempan Atoyatempan NPCSG00 #municipios de México
 Atrato Atrato NPCSG00 #municipios de Colombia
+Atresmedia Atresmedia NPCNO00 #empresa española
 Atuntaqui Atuntaqui NPCSG00 # Ecuador
 Atwood Atwood NPCNSP0
 Atxaga Atxaga NPCNSP0
@@ -2204,6 +2221,7 @@ Ayaviri Ayaviri NPCSG00 # Perú
 Ayegui Ayegui NPCSG00 #municipios de España
 Ayelén Ayelén NPFSSP0 #nombre propio de mujer
 Ayerbe Ayerbe NPCSG00 #municipios de España
+Ayesa Ayesa NPCNO00 #empresa española
 Ayesha Ayesha NPFSSP0 #nombre propio de mujer
 Ayla Ayla NPFSSP0 #nombre propio de mujer
 Aylin Aylin NPFSSP0
@@ -2279,6 +2297,7 @@ BCE BCE NPMSO00
 BCN BCN NPCNG00 # topònim-apertium-falta-gènere-nombre
 BCN BCN NPCSG00
 BDS BDS NPCNO00
+BEHER BEHER NPCNO00 #empresa española
 BEI BEI NPMSO00
 BID BID NPMSO00
 BMW BMW NPCNO00 # wiki
@@ -2417,6 +2436,7 @@ Bande Bande NPCSG00 #municipios de España
 Bandl Bandl NPCNSP0 # medical
 Bandung Bandung NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banegas Banegas NPCNSP0 #apellido
+Banesto Banesto NPCNO00 #empresa española
 Bangalore Bangalore NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bangkok Bangkok NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bangladés Bangladés NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2671,6 +2691,7 @@ Bedia Bedia NPCSG00 #municipios de España
 Bedoya Bedoya NPCNSP0
 Bedón Bedón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beethoven Beethoven NPCNSP0 # wiki
+Befesa Befesa NPCNO00 #empresa española
 Beget Beget NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bego Bego NPFSSP0 #hipocorístico
 Begonia Begonia NPFSSP0 # avl
@@ -3117,6 +3138,7 @@ Bisaurri Bisaurri NPCSG00 #municipios de España
 Bisbal Bisbal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Biscarrués Biscarrués NPCSG00 #municipios de España
 Biscucuy Biscucuy NPCSG00 # Venezuela
+Biscúter Biscúter NPCNO00 #empresa española
 Bisignano Bisignano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bisimbre Bisimbre NPCSG00 #municipios de España
 Bismarck Bismarck NPCNSP0
@@ -3271,6 +3293,7 @@ Bonnier Bonnier NPCNSP0 # medical
 Bono Bono NPMSSP0 # avl
 Bonosio Bonosio NPMSSP0 # avl
 Bonpland Bonpland NPCSG00 #municipios de Argentina
+Bonpreu Bonpreu NPCNO00 #empresa española
 Bonrepòs Bonrepòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonrepós Bonrepós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Booking Booking NPCNO00
@@ -3410,6 +3433,7 @@ Briatico Briatico NPCNG00 # topònim-apertium-falta-gènere-nombre
 Briceño Briceño NPCSG00 # Venezuela
 Bricio Bricio NPMSSP0 # avl
 Bricker Bricker NPCNSP0 # medical
+Bricoman Bricoman NPCNO00 #empresa española
 Bridgeport Bridgeport NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bridgetown Bridgetown NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brieva Brieva NPCSG00 #municipios de España
@@ -3532,6 +3556,7 @@ Bullas Bullas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bulli Bulli NPMSO00
 Bulmaro Bulmaro NPMSSP0 #hipocorístico
 Bulnes Bulnes NPCSG00 # Argentina LO
+Bultaco Bultaco NPCNO00 #empresa española
 Bundesbank Bundesbank NPMSO00
 Bundesland Bundesland NPMSO00
 Bundesliga Bundesliga NPFSO00
@@ -3576,6 +3601,7 @@ Busbanzá Busbanzá NPCSG00 #municipios de Colombia
 Busch Busch NPCNSP0 # medical
 Buschke Buschke NPCNSP0 # medical
 Buschke-Löwenstein Buschke-Löwenstein NPCNSP0 # medical
+Buscoresi Buscoresi NPCNO00 #empresa española
 Bush Bush NPCNSP0 # wiki
 Busot Busot NPCNG00 # topònim-apertium-falta-gènere-nombre
 Busquets Busquets NPCNSP0 #apellido
@@ -3636,6 +3662,7 @@ CEDA CEDA NPFSO00
 CEOE CEOE NPFSO00
 CES CES NPCNO00
 CESAC CESAC NPMSO00
+CESCE CESCE NPCNO00 #empresa española
 CEST CEST NPCNO00 # wiki
 CFE CFE NPFSO00
 CFK CFK NPFSSP0 #Cristina Fernández de Kirchner
@@ -3906,6 +3933,7 @@ Campdevànol Campdevànol NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campeche Campeche NPCSG00
 Campelles Campelles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campello Campello NPCNG00 # topònim-apertium-falta-gènere-nombre
+Camper Camper NPCNO00 #empresa española
 Campezo Campezo NPCSG00 #municipios de España
 Campillo Campillo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Campillos Campillos NPCSG00 #municipios de España
@@ -4028,6 +4056,7 @@ Capivara Capivara NPCSG00 # Argentina LO
 Caplan Caplan NPCNSP0 # medical
 Capmany Capmany NPCSG00 #municipios de España
 Capolat Capolat NPCNG00 # topònim-apertium-falta-gènere-nombre
+Caprabo Caprabo NPCNO00 #empresa española
 Caprasio Caprasio NPMSSP0 # avl
 Capri Capri NPCSG00
 Capuleto Capuleto NPCNSP0
@@ -4357,6 +4386,7 @@ Cataleya Cataleya NPFSSP0 #nombre propio de mujer
 Catalin Catalin NPMSSP0 #nombre propio de hombre
 Catalina Catalina NPFSSP0 # avl
 Catalino Catalino NPMSSP0 # avl
+CatalunyaCaixa CatalunyaCaixa NPCNO00 #empresa española
 Cataluña Cataluña NPFSG00
 Cataluñas Cataluñas NPFPG00 # topònim-apertium-falta-gènere-nombre
 Catalá Catalá NPCNSP0 #apellido
@@ -4529,6 +4559,7 @@ Cerdido Cerdido NPCSG00 #municipios de España
 Cerdà Cerdà NPCSG00 #municipios de España
 Cerdá Cerdá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cerdán Cerdán NPCNSP0 #apellido
+Cerealto Cerealto NPCNO00 #empresa española
 Ceres Ceres NPCSG00 #municipios de Argentina
 Cereté Cereté NPCSG00 # Colombia
 Cerezo Cerezo NPCSG00 #municipios de España
@@ -4932,6 +4963,7 @@ Cincinnati Cincinnati NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cincovillas Cincovillas NPCSG00 #municipios de España
 Cinctorres Cinctorres NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cindy Cindy NPFSSP0
+Cinfa Cinfa NPCNO00 #empresa española
 Cinquefrondi Cinquefrondi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cinta Cinta NPFSSP0 # avl
 Cinthia Cinthia NPFSSP0
@@ -4991,6 +5023,7 @@ Claire Claire NPFSSP0 #nombre propio de mujer
 Clara Clara NPFSSP0 # avl
 Claramunt Claramunt NPCNSP0 #apellido
 Claravalls Claravalls NPCNG00 # topònim-apertium-falta-gènere-nombre
+Clarel Clarel NPCNO00 #empresa española
 Clari Clari NPFSSP0 #hipocorístico
 Clariana Clariana NPFSSP0 # avl
 Clariano Clariano NPMSSP0 # avl
@@ -5094,6 +5127,7 @@ Cocula Cocula NPCSG00 #municipios de México
 Codazzi Codazzi NPCNSP0
 Codegua Codegua NPCSG00 #municipios de Chile
 Coderch Coderch NPCNSP0
+Codere Codere NPCNO00 #empresa española
 Codigoro Codigoro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Codivilla Codivilla NPCNSP0 # medical
 Codman Codman NPCNSP0 # medical
@@ -5691,6 +5725,7 @@ DGAIA DGAIA NPFSO00
 DGT DGT NPFSO00
 DGTI DGTI NPMSO00
 DICRIM DICRIM NPMSO00
+DISA DISA NPCNO00 #empresa española
 DLE DLE NPMSO00
 DRAE DRAE NPMSO00
 DRV DRV NPCNO00
@@ -5742,6 +5777,7 @@ Damiata Damiata NPFSSP0 # avl
 Damien Damien NPMSSP0
 Damià Damià NPMSSP0 #nombre propio de hombre
 Damián Damián NPMSSP0 # avl
+Damm Damm NPCNO00 #empresa española
 Damocles Damocles NPMSSP0 # avl
 Dan Dan NPMSSP0 # avl
 Dana Dana NPFSSP0 # avl
@@ -5864,6 +5900,7 @@ Denys Denys NPMSSP0 #nombre propio de hombre
 Denysse Denysse NPCNSP0
 Deodata Deodata NPFSSP0 # avl
 Deogracias Deogracias NPFSSP0 # avl
+Deoleo Deoleo NPCNO00 #empresa española
 Depp Depp NPCNSP0
 Dercum Dercum NPCNSP0 # medical
 Derek Derek NPMSSP0
@@ -6012,6 +6049,7 @@ Donoso Donoso NPCNSP0 # wiki common surnames
 Donosti Donosti NPCNG00 # topònim-apertium-falta-gènere-nombre
 Donovan Donovan NPCNSP0
 Donvidas Donvidas NPCSG00 #municipios de España
+Doofinder Doofinder NPCNO00 #empresa española
 Dopazo Dopazo NPCNSP0 #apellido
 Dopico Dopico NPCNSP0 #apellido
 Doppler Doppler NPCNSP0 # medical
@@ -6078,6 +6116,7 @@ Dubuffet Dubuffet NPCNSP0
 Duchamp Duchamp NPCNSP0
 Duchenne Duchenne NPCNSP0 # medical
 Duckett Duckett NPCNSP0 # medical
+Ducson Ducson NPCNO00 #empresa española
 Duero Duero NPCNG00 # topònim-apertium-falta-gènere-nombre
 Duesaigües Duesaigües NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dueñas Dueñas NPCSG00 #municipios de España
@@ -6152,8 +6191,10 @@ ECTS ECTS NPMSO00
 EEI EEI NPFSSP0
 EEUU EEUU NPMPG00 # typographically incorrect
 EGM EGM NPMSO00
+EITB EITB NPCNO00 #empresa española
 ELCCO ELCCO NPCNO00
 ENAIRE ENAIRE NPCSO00
+ENUSA ENUSA NPCNO00 #empresa española
 ERC ERC NPCNO00
 ESA ESA NPFSO00
 ESADE ESADE NPFSO00
@@ -6333,6 +6374,7 @@ Elizaveta Elizaveta NPFSSP0 #nombre propio de mujer
 Elizondo Elizondo NPCSG00
 Elián Elián NPMSSP0 # avl
 Eljas Eljas NPCSG00 #municipios de España
+Elkar Elkar NPCNO00 #empresa española
 Elling Elling NPCNSP0
 Ellington Ellington NPCNSP0
 Ellsworth Ellsworth NPCSG00
@@ -6413,6 +6455,7 @@ Empúries Empúries NPCNG00 # topònim-apertium-falta-gènere-nombre
 Emérita Emérita NPFSSP0 # avl
 Emérito Emérito NPMSSP0 # avl
 Ena Ena NPFSSP0 # avl
+Enagás Enagás NPCNO00 #empresa española
 Enaitz Enaitz NPMSSP0 #nombre propio de hombre
 Enara Enara NPFSSP0 #nombre propio de mujer
 Encamp Encamp NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6421,6 +6464,7 @@ Encarna Encarna NPFSSP0 # avl
 Encarnació Encarnació NPFSSP0 #nombre propio de mujer
 Encarnación Encarnación NPFSSP0 # avl
 Encarni Encarni NPFSSP0 #hipocorístico
+Ence Ence NPCNO00 #empresa española
 Encinacorba Encinacorba NPCSG00 #municipios de España
 Encinasola Encinasola NPCSG00 #municipios de España
 Encinedo Encinedo NPCSG00 #municipios de España
@@ -6504,6 +6548,7 @@ Erazo Erazo NPCNSP0 #apellido
 Erberto Erberto NPMSSP0 # avl
 Ercilla Ercilla NPCSG00 #municipios de Chile
 Ercio Ercio NPMSSP0 # avl
+Ercros Ercros NPCNO00 #empresa española
 Erea Erea NPFSSP0 #nombre propio de mujer
 Erecteo Erecteo NPMSSP0 # avl
 Eren Eren NPMSSP0
@@ -6740,6 +6785,7 @@ Etxauri Etxauri NPCSG00 #municipios de España
 Etxebarri Etxebarri NPCSG00 #municipios de España
 Etxebarria Etxebarria NPCSG00 #municipios de España
 Etxeberria Etxeberria NPCNSP0 #apellido
+Etxeondo Etxeondo NPCNO00 #empresa española
 Etxepare Etxepare NPCNSP0
 Etzatlán Etzatlán NPCSG00 #municipios de México
 Etéocles Etéocles NPMSSP0
@@ -6767,6 +6813,7 @@ Eugenio Eugenio NPMSSP0 # avl
 Eulalia Eulalia NPFSSP0 # avl
 Eulalio Eulalio NPMSSP0 # avl
 Eulate Eulate NPCSG00 #municipios de España
+Eulen Eulen NPCNO00 #empresa española
 Euler Euler NPCNSP0 # wiki
 Eulogia Eulogia NPFSSP0 # avl
 Eulogio Eulogio NPMSSP0 # avl
@@ -6786,9 +6833,11 @@ Euroliga Euroliga NPFSO00
 Euroligas Euroliga NPFPO00
 Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Europarlamento Europarlamento NPMSO00
+Europastry Europastry NPCNO00 #empresa española
 Euroregión Euroregión NPCNG00 # topònim-apertium-falta-gènere-nombre
 Eurosia Eurosia NPFSSP0 # avl
 Eurosio Eurosio NPMSSP0 # avl
+Eurospar Eurospar NPCNO00 #empresa española
 Eurostar Eurostar NPMSO00
 Eurostat Eurostat NPCSO00
 Eurovisión Eurovisión NPFSO00
@@ -6797,6 +6846,8 @@ Eurípides Eurípides NPMSSP0 # avl
 Eusebia Eusebia NPFSSP0 # avl
 Eusebio Eusebio NPMSSP0 # avl
 Euskadi Euskadi NPCNG00 # topònim-apertium-falta-gènere-nombre
+Euskaltel Euskaltel NPCNO00 #empresa española
+Euskotren Euskotren NPCNO00 #empresa española
 Eustaquia Eustaquia NPFSSP0 # avl
 Eustaquio Eustaquio NPMSSP0 # avl
 Eustoquia Eustoquia NPFSSP0 # avl
@@ -6827,6 +6878,7 @@ Evodia Evodia NPFSSP0 # avl
 Evodio Evodio NPMSSP0 # avl
 Ewing Ewing NPCNSP0 # medical
 Exaltación Exaltación NPFSSP0 # avl
+Exolum Exolum NPCNO00 #empresa española
 Expectación Expectación NPFSSP0 # avl
 Expedito Expedito NPMSSP0 # avl
 Explorer Explorer NPCNO00
@@ -6899,6 +6951,7 @@ Fadwa Fadwa NPFSSP0 #nombre propio de mujer
 Fageca Fageca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fagnano Fagnano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fago Fago NPCSG00 #municipios de España
+Fagor Fagor NPCNO00 #empresa española
 Fahrenheit Fahrenheit NPCNSP0
 Faina Faina NPFSSP0 # avl
 Faisal Faisal NPMSSP0 #nombre propio de hombre
@@ -7060,6 +7113,7 @@ Feña Feña NPMSSP0 #hipocorístico
 Feñi Feñi NPFSSP0 #hipocorístico
 Fhar Fhar NPCNSP0 # medical
 Fiambalá Fiambalá NPCSG00 #municipios de Argentina
+Fibracat Fibracat NPCNO00 #empresa española
 Fick Fick NPCNSP0 # medical
 Fidalgo Fidalgo NPCNSP0 #apellido
 Fidel Fidel NPMSSP0 # avl
@@ -7174,6 +7228,7 @@ Florinda Florinda NPFSSP0 # avl
 Florit Florit NPCNSP0 #apellido
 Florián Florián NPMSSP0 # avl
 Floro Floro NPMSSP0 # avl
+Fluidra Fluidra NPCNO00 #empresa española
 Flérida Flérida NPFSSP0 # avl
 Flórez Flórez NPCNSP0
 Fofana Fofana NPCNSP0 #apellido
@@ -7260,6 +7315,7 @@ Forès Forès NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fosca Fosca NPCSG00 #municipios de Colombia
 Foster Foster NPCNSP0
 Foster-Kennedy Foster-Kennedy NPCNSP0 # medical
+Fotocasa Fotocasa NPCNO00 #empresa española
 Fotolog Fotolog NPMSO00
 Fouad Fouad NPMSSP0 #nombre propio de hombre
 Foucault Foucault NPCNSP0
@@ -7357,6 +7413,7 @@ Frisias Frisias NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fritz Fritz NPCNSP0 # wiki
 Friul Friul NPMSG00
 Froilán Froilán NPMSSP0 # avl
+Froiz Froiz NPCNO00 #empresa española
 Froment Froment NPCNSP0 # medical
 Frontera Frontera NPCSG00 #municipios de España
 Frontino Frontino NPMSSP0 # avl
@@ -7476,6 +7533,7 @@ GAFAM GAFAM NPFPO00
 GAL GAL NPMPO00
 GDPR GDPR NPMSO00
 GIMP GIMP NPMSO00
+GMV GMV NPCNO00 #empresa española
 GPL GPL NPCNO00 # wiki
 GPT-3 GPT-3 NPMSO00
 GRAPO GRAPO NPMPO00
@@ -7509,6 +7567,7 @@ Gachetá Gachetá NPCSG00 #municipios de Colombia
 Gad Gad NPMSSP0 # avl
 Gadafi Gadafi NPMSSP0
 Gadea Gadea NPFSSP0 #nombre propio de mujer
+Gadisa Gadisa NPCNO00 #empresa española
 Gael Gael NPMSSP0 #nombre propio de hombre
 Gaia Gaia NPFSG00
 Gaianes Gaianes NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7817,6 +7876,7 @@ Gesalatz Gesalatz NPCSG00 #municipios de España
 Gescode Gescode NPCNO00
 Gessa Gessa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gestalgar Gestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
+Gestamp Gestamp NPCNO00 #empresa española
 Gesualdo Gesualdo NPCNSP0
 Getafe Getafe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getaria Getaria NPCSG00 #municipios de España
@@ -7922,6 +7982,7 @@ Glenn Glenn NPCNSP0
 Gliceria Gliceria NPFSSP0 # avl
 Glicerio Glicerio NPMSSP0 # avl
 Glisson Glisson NPCNSP0 # medical
+Globomedia Globomedia NPCNO00 #empresa española
 Gloucester Gloucester NPCSG00
 Glovo Glovo NPCNSP0
 Gluck Gluck NPCNSP0 # wiki
@@ -8339,6 +8400,7 @@ H&S H&S NPCNO00
 HAL HAL NPMSSP0
 HBO HBO NPCNSP0
 HEC HEC NPFSO00 # HEC Paris
+HIPRA HIPRA NPCNO00 #empresa española
 Haab Haab NPCNSP0 # medical
 Habacuc Habacuc NPMSSP0 # avl
 Habib Habib NPMSSP0 #nombre propio de hombre
@@ -8651,6 +8713,7 @@ Hirschsprung Hirschsprung NPCNSP0 # medical
 Hirtz Hirtz NPCNSP0 # medical
 Hispania Hispania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Hispanoamérica Hispanoamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
+Hispasat Hispasat NPCNO00 #empresa española
 Hita Hita NPCSG00 #municipios de España
 Hitchcock Hitchcock NPCNSP0 # wiki
 Hitchens Hitchens NPCNSP0
@@ -8894,10 +8957,13 @@ Híjar Híjar NPCSG00 #municipios de España
 Hünner Hünner NPCNSP0 # medical
 Hürthle Hürthle NPCNSP0 # medical
 IAG IAG NPCNO00
+IASS IASS NPCNO00 #empresa española
 IBM IBM NPCNO00 # wiki
 ICANN ICANN NPFSO00
 ICETEX ICETEX NPMSO00
 ICO ICO NPMSO00
+IDIADA IDIADA NPCNO00 #empresa española
+IDOM IDOM NPCNO00 #empresa española
 IEEE IEEE NPCNO00
 IESE IESE NPMSO00
 IESS IESS NPMSO00
@@ -8932,9 +8998,13 @@ Ibarra Ibarra NPCNSP0
 Ibarrangelu Ibarrangelu NPCSG00 #municipios de España
 Ibarreta Ibarreta NPCSG00 #municipios de Argentina
 Ibdes Ibdes NPCSG00 #municipios de España
+Ibercaja Ibercaja NPCNO00 #empresa española
+Iberdoex Iberdoex NPCNO00 #empresa española
 Iberdrola Iberdrola NPFSO00
 Iberia Iberia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ibermática Ibermática NPCNO00 #empresa española
 Iberoamérica Iberoamérica NPCNG00 # topònim-apertium-falta-gènere-nombre
+Iberostar Iberostar NPCNO00 #empresa española
 Ibi Ibi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ibias Ibias NPCSG00 #municipios de España
 Ibieca Ibieca NPCSG00 #municipios de España
@@ -9061,6 +9131,7 @@ Indo Indo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indochina Indochina NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indonesia Indonesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Indostán Indostán NPCNG00 # topònim-apertium-falta-gènere-nombre
+Indra Indra NPCNO00 #empresa española
 Indé Indé NPCSG00 #municipios de México
 Indíbil Indíbil NPMSSP0 # avl
 Inem Inem NPMSO00 # old
@@ -9088,6 +9159,7 @@ Instinción Instinción NPCSG00 #municipios de España
 Insua Insua NPCNSP0 #apellido
 Intel Intel NPCNO00 # wiki
 Interbank Interbank NPCNO00
+Interflora Interflora NPCNO00 #empresa española
 Interpol Interpol NPFSO00
 Intza Intza NPFSSP0 #nombre propio de mujer
 Invisalign Invisalign NPCNO00
@@ -9142,6 +9214,7 @@ Iriondo Iriondo NPCNSP0 #apellido
 Iris Iris NPFSSP0 # avl
 Irissa Irissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irixoa Irixoa NPCSG00 #municipios de España
+Irizar Irizar NPCNO00 #empresa española
 Irlanda Irlanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irma Irma NPFSSP0 # avl
 Irmina Irmina NPFSSP0 # avl
@@ -10273,6 +10346,7 @@ Ledigos Ledigos NPCSG00 #municipios de España
 Ledo Ledo NPMSSP0 # avl
 Ledrada Ledrada NPCSG00 #municipios de España
 Leeds Leeds NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lefties Lefties NPCNO00 #empresa española
 Leganiel Leganiel NPCSG00 #municipios de España
 Leganés Leganés NPCNG00 # topònim-apertium-falta-gènere-nombre
 Legarda Legarda NPCSG00 #municipios de España
@@ -10412,6 +10486,7 @@ Libarda Libarda NPFSSP0 # avl
 Libardo Libardo NPMSSP0 # avl
 Liberada Liberada NPFSSP0 # avl
 Liberado Liberado NPMSSP0 # avl
+Liberbank Liberbank NPCNO00 #empresa española
 Liberia Liberia NPFSG00 # topònim-apertium
 Liberia Liberia NPFSSP0 # avl
 Liberio Liberio NPMSSP0 # avl
@@ -10569,6 +10644,7 @@ Llanera Llanera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llanes Llanes NPCSG00 #municipios de España
 Llanquihue Llanquihue NPCSG00 #municipios de Chile
 Llançà Llançà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Llaollao Llaollao NPCNO00 #empresa española
 Llara Llara NPFSSP0 #nombre propio de mujer
 Llardecans Llardecans NPCNG00 # topònim-apertium-falta-gènere-nombre
 Llaurí Llaurí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10725,6 +10801,7 @@ Lousame Lousame NPCSG00 #municipios de España
 Louvre Louvre NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lovecraft Lovecraft NPCNSP0 # wiki
 Lovelace Lovelace NPCNSP0
+Lowi Lowi NPCNO00 #empresa española
 Loyola Loyola NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lozada Lozada NPCSG00 #municipios de Argentina
 Lozoya Lozoya NPCSG00 #municipios de España
@@ -10766,6 +10843,7 @@ Lucinia Lucinia NPFSSP0 # avl
 Lucinio Lucinio NPMSSP0 # avl
 Lucino Lucino NPMSSP0 # avl
 Lucio Lucio NPMSSP0 # avl
+Luckia Luckia NPCNO00 #empresa española
 Lucrecia Lucrecia NPFSSP0 # avl
 Lucrecio Lucrecio NPMSSP0 # avl
 Lucy Lucy NPFSSP0
@@ -10896,6 +10974,7 @@ Lübeck Lübeck NPCNG00 # topònim-apertium-falta-gènere-nombre
 MIES MIES NPMSO00
 MIR MIR NPCNO00
 MITUR MITUR NPMSO00
+MRW MRW NPCNO00 #empresa española
 MWC MWC NPMSO00
 Ma'an Ma'an NPCSG00
 Maastricht Maastricht NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -11722,6 +11801,7 @@ Melisenda Melisenda NPFSSP0 # avl
 Melissa Melissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Melitona Melitona NPFSSP0 # avl
 Melitón Melitón NPMSSP0 # avl
+Meliá Meliá NPCNO00 #empresa española
 Melián Melián NPCNSP0 #apellido
 Melkersson-Rosenthal Melkersson-Rosenthal NPCNSP0
 Melly Melly NPFSSP0 #hipocorístico
@@ -11844,6 +11924,7 @@ Metlatónoc Metlatónoc NPCSG00 #municipios de México
 Metodia Metodia NPFSSP0 # avl
 Metodio Metodio NPMSSP0 # avl
 Metropolitana Metropolitana NPCSG00 #municipios de Chile
+Metrovacesa Metrovacesa NPCNO00 #empresa española
 Metz Metz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Metztitlán Metztitlán NPCSG00 #municipios de México
 Metán Metán NPCSG00 #municipios de Argentina
@@ -12521,6 +12602,7 @@ Muñoveros Muñoveros NPCSG00 #municipios de España
 Muñoz Muñoz NPCNSP0 # wiki common surnames
 Myanmar Myanmar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mycobacterium Mycobacterium NPCNSP0 # medical
+Myinvestor Myinvestor NPCNO00 #empresa española
 Mykhailo Mykhailo NPMSSP0 #nombre propio de hombre
 Mykhaylo Mykhaylo NPMSSP0 #nombre propio de hombre
 Mykola Mykola NPMSSP0 #nombre propio de hombre
@@ -12530,6 +12612,7 @@ Máfil Máfil NPCSG00 #municipios de Chile
 Málaga Málaga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Márkov Márkov NPCNSP0
 Márquez Márquez NPCNSP0
+MásOrange MásOrange NPCNO00 #empresa española
 Máxima Máxima NPFSSP0 # avl
 Máximo Máximo NPMSSP0 # avl
 Máñez Máñez NPCNSP0 #apellido
@@ -12681,6 +12764,8 @@ Nathan Nathan NPMSSP0
 Nati Nati NPFSSP0 # avl
 Natividad Natividad NPFSSP0 # avl
 Natu Natu NPFSSP0 #hipocorístico
+Naturgy Naturgy NPCNO00 #empresa española
+Naturhouse Naturhouse NPCNO00 #empresa española
 Natán Natán NPMSSP0 # avl
 Natívitas Natívitas NPCSG00 #municipios de México
 Naucalpan Naucalpan NPMSG00
@@ -13033,6 +13118,7 @@ Nurieta Nurieta NPFSSP0 #hipocorístico
 Nurita Nurita NPFSSP0 #hipocorístico
 Nursultán Nursultán NPCSG00
 Nussbaum Nussbaum NPCNSP0
+Nutrexpa Nutrexpa NPCNO00 #empresa española
 Nuuk Nuuk NPCNG00
 Nuévalos Nuévalos NPCSG00 #municipios de España
 Nuña Nuña NPFSSP0 # avl
@@ -13068,12 +13154,14 @@ OCASA OCASA NPCNO00
 OCDE OCDE NPFSO00
 OCU OCU NPFSO00
 OECO OECO NPFSO00
+OHL OHL NPCNO00 #empresa española
 OIT OIT NPFSO00
 OLAF OLAF NPFSO00
 OMC OMC NPFSO00
 OMS OMS NPFSO00 # wiki
 ONU ONU NPFSO00
 OSCE OSCE NPFSO00
+OSSA OSSA NPCNO00 #empresa española
 OTAN OTAN NPFSO00 # wiki
 Oaxaca Oaxaca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oaxaca Oaxaca NPCSG00
@@ -13138,6 +13226,7 @@ Oersted Oersted NPCNSP0
 Oeste Oeste NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ofelia Ofelia NPFSSP0 # avl
 Offenbach Offenbach NPCNSP0
+Ofiprix Ofiprix NPCNO00 #empresa española
 Ogando Ogando NPCNSP0 #apellido
 Ogassa Ogassa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oger Oger NPMSSP0 # avl
@@ -13285,6 +13374,7 @@ Onésima Onésima NPFSSP0 # avl
 Onésimo Onésimo NPMSSP0 # avl
 Onís Onís NPCSG00 #municipios de España
 Opel Opel NPCNO00
+Openbravo Openbravo NPCNO00 #empresa española
 Opera Opera NPMSO00
 Opichén Opichén NPCSG00 #municipios de México
 Opodepe Opodepe NPCSG00 #municipios de México
@@ -13303,6 +13393,7 @@ Orange Orange NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orba Orba NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orbaitzeta Orbaitzeta NPCSG00 #municipios de España
 Orbara Orbara NPCSG00 #municipios de España
+Orbea Orbea NPCNO00 #empresa española
 Orbita Orbita NPCSG00 #municipios de España
 Orbán Orbán NPCNSP0
 Orcajo Orcajo NPCSG00 #municipios de España
@@ -13728,6 +13819,7 @@ Parkinson Parkinson NPCNSP0 # medical
 Parla Parla NPCNG00 # topònim-apertium-falta-gènere-nombre
 Parlament Parlament NPCNG00 # topònim-apertium-falta-gènere-nombre
 Parlavà Parlavà NPCNG00 # topònim-apertium-falta-gènere-nombre
+Parlem Parlem NPCNO00 #empresa española
 Parma Parma NPFSG00
 Parmenia Parmenia NPFSSP0 # avl
 Parmenio Parmenio NPMSSP0 # avl
@@ -13915,6 +14007,7 @@ Pepeluis Pepeluis NPMSSP0 #hipocorístico
 Pepemongo Pepemongo NPMSSP0 #hipocorístico
 Pepenacho Pepenacho NPMSSP0 #hipocorístico
 Pepenando Pepenando NPMSSP0 #hipocorístico
+Pepephone Pepephone NPCNO00 #empresa española
 Pepevi Pepevi NPMSSP0 #hipocorístico
 Pepi Pepi NPFSSP0 #hipocorístico
 Pepín Pepín NPMSSP0 #hipocorístico
@@ -14014,6 +14107,7 @@ Petronia Petronia NPFSSP0 # avl
 Petronila Petronila NPFSSP0 # avl
 Petronilo Petronilo NPMSSP0 # avl
 Petronio Petronio NPMSSP0 # avl
+Petronor Petronor NPCNO00 #empresa española
 Petronà Petronà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Petrova Petrova NPCNSP0 #apellido
 Petru Petru NPMSSP0 #nombre propio de hombre
@@ -14313,6 +14407,7 @@ Popper Popper NPCNSP0
 Porcar Porcar NPCNSP0 #apellido
 Porcaria Porcaria NPFSSP0 # avl
 Porcario Porcario NPMSSP0 # avl
+Porcelanosa Porcelanosa NPCNO00 #empresa española
 Porcia Porcia NPFSSP0 # avl
 Porcio Porcio NPMSSP0 # avl
 Porco Porco NPCSG00 # Bolivia
@@ -14433,6 +14528,7 @@ Procmes Procmes NPMSSP0 # avl
 Procopio Procopio NPMSSP0 # avl
 Prokófiev Prokófiev NPCNSP0
 Prometeo Prometeo NPMSSP0 # avl
+Prosegur Prosegur NPCNO00 #empresa española
 Proserpina Proserpina NPFSSP0 # avl
 Protasia Protasia NPFSSP0 # avl
 Protasio Protasio NPMSSP0 # avl
@@ -14500,6 +14596,7 @@ Pujol Pujol NPCNSP0 #apellido
 Pujólo Pujólo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pulgar Pulgar NPCSG00 #municipios de España
 Pulianas Pulianas NPCSG00 #municipios de España
+Pullmantur Pullmantur NPCNO00 #empresa española
 Pulpí Pulpí NPCSG00 #municipios de España
 Pulí Pulí NPCSG00 #municipios de Colombia
 Pumanque Pumanque NPCSG00 #municipios de Chile
@@ -14708,6 +14805,7 @@ Quílez Quílez NPCNSP0 #apellido
 Quípama Quípama NPCSG00 #municipios de Colombia
 RAC1 RAC1 NPCNO00
 RAE RAE NPFSO00
+RBA RBA NPCNO00 #empresa española
 RDA RDA NPFSG00
 RENFE RENFE NPCNO00
 RFA RFA NPFSG00
@@ -14718,6 +14816,7 @@ RIF RIF NPMNO00
 RTVE RTVE NPFSO00
 RTVV RTVV NPFSO00
 RUT RUT NPMNO00
+RWE RWE NPCNO00 #empresa española
 Ra Ra NPMSSP0 # avl
 Rabab Rabab NPFSSP0 #nombre propio de mujer
 Rabah Rabah NPMSSP0 #nombre propio de hombre
@@ -15031,6 +15130,7 @@ Ridaura Ridaura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ridley Ridley NPCNSP0
 Riedel Riedel NPCNSP0 # medical
 Rieger Rieger NPCNSP0 # medical
+Rieju Rieju NPCNO00 #empresa española
 Riello Riello NPCSG00 #municipios de España
 Riells Riells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rielves Rielves NPCSG00 #municipios de España
@@ -15283,6 +15383,7 @@ Rouco Rouco NPCNSP0 #apellido
 Roura Roura NPCNSP0 #apellido
 Rousseau Rousseau NPCNSP0 # wiki
 Roussy-Levy Roussy-Levy NPCNSP0 # medical
+Rovi Rovi NPCNO00 #empresa española
 Rovira Rovira NPCNSP0
 Rovito Rovito NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rowling Rowling NPCNSP0
@@ -15399,10 +15500,12 @@ SENA SENA NPMSO00 # topònim-apertium-falta-gènere-nombre
 SEP SEP NPCNO00
 SEPE SEPE NPMSO00
 SER SER NPCSO00
+SEUR SEUR NPCNO00 #empresa española
 SIGGRAPH SIGGRAPH NPCNO00
 SME SME NPCNO00
 SNP SNP NPMSO00
 SOFORT SOFORT NPCNO00
+SOM SOM NPCNO00 #empresa española
 SPD SPD NPMSO00
 SPEI SPEI NPMSO00
 SPI SPI NPMNO00 #síndrome de piernas inquietas
@@ -15695,6 +15798,7 @@ Sanfilippo Sanfilippo NPCNSP0 # medical
 Sangarcía Sangarcía NPCSG00 #municipios de España
 Sangarrén Sangarrén NPCSG00 #municipios de España
 Sangineto Sangineto NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sanglas Sanglas NPCNO00 #empresa española
 Sangolquí Sangolquí NPCSG00 # Ecuador
 Sangüesa Sangüesa NPCSG00 #municipios de España
 Sanhueza Sanhueza NPCNSP0 # wiki common surnames
@@ -15712,7 +15816,9 @@ Sansón Sansón NPMSSP0 # avl
 Santacara Santacara NPCSG00 #municipios de España
 Santacruz Santacruz NPCSG00 #municipios de Colombia
 Santaella Santaella NPCSG00 #municipios de España
+Santagloria Santagloria NPCNO00 #empresa española
 Santaliestra Santaliestra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Santalucía Santalucía NPCNO00 #empresa española
 Santamaría Santamaría NPCNSP0
 Santana Santana NPCNSP0
 Santander Santander NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -15877,6 +15983,7 @@ Scott Scott NPCNSP0 # wiki
 Scrabble Scrabble NPCNO00
 Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
+Scytl Scytl NPCNO00 #empresa española
 Seagate Seagate NPCNO00
 Seattle Seattle NPCNG00 # topònim-apertium-falta-gènere-nombre
 Seba Seba NPMSSP0 #hipocorístico
@@ -15946,6 +16053,7 @@ Sendo Sendo NPMSSP0 #hipocorístico
 Sendoa Sendoa NPMSSP0 #nombre propio de hombre
 Sendra Sendra NPCNSP0 #apellido
 Senegal Senegal NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sener Sener NPCNO00 #empresa española
 Sengstaken-Blakemore Sengstaken-Blakemore NPCNSP0 # medical
 Senguio Senguio NPCSG00 #municipios de México
 Senija Senija NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16064,6 +16172,7 @@ Sheili Sheili NPFSSP0 #hipocorístico
 Sheinbaum Sheinbaum NPCNSP0
 Shelley Shelley NPCNSP0
 Sheraton Sheraton NPCNO00
+Sherco Sherco NPCNO00 #empresa española
 Sherezade Sherezade NPFSSP0 #nombre propio de mujer
 Sherlock Sherlock NPMSSP0
 Sherwood Sherwood NPCNSP0
@@ -16165,6 +16274,7 @@ Sinlabajos Sinlabajos NPCSG00 #municipios de España
 Sinsacate Sinsacate NPCSG00 #municipios de Argentina
 Sintes Sintes NPCNSP0 #apellido
 Sintra Sintra NPCNG00 # topònim-apertium-falta-gènere-nombre
+Siokia Siokia NPCNO00 #empresa española
 Sion Sion NPCSG00
 Sipple Sipple NPCNSP0 # medical
 Sipí Sipí NPCSG00 #municipios de Colombia
@@ -16374,10 +16484,12 @@ Spoleto Spoleto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Spontini Spontini NPCNSP0
 Sport Sport NPMSO00
 Sporting Sporting NPMSO00
+Sportium Sportium NPCNO00 #empresa española
 Springer Springer NPCNSP0
 Springfield Springfield NPCNSP0
 Springfield Springfield NPCSG00
 Springsteen Springsteen NPCNSP0
+Sprinter Sprinter NPCNO00 #empresa española
 Sputnik Sputnik NPCNO00
 Squillace Squillace NPCNG00 # topònim-apertium-falta-gènere-nombre
 Staiti Staiti NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16395,6 +16507,7 @@ Stargardt Stargardt NPCNSP0 # medical
 Starling Starling NPCNSP0 # medical
 Stasi Stasi NPFSO00
 Stavanger Stavanger NPCNG00 # topònim-apertium-falta-gènere-nombre
+Stayforlong Stayforlong NPCNO00 #empresa española
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
 Stefan Stefan NPMSSP0 #nombre propio de hombre
 Stefanaconi Stefanaconi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16860,6 +16973,7 @@ Tejas Tejas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tejeda Tejeda NPCSG00 #municipios de España
 Tejerina Tejerina NPCNSP0 #apellido
 Tejupilco Tejupilco NPCSG00 #municipios de México
+Teka Teka NPCNO00 #empresa española
 Tekantó Tekantó NPCSG00 #municipios de México
 Tekax Tekax NPCSG00 #municipios de México
 Tekit Tekit NPCSG00 #municipios de México
@@ -16872,6 +16986,7 @@ Telemann Telemann NPCNSP0
 Telesfora Telesfora NPFSSP0 # avl
 Telesforo Telesforo NPMSSP0 # avl
 Telesur Telesur NPCNO00
+Televés Televés NPCNO00 #empresa española
 Tella-Sin Tella-Sin NPCSG00 #municipios de España
 Tellería Tellería NPCNSP0 #apellido
 Tello Tello NPCSG00 #municipios de Colombia
@@ -16903,6 +17018,7 @@ Tenampulco Tenampulco NPCSG00 #municipios de México
 Tenancingo Tenancingo NPCSG00 #municipios de México
 Tencha Tencha NPFSSP0 #hipocorístico
 Tencho Tencho NPMSSP0 #hipocorístico
+Tendam Tendam NPCNO00 #empresa española
 Tendilla Tendilla NPCSG00 #municipios de España
 Tenebrón Tenebrón NPCSG00 #municipios de España
 Tenejapa Tenejapa NPCSG00 #municipios de México
@@ -17393,6 +17509,7 @@ Torrico Torrico NPCSG00 #municipios de España
 Torrijas Torrijas NPCSG00 #municipios de España
 Torrijos Torrijos NPCNG00 # topònim-apertium-falta-gènere-nombre
 Torroella Torroella NPCNG00 # topònim-apertium-falta-gènere-nombre
+Torrot Torrot NPCNO00 #empresa española
 Torrox Torrox NPCSG00 #municipios de España
 Torrubia Torrubia NPCSG00 #municipios de España
 Tortajada Tortajada NPCNSP0 #apellido
@@ -17562,6 +17679,7 @@ Tudanca Tudanca NPCSG00 #municipios de España
 Tudela Tudela NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tudelilla Tudelilla NPCSG00 #municipios de España
 Tudor Tudor NPCNSP0 #apellido
+Tuenti Tuenti NPCNO00 #empresa española
 Tui Tui NPCSG00 #municipios de España
 Tuineje Tuineje NPCSG00 #municipios de España
 Tuixén Tuixén NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17779,6 +17897,7 @@ Unguía Unguía NPCSG00 #municipios de Colombia
 Unha Unha NPCNG00 # topònim-apertium-falta-gènere-nombre
 Unicef Unicef NPCSO00
 Unicode Unicode NPCNO00
+Universia Universia NPCNO00 #empresa española
 Unix Unix NPCNO00 # wiki
 Unquillo Unquillo NPCSG00 #municipios de Argentina
 Unverricht-Lundborg Unverricht-Lundborg NPCNSP0 # medical
@@ -17793,6 +17912,7 @@ Urano Urano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Urbana Urbana NPFSSP0 # avl
 Urbaneja Urbaneja NPCSG00 # Venezuela
 Urbano Urbano NPMSSP0 # avl
+Urbaser Urbaser NPCNO00 #empresa española
 Urbina Urbina NPCNSP0 #apellido
 Urcuquí Urcuquí NPCSG00 # Ecuador
 Urda Urda NPCSG00 #municipios de España
@@ -18253,6 +18373,7 @@ Viena Viena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vientane Vientane NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vierlas Vierlas NPCSG00 #municipios de España
 Viesca Viesca NPCSG00 #municipios de México
+Viesgo Viesgo NPCNO00 #empresa española
 Vietnam Vietnam NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vigara Vigara NPCNSP0 #apellido
 Vigil Vigil NPCNSP0 #apellido
@@ -18571,12 +18692,14 @@ Viridiano Viridiano NPMSSP0 # avl
 Virita Virita NPFSSP0 #hipocorístico
 Virtu Virtu NPFSSP0 #hipocorístico
 Virú Virú NPCSG00 # Perú
+Viscofan Viscofan NPCNO00 #empresa española
 Visiedo Visiedo NPCSG00 #municipios de España
 Visitación Visitación NPFSSP0 # avl
 Vistabella Vistabella NPCSG00 #municipios de España
 Vita Vita NPFSSP0 # avl
 Vitacura Vitacura NPCSG00 #municipios de Chile
 Vital Vital NPMSSP0 # avl
+Vitaldent Vitaldent NPCNO00 #empresa española
 Vitalia Vitalia NPFSSP0 # avl
 Vitalii Vitalii NPMSSP0 #nombre propio de hombre
 Vitalina Vitalina NPFSSP0 # avl
@@ -18586,6 +18709,7 @@ Vitaliy Vitaliy NPMSSP0 #nombre propio de hombre
 Vitelia Vitelia NPFSSP0 # avl
 Vitelio Vitelio NPMSSP0 # avl
 Viterbo Viterbo NPCSG00 #municipios de Colombia
+Vithas Vithas NPCNO00 #empresa española
 Viti Viti NPMSSP0 #hipocorístico
 Vitigudino Vitigudino NPCSG00 #municipios de España
 Vititor Vititor NPMSSP0 #hipocorístico
@@ -18644,6 +18768,7 @@ Voto Voto NPCSG00 #municipios de España
 Vox Vox NPCNO00
 Voyager Voyager NPCNSP0 # wiki
 Vozmediano Vozmediano NPCSG00 #municipios de España
+Vueling Vueling NPCNO00 #empresa española
 Vulcano Vulcano NPMSSP0 # avl
 Vulpellac Vulpellac NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vygotsky Vygotsky NPCNSP0
@@ -18682,6 +18807,7 @@ Walt Walt NPCNSP0 # wiki
 Walter Walter NPCNSP0 # wiki
 Walthard Walthard NPCNSP0 # medical
 Wamba Wamba NPMSSP0 # avl
+Wanabet Wanabet NPCNO00 #empresa española
 Wanda Wanda NPCSSP0 # avl
 Wang Wang NPCNSP0 #apellido
 Wardo Wardo NPMSSP0 #hipocorístico
@@ -19003,6 +19129,7 @@ Yocasta Yocasta NPFSSP0 # avl
 Yoel Yoel NPMSSP0 #nombre propio de hombre
 Yogana Yogana NPCSG00 #municipios de México
 Yohana Yohana NPFSSP0 #nombre propio de mujer
+Yoigo Yoigo NPCNO00 #empresa española
 Yokohama Yokohama NPCSG00
 Yola Yola NPFSSP0 # avl
 Yolanda Yolanda NPFSSP0 # avl
@@ -19186,6 +19313,7 @@ Zelandia Zelandia NPFSG00
 Zelaya Zelaya NPCNSP0
 Zelenski Zelenski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
+Zeltia Zeltia NPCNO00 #empresa española
 Zemmour Zemmour NPCNSP0
 Zempoala Zempoala NPCSG00 #municipios de México
 Zenaida Zenaida NPFSSP0 # avl
@@ -19304,6 +19432,7 @@ al-Ándalus al-Ándalus NPMSG00
 d'Alembert d'Alembert NPCNSP0
 easyJet easyJet NPCNO00
 iCat iCat NPCNO00
+iSabadell iSabadell NPCNO00 #empresa española
 iTunes iTunes NPCNO00
 l'Alacantí l'Alacantí NPCSG00
 l'Albagés l'Albagés NPCSG00
