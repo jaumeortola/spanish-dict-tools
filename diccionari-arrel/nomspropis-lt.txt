@@ -1648,7 +1648,6 @@ Aponte Aponte NPCNSP0 #apellido
 Aporo Aporo NPCSG00 #municipios de México
 Apozol Apozol NPCSG00 #municipios de México
 Apple Apple NPCNO00 # wiki
-Applus+ Applus+ NPCNO00 #empresa española
 Aprigliano Aprigliano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Apulco Apulco NPCSG00 #municipios de México
 Apuleo Apuleo NPMSSP0 # avl
