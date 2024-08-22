@@ -53138,6 +53138,7 @@ promulgación=categories: F;fonts: LT;
 promulgador promulgadora=categories: MF;fonts: LT;
 pronación=categories: F;fonts: LT;
 pronaos=categories: MI;fonts: LT;
+pronatalismo=categories: M;fonts: derivat;
 pronombre=categories: M;fonts: LT;
 pronominalización=categories: F;fonts: LT;
 pronosticación=categories: F;fonts: LT;

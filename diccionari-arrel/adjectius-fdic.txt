@@ -27210,6 +27210,7 @@ promotor promotora=categories: A;fonts: LT;
 promovedor promovedora=categories: A;fonts: LT;
 promulgador promulgadora=categories: A;fonts: LT;
 pronador pronadora=categories: A;fonts: medical;
+pronatalista=categories: A;fonts: derivat;
 prono prona=categories: A;fonts: LT;
 pronominal=categories: A;fonts: LT;
 pronosticable=categories: A;fonts: dr;

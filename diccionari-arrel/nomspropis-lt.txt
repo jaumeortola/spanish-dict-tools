@@ -2689,6 +2689,7 @@ Beda Beda NPCSSP0 # avl
 Bedia Bedia NPCSG00 #municipios de España
 Bedoya Bedoya NPCNSP0
 Bedón Bedón NPCNG00 # topònim-apertium-falta-gènere-nombre
+Beefeater Beefeater NPCNO00
 Beethoven Beethoven NPCNSP0 # wiki
 Befesa Befesa NPCNO00 #empresa española
 Beget Beget NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7227,6 +7228,7 @@ Florinda Florinda NPFSSP0 # avl
 Florit Florit NPCNSP0 #apellido
 Florián Florián NPMSSP0 # avl
 Floro Floro NPMSSP0 # avl
+Floyd Floyd NPCNSP0
 Fluidra Fluidra NPCNO00 #empresa española
 Flérida Flérida NPFSSP0 # avl
 Flórez Flórez NPCNSP0
