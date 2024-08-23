@@ -2619,6 +2619,7 @@ Baudelaire Baudelaire NPCNSP0
 Baudelocque Baudelocque NPCNSP0 # medical
 Baudilio Baudilio NPMSSP0 # avl
 Bauhaus Bauhaus NPCSO00
+Bauman Bauman NPCNSP0
 Baumgartner Baumgartner NPCNSP0
 Bausen Bausen NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bausén Bausén NPCNG00 # topònim-apertium-falta-gènere-nombre

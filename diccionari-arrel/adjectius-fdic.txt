@@ -12329,6 +12329,7 @@ exigible=categories: A;fonts: LT;
 exiguo exigua [sup. exigüísimo]=categories: A;fonts: LT;
 eximente=categories: A;fonts: LT;
 eximio eximia=categories: A;fonts: LT;
+exintegrante=categories: A;fonts: derivat;
 exinternacional=categories: A;fonts: LT;
 existencial=categories: A;fonts: LT;
 existencialista=categories: A;fonts: LT;
