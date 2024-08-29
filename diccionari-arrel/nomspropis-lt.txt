@@ -6184,6 +6184,7 @@ Dídac Dídac NPMSSP0 #nombre propio de hombre
 Dílar Dílar NPCSG00 #municipios de España
 Dúdar Dúdar NPCSG00 #municipios de España
 Dúrcal Dúrcal NPCSG00 #municipios de España
+Dúrov Dúrov NPCNSP0
 Dürer Dürer NPCNSP0
 Düsseldorf Düsseldorf NPCNG00 # topònim-apertium-falta-gènere-nombre
 EAU EAU NPMPG00
