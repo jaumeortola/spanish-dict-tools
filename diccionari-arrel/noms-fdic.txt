@@ -60809,6 +60809,7 @@ start-up [pl. start-ups]=categories: F;fonts: english;
 startup [pl. startups]=categories: F;fonts: english;
 status=categories: MI;fonts: LT;
 steampunk=categories: MS;fonts: wiki;
+stent [pl. stents]=categories: M;fonts: termcat;
 stichtita=categories: F;fonts: LT;
 sticker [pl. stickers]=categories: M;fonts: english;
 stigmómetro=categories: M;fonts: LT;
