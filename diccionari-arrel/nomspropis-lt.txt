@@ -1609,6 +1609,7 @@ Anás Anás NPMSSP0 # avl
 Aníbal Aníbal NPMSSP0 # avl
 Aoiz Aoiz NPCSG00 #municipios de España
 Aosta Aosta NPCNG00 # topònim-apertium-falta-gènere-nombre
+Aotearoa Aotearoa NPFSG00
 Aouatif Aouatif NPFSSP0 #nombre propio de mujer
 Aoyama Aoyama NPCNG00 # topònim-apertium-falta-gènere-nombre
 Apa Apa NPCSG00 # Paraguay
@@ -3464,6 +3465,7 @@ Brodmann Brodmann NPCNSP0 # medical
 Brognaturo Brognaturo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bronchales Bronchales NPCSG00 #municipios de España
 Bronte Bronte NPCNG00 # topònim-apertium-falta-gènere-nombre
+Brontë Brontë NPCNSP0
 Bronx Bronx NPMSG00
 Brooke Brooke NPCNSP0 # medical
 Brooklyn Brooklyn NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5449,6 +5451,7 @@ Cotorra Cotorra NPCSG00 #municipios de Colombia
 Cotronei Cotronei NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cots Cots NPCNSP0 #apellido
 Cottbus Cottbus NPCNG00 # topònim-apertium-falta-gènere-nombre
+Coubertin Coubertin NPCNSP0
 Coulibaly Coulibaly NPCNSP0 #apellido
 Courbet Courbet NPCNSP0
 Cournand Cournand NPCNSP0 # medical
