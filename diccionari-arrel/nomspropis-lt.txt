@@ -2692,6 +2692,7 @@ Bedia Bedia NPCSG00 #municipios de España
 Bedoya Bedoya NPCNSP0
 Bedón Bedón NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beefeater Beefeater NPCNO00
+Beerseba Beerseba NPFSG00
 Beethoven Beethoven NPCNSP0 # wiki
 Befesa Befesa NPCNO00 #empresa española
 Beget Beget NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13139,6 +13140,7 @@ Nápoles Nápoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Náquera Náquera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Náser Náser NPCNSP0
 Nátaga Nátaga NPCSG00 #municipios de Colombia
+Néguev Néguev NPMSG00
 Nélida Nélida NPFSSP0 # avl
 Néstor Néstor NPMSSP0 # avl
 Níger Níger NPCNG00 # topònim-apertium-falta-gènere-nombre
