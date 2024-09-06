@@ -1228,6 +1228,7 @@ Alvarín Alvarín NPMSSP0 #hipocorístico
 Alvear Alvear NPCSG00 #municipios de Argentina
 Alves Alves NPCNSP0 #apellido
 Alvi Alvi NPMSSP0 #hipocorístico
+Alvia Alvia NPCNO00
 Alvise Alvise NPMSSP0
 Alvo Alvo NPMSSP0 #hipocorístico
 Aly Aly NPMSSP0 #nombre propio de hombre
@@ -4804,6 +4805,7 @@ Chilecito Chilecito NPCSG00 # Argentina
 Chilexpress Chilexpress NPCNSP0
 Chilibroste Chilibroste NPCSG00 #municipios de Argentina
 Chillanes Chillanes NPCSG00 # Ecuador
+Chillida Chillida NPCNSP0
 Chilluévar Chilluévar NPCSG00 #municipios de España
 Chillán Chillán NPCSG00 # Chile
 Chillón Chillón NPCSG00 #municipios de España
@@ -7710,6 +7712,7 @@ Gard Gard NPCNG00 # topònim-apertium-falta-gènere-nombre
 Garde Garde NPCSG00 #municipios de España
 Gardel Gardel NPCNSP0 # wiki
 Gardenia Gardenia NPFSSP0 # avl
+Gardiner Gardiner NPCNSP0
 Gardner Gardner NPCNSP0
 Gares Gares NPCSG00 #municipios de España
 Gargallo Gargallo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8354,6 +8357,7 @@ Gutenberg Gutenberg NPCNSP0
 Gutierre-Muñoz Gutierre-Muñoz NPCSG00 #municipios de España
 Gutiérrez Gutiérrez NPCNSP0 # wiki common surnames
 Guto Guto NPMSSP0 #hipocorístico
+Guwahati Guwahati NPCSG00
 Guyana Guyana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guyena Guyena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guyón Guyón NPCNSP0 # medical

@@ -18706,6 +18706,7 @@ interoceptivo interoceptiva=categories: A;fonts: LT;
 interoceánico interoceánica=categories: A;fonts: LT;
 interoclusal=categories: A;fonts: LT;
 interocular=categories: A;fonts: LT;
+interoperable=categories: A;fonts: termcat;
 interorbitario interorbitaria=categories: A;fonts: medical;
 interorgánico interorgánica=categories: A;fonts: LT;
 interparadigmático interparadigmática=categories: A;fonts: LT;

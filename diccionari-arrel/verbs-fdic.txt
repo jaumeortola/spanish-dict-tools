@@ -3454,6 +3454,7 @@ desquilatar=categories: V;model:amar;fonts: LT;
 desquitar=categories: V;model:amar;fonts: LT;
 desrabar=categories: V;model:amar;fonts: drae;
 desrabotar=categories: V;model:amar;fonts: drae;
+desradicalizar=categories: V;model:abalanzar;fonts: LT;
 desraizar=categories: V;model:arcaizar;fonts: drae;
 desramar=categories: V;model:amar;fonts: LT;
 desraspar=categories: V;model:amar;fonts: drae;
