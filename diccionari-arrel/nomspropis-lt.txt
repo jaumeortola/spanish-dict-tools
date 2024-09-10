@@ -958,6 +958,7 @@ Aleksandar Aleksandar NPMSSP0 #nombre propio de hombre
 Aleksandr Aleksandr NPCNSP0 # wiki
 Aleksandra Aleksandra NPFSSP0 #nombre propio de mujer
 Alekséi Alekséi NPMSSP0
+Alekséyevich Alekséyevich NPMSSP0
 Alella Alella NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alemania Alemania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alemany Alemany NPCNSP0 #apellido
@@ -14671,6 +14672,7 @@ Páramo Páramo NPCSG00 #municipios de Colombia
 Pármenas Pármenas NPMSSP0 # avl
 Párraga Párraga NPCNSP0 #apellido
 Pátzcuaro Pátzcuaro NPCSG00 #municipios de México
+Pável Pável NPMSSP0
 Pávlov Pávlov NPCNSP0
 Pénjamo Pénjamo NPCSG00 # México
 Pérez Pérez NPCNSP0 # wiki common surnames
@@ -15421,6 +15423,7 @@ Rubite Rubite NPCSG00 #municipios de España
 Rubiá Rubiá NPCSG00 #municipios de España
 Rubió Rubió NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rubo Rubo NPMSSP0 #hipocorístico
+Rubtsov Rubtsov NPCNSP0
 Rubén Rubén NPMSSP0 # avl
 Rubí Rubí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rucandio Rucandio NPCSG00 #municipios de España
