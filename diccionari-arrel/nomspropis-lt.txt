@@ -12270,6 +12270,7 @@ Monika Monika NPFSSP0 #nombre propio de mujer
 Moniquirá Moniquirá NPCSG00 #municipios de Colombia
 Monleras Monleras NPCSG00 #municipios de España
 Monleón Monleón NPCSG00 #municipios de España
+Mononoke Mononoke NPCNSP0
 Monreal Monreal NPCSG00 #municipios de España
 Monro-Kellie Monro-Kellie NPCNSP0 # medical
 Monroe Monroe NPCNSP0

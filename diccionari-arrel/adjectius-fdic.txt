@@ -14952,6 +14952,7 @@ grandevo grandeva=categories: A;fonts: LT;
 grandillón grandillona=categories: A;fonts: LT;
 grandilocuente=categories: A;fonts: LT;
 grandioso grandiosa=categories: A;fonts: LT;
+grandote grandota=categories: A;fonts: aumentativo;
 grandullón grandullona=categories: A;fonts: LT;
 grandílocuo grandílocua=categories: A;fonts: dr;
 grandísono grandísona=categories: A;fonts: LT;
