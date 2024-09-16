@@ -10160,6 +10160,7 @@ Laino Laino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lairisa Lairisa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lakers Lakers NPMPO00
 Lakhdar Lakhdar NPMSSP0 #nombre propio de hombre
+Lakoff Lakoff NPCNSP0
 Lakuntza Lakuntza NPCSG00 #municipios de España
 Lala Lala NPFSSP0 #hipocorístico
 Lali Lali NPFSSP0 #hipocorístico
