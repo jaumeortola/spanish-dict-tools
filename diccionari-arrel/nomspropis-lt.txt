@@ -11163,6 +11163,7 @@ Malambo Malambo NPCSG00 #municipios de Colombia
 Malanquilla Malanquilla NPCSG00 #municipios de España
 Malaquías Malaquías NPMSSP0 # avl
 Malargüe Malargüe NPCSG00 # Argentina LO
+Malasaña Malasaña NPCSG00
 Malasia Malasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malaui Malaui NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malawi Malawi NPCNG00 # topònim-apertium-falta-gènere-nombre
