@@ -8669,6 +8669,8 @@ Hess Hess NPCNSP0 # medical
 Hesse Hesse NPCNSP0
 Hesíodo Hesíodo NPMSSP0
 Hevia Hevia NPCSG00 # Venezuela
+Hezbollah Hezbollah NPCNO00
+Hezbolá Hezbolá NPCNO00
 Hiba Hiba NPFSSP0 #nombre propio de mujer
 Hicham Hicham NPMSSP0 #nombre propio de hombre
 Hidalgo Hidalgo NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8731,6 +8733,8 @@ Hita Hita NPCSG00 #municipios de España
 Hitchcock Hitchcock NPCNSP0 # wiki
 Hitchens Hitchens NPCNSP0
 Hitler Hitler NPCNSP0 # wiki
+Hizbullah Hizbullah NPCNO00
+Hizbulá Hizbulá NPCNO00
 Hobbes Hobbes NPCNSP0
 Hobo Hobo NPCSG00 #municipios de Colombia
 Hocabá Hocabá NPCSG00 #municipios de México
