@@ -3895,6 +3895,7 @@ emparrillar=categories: V;model:amar;fonts: LT;
 emparvar=categories: V;model:amar;fonts: LT;
 empastar=categories: V;model:amar;fonts: LT;
 empastelar=categories: V;model:amar;fonts: LT;
+empastillar=categories: V;model:amar;fonts: colloquial;
 empatar=categories: V;model:amar;fonts: LT;
 empatizar=categories: V;model:abalanzar;fonts: dr;
 empavesar=categories: V;model:amar;fonts: LT;
