@@ -427,6 +427,7 @@
 #quin=categories: M;fonts: dr, col.;
 #quinchamalí [pl. quinchamalís o quinchamalíes]=categories: M;fonts: dr;
 #quis=categories: MS;fonts: dr, hond;
+#quórum=categories: MI;fonts: LT;
 #r=categories: FI;fonts: LT;
 #rabassa morta=categories: F;fonts: dr;
 #rasí=categories: M;fonts: dr;
@@ -54480,7 +54481,6 @@ quínola=categories: F;fonts: LT;
 quíntuple=categories: MF;fonts: LT;
 quíntuplo quíntupla=categories: MF;fonts: LT;
 quísame=categories: M;fonts: dr;
-quórum=categories: MI;fonts: LT;
 raba=categories: F;fonts: LT;
 rabada=categories: F;fonts: LT;
 rabadilla=categories: F;fonts: LT;
