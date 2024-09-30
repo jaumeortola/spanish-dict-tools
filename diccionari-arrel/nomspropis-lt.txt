@@ -7178,6 +7178,7 @@ Fines Fines NPCSG00 #municipios de España
 Finestrat Finestrat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fini Fini NPFSSP0 #hipocorístico
 Finisterre Finisterre NPCSG00
+Finkielkraut Finkielkraut NPCNSP0
 Finlandia Finlandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fiol Fiol NPCNSP0 #apellido
 Fiona Fiona NPFSSP0 # avl
