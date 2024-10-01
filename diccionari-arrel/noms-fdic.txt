@@ -110,6 +110,7 @@
 #chiri=categories: MF;fonts: dr;
 #chirulí=categories: M;fonts: dr;
 #chirís=categories: MF;fonts: dr;
+#chiíta=categories: MF;fonts: LT; -> chiita
 #choncholí=categories: M;fonts: dr;
 #chop=categories: M;fonts: dr;
 #chuchuy=categories: M;fonts: dr;
@@ -15276,8 +15277,7 @@ chivirico=categories: M;fonts: dr;
 chivital=categories: M;fonts: dr;
 chivitero=categories: M;fonts: dr;
 chivo chiva=categories: MF;fonts: LT;
-chií [pl. chiís o chiíes]=categories: MF;fonts: LT;
-chiíta=categories: MF;fonts: LT;
+chií [pl. chiíes]=categories: MF;fonts: LT; # No chiís o
 chocallo=categories: M;fonts: dr;
 chocantería=categories: F;fonts: dr;
 chocarrería=categories: F;fonts: LT;
