@@ -9189,6 +9189,8 @@ Ioan Ioan NPMSSP0 #nombre propio de hombre
 Ioana Ioana NPFSSP0 #nombre propio de mujer
 Iolanda Iolanda NPFSSP0 #nombre propio de mujer
 Ion Ion NPMSSP0 # avl
+Iona Iona NPFSG00
+Iona Iona NPFSSP0
 Iona Iona NPFSSP0 #nombre propio de mujer
 Ione Ione NPFSSP0 # avl
 Ionel Ionel NPMSSP0 #nombre propio de hombre
