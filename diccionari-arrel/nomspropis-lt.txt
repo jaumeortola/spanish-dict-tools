@@ -16690,6 +16690,7 @@ Sweelinck Sweelinck NPCNSP0
 Swyer Swyer NPCNSP0 # medical
 Sydenham Sydenham NPCNSP0 # medical
 Sylvia Sylvia NPFSSP0 #nombre propio de mujer
+Szczęsny Szczęsny NPCNSP0
 Sácama Sácama NPCSG00 #municipios de Colombia
 Sáchica Sáchica NPCSG00 #municipios de Colombia
 Sádaba Sádaba NPCSG00 #municipios de España

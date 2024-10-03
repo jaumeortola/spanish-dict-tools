@@ -52053,6 +52053,7 @@ poscombustión=categories: F;fonts: LT;
 poscomunismo=categories: M;fonts: dr;
 poscomunión=categories: F;fonts: LT;
 posconcilio=categories: M;fonts: dr;
+poscréditos=categories: MI;fonts: LT;
 posdata=categories: F;fonts: LT;
 posdoctorado=categories: M;fonts: termcat;
 posdorso=categories: M;fonts: dr;
