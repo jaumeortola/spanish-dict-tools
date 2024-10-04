@@ -5610,6 +5610,7 @@ Cuerámaro Cuerámaro NPCSG00 #municipios de México
 Cuevas Cuevas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cuevasanta Cuevasanta NPFSSP0 # avl
 Cuichapa Cuichapa NPCSG00 #municipios de México
+Cuisenaire Cuisenaire NPCNSP0
 Cuitláhuac Cuitláhuac NPCSG00 #municipios de México
 Cuitzeo Cuitzeo NPCSG00 #municipios de México
 Cuixà Cuixà NPCNG00 # topònim-apertium-falta-gènere-nombre
