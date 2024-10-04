@@ -18299,6 +18299,7 @@ Veneranda Veneranda NPFSSP0 # avl
 Venerando Venerando NPMSSP0 # avl
 Venezuela Venezuela NPCNG00 # topònim-apertium-falta-gènere-nombre
 Venialbo Venialbo NPCSG00 #municipios de España
+Venn Venn NPCNSP0
 Venom Venom NPMSSP0
 Ventadorn Ventadorn NPCNSP0
 Ventalló Ventalló NPCNG00 # topònim-apertium-falta-gènere-nombre
