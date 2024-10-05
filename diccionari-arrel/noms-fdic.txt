@@ -1311,6 +1311,7 @@ acatarramiento=categories: M;fonts: LT;
 acatisia=categories: F;fonts: medical;
 acato=categories: M;fonts: LT;
 acaudillamiento=categories: M;fonts: LT;
+acceleracionismo=categories: M;fonts: wiki;
 accelerograma=categories: M;fonts: LT;
 accesibilidad=categories: F;fonts: LT;
 accesión=categories: F;fonts: LT;
