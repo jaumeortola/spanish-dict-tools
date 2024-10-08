@@ -19370,6 +19370,7 @@ irrazonable=categories: A;fonts: LT;
 irreal=categories: A;fonts: LT;
 irrealizable=categories: A;fonts: LT;
 irrebatible=categories: A;fonts: LT;
+irrecompensable=categories: A;fonts: derivat;
 irreconciliable=categories: A;fonts: LT;
 irreconocible=categories: A;fonts: LT;
 irrecordable=categories: A;fonts: dr;

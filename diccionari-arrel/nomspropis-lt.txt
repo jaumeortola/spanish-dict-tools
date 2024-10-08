@@ -5261,6 +5261,7 @@ Concha Concha NPFSSP0 # avl
 Conchalí Conchalí NPCSG00 #municipios de Chile
 Conchi Conchi NPFSSP0 #hipocorístico
 Conchita Conchita NPFSSP0 #nombre propio de mujer
+Concord Concord NPCSG00
 Concordia Concordia NPFSSP0 # avl
 Concordio Concordio NPMSSP0 # avl
 Conde-Pumpido Conde-Pumpido NPCNSP0
@@ -8221,6 +8222,7 @@ Guadassuar Guadassuar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadasséquies Guadasséquies NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadaíra Guadaíra NPMSG00
 Guadiana Guadiana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Guadiaro Guadiaro NPMSG00
 Guadix Guadix NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadramiro Guadramiro NPCSG00 #municipios de España
 Guaduas Guaduas NPCSG00 #municipios de Colombia
@@ -14283,6 +14285,7 @@ Pisa Pisa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pisaflores Pisaflores NPCSG00 #municipios de México
 Pisba Pisba NPCSG00 #municipios de Colombia
 Pisco Pisco NPCNG00 # topònim-apertium-falta-gènere-nombre
+Pisidia Pisidia NPFSG00
 Piskacek Piskacek NPCNSP0 # medical
 Pisuerga Pisuerga NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pisístrato Pisístrato NPMSSP0 # avl
@@ -18019,6 +18022,7 @@ Utrecht Utrecht NPCNG00 # topònim-apertium-falta-gènere-nombre
 Utrera Utrera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Utrilla Utrilla NPCNSP0 #apellido
 Utrillas Utrillas NPCSG00 #municipios de España
+Utrillo Utrillo NPCNSP0
 Utxafava Utxafava NPCNG00 # topònim-apertium-falta-gènere-nombre
 Uvalde Uvalde NPCSG00
 Uxpanapa Uxpanapa NPCSG00 #municipios de México
