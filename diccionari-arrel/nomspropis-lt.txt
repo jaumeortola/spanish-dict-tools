@@ -9980,6 +9980,7 @@ Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
 Kimura Kimura NPCNSP0 # medical
 Kin Kin NPMSSP0 #hipocorístico
 Kinchil Kinchil NPCSG00 #municipios de México
+Kinder Kinder NPCNSP0
 King King NPCNSP0 # wiki
 Kingsley Kingsley NPCNSP0
 Kingston Kingston NPCNG00 # topònim-apertium-falta-gènere-nombre
