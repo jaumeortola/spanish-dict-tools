@@ -2838,6 +2838,7 @@ Benetússer Benetússer NPCNG00 # topònim-apertium-falta-gènere-nombre
 Benevento Benevento NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beneyto Beneyto NPCNSP0 #apellido
 Benferri Benferri NPCNG00 # topònim-apertium-falta-gènere-nombre
+Benfica	Benfica	NPMSO00
 Bengala Bengala NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bengaluru Bengaluru NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bengasi Bengasi NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -3294,6 +3295,7 @@ Bonmatí Bonmatí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonn Bonn NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonnard Bonnard NPCNSP0
 Bonnet Bonnet NPCNSP0 # medical
+Bonnie	Bonnie	NPCNSP0
 Bonnier Bonnier NPCNSP0 # medical
 Bono Bono NPMSSP0 # avl
 Bonosio Bonosio NPMSSP0 # avl
@@ -6911,6 +6913,7 @@ Ezquerra Ezquerra NPCNSP0 #apellido
 Ezquerro Ezquerro NPCNSP0 #apellido
 Eñaut Eñaut NPMSSP0 #nombre propio de hombre
 Eötvös Eötvös NPCNSP0
+F-Droid F-Droid NPCNO00
 FAD FAD NPCSO00
 FAES FAES NPFSO00
 FAO FAO NPFSO00 # wiki
@@ -11731,6 +11734,7 @@ McBurney McBurney NPCNSP0 # medical
 McCain McCain NPCNSP0
 McCarthy McCarthy NPCNSP0
 McCartney McCartney NPCNSP0 # wiki
+McCloskey McCloskey NPCNSP0
 McCormick McCormick NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McDonald McDonald NPCSG00
