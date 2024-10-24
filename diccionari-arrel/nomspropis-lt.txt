@@ -5778,6 +5778,7 @@ Dali Dali NPFSSP0 #hipocorístico
 Dalia Dalia NPFSSP0 # avl
 Dalila Dalila NPFSSP0 # avl
 Dallas Dallas NPCNG00 # topònim-apertium-falta-gènere-nombre
+Dalloway Dalloway NPCNSP0
 Dalmacia Dalmacia NPFSSP0 # avl
 Dalmacio Dalmacio NPMSSP0 # avl
 Dalmau Dalmau NPCNSP0 #apellido
@@ -9652,6 +9653,7 @@ John John NPCNSP0
 Johnny Johnny NPCNSP0 # wiki
 Johnson Johnson NPCNSP0 # wiki
 Jojutla Jojutla NPCSG00 #municipios de México
+Joker Joker NPMSSP0
 Jokin Jokin NPMSSP0 #nombre propio de hombre
 Jolalpan Jolalpan NPCSG00 #municipios de México
 Jon Jon NPMSSP0 #nombre propio de hombre
