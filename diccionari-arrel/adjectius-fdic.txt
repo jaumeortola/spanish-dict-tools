@@ -13875,6 +13875,7 @@ fufurufo fufurufa=categories: A;fonts: dr;
 fugacísimo fugacísima=categories: A;fonts: superlative;
 fugaz=categories: A;fonts: LT;
 fugitivo fugitiva=categories: A;fonts: LT;
+fujimorista=categories: A;fonts: derivat;
 ful=categories: A;fonts: dr;
 fulastre=categories: A;fonts: LT;
 fulbe=categories: A;fonts: LT;

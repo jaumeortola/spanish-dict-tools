@@ -3063,6 +3063,7 @@ Betlan Betlan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beto Beto NPMSSP0
 Betren Betren NPCNG00 # topònim-apertium-falta-gènere-nombre
 Betsabé Betsabé NPFSSP0 # avl
+Betsaida Betsaida NPFSG00
 Betty Betty NPFSSP0
 Betulia Betulia NPCSG00 #municipios de Colombia
 Betxí Betxí NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -6845,6 +6846,7 @@ Eurofestival Eurofestival NPMSO00
 Eurogrupo Eurogrupo NPMSO00
 Euroliga Euroliga NPFSO00
 Euroligas Euroliga NPFPO00
+Euromillones Euromillones NPMNO00
 Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Europarlamento Europarlamento NPMSO00
 Europastry Europastry NPCNO00 #empresa española
@@ -7314,6 +7316,7 @@ Formoso Formoso NPCNSP0 #apellido
 Fornalutx Fornalutx NPCNG00 # topònim-apertium-falta-gènere-nombre
 Forner Forner NPCNSP0 #apellido
 Fornés Fornés NPCNSP0 #apellido
+ForoCoches ForoCoches NPCNO00
 Fort Fort NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fortaleny Fortaleny NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fortanete Fortanete NPCSG00 #municipios de España
@@ -7787,6 +7790,7 @@ Gausac Gausac NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gauss Gauss NPCNSP0 # medical
 Gauteria Gauteria NPFSSP0 # avl
 Gauterio Gauterio NPMSSP0 # avl
+Gautier Gautier NPCNSP0
 Gavarda Gavarda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gavernera Gavernera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gavilanes Gavilanes NPCSG00 #municipios de España
@@ -10896,6 +10900,7 @@ Luesma Luesma NPCSG00 #municipios de España
 Luftwaffe Luftwaffe NPFSO00
 Lugano Lugano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lugansk Lugansk NPCSG00
+Luger Luger NPCNO00
 Lugo Lugo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lugones Lugones NPCSG00 # Argentina LO
 Lugros Lugros NPCSG00 #municipios de España
@@ -11667,6 +11672,7 @@ Mauritania Mauritania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Maurizio Maurizio NPMSSP0 #nombre propio de hombre
 Mauro Mauro NPMSSP0 # avl
 Mauroa Mauroa NPCSG00 # Venezuela
+Mauser Mauser NPCNO00
 Maverick Maverick NPCNSP0
 Mavi Mavi NPFSSP0 # avl
 Max Max NPMSSP0 # avl
@@ -11993,6 +11999,7 @@ Mickey Mickey NPMSSP0
 Micronesia Micronesia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Microsoft Microsoft NPCNO0 # wiki
 Midas Midas NPMSSP0 # avl
+Middlesex Middlesex NPCSG00
 Midi Midi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Midonio Midonio NPMSSP0 # avl
 Miengo Miengo NPCSG00 #municipios de España
@@ -13629,6 +13636,7 @@ PDVSA PDVSA NPFNO00 #Petróleos de Venezuela, S.A.
 PE PE NPCNO00
 PEN PEN NPMSO00
 PET PET NPCNO00
+PKK PKK NPMSO00
 PKK PKK NPMSSP0
 PNG PNG NPCNO00 # wiki
 PNV PNV NPMSO00
@@ -13818,6 +13826,7 @@ Paquetexpress Paquetexpress NPCNO00
 Paqui Paqui NPFSSP0 #hipocorístico
 Paquita Paquita NPFSSP0
 Paquito Paquito NPMSSP0
+Parabellum Parabellum NPCNO00
 Paracelso Paracelso NPMSSP0 # avl
 Paracho Paracho NPCSG00 #municipios de México
 Paracleto Paracleto NPMSSP0 # avl

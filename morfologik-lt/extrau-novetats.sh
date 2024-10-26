@@ -7,7 +7,7 @@
 
 #directori LanguageTool
 #lt_tools=~/target-lt/languagetool.jar
-lt_version=6.5-SNAPSHOT
+lt_version=6.6-SNAPSHOT
 lt_tools=../../languagetool/languagetool-standalone/target/LanguageTool-${lt_version}/LanguageTool-${lt_version}/languagetool.jar
 
 # dump the tagger dictionary
