@@ -15271,6 +15271,7 @@ chiticalla=categories: MF;fonts: LT;
 chito=categories: M;fonts: LT;
 chivarro chivarra=categories: MF;fonts: dr;
 chivatada=categories: F;fonts: LT;
+chivatazo=categories: M;fonts: dr;
 chivato chivata=categories: MF;fonts: LT;
 chivera=categories: F;fonts: dr;
 chivetero=categories: M;fonts: LT;

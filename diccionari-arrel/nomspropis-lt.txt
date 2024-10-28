@@ -256,6 +256,7 @@
 ABC ABC NPCNO00
 ACB ACB NPFSO00
 ACNUR ACNUR NPMSO00
+ACS ACS NPCSO00
 ADDA ADDA NPMSO00
 AEMET AEMET NPFSO00
 AENA AENA NPFSO00
@@ -4065,6 +4066,7 @@ Capivara Capivara NPCSG00 # Argentina LO
 Caplan Caplan NPCNSP0 # medical
 Capmany Capmany NPCSG00 #municipios de España
 Capolat Capolat NPCNG00 # topònim-apertium-falta-gènere-nombre
+Capone Capone NPCNSP0
 Caprabo Caprabo NPCNO00 #empresa española
 Caprasio Caprasio NPMSSP0 # avl
 Capri Capri NPCSG00
@@ -10034,6 +10036,7 @@ Komodo Komodo NPMSG00
 Konrad Konrad NPCNSP0
 Konstantin Konstantin NPMSSP0 #nombre propio de hombre
 Koolhaas Koolhaas NPCNSP0
+Koplowitz Koplowitz NPCNSP0
 Kopomá Kopomá NPCSG00 #municipios de México
 Korngold Korngold NPCNSP0
 Korsakoff Korsakoff NPCNSP0 # medical
@@ -14490,6 +14493,7 @@ Porá Porá NPCSG00 # Paraguay
 Posadas Posadas NPCSG00 #municipios de España
 Poseidón Poseidón NPMSSP0 # avl
 Postiguet Postiguet NPCNG00 # topònim-apertium-falta-gènere-nombre
+Potemkin Potemkin NPMSO00
 Potes Potes NPCSG00 #municipios de España
 Potosí Potosí NPMSG00
 Potries Potries NPCNG00 # topònim-apertium-falta-gènere-nombre

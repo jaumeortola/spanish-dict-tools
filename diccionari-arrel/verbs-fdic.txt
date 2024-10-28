@@ -5318,6 +5318,7 @@ horripilar=categories: V;model:amar;fonts: LT;
 horrorizar=categories: V;model:abalanzar;fonts: LT;
 hospedar=categories: V;model:amar;fonts: LT;
 hospitalizar=categories: V;model:abalanzar;fonts: LT;
+hostiar=categories: V;model:amar;fonts: dr;
 hostigar=categories: V;model:cargar;fonts: LT;
 hostilizar=categories: V;model:abalanzar;fonts: LT;
 hozar=categories: V;model:abalanzar;fonts: LT;
