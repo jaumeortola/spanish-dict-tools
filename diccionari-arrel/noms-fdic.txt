@@ -58836,6 +58836,7 @@ segadora=categories: F;fonts: LT;
 segallo=categories: M;fonts: dr;
 segazón=categories: F;fonts: LT;
 segmentación=categories: F;fonts: LT;
+segmentador=categories: M;fonts: derivat;
 segmentectomía=categories: F;fonts: medical;
 segmento=categories: M;fonts: LT;
 segote=categories: M;fonts: dr;
