@@ -34543,6 +34543,7 @@ hiperlanzamiento=categories: M;fonts: LT;
 hiperlaxitud=categories: F;fonts: LT;
 hiperlepidemia=categories: F;fonts: LT;
 hiperlexia=categories: F;fonts: LT;
+hiperliderazgo=categories: M;fonts: derivat;
 hiperlipasemia=categories: F;fonts: LT;
 hiperlipemia=categories: F;fonts: LT;
 hiperlipidemia=categories: F;fonts: dr;

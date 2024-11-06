@@ -8216,7 +8216,7 @@ Guacimara Guacimara NPFSSP0 #nombre propio de mujer
 Guada Guada NPFSSP0 #hipocorístico
 Guadahortuna Guadahortuna NPCSG00 #municipios de España
 Guadalajara Guadalajara NPCNG00 # topònim-apertium-falta-gènere-nombre
-Guadalaviar Guadalaviar NPCSG00
+Guadalaviar Guadalaviar NPMSG00
 Guadalcanal Guadalcanal NPCSG00 #municipios de España
 Guadalcázar Guadalcázar NPCSG00 #municipios de España
 Guadalest Guadalest NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -18243,6 +18243,7 @@ Valverdejo Valverdejo NPCSG00 #municipios de España
 Valverdón Valverdón NPCSG00 #municipios de España
 València València NPCSG00 #municipios de España
 Valéry Valéry NPCNSP0
+Vance Vance NPCNSP0
 Vancouver Vancouver NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vandellòs Vandellòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Vanderbilt Vanderbilt NPCNSP0
