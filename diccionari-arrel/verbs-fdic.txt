@@ -8264,6 +8264,7 @@ troncar=categories: V;model:abarcar;fonts: LT;
 tronchar=categories: V;model:amar;fonts: LT;
 tronzar=categories: V;model:abalanzar;fonts: LT;
 tropezar=categories: V;model:empezar;fonts: LT;
+tropicalizar=categories: V;model:abalanzar;fonts: derivat;
 troquelar=categories: V;model:amar;fonts: LT;
 trotar=categories: V;model:amar;fonts: LT;
 trovar=categories: V;model:amar;fonts: LT;

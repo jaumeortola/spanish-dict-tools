@@ -4489,6 +4489,7 @@ Ceci Ceci NPFSSP0 #hipocorístico
 Cecilia Cecilia NPFSSP0 # avl
 Cecilio Cecilio NPMSSP0 # avl
 Ceclavín Ceclavín NPCSG00 #municipios de España
+Cecopi Cecopi NPMSO00
 Cecot Cecot NPFSO00
 Cedanya Cedanya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cedeira Cedeira NPCSG00 #municipios de España
@@ -10084,6 +10085,7 @@ Kylian Kylian NPMSSP0 #nombre propio de hombre
 Kyoto Kyoto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kyrle Kyrle NPCNSP0 # medical
 Kárpov Kárpov NPCNSP0
+Kärcher Kärcher NPCNO00
 Köebner Köebner NPCNSP0 # medical
 Königsberg Königsberg NPCNG00 # topònim-apertium-falta-gènere-nombre
 L'Alacantí L'Alacantí NPCSG00
