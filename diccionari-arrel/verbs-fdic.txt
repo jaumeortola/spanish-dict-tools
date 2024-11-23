@@ -2869,6 +2869,7 @@ descolorar=categories: V;model:amar;fonts: LT;
 descolorir=categories: V;model:partir;fonts: LT;
 descombrar=categories: V;model:amar;fonts: LT;
 descomedir=categories: V;model:pedir;fonts: LT;
+descomentar=categories: V;model:amar;fonts: argot informàtica;
 descompactar=categories: V;model:amar;fonts: ap;
 descompadrar=categories: V;model:amar;fonts: LT;
 descompaginar=categories: V;model:amar;fonts: LT;

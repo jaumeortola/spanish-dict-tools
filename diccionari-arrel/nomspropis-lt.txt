@@ -16120,6 +16120,7 @@ Senyera Senyera NPCNG00 # topònim-apertium-falta-gènere-nombre
 Senén Senén NPMSSP0 # avl
 Senés Senés NPCSG00 #municipios de España
 Seoane Seoane NPCNSP0 #apellido
+Sepblac Sepblac NPMSO00
 Seprona Seprona NPMSO00
 Septimania Septimania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Septuaginta Septuaginta NPFSO00
