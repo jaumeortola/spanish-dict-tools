@@ -27149,6 +27149,7 @@ productivo productiva=categories: A;fonts: LT;
 productor productora=categories: A;fonts: LT;
 proel=categories: A;fonts: LT;
 proemial=categories: A;fonts: LT;
+proetarra=categories: A;fonts: derivat;
 proeuropeo proeuropea=categories: A;fonts: derivat;
 proeuropeo proeuropea=categories: A;fonts: fundeu;
 profanador profanadora=categories: A;fonts: LT;
