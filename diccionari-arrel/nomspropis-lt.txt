@@ -9151,6 +9151,7 @@ Imuris Imuris NPCSG00 #municipios de México
 Imués Imués NPCSG00 #municipios de Colombia
 Inas Inas NPFSSP0 #nombre propio de mujer
 Inca Inca NPCNG00 # topònim-apertium-falta-gènere-nombre
+Inchaurrondo Inchaurrondo NPCSG00
 Inclán Inclán NPCNSP0 # wiki
 Indalecia Indalecia NPFSSP0 # avl
 Indalecio Indalecio NPMSSP0 # avl
@@ -9194,6 +9195,7 @@ Intel Intel NPCNO00 # wiki
 Interbank Interbank NPCNO00
 Interflora Interflora NPCNO00 #empresa española
 Interpol Interpol NPFSO00
+Intxaurrondo Intxaurrondo NPCSG00
 Intza Intza NPFSSP0 #nombre propio de mujer
 Invisalign Invisalign NPCNO00
 Inzá Inzá NPCSG00 #municipios de Colombia
