@@ -7617,6 +7617,7 @@ Galatro Galatro NPCNG00 # topònim-apertium-falta-gènere-nombre
 Galaxy Galaxy NPCNO00
 Galba Galba NPMSSP0 # avl
 Galbarros Galbarros NPCSG00 #municipios de España
+Galbraith Galbraith NPCNSP0
 Galbárruli Galbárruli NPCSG00 #municipios de España
 Galcerán Galcerán NPMSSP0 # avl
 Galdakao Galdakao NPCSG00 #municipios de España
@@ -10402,6 +10403,7 @@ Legutio Legutio NPCSG00 #municipios de España
 Leguízamo Leguízamo NPCSG00 #municipios de Colombia
 Leia Leia NPFSSP0 #nombre propio de mujer
 Leibniz Leibniz NPCNSP0 # wiki
+Leibovitz Leibovitz NPCNSP0
 Leicester Leicester NPCSG00
 Leidy Leidy NPFSSP0 #nombre propio de mujer
 Leigh Leigh NPCNSP0 # medical
