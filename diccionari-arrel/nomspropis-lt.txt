@@ -7057,6 +7057,7 @@ Fefa Fefa NPFSSP0 #hipocorístico
 Feijóo Feijóo NPCNSP0
 Feito Feito NPCNSP0 #apellido
 Felanitx Felanitx NPCNG00 # topònim-apertium-falta-gènere-nombre
+Felavan Felavan NPFSO00
 Feli Feli NPFSSP0 #hipocorístico
 Feli Feli NPMSSP0 #hipocorístico
 Felicia Felicia NPFSSP0 # avl
