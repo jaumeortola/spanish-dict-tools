@@ -7682,6 +7682,7 @@ semiconsolidar=categories: V;model:amar;fonts: ap;
 semidestruir=categories: V;model:construir;fonts: ap;
 senderear=categories: V;model:amar;fonts: LT;
 sensibilizar=categories: V;model:abalanzar;fonts: LT;
+sensorizar=categories: V;model:abalanzar;fonts: termcat;
 sentar=categories: V;model:alentar;fonts: LT;
 sentenciar=categories: V;model:amar;fonts: LT;
 sentimentalizar=categories: V;model:abalanzar;fonts: derivat;
