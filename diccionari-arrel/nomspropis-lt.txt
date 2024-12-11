@@ -19492,6 +19492,7 @@ Zúrich Zúrich NPCNG00 # topònim-apertium-falta-gènere-nombre
 Zúñiga Zúñiga NPCNSP0 # wiki common surnames
 al-Mansur al-Mansur NPCNSP0
 al-Ándalus al-Ándalus NPMSG00
+al-Ásad al-Ásad NPCNSP0
 d'Alembert d'Alembert NPCNSP0
 easyJet easyJet NPCNO00
 iCat iCat NPCNO00
@@ -19564,6 +19565,7 @@ oXygen oXygen NPMSO00
 Árchez Árchez NPCSG00 #municipios de España
 Ártica Ártica NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ártico Ártico NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ásad Ásad NPCNSP0
 Ástrid Ástrid NPFSSP0 # avl
 Áurea Áurea NPFSSP0 # avl
 Áureo Áureo NPMSSP0 # avl

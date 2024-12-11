@@ -173,6 +173,7 @@ recién recién RG
 requetebién requetebién RG
 seguro seguro RG
 según según RG
+semiesquina semiesquina RG
 sic sic RG
 siempre siempre RG
 siquiera siquiera RG
