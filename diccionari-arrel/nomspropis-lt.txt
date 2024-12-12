@@ -7906,6 +7906,7 @@ Gescode Gescode NPCNO00
 Gessa Gessa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gestalgar Gestalgar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gestamp Gestamp NPCNO00 #empresa española
+Gestapo Gestapo NPFSO00
 Gesualdo Gesualdo NPCNSP0
 Getafe Getafe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getaria Getaria NPCSG00 #municipios de España
@@ -11310,6 +11311,7 @@ Manosmari Manosmari NPMSSP0 #hipocorístico
 Manquillos Manquillos NPCSG00 #municipios de España
 Manresa Manresa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manrique Manrique NPMSSP0 # avl
+Mansfield Mansfield NPCNSP0
 Mansilla Mansilla NPCNSP0 # wiki common surnames
 Mansour Mansour NPMSSP0
 Mansueto Mansueto NPMSSP0 # avl
@@ -14569,6 +14571,7 @@ Primitiva Primitiva NPFSSP0 # avl
 Primitivo Primitivo NPMSSP0 # avl
 Primo Primo NPMSSP0 # avl
 Prince Prince NPMSSP0
+Princeton Princeton NPCSG00
 Pringle Pringle NPCNSP0 # medical
 Prinzmetal Prinzmetal NPCNSP0
 Priorat Priorat NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -17221,6 +17224,7 @@ Theodor Theodor NPCNSP0 # wiki
 Ther Ther NPFSSP0 #hipocorístico
 Theresienstadt Theresienstadt NPCSG00
 Thiago Thiago NPMSSP0 #nombre propio de hombre
+Thiel Thiel NPCNSP0
 Thiessen Thiessen NPCNSP0
 Thimbu Thimbu NPCNG00 # topònim-apertium-falta-gènere-nombre
 Thomas Thomas NPCNSP0
