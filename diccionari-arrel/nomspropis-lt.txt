@@ -11279,6 +11279,7 @@ Mancio Mancio NPMSSP0 #hipocorístico
 Mancor Mancor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mandatoriccio Mandatoriccio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mandayona Mandayona NPCSG00 #municipios de España
+Mandela Mandela NPCNSP0
 Mandis Mandis NPMSSP0 #hipocorístico
 Mandonio Mandonio NPMSSP0 # avl
 Mandy Mandy NPFSSP0 #hipocorístico
