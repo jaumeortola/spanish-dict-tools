@@ -7788,6 +7788,7 @@ sobrenadar=categories: V;model:amar;fonts: LT;
 sobrentender=categories: V;model:entender;fonts: LT;
 sobrepasar=categories: V;model:amar;fonts: LT;
 sobrepintar=categories: V;model:amar;fonts: LT;
+sobrepoblar=categories: V;model:amoblar;fonts: dr;
 sobreponer=categories: V;model:componer;fonts: LT;
 sobreproteger=categories: V;model:coger;fonts: derivat;
 sobrepujar=categories: V;model:amar;fonts: LT;
