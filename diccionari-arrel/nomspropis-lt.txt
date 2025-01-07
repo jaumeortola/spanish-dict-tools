@@ -17712,6 +17712,7 @@ Troya Troya NPCNG00 # topònim-apertium-falta-gènere-nombre
 Troyes Troyes NPCNG00 # topònim-apertium-falta-gènere-nombre
 Truchas Truchas NPCSG00 #municipios de España
 Trucios-Turtzioz Trucios-Turtzioz NPCSG00 #municipios de España
+Trudeau Trudeau NPCNSP0
 Trueba Trueba NPCNSP0
 Trujillanos Trujillanos NPCSG00 #municipios de España
 Trujillo Trujillo NPCNG00 # topònim-apertium-falta-gènere-nombre
