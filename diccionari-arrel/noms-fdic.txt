@@ -28510,6 +28510,7 @@ extendedor=categories: M;fonts: LT;
 extendedora=categories: F;fonts: LT;
 extendibilidad=categories: F;fonts: LT;
 extendimiento=categories: M;fonts: dr;
+extenista=categories: MF;fonts: derivat;
 extensibilidad=categories: F;fonts: LT;
 extensión=categories: F;fonts: LT;
 extensometría=categories: F;fonts: termcat;

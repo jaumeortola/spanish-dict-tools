@@ -6358,6 +6358,7 @@ Eleázaro Eleázaro NPCSSP0 # avl
 Elfa Elfa NPFSSP0 # avl
 Elfo Elfo NPMSSP0 # avl
 Elga Elga NPFSSP0 # avl
+Elgar Elgar NPCNSP0
 Elgeta Elgeta NPCSG00 #municipios de España
 Elgoibar Elgoibar NPCSG00 #municipios de España
 Elgorriaga Elgorriaga NPCSG00 #municipios de España
@@ -8218,6 +8219,7 @@ Guachochi Guachochi NPCSG00 #municipios de México
 Guachucal Guachucal NPCSG00 #municipios de Colombia
 Guacimara Guacimara NPFSSP0 #nombre propio de mujer
 Guada Guada NPFSSP0 #hipocorístico
+Guadagnini Guadagnini NPCNSP0
 Guadahortuna Guadahortuna NPCSG00 #municipios de España
 Guadalajara Guadalajara NPCNG00 # topònim-apertium-falta-gènere-nombre
 Guadalaviar Guadalaviar NPMSG00
