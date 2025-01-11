@@ -13190,6 +13190,7 @@ Náser Náser NPCNSP0
 Nátaga Nátaga NPCSG00 #municipios de Colombia
 Néguev Néguev NPMSG00
 Nélida Nélida NPFSSP0 # avl
+Némirovsky Némirovsky NPCNSP0
 Néstor Néstor NPMSSP0 # avl
 Níger Níger NPCNG00 # topònim-apertium-falta-gènere-nombre
 Níjar Níjar NPCSG00
