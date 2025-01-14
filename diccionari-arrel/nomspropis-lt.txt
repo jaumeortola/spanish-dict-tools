@@ -4289,6 +4289,7 @@ Casillas Casillas NPCSG00 #municipios de España
 Casimira Casimira NPFSSP0 # avl
 Casimiro Casimiro NPMSSP0 # avl
 Casinos Casinos NPCNG00 # topònim-apertium-falta-gènere-nombre
+Casio Casio NPCNO00
 Casio Casio NPMSSP0 # avl
 Casiopea Casiopea NPFSSP0 # avl
 Casla Casla NPCSG00 #municipios de España
