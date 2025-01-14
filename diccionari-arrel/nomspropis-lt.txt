@@ -11293,6 +11293,7 @@ Manfreda Manfreda NPFSSP0 # avl
 Manfredi Manfredi NPCSG00 #municipios de Argentina
 Manfredo Manfredo NPMSSP0 # avl
 Mange Mange NPFSSP0 #hipocorístico
+Mangione Mangione NPCNSP0
 Mangone Mangone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Manhattan Manhattan NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mani Mani NPMSSP0 #hipocorístico
