@@ -69102,3 +69102,4 @@ zúa=categories: F;fonts: LT;
 útil=categories: M;fonts: LT;
 úvea=categories: F;fonts: LT;
 úvula=categories: F;fonts: LT;
+rusofobia=categories: F;fonts: wiki;
