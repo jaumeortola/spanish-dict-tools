@@ -23933,6 +23933,7 @@ dubio=categories: M;fonts: LT;
 dubitación=categories: F;fonts: LT;
 dublé=categories: M;fonts: LT;
 dubnio=categories: M;fonts: dr;
+dubstep=categories: MS;fonts: wiki;
 ducado=categories: M;fonts: LT;
 ducción=categories: F;fonts: LT;
 duce=categories: M;fonts: LT;
