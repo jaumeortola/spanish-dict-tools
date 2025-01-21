@@ -5904,6 +5904,7 @@ Demócrates Demócrates NPMSSP0
 Demócrito Demócrito NPMSSP0 # avl
 Demóstenes Demóstenes NPMSSP0 # avl
 Dena Dena NPFSSP0 #hipocorístico
+Denali Denali NPMSG00
 Deni Deni NPFSSP0 #hipocorístico
 Denia Denia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Denis Denis NPMSSP0 # avl
