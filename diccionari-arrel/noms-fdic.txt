@@ -40351,6 +40351,7 @@ macroquiria=categories: F;fonts: medical;
 macroquímica=categories: F;fonts: LT;
 macrorradiografía=categories: F;fonts: medical;
 macrorred=categories: F;fonts: derivat;
+macrorredada=categories: F;fonts: fundeu;
 macrorregión=categories: F;fonts: derivat;
 macroscopía=categories: F;fonts: LT;
 macrosistema=categories: M;fonts: LT;
