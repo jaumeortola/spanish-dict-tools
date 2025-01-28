@@ -8768,6 +8768,7 @@ Hodgkin Hodgkin NPCNSP0 # medical
 Hoehn-Yahr Hoehn-Yahr NPCNSP0 # medical
 Hoffmann Hoffmann NPCNSP0 # medical
 Hofmann Hofmann NPCNSP0
+Hofmannsthal Hofmannsthal NPCNSP0
 Hogwarts Hogwarts NPCNG00
 Hohenau Hohenau NPCSG00 # Paraguay
 Holanda Holanda NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -12741,6 +12742,7 @@ Nadya Nadya NPFSSP0 #nombre propio de mujer
 Naegele Naegele NPCNSP0 # medical
 Nael Nael NPMSSP0 #nombre propio de hombre
 Naffziger-Jones Naffziger-Jones NPCNSP0 # medical
+Nafta Nafta NPMSO00
 Nagasaki Nagasaki NPCNG00 # topònim-apertium-falta-gènere-nombre
 Nagore Nagore NPFSSP0 #nombre propio de mujer
 Naguanagua Naguanagua NPCSG00 # Venezuela
@@ -16761,6 +16763,7 @@ TAD TAD NPMSO00
 TEDH TEDH NPMSO00
 TGSS TGSS NPFSO00
 TGV TGV NPMNO00
+TLCAN TLCAN NPMSO00
 TV1 TV1 NPCSO00
 TV2 TV2 NPCSO00
 TV3 TV3 NPCSO00
