@@ -16156,6 +16156,7 @@ Serbia Serbia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Serch Serch NPMSSP0 #hipocorístico
 Seregni Seregni NPCSG00 # Uruguay
 Serena Serena NPFSSP0 # avl
+Serengueti Serengueti NPMSG00
 Sereno Sereno NPMSSP0 # avl
 Sergei Sergei NPMSSP0 #nombre propio de hombre
 Sergey Sergey NPMSSP0 #nombre propio de hombre
