@@ -16054,7 +16054,7 @@ Scott Scott NPCNSP0 # wiki
 Scrabble Scrabble NPCNO00
 Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
-Scully Scully  NPCNSP0
+Scully Scully NPCNSP0
 Scytl Scytl NPCNO00 #empresa española
 Seagate Seagate NPCNO00
 Seattle Seattle NPCNG00 # topònim-apertium-falta-gènere-nombre
