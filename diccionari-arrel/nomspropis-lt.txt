@@ -13796,6 +13796,7 @@ Pan Pan NPMSSP0 # avl
 Panabá Panabá NPCSG00 #municipios de México
 Panambí Panambí NPCSG00 #municipios de Argentina
 Panamá Panamá NPCNG00 # topònim-apertium-falta-gènere-nombre
+Panathinaikos Panathinaikos NPCNO00
 Pancha Pancha NPFSSP0 # avl
 Panchita Panchita NPFSSP0 #hipocorístico
 Pancho Pancho NPMSSP0 # avl
@@ -16053,6 +16054,7 @@ Scott Scott NPCNSP0 # wiki
 Scrabble Scrabble NPCNO00
 Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
+Scully Scully  NPCNSP0
 Scytl Scytl NPCNO00 #empresa española
 Seagate Seagate NPCNO00
 Seattle Seattle NPCNG00 # topònim-apertium-falta-gènere-nombre
