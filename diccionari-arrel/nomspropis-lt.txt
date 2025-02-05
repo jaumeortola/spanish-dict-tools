@@ -128,6 +128,7 @@
 #Jun #Jun NPCNSP0 # medical
 #Kalimantán Kalimantán NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Kazajstán Kazajstán NPCNG00 # topònim-apertium-falta-gènere-nombre
+#Kinshasa Kinshasa NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Lana Lana NPCSG00 #municipios de España
 #Les Les NPCSG00 #municipios de España
 #Lesotho Lesotho NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -10006,7 +10007,7 @@ Kinder Kinder NPCNSP0
 King King NPCNSP0 # wiki
 Kingsley Kingsley NPCNSP0
 Kingston Kingston NPCNG00 # topònim-apertium-falta-gènere-nombre
-Kinshasa Kinshasa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Kinsasa Kinsasa NPCSG00
 Kioto Kioto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Kipling Kipling NPCNSP0
 Kira Kira NPFSSP0 #nombre propio de mujer
