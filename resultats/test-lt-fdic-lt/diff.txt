@@ -1,9 +1,71 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
+71092,71093c71092
+< hiper-IgE hiper-IgE NCFP000
+< hiper-IgE hiper-IgE NCFS000
+---
+> hiper-IgE hiper-IgE NCFN000
+88760,88761c88759
+< micro-ARN micro-ARN NCMP000
+< micro-ARN micro-ARN NCMS000
+---
+> micro-ARN micro-ARN NCMN000
+88764,88765c88762
+< micro-PROLOG micro-PROLOG NCFP000
+< micro-PROLOG micro-PROLOG NCFS000
+---
+> micro-PROLOG micro-PROLOG NCFN000
+88879,88880d88875
+< microblogging microblogging NCMP000
+< microblogging microblogging NCMS000
+89181c89176
+< microempresarios microempresario NCCP000
+---
+> microempresarios microempresario NCFP000
+89461,89462c89456
+< microlearning microlearning NCMP000
+< microlearning microlearning NCMS000
+---
+> microlearning microlearning NCMN000
+89878,89879c89872
+< microtargeting microtargeting NCMP000
+< microtargeting microtargeting NCMS000
+---
+> microtargeting microtargeting NCMN000
+108837,108838c108830
+< postmarketing postmarketing NCMP000
+< postmarketing postmarketing NCMS000
+---
+> postmarketing postmarketing NCMN000
+128133,128136c128125,128126
+< superarma superarma NCFS000
+< superarma superarma NCMS000
+< superarmas superarma NCFP000
+< superarmas superarma NCMP000
+---
+> superarma superarma NCCS000
+> superarmas superarma NCCP000
+128471d128460
+< superintendente superintendente NCMS000
+128473d128461
+< superintendentes superintendente NCMP000
+128685d128672
+< supersoldado supersoldado NCMS000
+128687d128673
+< supersoldados supersoldado NCMP000
+128752,128753c128738
+< supervirus supervirus NCMP000
+< supervirus supervirus NCMS000
+---
+> supervirus supervirus NCMN000
 ** Compara adjectius **
-15785c15785
+15783c15783
 < azzurre azzurro AQ0FP0
 ---
 > azzurras azzurro AQ0FP0
+110838d110837
+< supersexis supersexy AQ0CP0
+110842d110840
+< supersexy supersexy AQ0CS0
 ** Compara verbs **
 ** Altres errors **

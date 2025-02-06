@@ -5391,6 +5391,7 @@ brechtiano brechtiana=categories: A;fonts: dr;
 breco breca=categories: A;fonts: dr;
 bregmático bregmática=categories: A;fonts: LT;
 brennnoso brennnosa=categories: A;fonts: LT;
+breslavo breslava=categories: A;fonts: LT;
 breteador breteadora=categories: A;fonts: dr;
 bretoniano bretoniana=categories: A;fonts: dr;
 bretón bretona=categories: A;fonts: LT;

@@ -5681,6 +5681,7 @@ Custodio Custodio NPMSSP0 # avl
 Cutervo Cutervo NPCSG00 # Perú
 Cutillas Cutillas NPCNSP0 #apellido
 Cutro Cutro NPCNG00 # topònim-apertium-falta-gènere-nombre
+Cuyavia Cuyavia NPFSG00
 Cuyoaco Cuyoaco NPCSG00 #municipios de México
 Cuzamá Cuzamá NPCSG00 #municipios de México
 Cuá Cuá NPCSG00 # Paraguay
@@ -11635,6 +11636,7 @@ Massó Massó NPCNSP0 #apellido
 MasterChef MasterChef NPCNO00
 Mastodon Mastondon NPCNSP0
 Masueco Masueco NPCSG00 #municipios de España
+Masuria Masuria NPFSG00
 Masó Masó NPCNSP0 #apellido
 Matabuena Matabuena NPCSG00 #municipios de España
 Matachí Matachí NPCSG00 #municipios de México
@@ -11736,6 +11738,7 @@ Mazatepec Mazatepec NPCSG00 #municipios de México
 Mazatlán Mazatlán NPCNSP0
 Mazatán Mazatán NPCSG00 #municipios de México
 Mazcuerras Mazcuerras NPCSG00 #municipios de España
+Mazovia Mazovia NPFSG00
 Mazuecos Mazuecos NPCSG00 #municipios de España
 Mazuela Mazuela NPCSG00 #municipios de España
 Mazzarino Mazzarino NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13444,6 +13447,7 @@ Openbravo Openbravo NPCNO00 #empresa española
 Opera Opera NPMSO00
 Opichén Opichén NPCSG00 #municipios de México
 Opodepe Opodepe NPCSG00 #municipios de México
+Opole Opole NPCSG00
 Oporapa Oporapa NPCSG00 #municipios de Colombia
 Oporto Oporto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Oportuna Oportuna NPFSSP0 # avl
@@ -14394,6 +14398,7 @@ Poch Poch NPCNSP0 #apellido
 Pocholo Pocholo NPMSSP0 #hipocorístico
 Pocito Pocito NPCSG00 #municipios de Argentina
 Poco Poco NPMSSP0 # avl
+Podlaquia Podlaquia NPFSG00
 Poe Poe NPCNSP0 # wiki
 Pointes Pointes NPCNSP0 # medical
 Poio Poio NPCSG00 #municipios de España
@@ -16641,6 +16646,7 @@ Suances Suances NPCSG00 #municipios de España
 Suaza Suaza NPCSG00 #municipios de Colombia
 Suazilandia Suazilandia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Subachoque Subachoque NPCSG00 #municipios de Colombia
+Subcarpacia Subcarpacia NPFSG00
 Subirana Subirana NPCNSP0 #apellido
 Subirats Subirats NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sucaina Sucaina NPCNG00 # topònim-apertium-falta-gènere-nombre
