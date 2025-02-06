@@ -3430,6 +3430,7 @@ Brenes Brenes NPCSG00 #municipios de España
 Brenner Brenner NPCNSP0 # medical
 Brent Brent NPCNSP0
 Breogan Breogan NPMSSP0 #nombre propio de hombre
+Breslavia Breslavia NPFSG00
 Breslow Breslow NPCNSP0 # medical
 Brest-Litovsk Brest-Litovsk NPCSG00
 Bretaña Bretaña NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -13281,6 +13282,7 @@ Odilo Odilo NPMSSP0 # avl
 Odilona Odilona NPFSSP0 # avl
 Odilón Odilón NPMSSP0 # avl
 Odiseo Odiseo NPMSSP0 # avl
+Odra Odra NPMSG00
 Odriozola Odriozola NPCNSP0 #apellido
 Odèn Odèn NPCNG00 # topònim-apertium-falta-gènere-nombre
 Odín Odín NPMSSP0 # avl
@@ -19629,6 +19631,7 @@ oXygen oXygen NPMSO00
 Ñuñoa Ñuñoa NPCSG00 #municipios de Chile
 Òdena Òdena NPCNG00 # topònim-apertium-falta-gènere-nombre
 Òrrius Òrrius NPCSG00 # topònim-apertium-falta-gènere-nombre
+Óder Óder NPMSG00
 Ólvega Ólvega NPCSG00 #municipios de España
 Ónavas Ónavas NPCSG00 #municipios de México
 Óptima Óptima NPFSSP0 # avl
