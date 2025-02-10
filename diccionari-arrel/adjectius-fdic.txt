@@ -23514,6 +23514,7 @@ neoplatónico neoplatónica=categories: A;fonts: LT;
 neoplásico neoplásica=categories: A;fonts: LT;
 neopositivista=categories: A;fonts: LT;
 neopuritano neopuritana=categories: A;fonts: derivat;
+neorreaccionario neorreaccionaria=categories: A;fonts: derivat;
 neorrealista=categories: A;fonts: LT;
 neorrural=categories: A;fonts: dr;
 neotestamentario neotestamentaria=categories: A;fonts: dr;
