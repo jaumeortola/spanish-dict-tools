@@ -1,4 +1,3 @@
- 
 #Abjazia Abjazia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhasia Abkhasia NPCNG00 # topònim-apertium-falta-gènere-nombre
 #Abkhazia Abkhazia NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -7036,6 +7035,7 @@ Fatna Fatna NPFSSP0 #nombre propio de mujer
 Fatou Fatou NPFSSP0 #nombre propio de mujer
 Fatoumata Fatoumata NPFSSP0 #nombre propio de mujer
 Fauci Fauci NPCNSP0
+Faulkner Faulkner NPCNSP0
 Faura Faura NPCNG00 # topònim-apertium-falta-gènere-nombre
 Fauré Fauré NPCNSP0
 Faus Faus NPCNSP0 #apellido
@@ -9083,6 +9083,7 @@ Idiazabal Idiazabal NPCSG00 #municipios de España
 Idoia Idoia NPFSSP0 # avl
 Idoya Idoya NPFSSP0 #nombre propio de mujer
 Idrissa Idrissa NPMSSP0 #nombre propio de hombre
+Idígoras Idígoras NPCNSP0
 Iekora Iekora NPCSG00 #municipios de España
 Ifema Ifema NPFSO00
 Ifigenia Ifigenia NPFSSP0 # avl
@@ -13538,6 +13539,7 @@ Orpí Orpí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orquídea Orquídea NPFSSP0 # avl
 Orreaga Orreaga NPCSG00 #municipios de España
 Orrios Orrios NPCSG00 #municipios de España
+Orsay Orsay NPCNG00
 Orsomarso Orsomarso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orta Orta NPCNSP0 #apellido
 Ortega Ortega NPCNSP0 # wiki common surnames
