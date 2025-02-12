@@ -29888,6 +29888,7 @@ semicomplejo semicompleja=categories: A;fonts: derivat;
 semiconductor semiconductora=categories: A;fonts: LT;
 semiconsonante=categories: A;fonts: LT;
 semiconsonántico semiconsonántica=categories: A;fonts: LT;
+semicontinental=categories: A;fonts: derivat;
 semicontinuo semicontinua=categories: A;fonts: LT;
 semicopado semicopada=categories: A;fonts: dr;
 semicristalino semicristalina=categories: A;fonts: LT;
