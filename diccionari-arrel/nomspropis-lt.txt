@@ -8541,6 +8541,7 @@ Hato Hato NPCSG00 #municipios de Colombia
 Hatonuevo Hatonuevo NPCSG00 #municipios de Colombia
 Hatshepsut Hatshepsut NPFSSP0
 Hattiesburg Hattiesburg NPCSG00
+Haussmann Haussmann NPCNSP0
 Havers Havers NPCNSP0 # medical
 Hawa Hawa NPFSSP0 #nombre propio de mujer
 Hawking Hawking NPCNSP0
