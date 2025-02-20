@@ -26669,6 +26669,7 @@ postescolar=categories: A;fonts: LT;
 postesfenoidal=categories: A;fonts: LT;
 postestreptocócico postestreptocócica=categories: A;fonts: medical;
 postestructuralista=categories: A;fonts: LT;
+postexpresionista=categories: A;fonts: derivat;
 postfechado postfechada=categories: A;fonts: LT;
 postfeminista=categories: A;fonts: LT;
 postfestivo postfestiva=categories: A;fonts: LT;

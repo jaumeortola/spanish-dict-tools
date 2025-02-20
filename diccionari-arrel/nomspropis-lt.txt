@@ -3206,6 +3206,7 @@ Bloomsbury Bloomsbury NPCSG00
 Blount Blount NPCNSP0 # medical
 Blue Blue NPCNSP0 # wiki
 Blumberg Blumberg NPCNSP0 # medical
+Blumenthal Blumenthal NPCNSP0
 Blázquez Blázquez NPCNSP0 #apellido
 Blüdhaven Blüdhaven NPFSG00
 Boada Boada NPCSG00 #municipios de España
