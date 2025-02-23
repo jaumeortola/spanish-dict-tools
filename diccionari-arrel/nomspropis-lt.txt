@@ -11965,6 +11965,7 @@ Mersin Mersin NPCNG00 # topònim-apertium-falta-gènere-nombre
 Meruelo Meruelo NPCSG00 #municipios de España
 Mery Mery NPFSSP0
 Meryem Meryem NPFSSP0 #nombre propio de mujer
+Merz Merz NPCNSP0
 Mesalina Mesalina NPFSSP0 # avl
 Mesalino Mesalino NPMSSP0 # avl
 Meseguer Meseguer NPCNSP0 #apellido
@@ -15972,6 +15973,7 @@ Saro Saro NPCSG00 #municipios de España
 Sarr Sarr NPCNSP0 #apellido
 Sarracín Sarracín NPCSG00 #municipios de España
 Sarral Sarral NPCNG00 # topònim-apertium-falta-gènere-nombre
+Sarre Sarre NPMSG00
 Sarreaus Sarreaus NPCSG00 #municipios de España
 Sarria Sarria NPCSG00 #municipios de España
 Sarriá Sarriá NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -18926,6 +18928,7 @@ Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Wegener Wegener NPCNSP0
 Wei Wei NPMSSP0 #nombre propio de hombre
+Weidel Weidel NPCNSP0
 Weikersheim Weikersheim NPCSG00
 Welander Welander NPCNSP0 # medical
 Wellington Wellington NPCSG00 # topònim-apertium-falta-gènere-nombre
