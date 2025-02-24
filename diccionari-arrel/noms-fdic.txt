@@ -62787,6 +62787,7 @@ tecnocultura=categories: F;fonts: termcat;
 tecnoeducación=categories: FS;fonts: fundeu;
 tecnoestructura=categories: F;fonts: LT;
 tecnoestrés=categories: MS;fonts: fundeu;
+tecnofeudalismo=categories: M;fonts: derivat;
 tecnofilia=categories: F;fonts: derivat;
 tecnofinanzas=categories: FP;fonts: derivat;
 tecnofobia=categories: F;fonts: derivat;
