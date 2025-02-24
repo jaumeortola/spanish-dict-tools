@@ -42430,6 +42430,7 @@ metacrilato=categories: M;fonts: LT;
 metacroleína=categories: F;fonts: LT;
 metacromasia=categories: F;fonts: LT;
 metadatos=categories: MP;fonts: fundeu;
+metadescripción=categories: F;fonts: derivat;
 metadinamo=categories: F;fonts: LT;
 metadona=categories: F;fonts: LT;
 metafase=categories: F;fonts: LT;

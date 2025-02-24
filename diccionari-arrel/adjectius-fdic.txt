@@ -22292,6 +22292,7 @@ metacronal=categories: A;fonts: LT;
 metacrílico metacrílica=categories: A;fonts: LT;
 metacrónico metacrónica=categories: A;fonts: LT;
 metacéntrico metacéntrica=categories: A;fonts: LT;
+metadescriptivo metadescriptiva=categories: A;fonts: derivat;
 metaestable=categories: A;fonts: LT;
 metafito metafita=categories: A;fonts: dr;
 metafásico metafásica=categories: A;fonts: LT;
