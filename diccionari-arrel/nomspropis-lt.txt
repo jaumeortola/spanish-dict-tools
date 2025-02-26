@@ -3992,7 +3992,7 @@ Canaán Canaán NPCSG00
 Canberra Canberra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Cancún Cancún NPCNG00 # topònim-apertium-falta-gènere-nombre
 Candamo Candamo NPCSG00 #municipios de España
-Candanchú Candanchú NPCNG00 # topònim-apertium-falta-gènere-nombre
+Candanchú Candanchú NPCSG00 # topònim-apertium
 Candasnos Candasnos NPCSG00 #municipios de España
 Candel Candel NPCNSP0 #apellido
 Candela Candela NPFSSP0 # avl
@@ -7322,6 +7322,7 @@ Forel Forel NPCNSP0 # medical
 Forfoleda Forfoleda NPCSG00 #municipios de España
 Forio Forio NPCNG00 # topònim-apertium-falta-gènere-nombre
 Formentera Formentera NPCNG00 # topònim-apertium-falta-gènere-nombre
+Formigal Formigal NPCSG00
 Formignana Formignana NPCNG00 # topònim-apertium-falta-gènere-nombre
 Formosa Formosa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Formoso Formoso NPCNSP0 #apellido
