@@ -18927,6 +18927,7 @@ Waziristán Waziristán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Webb Webb NPCNSP0
 Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
+Weddell Weddell NPCNSP0
 Wegener Wegener NPCNSP0
 Wei Wei NPMSSP0 #nombre propio de hombre
 Weidel Weidel NPCNSP0
