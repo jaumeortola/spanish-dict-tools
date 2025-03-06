@@ -6220,6 +6220,7 @@ ELCCO ELCCO NPCNO00
 ENAIRE ENAIRE NPCSO00
 ENUSA ENUSA NPCNO00 #empresa española
 ERC ERC NPCNO00
+ES-Alert ES-Alert NPMSO00
 ESA ESA NPFSO00
 ESADE ESADE NPFSO00
 ESMUC ESMUC NPFSO00
@@ -10034,6 +10035,7 @@ Kler Kler NPCNO00
 Klinefelter Klinefelter NPCNSP0 # medical
 Klippel-Feil Klippel-Feil NPCNSP0 # medical
 Klipper-Trenaunay-Weber Klipper-Trenaunay-Weber NPCNSP0 # medical
+Klondike Klondike NPCSG00
 Klüver-Bucy Klüver-Bucy NPCNSP0 # medical
 Knicks Knicks NPMSO00
 Knéset Knéset NPFSO00
