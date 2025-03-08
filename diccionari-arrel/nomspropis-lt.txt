@@ -2723,6 +2723,7 @@ Belalcázar Belalcázar NPCSG00 #municipios de Colombia
 Belalcázar Belalcázar NPCSG00 #municipios de España
 Belarmina Belarmina NPFSSP0 #nombre propio de mujer
 Belarmino Belarmino NPMSSP0 #nombre propio de hombre
+Belarra Belarra NPCNSP0
 Belarús Belarús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belascoáin Belascoáin NPCSG00 #municipios de España
 Belauntza Belauntza NPCSG00 #municipios de España
@@ -3367,6 +3368,7 @@ Bouchra Bouchra NPFSSP0 #nombre propio de mujer
 Boudin Boudin NPCNSP0
 Boujemaa Boujemaa NPMSSP0 #nombre propio de hombre
 Boulanger Boulanger NPCNSP0
+Boulez Boulez NPCNSP0
 Bourdieu Bourdieu NPCNSP0
 Bourneville Bourneville NPCNSP0 # medical
 Bousselham Bousselham NPMSSP0 #nombre propio de hombre
@@ -6070,6 +6072,7 @@ Donjimeno Donjimeno NPCSG00 #municipios de España
 Donné Donné NPCNSP0 # medical
 Donoso Donoso NPCNSP0 # wiki common surnames
 Donosti Donosti NPCNG00 # topònim-apertium-falta-gènere-nombre
+Donostia Donostia NPCSG00
 Donovan Donovan NPCNSP0
 Donvidas Donvidas NPCSG00 #municipios de España
 Doofinder Doofinder NPCNO00 #empresa española
@@ -16633,6 +16636,7 @@ Stiglitz Stiglitz NPCNSP0
 Stignano Stignano NPCNG00 # topònim-apertium-falta-gènere-nombre
 Still Still NPCNSP0 # medical
 Stilo Stilo NPCNG00 # topònim-apertium-falta-gènere-nombre
+Stockhausen Stockhausen NPCNSP0
 Stoica Stoica NPCNSP0 #apellido
 Stokes-Adams Stokes-Adams NPCNSP0 # medical
 Stone Stone NPCNSP0 # wiki

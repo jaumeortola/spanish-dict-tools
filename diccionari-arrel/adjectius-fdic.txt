@@ -118,6 +118,7 @@ LGTBfóbico LGTBfóbica=categories: A;fonts: fundéu;
 LTGB=categories: AI;fonts: fundéu;
 N95=categories: AI;fonts: fundeu;
 NoComercial=categories: AI;fonts: CC;
+P2P=categories: AI;fonts: anglès;
 QR=categories: AI;fonts: dr;
 RGB=categories: AI;fonts: sigla;
 SSD=categories: AI;fonts: sigla;
