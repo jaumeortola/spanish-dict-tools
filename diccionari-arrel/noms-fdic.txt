@@ -47030,6 +47030,7 @@ opsoclonía=categories: F;fonts: LT;
 opsonina=categories: F;fonts: LT;
 opsonización=categories: F;fonts: LT;
 optación=categories: F;fonts: LT;
+optatividad=categories: F;fonts: derivat;
 opticógrafo=categories: M;fonts: LT;
 optimación=categories: F;fonts: LT;
 optimate=categories: M;fonts: LT;
