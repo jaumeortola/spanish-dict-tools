@@ -57635,6 +57635,7 @@ rotafrotación=categories: F;fonts: LT;
 rotaje=categories: M;fonts: dr;
 rotario rotaria=categories: MF;fonts: LT;
 rotativa=categories: F;fonts: LT;
+rotatividad=categories: F;fonts: derivat;
 rotativo=categories: M;fonts: LT;
 rotatura=categories: F;fonts: LT;
 rotavirus=categories: MI;fonts: LT;
