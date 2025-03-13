@@ -7784,6 +7784,7 @@ sobrehilar=categories: V;model:ahilar;fonts: LT;
 sobreimprimir=categories: V;model:imprimir;fonts: LT;
 sobrellenar=categories: V;model:amar;fonts: LT;
 sobrellevar=categories: V;model:amar;fonts: LT;
+sobremedicar=categories: V;model:abarcar;fonts: derivat;
 sobrenadar=categories: V;model:amar;fonts: LT;
 sobrentender=categories: V;model:entender;fonts: LT;
 sobrepasar=categories: V;model:amar;fonts: LT;
