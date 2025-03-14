@@ -38378,6 +38378,7 @@ lambisconería=categories: F;fonts: dr;
 lambonería=categories: F;fonts: dr;
 lambrequín=categories: M;fonts: LT;
 lambrija=categories: F;fonts: LT;
+lamebotas=categories: MFI;fonts: anglicism;
 lameculos=categories: MFI;fonts: LT;
 lamedal=categories: M;fonts: LT;
 lamedor lamedora=categories: MF;fonts: LT;

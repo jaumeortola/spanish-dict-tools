@@ -2307,6 +2307,7 @@ BMW BMW NPCNO00 # wiki
 BNG BNG NPMSO00
 BOE BOE NPMNO00
 BTS BTS NPCNO00
+BYD BYD NPCNO00
 Baader-Meinhof Baader-Meinhof NPCNO00
 Baal Baal NPMSSP0 # avl
 Baalbek Baalbek NPCNG00 # topònim-apertium-falta-gènere-nombre
