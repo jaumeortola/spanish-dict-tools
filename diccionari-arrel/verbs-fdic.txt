@@ -5018,6 +5018,7 @@ fraguar=categories: V;model:averiguar;fonts: LT;
 frangollar=categories: V;model:amar;fonts: LT;
 franjear=categories: V;model:amar;fonts: LT;
 franquear=categories: V;model:amar;fonts: LT;
+franquiciar=categories: V;model:amar;fonts: dr;
 frasear=categories: V;model:amar;fonts: LT;
 fratasar=categories: V;model:amar;fonts: ap;
 fraternizar=categories: V;model:abalanzar;fonts: LT;
