@@ -31987,6 +31987,7 @@ superprotector superprotectora=categories: A;fonts: derivat;
 superprotegido superprotegida=categories: A;fonts: derivat;
 superpuntual=categories: A;fonts: derivat;
 superraro superrara=categories: A;fonts: derivat;
+superrazonable=categories: A;fonts: derivat;
 superreal=categories: A;fonts: derivat;
 superrealista=categories: A;fonts: LT;
 superrecomendable=categories: A;fonts: derivat;
