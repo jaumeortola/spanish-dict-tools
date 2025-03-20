@@ -29925,6 +29925,7 @@ semielaborado semielaborada=categories: A;fonts: LT;
 semielíptico semielíptica=categories: A;fonts: LT;
 semiempírico semiempírica=categories: A;fonts: LT;
 semiescenificado semiescenificada=categories: A;fonts: derivat;
+semiesencial=categories: A;fonts: derivat;
 semiesférico semiesférica=categories: A;fonts: LT;
 semiespinoso semiespinosa=categories: A;fonts: LT;
 semiestatal=categories: A;fonts: LT;
