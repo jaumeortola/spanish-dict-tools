@@ -2455,6 +2455,7 @@ Banyoles Banyoles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Banámichi Banámichi NPCSG00 #municipios de México
 Baquedano Baquedano NPCNSP0
 Baqueira Baqueira NPCNG00 # topònim-apertium-falta-gènere-nombre
+Baqueira-Beret Baqueira-Beret NPCSG00
 Baquerizo Baquerizo NPCSG00 # Ecuador
 Baquero Baquero NPCNSP0 #apellido
 Barac Barac NPMSSP0 # avl
