@@ -9921,6 +9921,7 @@ Karabaj Karabaj NPCNG00 # topònim-apertium-falta-gènere-nombre
 Karachi Karachi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Karajan Karajan NPCNSP0
 Karam Karam NPMSSP0 #nombre propio de hombre
+Karamazov Karamazov NPCNSP0
 Karapaí Karapaí NPCSG00 # Paraguay
 Kardashian Kardashian NPCNSP0
 Karen Karen NPFSSP0 # avl
