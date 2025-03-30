@@ -12003,6 +12003,7 @@ Metodia Metodia NPFSSP0 # avl
 Metodio Metodio NPMSSP0 # avl
 Metropolitana Metropolitana NPCSG00 #municipios de Chile
 Metrovacesa Metrovacesa NPCNO00 #empresa española
+Metternich Metternich NPCNSP0
 Metz Metz NPCNG00 # topònim-apertium-falta-gènere-nombre
 Metztitlán Metztitlán NPCSG00 #municipios de México
 Metán Metán NPCSG00 #municipios de Argentina
