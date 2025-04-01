@@ -5259,6 +5259,7 @@ hermanar=categories: V;model:amar;fonts: LT;
 hermetizar=categories: V;model:abalanzar;fonts: LT;
 hermosear=categories: V;model:amar;fonts: LT;
 herniar=categories: V;model:amar;fonts: LT;
+heroizar=categories: V;model:arcaizar;fonts: derivat;
 herrar=categories: V;model:cerrar;fonts: LT;
 herretear=categories: V;model:amar;fonts: LT;
 herrumbrar=categories: V;model:amar;fonts: LT;

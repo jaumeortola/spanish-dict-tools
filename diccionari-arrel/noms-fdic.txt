@@ -33943,6 +33943,7 @@ herodes=categories: MI;fonts: dr;
 heroicidad=categories: F;fonts: LT;
 heroida=categories: F;fonts: dr;
 heroinómano heroinómana=categories: MF;fonts: LT;
+heroización=categories: F;fonts: derivat;
 heroína=categories: F;fonts: LT;
 heroísmo=categories: M;fonts: LT;
 herpangina=categories: F;fonts: LT;
