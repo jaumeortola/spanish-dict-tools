@@ -3425,6 +3425,7 @@ Brazuelo Brazuelo NPCSG00 #municipios de España
 Brazzaville Brazzaville NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brañosera Brañosera NPCSG00 #municipios de España
 Brea Brea NPCNG00 # topònim-apertium-falta-gènere-nombre
+Brecht Brecht NPCNSP0
 Breda Breda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Breixo Breixo NPMSSP0 #nombre propio de hombre
 Brema Brema NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -8416,6 +8417,7 @@ Génave Génave NPCSG00 #municipios de España
 Génova Génova NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gérgal Gérgal NPCSG00 #municipios de España
 Gérôme Gérôme NPCNSP0
+Gógol Gógol NPCNSP0
 Gójar Gójar NPCSG00 #municipios de España
 Gólgota Gólgota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Gómara Gómara NPCSG00 #municipios de España
