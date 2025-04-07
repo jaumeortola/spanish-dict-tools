@@ -11027,6 +11027,7 @@ Láncara Láncara NPCSG00 #municipios de España
 Lázaro Lázaro NPMSSP0 # avl
 Lécera Lécera NPCSG00 #municipios de España
 Léntulo Léntulo NPMSSP0 # avl
+Léonin Léonin NPMSSP0
 Lépido Lépido NPMSSP0 # avl
 Lérida Lérida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lévi-Strauss Lévi-Strauss NPCNSP0
@@ -13262,6 +13263,7 @@ Oberta Oberta NPFSSP0 # avl
 Oberto Oberto NPMSSP0 # avl
 Oberá Oberá NPCSG00 # Argentina
 Objective-C Objective-C NPMSO00
+Obrecht Obrecht NPCNSP0
 Obregón Obregón NPCNSP0
 Obsidian Obsidian NPMSO00
 Obélix Obélix NPMSSP0
@@ -14760,6 +14762,7 @@ Pénjamo Pénjamo NPCSG00 # México
 Pérez Pérez NPCNSP0 # wiki common surnames
 Pérgamo Pérgamo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pérignon Pérignon NPCNSP0
+Pérotin Pérotin NPMSSP0
 Pésaj Pésaj NPMSO00
 Pétain Pétain NPCNSP0
 Pétrola Pétrola NPCSG00 #municipios de España
