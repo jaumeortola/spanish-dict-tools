@@ -20546,6 +20546,7 @@ letargoso letargosa=categories: A;fonts: LT;
 leteo letea=categories: A;fonts: LT;
 leticiano leticiana=categories: A;fonts: dr;
 letificante=categories: A;fonts: dr;
+letológico letológica=categories: A;fonts: wiki;
 letonio letonia=categories: A;fonts: LT;
 letrado letrada=categories: A;fonts: LT;
 letraherido letraherida=categories: A;fonts: dr;
