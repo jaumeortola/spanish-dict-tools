@@ -13263,6 +13263,7 @@ Oberta Oberta NPFSSP0 # avl
 Oberto Oberto NPMSSP0 # avl
 Oberá Oberá NPCSG00 # Argentina
 Objective-C Objective-C NPMSO00
+Obradoiro Obradoiro NPMSG00
 Obrecht Obrecht NPCNSP0
 Obregón Obregón NPCNSP0
 Obsidian Obsidian NPMSO00
