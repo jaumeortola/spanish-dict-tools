@@ -642,6 +642,8 @@ porque porque CS
 ppm ppm NCFN000
 presente presente I
 pro pro SPS00
+puah puah I
+puaj puaj I
 pucha pucha I
 pues pues CS
 puf puf I

@@ -778,6 +778,7 @@ Alausí Alausí NPCSG00 # Ecuador
 Alazne Alazne NPFSSP0 #nombre propio de mujer
 Alba Alba NPFSSP0 # avl
 Albacete Albacete NPCNG00 # topònim-apertium-falta-gènere-nombre
+Albaicín Albaicín NPMSG00
 Albaida Albaida NPCNG00 # topònim-apertium-falta-gènere-nombre
 Albal Albal NPCNG00 # topònim-apertium-falta-gènere-nombre
 Albaladejo Albaladejo NPCSG00 #municipios de España
@@ -859,6 +860,7 @@ Alcaine Alcaine NPCSG00 #municipios de España
 Alcalalí Alcalalí NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcalá Alcalá NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcampell Alcampell NPCSG00 #municipios de España
+Alcampo Alcampo NPMNO00
 Alcanadre Alcanadre NPCSG00 #municipios de España
 Alcanar Alcanar NPCNG00 # topònim-apertium-falta-gènere-nombre
 Alcantarilla Alcantarilla NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -2077,6 +2079,7 @@ Atanzón Atanzón NPCSG00 #municipios de España
 Atapuerca Atapuerca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Ataquines Ataquines NPCSG00 #municipios de España
 Atarfe Atarfe NPCSG00 #municipios de España
+Atari Atari NPCNO00
 Atarrabia Atarrabia NPCSG00 #municipios de España
 Atatürk Atatürk NPCNSP0
 Ataun Ataun NPCSG00 #municipios de España
@@ -2679,6 +2682,7 @@ Beau Beau NPCNSP0 # medical
 Beaucaire Beaucaire NPCNG00 # topònim-apertium-falta-gènere-nombre
 Beaufort Beaufort NPCNSP0
 Beaumont Beaumont NPCNSP0
+Beauvoir Beauvoir NPCNSP0
 Becedas Becedas NPCSG00
 Becedillas Becedillas NPCSG00 #municipios de España
 Beceite Beceite NPCSG00 #municipios de España
@@ -3499,6 +3503,7 @@ Brudzinski Brudzinski NPCNSP0 # medical
 Brueghel Brueghel NPCNSP0
 Bruguez Bruguez NPCSG00 # Paraguay
 Bruna Bruna NPFSSP0 # avl
+Brundtland Brundtland NPCNSP0
 Brunei Brunei NPCNG00 # topònim-apertium-falta-gènere-nombre
 Brunelleschi Brunelleschi NPCNSP0
 Brunet Brunet NPCNSP0 #apellido
@@ -3677,6 +3682,7 @@ CDU CDU NPFSO00
 CEACS CEACS NPMSO00
 CEDA CEDA NPFSO00
 CEOE CEOE NPFSO00
+CERN CERN NPMSO00
 CES CES NPCNO00
 CESAC CESAC NPMSO00
 CESCE CESCE NPCNO00 #empresa española
@@ -4218,6 +4224,7 @@ Carrascalejo Carrascalejo NPCSG00 #municipios de España
 Carrasco Carrasco NPCNSP0 # wiki common surnames
 Carrascosa Carrascosa NPCSG00 #municipios de España
 Carratala Carratala NPCNSP0 #apellido
+Carratalá Carratalá NPCNSP0
 Carratraca Carratraca NPCSG00 #municipios de España
 Carreira Carreira NPCNSP0 #apellido
 Carreño Carreño NPCNSP0
@@ -5265,6 +5272,7 @@ Comte Comte NPCNSP0
 Comédie-Française Comédie-Française NPFSO00
 Cona Cona NPFSSP0 #hipocorístico
 Conakri Conakri NPCSG00 # topònim-apertium-falta-gènere
+Conan Conan NPMSSP0
 Conangles Conangles NPCNG00 # topònim-apertium-falta-gènere-nombre
 Concaran Concaran NPCSG00 #municipios de Argentina
 Conce Conce NPFSSP0 #hipocorístico
@@ -6164,6 +6172,7 @@ Duna Duna NPFSSP0 # avl
 Duncan Duncan NPCNSP0 # medical
 Dunia Dunia NPFSSP0 # avl
 Duolingo Duolingo NPCNO00
+Dupont Dupont NPCNSP0
 Dupuytren Dupuytren NPCNSP0 # medical
 Durango Durango NPCNG00 # topònim-apertium-falta-gènere-nombre
 Durango Durango NPCSG00
@@ -6863,6 +6872,7 @@ Eurofestival Eurofestival NPMSO00
 Eurogrupo Eurogrupo NPMSO00
 Euroliga Euroliga NPFSO00
 Euroligas Euroliga NPFPO00
+Euromillones Euromillones NPCNO00
 Euromillones Euromillones NPMNO00
 Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Europarlamento Europarlamento NPMSO00
@@ -8505,6 +8515,7 @@ Hanaa Hanaa NPFSSP0 #nombre propio de mujer
 Hanae Hanae NPFSSP0 #nombre propio de mujer
 Hanan Hanan NPFSSP0 #nombre propio de mujer
 Hanane Hanane NPFSSP0 #nombre propio de mujer
+Hancock Hancock NPCNSP0
 Hand-Schüller-Christian Hand-Schüller-Christian NPCNSP0 # medical
 Hangouts Hangouts NPCNO00
 Haniel Haniel NPMSSP0
@@ -8546,6 +8557,7 @@ Hassna Hassna NPFSSP0 #nombre propio de mujer
 Hasán Hasán NPMSSP0 # avl
 Hasél Hasél NPCNSP0
 Hatchepsut Hatchepsut NPFSSP0
+Hathaway Hathaway NPCNSP0
 Hathor Hathor NPCNSP0 # wiki
 Hatim Hatim NPMSSP0 #nombre propio de hombre
 Hato Hato NPCSG00 #municipios de Colombia
@@ -8954,6 +8966,7 @@ Huitziltepec Huitziltepec NPCSG00 #municipios de México
 Huixquilucan Huixquilucan NPCSG00
 Huixtla Huixtla NPCSG00 #municipios de México
 Huixtán Huixtán NPCSG00 #municipios de México
+Huizhou Huizhou NPCSG00
 Hulfo Hulfo NPMSSP0 # avl
 Humada Humada NPCSG00 #municipios de España
 Humahuaca Humahuaca NPCSG00 #municipios de Argentina
@@ -9260,6 +9273,7 @@ Iranzu Iranzu NPFSSP0 #nombre propio de mujer
 Irapa Irapa NPCSG00 # Venezuela
 Irapuato Irapuato NPCSG00
 Iraq Iraq NPCNG00 # topònim-apertium-falta-gènere-nombre
+Irarrázabal Irarrázabal NPCNSP0
 Irati Irati NPFSSP0 #nombre propio de mujer
 Iratxe Iratxe NPFSSP0 #nombre propio de mujer
 Irañeta Irañeta NPCSG00 #municipios de España
@@ -9585,6 +9599,7 @@ Jean-Philippe Jean-Philippe NPMSSP0
 Jean-Pierre Jean-Pierre NPMSSP0
 Jean-Yves Jean-Yves NPMSSP0
 Jeanette Jeanette NPFSSP0 #nombre propio de mujer
+Jeanine Jeanine NPFSSP0
 Jechu Jechu NPMSSP0 #hipocorístico
 Jefferson Jefferson NPCNSP0 # wiki
 Jeffrey Jeffrey NPMSSP0
@@ -10082,6 +10097,7 @@ Krebs Krebs NPCNSP0 # medical
 Kremlin Kremlin NPCNG00 # topònim-apertium-falta-gènere-nombreKremlin Kremlin NPMSG00
 Kripan Kripan NPCSG00 #municipios de España
 Kristeller Kristeller NPCNSP0 # medical
+Kristen Kristen NPCNSP0
 Kristian Kristian NPMSSP0 #nombre propio de hombre
 Kristina Kristina NPFSSP0 #nombre propio de mujer
 Krogius Krogius NPCNSP0 # medical
@@ -10364,6 +10380,7 @@ Laurent Laurent NPCNSP0 # wiki
 Laurentina Laurentina NPFSSP0 # avl
 Laurentino Laurentino NPMSSP0 # avl
 Laurentiu Laurentiu NPMSSP0 #nombre propio de hombre
+Laureus Laureus NPMNO00
 Lauri Lauri NPFSSP0 #hipocorístico
 Laurino Laurino NPCNG00 # topònim-apertium-falta-gènere-nombre
 Laurita Laurita NPFSSP0 #hipocorístico
@@ -11377,6 +11394,7 @@ Mar-a-Lago Mar-a-Lago NPCNG00 # topònim-apertium-falta-gènere-nombre
 MarSP MarSP NPCNO00
 Mara Mara NPFSSP0 # avl
 Maracaibo Maracaibo NPCSG00
+Maracanazo Maracanazo NPMSO00
 Maracay Maracay NPCSG00 # Venezuela
 Maracena Maracena NPCSG00 #municipios de España
 Maradona Maradona NPCNSP0 # wiki
@@ -12660,6 +12678,7 @@ Musset Musset NPCNSP0 # medical
 Mussolini Mussolini NPCNSP0 # wiki
 Mussomeli Mussomeli NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mustafá Mustafá NPMSSP0 # avl
+Mustang Mustang NPCNSP0
 Mustapha Mustapha NPMSSP0 #nombre propio de hombre
 Mustard Mustard NPCNSP0 # medical
 Mutatá Mutatá NPCSG00 #municipios de Colombia
@@ -13692,6 +13711,7 @@ PKK PKK NPMSSP0
 PNG PNG NPCNO00 # wiki
 PNV PNV NPMSO00
 PP PP NPCNO00 # wiki
+PRI PRI NPMSO00
 PSE PSE NPMSO00
 PSG PSG NPMSO00
 PSN PSN NPCNO00
@@ -13703,6 +13723,7 @@ Pablo Pablo NPMSSP0 # avl
 Pac-Man Pac-Man NPCNSP0
 Paca Paca NPFSSP0 # avl
 Pacasmayo Pacasmayo NPCSG00 # Perú
+Pachacútec Pachacútec NPMSSP0
 Pachavita Pachavita NPCSG00 #municipios de Colombia
 Pacheco Pacheco NPCNSP0
 Pachi Pachi NPFSSP0 #hipocorístico
@@ -14088,6 +14109,7 @@ Penrose Penrose NPCNSP0
 Pensilvania Pensilvania NPCNG00 # topònim-apertium-falta-gènere-nombre
 Pentesilea Pentesilea NPFSSP0 # avl
 Pentesilia Pentesilia NPFSSP0 # avl
+Pentium Pentium NPCNO00
 Pentone Pentone NPCNG00 # topònim-apertium-falta-gènere-nombre
 Penàguila Penàguila NPCSG00 #municipios de España
 Penáguila Penáguila NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -14186,6 +14208,7 @@ Peterborough Peterborough NPCSG00
 Peters Peters NPCNSP0 # medical
 Petersburgo Petersburgo NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peterson Peterson NPCNSP0 # wiki
+Petete Petete NPMSSP0
 Petit Petit NPCNSP0 #apellido
 Petlalcingo Petlalcingo NPCSG00 #municipios de México
 Petorca Petorca NPCSG00 #municipios de Chile
@@ -14195,6 +14218,7 @@ Petrarca Petrarca NPMSSP0
 Petre Petre NPMSSP0 #nombre propio de hombre
 Petrel Petrel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Petrer Petrer NPCNG00 # topònim-apertium-falta-gènere-nombre
+Petri Petri NPCNSP0
 Petrica Petrica NPMSSP0 #nombre propio de hombre
 Petrizzi Petrizzi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Petro Petro NPMSSP0 #nombre propio de hombre
@@ -14300,6 +14324,7 @@ Pili Pili NPFSSP0 # avl
 Pilita Pilita NPFSSP0 #hipocorístico
 Pilos Pilos NPCSG00
 Piloña Piloña NPCSG00 #municipios de España
+Pilsen Pilsen NPCNSP0
 Pilu Pilu NPFSSP0 #hipocorístico
 Piluca Piluca NPFSSP0 #hipocorístico
 Piluchi Piluchi NPFSSP0 #hipocorístico
@@ -14555,6 +14580,7 @@ Poty Poty NPCSG00 # Paraguay
 Pou Pou NPCNSP0 #apellido
 Poulenc Poulenc NPCNSP0
 Pouliquen Pouliquen NPCNSP0 # medical
+Poussin Poussin NPCNSP0
 Poveda Poveda NPCNSP0
 Povedano Povedano NPCNSP0 #apellido
 Povedilla Povedilla NPCSG00 #municipios de España
@@ -15236,6 +15262,7 @@ Rieju Rieju NPCNO00 #empresa española
 Riello Riello NPCSG00 #municipios de España
 Riells Riells NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rielves Rielves NPCSG00 #municipios de España
+Riemann Riemann NPCNSP0
 Riesco Riesco NPCNSP0 #apellido
 Riesi Riesi NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rieti Rieti NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -15534,6 +15561,7 @@ Ruiloba Ruiloba NPCSG00 #municipios de España
 Ruipérez Ruipérez NPCNSP0 #apellido
 Ruiz Ruiz NPCNSP0 # wiki common surnames
 Ruiz Ruiz NPMSSP0 # avl
+Rulfo Rulfo NPCNSP0
 Ruli Ruli NPMSSP0 #hipocorístico
 Rull Rull NPCNSP0 #apellido
 Rumania Rumania NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16050,6 +16078,7 @@ Schieferl Schieferl NPCNSP0
 Schiff Schiff NPCNSP0 # medical
 Schilling Schilling NPCNSP0 # medical
 Schimmelbusch Schimmelbusch NPCNSP0 # medical
+Schimmelpenninck Schimmelpenninck NPCNSP0
 Schiötz Schiötz NPCNSP0 # medical
 Schlesinger Schlesinger NPCNSP0
 Schleswig Schleswig NPCSG00
@@ -16487,6 +16516,7 @@ Somogyi Somogyi NPCNSP0 # medical
 Somolinos Somolinos NPCSG00 #municipios de España
 Somondoco Somondoco NPCSG00 #municipios de Colombia
 Somontín Somontín NPCSG00 #municipios de España
+Somosaguas Somosaguas NPCNG00
 Somosierra Somosierra NPCSG00 #municipios de España
 Somoza Somoza NPCNSP0
 Sonadell Sonadell NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -16802,6 +16832,7 @@ TEDH TEDH NPMSO00
 TGSS TGSS NPFSO00
 TGV TGV NPMNO00
 TLCAN TLCAN NPMSO00
+TPP TPP NPCSO00
 TV1 TV1 NPCSO00
 TV2 TV2 NPCSO00
 TV3 TV3 NPCSO00
@@ -17241,6 +17272,7 @@ Tetis Tetis NPFSSP0 # avl
 Tetiz Tetiz NPCSG00 #municipios de México
 Tetlatlahuca Tetlatlahuca NPCSG00 #municipios de México
 Tetreault Tetreault NPCNSP0
+Tetris Tetris NPMNO00
 Tetuán Tetuán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tetyana Tetyana NPFSSP0 #nombre propio de mujer
 Teté Teté NPFSSP0 #hipocorístico
@@ -17680,6 +17712,7 @@ Trabaldo Trabaldo NPMSSP0 # avl
 Trabanca Trabanca NPCSG00 #municipios de España
 Trabazos Trabazos NPCSG00 #municipios de España
 Tracia Tracia NPCNG00 # topònim-apertium-falta-gènere-nombre
+Tracy Tracy NPCNSP0
 Trafalgar Trafalgar NPCSG00
 Tragacete Tragacete NPCSG00 #municipios de España
 Traiguera Traiguera NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -18027,6 +18060,7 @@ Urbaneja Urbaneja NPCSG00 # Venezuela
 Urbano Urbano NPMSSP0 # avl
 Urbaser Urbaser NPCNO00 #empresa española
 Urbina Urbina NPCNSP0 #apellido
+Urbino Urbino NPCSG00
 Urcuquí Urcuquí NPCSG00 # Ecuador
 Urda Urda NPCSG00 #municipios de España
 Urdaneta Urdaneta NPCSG00 # Venezuela
@@ -18918,6 +18952,7 @@ Walid Walid NPMSSP0 #nombre propio de hombre
 Walker Walker NPCNSP0 # wiki
 Wallace Wallace NPCNSP0 # wiki
 Wallapop Wallapop NPCNO00
+Wally Wally NPCNSP0
 Walser Walser NPCNSP0
 Walt Walt NPCNSP0 # wiki
 Walter Walter NPCNSP0 # wiki
@@ -18935,6 +18970,7 @@ Warren Warren NPCNSP0 # wiki
 Washington Washington NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wasim Wasim NPMSSP0 #nombre propio de hombre
 Wassim Wassim NPMSSP0 #nombre propio de hombre
+Waterfall Waterfall NPCNO00
 Waterloo Waterloo NPCSG00
 Waterston-Cooley Waterston-Cooley NPCNSP0 # medical
 Watson Watson NPCNSP0 # wiki
@@ -18973,6 +19009,7 @@ Westphal Westphal NPCNSP0
 Wharton Wharton NPCNSP0 # medical
 WhatsApp WhatsApp NPCNO00
 Whipple Whipple NPCNSP0 # medical
+Whirlpool Whirlpool NPCNO00
 Whisper Whisper NPMSO00
 Whisplash Whisplash NPCNSP0 # medical
 White White NPCNSP0 # wiki
@@ -19033,6 +19070,7 @@ Wolpe Wolpe NPCNSP0 # medical
 Wonderland Wonderland NPCSG00
 WooCommerce WooCommerce NPCNO00
 Wood Wood NPCNSP0 # medical
+Woodbridge Woodbridge NPCSG00
 Woodward Woodward NPCNSP0
 Woody Woody NPCNSP0
 Woolf Woolf NPCNSP0 # wiki
@@ -19044,6 +19082,7 @@ Wright Wright NPCNSP0 # wiki
 Wu Wu NPCNSP0 #apellido
 Wuhan Wuhan NPCSG00
 Wunderlich Wunderlich NPCNSP0 # medical
+Wurzburgo Wurzburgo NPCSG00
 Wyoming Wyoming NPCNG00 # topònim-apertium-falta-gènere-nombre
 Wálter Wálter NPMSSP0 # avl
 Württemberg Württemberg NPCNG00 # topònim-apertium-falta-gènere-nombre
