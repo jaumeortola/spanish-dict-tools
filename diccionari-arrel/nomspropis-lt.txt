@@ -3364,6 +3364,7 @@ Botarell Botarell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Botero Botero NPCNSP0
 Botorrita Botorrita NPCSG00 #municipios de España
 Botsuana Botsuana NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bottesini Bottesini NPCNSP0
 Botticelli Botticelli NPCNSP0
 Bottrell Bottrell NPCSG00 # Paraguay
 Bouazza Bouazza NPMSSP0 #nombre propio de hombre
