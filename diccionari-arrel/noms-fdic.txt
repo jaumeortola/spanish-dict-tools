@@ -6647,6 +6647,7 @@ aspa=categories: F;fonts: LT;
 aspadera=categories: F;fonts: LT;
 aspador aspadora=categories: MF;fonts: LT;
 asparragina=categories: F;fonts: medical;
+aspartamo=categories: M;fonts: wiki;
 aspaventero aspaventera=categories: MF;fonts: LT;
 aspaviento=categories: M;fonts: LT;
 aspecto=categories: M;fonts: LT;
