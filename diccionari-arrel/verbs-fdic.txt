@@ -7135,6 +7135,7 @@ reencarnar=categories: V;model:amar;fonts: LT;
 reencauzar=categories: V;model:abalanzar;fonts: LT;
 reencontrar=categories: V;model:encontrar;fonts: LT;
 reencuadernar=categories: V;model:amar;fonts: LT;
+reenergizar=categories: V;model:abalanzar;fonts: derivat;
 reenfocar=categories: V;model:abarcar;fonts: LT;
 reenganchar=categories: V;model:amar;fonts: LT;
 reengendrar=categories: V;model:amar;fonts: LT;

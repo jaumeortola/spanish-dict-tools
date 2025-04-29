@@ -8464,6 +8464,7 @@ HBO HBO NPCNSP0
 HEC HEC NPFSO00 # HEC Paris
 HIPRA HIPRA NPCNO00 #empresa española
 Haab Haab NPCNSP0 # medical
+Haakon Haakon NPMSSP0
 Habacuc Habacuc NPMSSP0 # avl
 Habib Habib NPMSSP0 #nombre propio de hombre
 Habiba Habiba NPFSSP0 #nombre propio de mujer
