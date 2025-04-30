@@ -41975,6 +41975,7 @@ meduloepitelioma=categories: M;fonts: medical;
 medusa=categories: F;fonts: LT;
 mefloquina=categories: F;fonts: medical;
 mega=categories: M;fonts: LT;
+megabatería=categories: F;fonts: derivat;
 megabit [pl. megabits]=categories: M;fonts: LT;
 megabyte=categories: M;fonts: LT;
 megacaliosis=categories: FI;fonts: medical;
