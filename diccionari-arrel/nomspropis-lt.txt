@@ -3492,6 +3492,7 @@ Brooks Brooks NPCNSP0
 Broto Broto NPCSG00 #municipios de España
 Brotóns Brotóns NPCNSP0 #apellido
 Brouardel Brouardel NPCNSP0 # medical
+Brouwer Brouwer NPCNSP0
 Brown Brown NPCNSP0
 Brown-Séquard Brown-Séquard NPCNSP0 # medical
 Browning Browning NPCNSP0
@@ -5847,6 +5848,7 @@ Darmstadt Darmstadt NPCNG00 # topònim-apertium-falta-gènere-nombre
 Darnius Darnius NPCNG00 # topònim-apertium-falta-gènere-nombre
 Daroca Daroca NPCNG00 # topònim-apertium-falta-gènere-nombre
 Darro Darro NPCSG00 #municipios de España
+Dartmouth Dartmouth NPCSG00
 Darwin Darwin NPCNSP0
 Daría Daría NPFSSP0 # avl
 Darío Darío NPMSSP0 # avl
@@ -8745,6 +8747,7 @@ Hilaria Hilaria NPFSSP0 # avl
 Hilario Hilario NPMSSP0 # avl
 Hilarión Hilarión NPMSSP0 # avl
 Hilary Hilary NPFSSP0
+Hilbert Hilbert NPCNSP0
 Hilberto Hilberto NPMSSP0 # avl
 Hilda Hilda NPFSSP0 # avl
 Hildeberto Hildeberto NPMSSP0 # avl
@@ -10252,6 +10255,7 @@ Lambán Lambán NPCNSP0
 Lamela Lamela NPCNSP0
 Lamezia Lamezia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lamiae Lamiae NPFSSP0 #nombre propio de mujer
+Lamine Lamine NPMSSP0
 Lampa Lampa NPCSG00 #municipios de Chile
 Lampedusa Lampedusa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Lamyae Lamyae NPFSSP0 #nombre propio de mujer
