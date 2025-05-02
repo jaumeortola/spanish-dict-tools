@@ -21467,6 +21467,7 @@ macro=categories: AI;fonts: LT;
 macroanalítico macroanalítica=categories: A;fonts: LT;
 macroangiopático macroangiopática=categories: A;fonts: LT;
 macrobiótico macrobiótica=categories: A;fonts: LT;
+macrocelulósico macrocelulósica=categories: A;fonts: fundeu;
 macrocristalino macrocristalina=categories: A;fonts: LT;
 macrocéfalo macrocéfala=categories: A;fonts: LT;
 macrocíclico macrocíclica=categories: A;fonts: LT;
