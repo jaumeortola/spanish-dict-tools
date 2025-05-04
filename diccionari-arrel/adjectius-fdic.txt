@@ -22408,6 +22408,7 @@ miasmático miasmática=categories: A;fonts: LT;
 miasteniforme=categories: A;fonts: medical;
 miccional=categories: A;fonts: dr;
 micelar=categories: A;fonts: LT;
+micelar=categories: A;fonts: termcat;
 michoacano michoacana=categories: A;fonts: dr;
 micológico micológica=categories: A;fonts: dr;
 micostático micostática=categories: A;fonts: LT;
