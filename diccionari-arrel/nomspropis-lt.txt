@@ -15883,6 +15883,7 @@ Samanta Samanta NPFSSP0 # avl
 Samantha Samantha NPFSSP0
 Samaná Samaná NPCSG00 #municipios de Colombia
 Samara Samara NPFSSP0 #nombre propio de mujer
+Samaranch Samaranch NPCNSP0
 Samaria Samaria NPFSG00
 Samboal Samboal NPCSG00 #municipios de España
 Samborondón Samborondón NPCSG00 # Ecuador
