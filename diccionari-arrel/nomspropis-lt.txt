@@ -15512,6 +15512,7 @@ Rota Rota NPCNG00 # topònim-apertium-falta-gènere-nombre
 Rotary Rotary NPCNO00
 Rotglà Rotglà NPCNG00 # topònim-apertium-falta-gènere-nombre
 Roth Roth NPCNSP0 # medical
+Rothbard Rothbard NPCNSP0
 Rothschild Rothschild NPCNSP0
 Rottenmeier Rottenmeier NPCNSP0
 Roturas Roturas NPCSG00 #municipios de España
