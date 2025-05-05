@@ -7450,6 +7450,7 @@ Fresia Fresia NPFSSP0 # avl
 Fresina Fresina NPFSSP0 # avl
 Fresnedilla Fresnedilla NPCSG00 #municipios de España
 Fresnedoso Fresnedoso NPCSG00 #municipios de España
+Fresnel Fresnel NPCNSP0
 Fresneña Fresneña NPCSG00 #municipios de España
 Fresno Fresno NPCSG00 #municipios de Colombia
 Freud Freud NPCNSP0 # wiki
@@ -15701,6 +15702,7 @@ Safwan Safwan NPMSSP0 #nombre propio de hombre
 Sagan Sagan NPCNSP0 # wiki
 Sagarra Sagarra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sagasta Sagasta NPCNSP0
+Sagnac Sagnac NPCNSP0
 Sagra Sagra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Sagrario Sagrario NPCSSP0 # avl
 Sagrera Sagrera NPCNG00 # topònim-apertium-falta-gènere-nombre
