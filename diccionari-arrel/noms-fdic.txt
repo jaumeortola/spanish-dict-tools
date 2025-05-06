@@ -45972,6 +45972,7 @@ nielado=categories: M;fonts: LT;
 nietastro nietastra=categories: MF;fonts: LT;
 nietecito nietecita=categories: MF;fonts: LT;
 nieto nieta=categories: MF;fonts: LT;
+nietzscheanismo=categories: MS;fonts: derivat;
 nieve=categories: F;fonts: LT;
 nife=categories: M;fonts: LT;
 nigeriano nigeriana=categories: MF;fonts: LT;
