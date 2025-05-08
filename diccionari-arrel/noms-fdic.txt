@@ -60097,6 +60097,7 @@ sinnúmero=categories: M;fonts: LT;
 sino=categories: M;fonts: LT;
 sinoble=categories: M;fonts: dr;
 sinocal=categories: M;fonts: dr;
+sinodalidad=categories: F;fonts: derivat;
 sinodático=categories: M;fonts: dr;
 sinoftalmía=categories: F;fonts: LT;
 sinofuturismo=categories: MS;fonts: derivat;
