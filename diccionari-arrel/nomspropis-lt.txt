@@ -6192,6 +6192,7 @@ Dushanbe Dushanbe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dutilleux Dutilleux NPCNSP0
 Duvergie Duvergie NPCNSP0 # medical
 Dvořák Dvořák NPCNSP0 # wiki
+Dwight Dwight NPCNSP0
 Dylan Dylan NPCNSP0
 Dzan Dzan NPCSG00 #municipios de México
 Dzemul Dzemul NPCSG00 #municipios de México
@@ -8496,6 +8497,7 @@ Hal Hal NPMSSP0
 Halachó Halachó NPCSG00 #municipios de México
 Haldane Haldane NPCNSP0 # medical
 Haley Haley NPCNSP0 # wiki
+Halffter Halffter NPCNSP0
 Halifax Halifax NPCNG00 # topònim-apertium-falta-gènere-nombre
 Halima Halima NPFSSP0 #nombre propio de mujer
 Hallervorden-Spatz Hallervorden-Spatz NPCNSP0 # medical
