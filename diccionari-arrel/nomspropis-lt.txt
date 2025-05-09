@@ -6044,6 +6044,7 @@ Docampo Docampo NPCNSP0 #apellido
 Dodoma Dodoma NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dodro Dodro NPCSG00 #municipios de España
 Doha Doha NPCNG00 # topònim-apertium-falta-gènere-nombre
+Doherty Doherty NPCNSP0
 Dohnányi Dohnányi NPCNSP0
 Doina Doina NPFSSP0 #nombre propio de mujer
 Dolavon Dolavon NPCSG00 #municipios de Argentina
@@ -8175,6 +8176,7 @@ Gramalote Gramalote NPCSG00 #municipios de Colombia
 Gramenet Gramenet NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grammichele Grammichele NPCNG00 # topònim-apertium-falta-gènere-nombre
 Grammy Grammy NPMNO00
+Grampianos Grampianos NPMPG00
 Granada Granada NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granadinas Granadinas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Granados Granados NPCNSP0 # wiki

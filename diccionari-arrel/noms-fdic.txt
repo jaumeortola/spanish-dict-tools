@@ -18958,6 +18958,7 @@ correntómetro=categories: M;fonts: LT;
 correo=categories: M;fonts: LT;
 correosidad=categories: F;fonts: LT;
 correpasillos=categories: MI;fonts: dr;
+correquisito=categories: M;fonts: termcat;
 correría=categories: F;fonts: LT;
 correspondencia=categories: F;fonts: LT;
 correspondiente=categories: MF;fonts: LT;
