@@ -38228,6 +38228,7 @@ kufiya=categories: F;fonts: dr;
 kulak [pl. kulaks]=categories: M;fonts: LT;
 kuna=categories: MF;fonts: LT;
 kuncita=categories: F;fonts: LT;
+kundalini=categories: FS;fonts: wiki;
 kung-fu=categories: MS;fonts: dr;
 kungfú=categories: MS;fonts: dr;
 kunzita=categories: F;fonts: LT;
