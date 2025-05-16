@@ -14,7 +14,7 @@ To make a release:
 
 * set the version to not include `SNAPSHOT`
 * `mvn clean deploy -P release`
-* go to https://oss.sonatype.org/#stagingRepositories
+* go to https://central.sonatype.com/publishing/deployments
 * scroll to the bottom, select latest version, and click `Release`
 * git tag vx.y
 * git push origin vx.y
