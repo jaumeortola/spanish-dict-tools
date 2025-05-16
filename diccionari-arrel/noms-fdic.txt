@@ -14898,6 +14898,7 @@ chauchera=categories: F;fonts: dr;
 chauvinismo=categories: M;fonts: LT;
 chauz=categories: M;fonts: dr;
 chaval chavala=categories: MF;fonts: LT;
+chavalillo chavalilla=categories: MF;fonts: diminutive;
 chavalito chavalita=categories: MF;fonts: diminutive;
 chavalín=categories: M;fonts: LT;
 chavasca=categories: F;fonts: dr;

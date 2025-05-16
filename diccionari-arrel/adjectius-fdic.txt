@@ -11275,6 +11275,7 @@ enfadadísimo enfadadísima=categories: A;fonts: superlative;
 enfadoso enfadosa=categories: A;fonts: LT;
 enfaenado enfaenada=categories: A;fonts: LT;
 enfardador enfardadora=categories: A;fonts: dr;
+enfatizador enfatizadora=categories: A;fonts: derivat;
 enfebrecido enfebrecida=categories: A;fonts: dr;
 enfermito enfermita=categories: A;fonts: diminutive;
 enfermizo enfermiza=categories: A;fonts: LT;

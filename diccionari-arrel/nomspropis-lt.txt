@@ -14105,6 +14105,7 @@ Pelluhue Pelluhue NPCSG00 #municipios de Chile
 Peloponeso Peloponeso NPCNG00 # topònim-apertium-falta-gènere-nombre
 Peláez Peláez NPCNSP0 #apellido
 Pemuco Pemuco NPCSG00 #municipios de Chile
+Pemán Pemán NPCNSP0
 Penagos Penagos NPCSG00 #municipios de España
 Penalva Penalva NPCNSP0 #apellido
 Pencahue Pencahue NPCSG00 #municipios de Chile
