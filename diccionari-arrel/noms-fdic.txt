@@ -34776,6 +34776,7 @@ hipervelocidad=categories: F;fonts: LT;
 hiperventilación=categories: F;fonts: dr;
 hipervigilancia=categories: F;fonts: medical;
 hiperviscosidad=categories: F;fonts: LT;
+hipervisibilidad=categories: FS;fonts: derivat;
 hipervisor=categories: M;fonts: LT;
 hipervitaminosis=categories: FI;fonts: LT;
 hipervolemia=categories: F;fonts: LT;

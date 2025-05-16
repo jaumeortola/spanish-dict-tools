@@ -1,11 +1,11 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
-87728d87727
+87749d87748
 < mena mena NCFS000
-87738d87736
+87759d87757
 < menas mena NCFP000
 ** Compara adjectius **
-15819c15819
+15823c15823
 < azzurre azzurro AQ0FP0
 ---
 > azzurras azzurro AQ0FP0

@@ -16202,6 +16202,7 @@ hipervalente=categories: A;fonts: LT;
 hipervariable=categories: A;fonts: LT;
 hiperveloz=categories: A;fonts: LT;
 hipervigilante=categories: A;fonts: LT;
+hipervisible=categories: A;fonts: derivat;
 hipervolémico hipervolémica=categories: A;fonts: LT;
 hiperácido hiperácida=categories: A;fonts: LT;
 hiperárido hiperárida=categories: A;fonts: LT;
