@@ -18961,6 +18961,7 @@ Wafae Wafae NPFSSP0 #nombre propio de mujer
 Wagensberg Wagensberg NPCNSP0
 Wagner Wagner NPCNSP0 # wiki
 Walda Walda NPFSSP0 # avl
+Walden Walden NPCNSP0
 Waldenströn Waldenströn NPCNSP0 # medical
 Waldo Waldo NPMSSP0 # avl
 Waldorf Waldorf NPCNSP0
