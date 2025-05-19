@@ -35120,6 +35120,7 @@ wichitas=categories: AI;fonts: LT;
 wikipedista=categories: A;fonts: wiki;
 winchester=categories: AI;fonts: LT;
 woke=categories: AI;fonts: English;
+wokista=categories: A;fonts: derivat;
 wonton=categories: AI;fonts: termcat;
 wormiano wormiana=categories: A;fonts: LT;
 wólof=categories: AI;fonts: wikipedia;
