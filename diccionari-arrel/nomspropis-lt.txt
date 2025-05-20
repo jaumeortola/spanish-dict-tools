@@ -3314,6 +3314,7 @@ Bonpreu Bonpreu NPCNO00 #empresa española
 Bonrepòs Bonrepòs NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bonrepós Bonrepós NPCNG00 # topònim-apertium-falta-gènere-nombre
 Booking Booking NPCNO00
+Boole Boole NPCNSP0
 Boqueixón Boqueixón NPCSG00 #municipios de España
 Boquiñeni Boquiñeni NPCSG00 #municipios de España
 Borau Borau NPCSG00 #municipios de España
@@ -11048,6 +11049,7 @@ Lydia Lydia NPFSSP0 #nombre propio de mujer
 Lyell Lyell NPCNSP0 # medical
 Lynch Lynch NPCNSP0 # wiki
 Lyon Lyon NPCNG00 # topònim-apertium-falta-gènere-nombre
+Lysenko Lysenko NPCNSP0
 Lyubov Lyubov NPFSSP0 #nombre propio de mujer
 Lyudmyla Lyudmyla NPFSSP0 #nombre propio de mujer
 Láchar Láchar NPCSG00 #municipios de España
