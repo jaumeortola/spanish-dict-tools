@@ -6049,6 +6049,7 @@ Doherty Doherty NPCNSP0
 Dohnányi Dohnányi NPCNSP0
 Doina Doina NPFSSP0 #nombre propio de mujer
 Dolavon Dolavon NPCSG00 #municipios de Argentina
+Dolly Dolly NPCNSP0
 Dolomitas Dolomitas NPCPG00
 Dolores Dolores NPCNG00 # topònim-apertium
 Dolores Dolores NPFSSP0 # avl

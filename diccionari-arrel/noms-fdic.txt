@@ -47190,6 +47190,7 @@ ordinal=categories: M;fonts: LT;
 ordinariez=categories: F;fonts: LT;
 ordinario ordinaria=categories: MF;fonts: LT;
 ordinograma=categories: M;fonts: LT;
+ordoliberalismo=categories: M;fonts: wiki;
 ordoviciense=categories: MF;fonts: LT;
 oreja=categories: F;fonts: LT;
 orejano orejana=categories: MF;fonts: LT;

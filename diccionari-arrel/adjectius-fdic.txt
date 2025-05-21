@@ -24711,6 +24711,7 @@ ordinamental=categories: A;fonts: dr;
 ordinario ordinaria=categories: A;fonts: LT;
 ordinarísimo ordinarísima=categories: A;fonts: superlative1;
 ordinativo ordinativa=categories: A;fonts: dr;
+ordoliberal=categories: A;fonts: wiki;
 ordoviciense=categories: A;fonts: LT;
 ordovícico ordovícica=categories: A;fonts: dr;
 orejano orejana=categories: A;fonts: LT;
