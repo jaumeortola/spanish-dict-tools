@@ -17386,6 +17386,7 @@ Timbiquí Timbiquí NPCSG00 #municipios de Colombia
 Timbío Timbío NPCSG00 #municipios de Colombia
 Timea Timea NPFSSP0 # avl
 Timeo Timeo NPMSSP0 # avl
+Times Times NPCNO00
 Timilpan Timilpan NPCSG00 #municipios de México
 Timor Timor NPCNG00 # topònim-apertium-falta-gènere-nombre
 Timotea Timotea NPFSSP0 # avl

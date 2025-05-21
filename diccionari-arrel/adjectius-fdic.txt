@@ -2916,6 +2916,7 @@ antirrojo antirroja=categories: A;fonts: LT;
 antirrotatorio antirrotatoria=categories: A;fonts: LT;
 antirruso antirrusa=categories: A;fonts: fundeu;
 antirrábico antirrábica=categories: A;fonts: LT;
+antisandinista=categories: A;fonts: derivat;
 antisatélite=categories: A;fonts: dr;
 antiscio antiscia=categories: A;fonts: LT;
 antiseborreico antiseborreica=categories: A;fonts: medical;
