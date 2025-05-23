@@ -63149,6 +63149,7 @@ televidente=categories: MF;fonts: LT;
 televisación=categories: F;fonts: dr;
 televisión=categories: F;fonts: LT;
 televisor=categories: M;fonts: LT;
+televotación=categories: F;fonts: derivat;
 televoto=categories: M;fonts: wikipedia;
 televía=categories: MF;fonts: dr;
 telex=categories: MI;fonts: LT;
