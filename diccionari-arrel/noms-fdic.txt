@@ -28369,6 +28369,7 @@ exergo=categories: M;fonts: LT;
 exergía=categories: F;fonts: dr;
 exesposo exesposa=categories: MF;fonts: derivat;
 exesquiador exesquiadora=categories: MF;fonts: derivat;
+exfiltración=categories: F;fonts: derivat;
 exfiscal=categories: MF;fonts: derivat;
 exfoliación=categories: F;fonts: LT;
 exfoliante=categories: M;fonts: LT;

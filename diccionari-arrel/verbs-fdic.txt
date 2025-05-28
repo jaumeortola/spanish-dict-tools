@@ -4819,6 +4819,7 @@ exculpar=categories: V;model:amar;fonts: LT;
 excusar=categories: V;model:amar;fonts: LT;
 execrar=categories: V;model:amar;fonts: LT;
 exentar=categories: V;model:amar;fonts: LT;
+exfiltrar=categories: V;model:amar;fonts: derivat;
 exfoliar=categories: V;model:amar;fonts: LT;
 exhalar=categories: V;model:amar;fonts: LT;
 exheredar=categories: V;model:amar;fonts: LT;
