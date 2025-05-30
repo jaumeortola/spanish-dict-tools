@@ -19083,6 +19083,7 @@ Witiza Witiza NPMSSP0 # avl
 Wittgenstein Wittgenstein NPCNSP0
 Wojtyla Wojtyla NPCNSP0
 Wojtyła Wojtyła NPCNSP0
+Wolf Wolf NPCNSP0
 Wolff Wolff NPCNSP0 # medical
 Wolff-Chaikoff Wolff-Chaikoff NPCNSP0 # medical
 Wolff-Parkinson-White Wolff-Parkinson-White NPCNSP0 # medical
