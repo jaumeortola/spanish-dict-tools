@@ -6429,6 +6429,7 @@ cayuco cayuca=categories: A;fonts: dr;
 cazabombardero cazabombardera=categories: A;fonts: LT;
 cazador cazadora=categories: A;fonts: LT;
 cazallero cazallera=categories: A;fonts: dr;
+cazamapaches=categories: AI;fonts: fundeu;
 cazcarriento cazcarrienta=categories: A;fonts: LT;
 cazcarrioso cazcarriosa=categories: A;fonts: dr;
 cazcorvo cazcorva=categories: A;fonts: LT;
