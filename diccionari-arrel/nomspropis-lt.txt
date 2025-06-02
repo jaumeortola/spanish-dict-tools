@@ -13544,6 +13544,7 @@ Orendain Orendain NPCSG00 #municipios de España
 Orenes Orenes NPCNSP0 #apellido
 Orense Orense NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orera Orera NPCSG00 #municipios de España
+Oreshnik Oreshnik NPMNO00
 Orestes Orestes NPMSSP0 # avl
 Oreto Oreto NPFSSP0 # avl
 Orexa Orexa NPCSG00 #municipios de España
