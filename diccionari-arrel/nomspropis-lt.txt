@@ -9303,6 +9303,7 @@ Iris Iris NPFSSP0 # avl
 Irissa Irissa NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irixoa Irixoa NPCSG00 #municipios de España
 Irizar Irizar NPCNO00 #empresa española
+Irkutsk Irkutsk NPCSG00
 Irlanda Irlanda NPCNG00 # topònim-apertium-falta-gènere-nombre
 Irma Irma NPFSSP0 # avl
 Irmina Irmina NPFSSP0 # avl
@@ -13616,6 +13617,7 @@ Orwell Orwell NPCNSP0
 Orxeta Orxeta NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orán Orán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orés Orés NPCSG00 #municipios de España
+Oréshnik Oréshnik NPMNO00
 Orís Orís NPCNG00 # topònim-apertium-falta-gènere-nombre
 Orísoain Orísoain NPCSG00 #municipios de España
 Osaka Osaka NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -18146,6 +18148,7 @@ Usher Usher NPCNSP0 # medical
 Ushuaia Ushuaia NPCSG00 # Argentina
 Usiacurí Usiacurí NPCSG00
 Usman Usman NPMSSP0 #nombre propio de hombre
+Usolie-Sibírskoye Usolie-Sibírskoye NPCSG00
 Ustrell Ustrell NPCNG00 # topònim-apertium-falta-gènere-nombre
 Usulután Usulután NPCSG00
 Usurbil Usurbil NPCSG00 #municipios de España
