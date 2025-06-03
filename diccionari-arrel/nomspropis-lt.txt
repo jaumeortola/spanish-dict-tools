@@ -17957,6 +17957,7 @@ Tóbal Tóbal NPMSSP0 #hipocorístico
 Tópaga Tópaga NPCSG00 #municipios de Colombia
 Tórtoles Tórtoles NPCSG00 #municipios de España
 Túnez Túnez NPCNG00 # topònim-apertium-falta-gènere-nombre
+Túpolev Túpolev NPCNO00
 Túquerres Túquerres NPCSG00 #municipios de Colombia
 UC3M UC3M NPFSO00
 UCD UCD NPFSO00
