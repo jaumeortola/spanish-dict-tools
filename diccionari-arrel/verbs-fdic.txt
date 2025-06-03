@@ -975,6 +975,7 @@ aquerenciar=categories: V;model:amar;fonts: LT;
 aquietar=categories: V;model:amar;fonts: LT;
 aquilatar=categories: V;model:amar;fonts: LT;
 arabizar=categories: V;model:abalanzar;fonts: LT;
+arancelar=categories: V;model:amar;fonts: fundeu;
 arar=categories: V;model:amar;fonts: LT;
 arañar=categories: V;model:amar;fonts: LT;
 arbitrar=categories: V;model:amar;fonts: LT;
