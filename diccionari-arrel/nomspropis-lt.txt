@@ -3536,6 +3536,7 @@ Bucarasica Bucarasica NPCSG00 #municipios de Colombia
 Bucarest Bucarest NPCNG00 # topònim-apertium-falta-gènere-nombre
 Bucay Bucay NPCNSP0
 Bucha Bucha NPCSG00
+Buchanan Buchanan NPCNSP0
 Buchardo Buchardo NPCSG00 #municipios de Argentina
 Buchenwald Buchenwald NPCNG00 # topònim-apertium-falta-gènere-nombre
 Buchivacoa Buchivacoa NPCSG00 # Venezuela
@@ -3673,6 +3674,7 @@ Bóveda Bóveda NPCSG00 #municipios de España
 Böhm Böhm NPCNSP0
 Börngen Börngen NPCNSP0
 Búger Búger NPCNG00 # topònim-apertium-falta-gènere-nombre
+Bülow Bülow NPCNSP0
 CAM CAM NPFSO00
 CAS CAS NPCNO00
 CBC CBC NPCNO00
