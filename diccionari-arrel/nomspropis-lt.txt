@@ -11880,6 +11880,7 @@ Mehdi Mehdi NPMSSP0 #nombre propio de hombre
 Meibomio Meibomio NPCNSP0 # medical
 Meige Meige NPCNSP0 # medical
 Meigs Meigs NPCNSP0 # medical
+Meiji Meiji NPCNSP0
 Meira Meira NPCSG00 #municipios de España
 Meis Meis NPCSG00 #municipios de España
 Meissner Meissner NPCNSP0 # medical
