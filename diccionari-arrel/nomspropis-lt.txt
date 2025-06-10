@@ -17604,7 +17604,8 @@ Tornos Tornos NPCSG00 #municipios de España
 Tornquist Tornquist NPCSG00 #municipios de Argentina
 Toro Toro NPCNSP0 # wiki common surnames
 Toronto Toronto NPCNG00 # topònim-apertium-falta-gènere-nombre
-Torquemada Torquemada NPCNG00 # topònim-apertium-falta-gènere-nombre
+Torquemada Torquemada NPCNSP0
+Torquemada Torquemada NPCSG00 # topònim-apertium
 Torquemadas Torquemadas NPMPSP0
 Torra Torra NPCNSP0
 Torralba Torralba NPCSG00 #municipios de España
