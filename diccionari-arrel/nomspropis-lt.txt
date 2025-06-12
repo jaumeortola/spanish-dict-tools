@@ -12773,6 +12773,7 @@ NAFTA NAFTA NPMSO00
 NBA NBA NPFSO00
 NIIF NIIF NPFPO00
 NKVD NKVD NPMSO00
+NOAA NOAA NPFSO00
 Naamán Naamán NPMSSP0 # avl
 Nabarniz Nabarniz NPCSG00 #municipios de España
 Nabil Nabil NPMSSP0 #nombre propio de hombre
