@@ -656,7 +656,7 @@ Ahinoa Ahinoa NPFSSP0 #nombre propio de mujer
 Ahlam Ahlam NPFSSP0 #nombre propio de mujer
 Ahmad Ahmad NPMSSP0 #nombre propio de hombre
 Ahmed Ahmed NPMSSP0 # avl
-Ahmedabad Ahmedabad NPCNG00 # topònim-apertium-falta-gènere-nombre
+Ahmedabad Ahmedabad NPCSG00 # topònim-apertium-falta-gènere-nombre
 Ahome Ahome NPCSG00 #municipios de México
 Ahuacatlán Ahuacatlán NPCSG00 #municipios de México
 Ahuacuotzingo Ahuacuotzingo NPCSG00 #municipios de México
@@ -7812,6 +7812,7 @@ Gasti Gasti NPMSSP0 #hipocorístico
 Gastoncito Gastoncito NPMSSP0 #hipocorístico
 Gastón Gastón NPMSSP0 # avl
 Gatika Gatika NPCSG00 #municipios de España
+Gatwick Gatwick NPCSG00
 Gatún Gatún NPMSG00
 Gaubea Gaubea NPCSG00 #municipios de España
 Gaucher Gaucher NPCNSP0 # medical
@@ -7947,6 +7948,7 @@ Gestapo Gestapo NPFSO00
 Gesualdo Gesualdo NPCNSP0
 Getafe Getafe NPCNG00 # topònim-apertium-falta-gènere-nombre
 Getaria Getaria NPCSG00 #municipios de España
+Gettysburg Gettysburg NPCSG00
 Getulia Getulia NPFSSP0 # avl
 Getulio Getulio NPMSSP0 # avl
 Getxo Getxo NPCSG00 #municipios de España
@@ -19011,6 +19013,7 @@ Waziristán Waziristán NPCNG00 # topònim-apertium-falta-gènere-nombre
 Webb Webb NPCNSP0
 Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
+Webster Webster NPCNSP0
 Weddell Weddell NPCNSP0
 Wegener Wegener NPCNSP0
 Wei Wei NPMSSP0 #nombre propio de hombre
