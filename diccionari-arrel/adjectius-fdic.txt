@@ -18270,6 +18270,7 @@ infralabial=categories: A;fonts: LT;
 infralaminar=categories: A;fonts: LT;
 infralitoral=categories: A;fonts: LT;
 inframediterráneo inframediterránea=categories: A;fonts: LT;
+inframental=categories: A;fonts: derivat;
 inframunicipal=categories: A;fonts: LT;
 infranacional=categories: A;fonts: LT;
 infrangible=categories: A;fonts: LT;
