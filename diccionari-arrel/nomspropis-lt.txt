@@ -17435,6 +17435,7 @@ Tirupur Tirupur NPCNG00 # topònim-apertium-falta-gènere-nombre
 Tirúa Tirúa NPCSG00 #municipios de Chile
 Tisbe Tisbe NPFSSP0 # avl
 Tish Tish NPFSSP0 #hipocorístico
+Tisserand Tisserand NPCNSP0
 Tista Tista NPMSSP0 #hipocorístico
 Titaguas Titaguas NPCNG00 # topònim-apertium-falta-gènere-nombre
 Titanic Titanic NPCNG00 # topònim-apertium-falta-gènere-nombre
