@@ -2733,6 +2733,7 @@ Belarra Belarra NPCNSP0
 Belarús Belarús NPCNG00 # topònim-apertium-falta-gènere-nombre
 Belascoáin Belascoáin NPCSG00 #municipios de España
 Belauntza Belauntza NPCSG00 #municipios de España
+Belausteguigoitia Belausteguigoitia NPCNSP0
 Belaúnde Belaúnde NPCNSP0
 Belbimbre Belbimbre NPCSG00 #municipios de España
 Belchite Belchite NPCSG00 #municipios de España
@@ -10562,6 +10563,7 @@ Leviatán Leviatán NPMSSP0 # avl
 Levina Levina NPFSSP0 # avl
 Levinson Levinson NPCNSP0
 Leví Leví NPMSSP0 # avl
+Lewinsky Lewinsky NPCNSP0
 Lewis Lewis NPCNSP0
 Lewis Lewis NPCNSP0 # wiki
 Lewy Lewy NPCNSP0 # medical
