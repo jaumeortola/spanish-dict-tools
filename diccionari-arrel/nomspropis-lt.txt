@@ -8016,6 +8016,7 @@ Giorgio Giorgio NPMSSP0 #nombre propio de hombre
 Giovanna Giovanna NPFSSP0
 Giovanni Giovanni NPCNSP0 # wiki
 Gipuzkoa Gipuzkoa NPCNG00 # topònim-apertium-falta-gènere-nombre
+Giralda Giralda NPFSG00
 Giraldo Giraldo NPCNSP0
 Giralt Giralt NPCNSP0 #apellido
 Girardot Girardot NPCSG00 # Colombia

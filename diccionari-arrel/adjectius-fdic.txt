@@ -30027,6 +30027,7 @@ semiobstruido semiobstruida=categories: A;fonts: LT;
 semioficial=categories: A;fonts: LT;
 semiolímpico semiolímpica=categories: A;fonts: derivat;
 semiológico semiológica=categories: A;fonts: LT;
+semioral=categories: A;fonts: derivat;
 semioval=categories: A;fonts: LT;
 semipatinador semipatinadora=categories: A;fonts: LT;
 semipedal=categories: A;fonts: LT;
