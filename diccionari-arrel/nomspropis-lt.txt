@@ -3026,6 +3026,7 @@ Berrocalejo Berrocalejo NPCSG00 #municipios de España
 Berrotarán Berrotarán NPCSG00 #municipios de Argentina
 Berrueces Berrueces NPCSG00 #municipios de España
 Berrueco Berrueco NPCSG00 #municipios de España
+Berruguete Berruguete NPCNSP0
 Bersey Bersey NPCNSP0
 Berta Berta NPFSSP0 # avl
 Bertelsmann Bertelsmann NPCNO00
