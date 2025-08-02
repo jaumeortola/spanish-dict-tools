@@ -10199,6 +10199,8 @@ Laborde Laborde NPCSG00 #municipios de Argentina
 Laboulaye Laboulaye NPCSG00 #municipios de Argentina
 Labrador Labrador NPCNG00 # topònim-apertium-falta-gènere-nombre
 Labranzagrande Labranzagrande NPCSG00 #municipios de Colombia
+Labubu Labubu NPCSSP0
+Labubus Labubu NPCPSP0
 Labuerda Labuerda NPCSG00 #municipios de España
 Lacalle Lacalle NPCNSP0 #apellido
 Lacan Lacan NPCNSP0
@@ -11278,6 +11280,7 @@ Malespina Malespina NPCNSP0
 Maletto Maletto NPCNG00 # topònim-apertium-falta-gènere-nombre
 Malgrat Malgrat NPCNG00 # topònim-apertium-falta-gènere-nombre
 Mali Mali NPCNG00 # topònim-apertium-falta-gènere-nombre
+Malibú Malibú NPCSG00
 Malic Malic NPMSSP0 # avl
 Malick Malick NPMSSP0 #nombre propio de hombre
 Malika Malika NPFSSP0 #nombre propio de mujer
