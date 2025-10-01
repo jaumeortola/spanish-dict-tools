@@ -11406,6 +11406,7 @@ cafetal=categories: M;fonts: LT;
 cafetera=categories: F;fonts: LT;
 cafetero=categories: M;fonts: LT;
 cafetería=categories: F;fonts: LT;
+cafetito=categories: M;fonts: diminutiu;
 cafeto=categories: M;fonts: LT;
 cafetucho=categories: M;fonts: LT;
 cafetín=categories: M;fonts: LT;

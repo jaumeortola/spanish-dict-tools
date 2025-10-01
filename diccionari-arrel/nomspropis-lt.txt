@@ -6883,6 +6883,7 @@ Eurofestival Eurofestival NPMSO00
 Eurogrupo Eurogrupo NPMSO00
 Euroliga Euroliga NPFSO00
 Euroligas Euroliga NPFPO00
+Euromaidán Euromaidán NPMNO00
 Euromillones Euromillones NPCNO00
 Euromillones Euromillones NPMNO00
 Europa Europa NPCNG00 # topònim-apertium-falta-gènere-nombre
