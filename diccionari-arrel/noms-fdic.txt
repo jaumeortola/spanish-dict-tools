@@ -61982,6 +61982,7 @@ sursudeste=categories: MS;fonts: dr;
 sursudoeste=categories: M;fonts: LT;
 sursuncorda=categories: M;fonts: LT;
 sursureste=categories: M;fonts: wiki;
+sursuroeste=categories: M;fonts: LT;
 surtidero=categories: M;fonts: LT;
 surtido=categories: M;fonts: LT;
 surtidor=categories: M;fonts: LT;
