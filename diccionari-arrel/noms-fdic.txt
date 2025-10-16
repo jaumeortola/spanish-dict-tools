@@ -39686,6 +39686,7 @@ litiscontestación=categories: F;fonts: LT;
 litisexpensas=categories: MI;fonts: LT;
 litispendencia=categories: F;fonts: LT;
 lito=categories: F;fonts: wiki, acortamiento;
+lito=categories: M;fonts: medical, undocumented;
 litocalcarenita=categories: F;fonts: LT;
 litoclasa=categories: F;fonts: dr;
 litocola=categories: F;fonts: dr;
