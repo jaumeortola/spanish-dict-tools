@@ -32995,6 +32995,7 @@ tomajón tomajona=categories: A;fonts: LT;
 tomavistas=categories: AI;fonts: LT;
 tomentoso tomentosa=categories: A;fonts: LT;
 tomista=categories: A;fonts: LT;
+tomográfico tomográfica=categories: A;fonts: dr, medical;
 tomístico tomística=categories: A;fonts: LT;
 tonal=categories: A;fonts: LT;
 tonante=categories: A;fonts: LT;
