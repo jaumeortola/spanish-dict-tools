@@ -15,6 +15,7 @@
 #irracionablemente irracionablemente RG # rae
 #malpagadamente malpagadamente RG # lt
 #méritamente méritamente RG # rae
+#paradógicamente paradógicamente RG # lt2
 #pósteramente pósteramente RG # rae
 #respetosamente respetosamente RG # rae
 #vividamente vividamente RG # de corpus
@@ -3707,7 +3708,6 @@ parabólicamente parabólicamente RG # lt2
 paradigmáticamente paradigmáticamente RG # lt2
 paradisíacamente paradisíacamente RG # de corpus
 paradojalmente paradojalmente RG # de corpus
-paradógicamente paradógicamente RG # lt2
 paradójicamente paradójicamente RG # lt
 parafrásticamente parafrásticamente RG # rae
 paralelamente paralelamente RG # rae

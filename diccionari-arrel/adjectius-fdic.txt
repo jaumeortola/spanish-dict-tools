@@ -68,6 +68,7 @@
 #noto nota=categories: A;fonts: LT, desus;
 #padrísimo=categories: AM;fonts: LT;
 #paquistanés paquistanesa=categories: A;fonts: LT;
+#paradógico paradógica=categories: A;fonts: LT;
 #plebiscitar=categories: A;fonts: LT;
 #poch=categories: A;fonts: dr;
 #poco poca=categories: A;fonts: LT; millor com a determinant
@@ -25211,7 +25212,6 @@ paradocente=categories: A;fonts: dr;
 paradojal=categories: A;fonts: dr;
 parador paradora=categories: A;fonts: LT;
 paraduodenal=categories: A;fonts: LT;
-paradógico paradógica=categories: A;fonts: LT;
 paradójico paradójica=categories: A;fonts: LT;
 paraeidólico paraeidólica=categories: A;fonts: medical;
 paraesofágico paraesofágica=categories: A;fonts: medical;
