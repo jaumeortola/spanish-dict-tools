@@ -18490,6 +18490,7 @@ Vergara Vergara NPCNSP0 # wiki common surnames
 Vergel Vergel NPCNG00 # topònim-apertium-falta-gènere-nombre
 Verges Verges NPCNG00 # topònim-apertium-falta-gènere-nombre
 Verguille Verguille NPMSSP0 #hipocorístico
+Verifactu Verifactu NPMSO00
 Vermeer Vermeer NPCNSP0 # wiki
 Vermont Vermont NPCNG00 # topònim-apertium-falta-gènere-nombre
 Verne Verne NPCNSP0
