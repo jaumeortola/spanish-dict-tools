@@ -6155,11 +6155,11 @@ Dráculas Drácula NPMPSP0
 Duaca Duaca NPCSG00 # Venezuela
 Duardo Duardo NPMSSP0 #hipocorístico
 Duarte Duarte NPCNSP0 # wiki common surnames
-Dubai Dubai NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dubin-Johnson Dubin-Johnson NPCNSP0 # medical
 Dublín Dublín NPCNG00 # topònim-apertium-falta-gènere-nombre
 Dubois Dubois NPCNSP0
 Dubuffet Dubuffet NPCNSP0
+Dubái Dubái NPCNG00 # topònim-apertium-falta-gènere-nombre
 Duchamp Duchamp NPCNSP0
 Duchenne Duchenne NPCNSP0 # medical
 Duckett Duckett NPCNSP0 # medical
