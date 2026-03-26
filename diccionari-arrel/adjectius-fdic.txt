@@ -12970,6 +12970,7 @@ fibrinoso fibrinosa=categories: A;fonts: medical;
 fibro-adhesivo fibro-adhesiva=categories: A;fonts: medical;
 fibroblástico fibroblástica=categories: A;fonts: medical;
 fibrocartilaginoso fibrocartilaginosa=categories: A;fonts: LT;
+fibroglandular=categories: A;fonts: medical;
 fibroide=categories: A;fonts: medical;
 fibromuscular=categories: A;fonts: medical;
 fibroquístico fibroquística=categories: A;fonts: medical;

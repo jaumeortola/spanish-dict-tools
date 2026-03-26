@@ -5189,7 +5189,6 @@ Cohetzala Cohetzala NPCSG00 #municipios de México
 Cohn Cohn NPCNSP0 # medical
 Cohuecan Cohuecan NPCSG00 #municipios de México
 Coihueco Coihueco NPCSG00 #municipios de Chile
-Coimbra Coimbra NPCNG00 # topònim-apertium-falta-gènere-nombre
 Coinco Coinco NPCSG00 #municipios de Chile
 Coirós Coirós NPCSG00 #municipios de España
 Coix Coix NPCNG00 # topònim-apertium-falta-gènere-nombre
@@ -5512,6 +5511,7 @@ Coyomeapan Coyomeapan NPCSG00 #municipios de México
 Coyotepec Coyotepec NPCSG00 #municipios de México
 Coyutla Coyutla NPCSG00 #municipios de México
 Cozumel Cozumel NPCSG00
+Coímbra Coímbra NPFSG00 # topònim-apertium
 Coín Coín NPCSG00 #municipios de España
 Cracovia Cracovia NPCNG00 # topònim-apertium-falta-gènere-nombre
 Craig Craig NPCNSP0
